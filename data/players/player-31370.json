@@ -1,0 +1,18 @@
+{
+  "player_id": 31370,
+  "full_name": "Jacopo Segre",
+  "nationality": "Italy",
+  "birth_date": "1997-02-17",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2022-08-23",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio"
+  ]
+}

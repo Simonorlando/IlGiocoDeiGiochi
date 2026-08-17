@@ -1,0 +1,39 @@
+{
+  "player_id": 19036,
+  "full_name": "Luciano Darío Vietto Martín",
+  "nationality": "Argentina",
+  "birth_date": "1993-12-05",
+  "birth_place": "Balnearía",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2016-07-30",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Villarreal",
+    "Atlético Madrid",
+    "Sevilla",
+    "Atlético Madrid",
+    "Valencia",
+    "Atlético Madrid",
+    "Fulham",
+    "Atlético Madrid",
+    "Sporting CP",
+    "Al-Hilal",
+    "Al-Shabab",
+    "Al-Hilal",
+    "Al-Qadsiah",
+    "Racing Club",
+    "San Lorenzo"
+  ]
+}

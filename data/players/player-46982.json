@@ -1,0 +1,19 @@
+{
+  "player_id": 46982,
+  "full_name": "Gonzalo Villar del Fraile",
+  "nationality": "Spain",
+  "birth_date": "1998-03-23",
+  "birth_place": "Murcia",
+  "career_transfers": [
+    {
+      "date": "2015-08-28",
+      "type": "N/A",
+      "team_out": "Elche",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Elche CF"
+  ]
+}

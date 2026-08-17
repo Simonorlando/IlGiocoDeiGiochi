@@ -1,0 +1,27 @@
+{
+  "player_id": 135526,
+  "full_name": "Josh Thomas Doig",
+  "nationality": "Scotland",
+  "birth_date": "2002-05-18",
+  "birth_place": "Edinburgh",
+  "career_transfers": [
+    {
+      "date": "2024-01-20",
+      "type": "€ 6M",
+      "team_out": "Verona",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2022-07-13",
+      "type": "€ 3.8M",
+      "team_out": "Hibernian",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hibernian",
+    "Queen's Park",
+    "Hellas Verona",
+    "Sassuolo"
+  ]
+}

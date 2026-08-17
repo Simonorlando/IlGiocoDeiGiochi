@@ -1,0 +1,48 @@
+{
+  "player_id": 47522,
+  "full_name": "Douglas Luiz Soares de Paulo",
+  "nationality": "Brazil",
+  "birth_date": "1998-05-09",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 51.5M",
+      "team_out": "Aston Villa",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Return from loan",
+      "team_out": "Nottingham Forest",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Aston Villa",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "CR Vasco da Gama",
+    "Girona FC",
+    "Manchester City F.C.",
+    "Aston Villa F.C.",
+    "Juventus FC",
+    "Nottingham Forest F.C.",
+    "Aston Villa F.C."
+  ]
+}

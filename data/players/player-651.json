@@ -1,0 +1,31 @@
+{
+  "player_id": 651,
+  "full_name": "Marcelo Antônio Guedes Filho",
+  "nationality": "Brazil",
+  "birth_date": "1987-05-20",
+  "birth_place": "São Vicente",
+  "career_transfers": [
+    {
+      "date": "2013-08-10",
+      "type": "€ 2.8M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Hannover 96"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 3.8M",
+      "team_out": "Wisla Krakow",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Santos F.C.",
+    "Wisła Kraków",
+    "PSV Eindhoven",
+    "Hannover 96",
+    "Beşiktaş J.K. (Football)",
+    "Olympique Lyonnais",
+    "FC Girondins de Bordeaux",
+    "Western Sydney Wanderers FC"
+  ]
+}

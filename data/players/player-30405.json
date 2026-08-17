@@ -1,0 +1,20 @@
+{
+  "player_id": 30405,
+  "full_name": "Edimilson Fernandes Ribeiro",
+  "nationality": "Switzerland",
+  "birth_date": "1996-04-15",
+  "birth_place": "Sion",
+  "career_transfers": [
+    {
+      "date": "2018-08-13",
+      "type": "Loan",
+      "team_out": "West Ham",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FC Sion",
+    "ACF Fiorentina",
+    "West Ham United F.C."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 162570,
+  "full_name": "Giorgio Cittadini",
+  "nationality": "Italy",
+  "birth_date": "2002-04-18",
+  "birth_place": "Gardone Val Trompia",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2023-07-04",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta",
+    "Modena",
+    "Monza",
+    "Genoa",
+    "Frosinone"
+  ]
+}

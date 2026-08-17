@@ -1,0 +1,26 @@
+{
+  "player_id": 2877,
+  "full_name": "Carlos Joel Salcedo Hernández",
+  "nationality": "Mexico",
+  "birth_date": "1993-09-29",
+  "birth_place": "Guadalajara",
+  "career_transfers": [
+    {
+      "date": "2017-06-30",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Guadalajara Chivas"
+    },
+    {
+      "date": "2016-08-23",
+      "type": "Loan",
+      "team_out": "Guadalajara Chivas",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Real Salt Lake",
+    "C.D. Guadalajara",
+    "ACF Fiorentina"
+  ]
+}

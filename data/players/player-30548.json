@@ -1,0 +1,31 @@
+{
+  "player_id": 30548,
+  "full_name": "Fabrizio Cacciatore",
+  "nationality": "Italy",
+  "birth_date": "1986-10-08",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "U.S. Olbia 1905",
+    "A.C. Reggiana 1919",
+    "Foligno Calcio",
+    "US Triestina Calcio 1918",
+    "Siena FC",
+    "Varese Calcio",
+    "Hellas Verona FC",
+    "U.C. Sampdoria",
+    "AC ChievoVerona",
+    "F.C. Pro Vercelli 1892",
+    "Juventus FC",
+    "Torino FC",
+    "AS Reggina 1914"
+  ]
+}

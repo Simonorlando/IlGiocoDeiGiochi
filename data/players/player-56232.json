@@ -1,0 +1,55 @@
+{
+  "player_id": 56232,
+  "full_name": "Mario Alberto Santana",
+  "nationality": "Argentina",
+  "birth_date": "1981-12-13",
+  "birth_place": "Comodoro Rivadavia",
+  "career_transfers": [
+    {
+      "date": "2019-08-06",
+      "type": "Free",
+      "team_out": "Pro Patria",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 5.5M",
+      "team_out": "Palermo",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2002-07-01",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo",
+    "Venezia",
+    "San Lorenzo",
+    "Palermo",
+    "Chievo Verona",
+    "Palermo",
+    "Fiorentina",
+    "SSC Napoli",
+    "Cesena",
+    "SSC Napoli",
+    "Torino",
+    "SSC Napoli",
+    "Genoa",
+    "SC Olhanense",
+    "Genoa",
+    "Frosinone",
+    "Genoa",
+    "Aurora Pro Patria",
+    "Palermo",
+    "Athletic Club Palermo"
+  ]
+}

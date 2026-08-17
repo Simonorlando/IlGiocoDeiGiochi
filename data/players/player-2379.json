@@ -1,0 +1,27 @@
+{
+  "player_id": 2379,
+  "full_name": "Pontus Wernbloom",
+  "nationality": "Sweden",
+  "birth_date": "1986-06-25",
+  "birth_place": "Kungälv",
+  "career_transfers": [
+    {
+      "date": "2018-08-16",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2012-01-19",
+      "type": "€ 3M",
+      "team_out": "AZ Alkmaar",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "IK Kongahälla",
+    "IFK Göteborg",
+    "AZ Alkmaar",
+    "PFC CSKA Moscow"
+  ]
+}

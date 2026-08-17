@@ -1,0 +1,19 @@
+{
+  "player_id": 24953,
+  "full_name": "Yann Aurel Ludger Bisseck",
+  "nationality": "Germany",
+  "birth_date": "2000-11-29",
+  "birth_place": "Köln",
+  "career_transfers": [
+    {
+      "date": "2023-07-12",
+      "type": "€ 7M",
+      "team_out": "Aarhus",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Köln",
+    "Vitória S.C."
+  ]
+}

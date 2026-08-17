@@ -1,0 +1,25 @@
+{
+  "player_id": 18787,
+  "full_name": "Shinji Okazaki",
+  "nationality": "Japan",
+  "birth_date": "1986-04-16",
+  "birth_place": "Takarazuka",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 11M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Leicester"
+    }
+  ],
+  "career_clubs": [
+    "Shimizu S-Pulse",
+    "VfB Stuttgart",
+    "1. FSV Mainz 05",
+    "Leicester City F.C.",
+    "Málaga CF",
+    "Sociedad Deportiva Huesca",
+    "FC Cartagena",
+    "Sint-Truidense V.V."
+  ]
+}

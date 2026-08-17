@@ -1,0 +1,21 @@
+{
+  "player_id": 115589,
+  "full_name": "Benjamin Šeško",
+  "nationality": "Slovenia",
+  "birth_date": "2003-05-31",
+  "birth_place": "Radeče",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 24M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "RB Leipzig",
+    "Manchester United F.C."
+  ]
+}

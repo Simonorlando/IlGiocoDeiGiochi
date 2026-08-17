@@ -1,0 +1,21 @@
+{
+  "player_id": 31073,
+  "full_name": "Edoardo Goldaniga",
+  "nationality": "Italy",
+  "birth_date": "1993-11-02",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-01-28",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Pizzighettone",
+    "Palermo F.C.",
+    "Pisa SC",
+    "A.C. Perugia Calcio"
+  ]
+}

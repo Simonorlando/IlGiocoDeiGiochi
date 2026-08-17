@@ -1,0 +1,19 @@
+{
+  "player_id": 168,
+  "full_name": "Davinson Sánchez Mina",
+  "nationality": "Colombia",
+  "birth_date": "1996-06-12",
+  "birth_place": "Caloto",
+  "career_transfers": [
+    {
+      "date": "2023-09-04",
+      "type": "€ 9.5M",
+      "team_out": "Tottenham",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Nacional",
+    "Tottenham Hotspur F.C."
+  ]
+}

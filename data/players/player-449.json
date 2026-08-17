@@ -1,0 +1,21 @@
+{
+  "player_id": 449,
+  "full_name": "Selçuk İnan",
+  "nationality": "Turkey",
+  "birth_date": "1985-02-10",
+  "birth_place": "Hatay",
+  "career_transfers": [
+    {
+      "date": "2011-09-05",
+      "type": "Free",
+      "team_out": "Trabzonspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Dardanel Spor A.Ş.",
+    "Manisaspor",
+    "Trabzonspor",
+    "Galatasaray S.K."
+  ]
+}

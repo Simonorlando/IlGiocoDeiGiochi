@@ -1,0 +1,24 @@
+{
+  "player_id": 25287,
+  "full_name": "Kevin Danso",
+  "nationality": "Austria",
+  "birth_date": "1998-09-19",
+  "birth_place": "Voitsberg",
+  "career_transfers": [
+    {
+      "date": "2025-02-02",
+      "type": "Loan",
+      "team_out": "Lens",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Lens",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Reading F.C."
+  ]
+}

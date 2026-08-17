@@ -1,0 +1,50 @@
+{
+  "player_id": 773,
+  "full_name": "Iván Marcano Sierra",
+  "nationality": "Spain",
+  "birth_date": "1987-06-23",
+  "birth_place": "Santander",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 5M",
+      "team_out": "Villarreal",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2011-06-30",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 6M",
+      "team_out": "Racing Santander",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Rayo Cantabria",
+    "Racing de Santander",
+    "Villarreal CF",
+    "Getafe CF",
+    "Olympiacos F.C.",
+    "Rubin Kazan",
+    "Olympiacos F.C.",
+    "Real Betis Balompié",
+    "AS Roma"
+  ]
+}

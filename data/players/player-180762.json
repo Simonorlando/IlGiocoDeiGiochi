@@ -1,0 +1,25 @@
+{
+  "player_id": 180762,
+  "full_name": "Edoardo Corvi",
+  "nationality": "Italy",
+  "birth_date": "2001-03-23",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Legnago Salus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-01-15",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Legnago Salus"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Legnago Salus"
+  ]
+}

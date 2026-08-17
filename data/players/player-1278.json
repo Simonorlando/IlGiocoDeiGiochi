@@ -1,0 +1,37 @@
+{
+  "player_id": 1278,
+  "full_name": "Yann Dorgelès Isaac Karamoh",
+  "nationality": "France",
+  "birth_date": "1998-07-08",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Fatih Karagümrük",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-09-06",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 8M",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "Inter Milan"
+  ]
+}

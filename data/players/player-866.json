@@ -1,0 +1,26 @@
+{
+  "player_id": 866,
+  "full_name": "Juan Guillermo Cuadrado Bello",
+  "nationality": "Colombia",
+  "birth_date": "1988-05-26",
+  "birth_place": "Necoclí",
+  "career_transfers": [
+    {
+      "date": "2011-08-04",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Independiente Medellín",
+    "Udinese Calcio",
+    "US Lecce",
+    "ACF Fiorentina",
+    "Chelsea F.C.",
+    "Juventus FC",
+    "Inter Milan",
+    "Atalanta BC",
+    "Pisa SC"
+  ]
+}

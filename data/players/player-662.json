@@ -1,0 +1,24 @@
+{
+  "player_id": 662,
+  "full_name": "Tanguy Ndombélé Alvaro",
+  "nationality": "France",
+  "birth_date": "1996-12-28",
+  "birth_place": "Longjumeau",
+  "career_transfers": [
+    {
+      "date": "2023-09-04",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Amiens SC",
+    "Olympique Lyonnais",
+    "Tottenham Hotspur F.C.",
+    "Olympique Lyonnais",
+    "SSC Napoli",
+    "Galatasaray S.K.",
+    "OGC Nice"
+  ]
+}

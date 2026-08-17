@@ -1,0 +1,26 @@
+{
+  "player_id": 35525,
+  "full_name": "Guido Hernán Pizarro Demestri",
+  "nationality": "Argentina",
+  "birth_date": "1990-02-26",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Tigres UANL"
+    },
+    {
+      "date": "2017-07-08",
+      "type": "€ 6M",
+      "team_out": "Tigres UANL",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Lanús",
+    "River Plate Football Club",
+    "Sevilla FC"
+  ]
+}

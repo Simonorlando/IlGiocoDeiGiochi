@@ -1,0 +1,31 @@
+{
+  "player_id": 1221,
+  "full_name": "Sardar Azmoun",
+  "nationality": "Iran",
+  "birth_date": "1995-01-01",
+  "birth_place": "Gonbad-e Kavus",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2023-08-26",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Sepahan F.C.",
+    "Rubin Kazan",
+    "FC Rostov",
+    "Rubin Kazan",
+    "FC Zenit Saint Petersburg",
+    "Bayer 04 Leverkusen",
+    "AS Roma",
+    "Shabab AlAhli Dubai Club"
+  ]
+}

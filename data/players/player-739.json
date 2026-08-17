@@ -1,0 +1,38 @@
+{
+  "player_id": 739,
+  "full_name": "Sergio Reguilón Rodríguez",
+  "nationality": "Spain",
+  "birth_date": "1996-12-16",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2019-07-05",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "UD Logroñés",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2015-08-05",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "UD Logroñés"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "UD Logroñés",
+    "Boca Juniors",
+    "Sevilla FC",
+    "Tottenham Hotspur F.C.",
+    "Atlético Madrid",
+    "Manchester United F.C.",
+    "Brentford F.C.",
+    "Inter Miami CF"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 94593,
+  "full_name": "Erik André Huseklepp",
+  "nationality": "Norway",
+  "birth_date": "1984-09-05",
+  "birth_place": "Bærum",
+  "career_transfers": [
+    {
+      "date": "2011-08-01",
+      "type": "2.5M €",
+      "team_out": "Bari",
+      "team_in": "Portsmouth"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "1.7M €",
+      "team_out": "Brann",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Fyllingen Fotball",
+    "SK Brann",
+    "SSC Bari",
+    "Portsmouth F.C.",
+    "Birmingham City F.C.",
+    "SK Brann"
+  ]
+}

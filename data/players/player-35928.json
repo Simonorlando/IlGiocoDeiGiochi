@@ -1,0 +1,39 @@
+{
+  "player_id": 35928,
+  "full_name": "Juan Manuel Iturbe Arévalo",
+  "nationality": "Paraguay",
+  "birth_date": "1993-06-04",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-07-16",
+      "type": "€ 22M",
+      "team_out": "Verona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 15M",
+      "team_out": "FC Porto",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Sportivo Trinidense",
+    "Cerro Porteño",
+    "FC Porto",
+    "Hellas Verona FC",
+    "Club Atlético River Plate",
+    "AFC Bournemouth",
+    "Club Tijuana",
+    "Quilmes Atlético Club",
+    "Club Olimpia",
+    "AS Roma"
+  ]
+}

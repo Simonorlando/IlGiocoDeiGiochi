@@ -1,0 +1,27 @@
+{
+  "player_id": 25,
+  "full_name": "Marco Reus",
+  "nationality": "Germany",
+  "birth_date": "1989-05-31",
+  "birth_place": "Dortmund",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 17.1M",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2024-08-13",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Los Angeles Galaxy"
+    }
+  ],
+  "career_clubs": [
+    "Rot Weiss Ahlen",
+    "Borussia Mönchengladbach",
+    "Borussia Dortmund",
+    "LA Galaxy"
+  ]
+}

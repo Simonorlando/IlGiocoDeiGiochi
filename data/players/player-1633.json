@@ -1,0 +1,30 @@
+{
+  "player_id": 1633,
+  "full_name": "Ivan Strinić",
+  "nationality": "Croatia",
+  "birth_date": "1987-07-17",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Le Mans F.C.",
+    "NK Hrvatski Dragovoljac",
+    "HNK Hajduk Split",
+    "FC Dnipro",
+    "SSC Napoli",
+    "U.C. Sampdoria",
+    "AC Milan"
+  ]
+}

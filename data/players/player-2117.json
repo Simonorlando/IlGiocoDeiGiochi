@@ -1,0 +1,47 @@
+{
+  "player_id": 2117,
+  "full_name": "Paul-José M'Poku Ebunge",
+  "nationality": "Congo DR",
+  "birth_date": "1992-04-19",
+  "birth_place": "Kinshasa",
+  "career_transfers": [
+    {
+      "date": "2017-07-03",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Panathinaikos",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 4M",
+      "team_out": "Standard Liege",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2015-07-13",
+      "type": "Loan",
+      "team_out": "Standard Liege",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "Leyton Orient F.C.",
+    "Standard Liège",
+    "Cagliari Calcio",
+    "AC ChievoVerona",
+    "FC UTA Arad"
+  ]
+}

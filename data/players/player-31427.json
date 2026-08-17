@@ -1,0 +1,38 @@
+{
+  "player_id": 31427,
+  "full_name": "Simone Calvano",
+  "nationality": "Italy",
+  "birth_date": "1993-07-11",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2019-01-12",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2013-01-15",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": null
+    },
+    {
+      "date": "2012-07-06",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "San Marino Calcio",
+    "Lanciano Calcio 1920",
+    "U.C. AlbinoLeffe",
+    "Hellas Verona FC",
+    "Pistoiese FC",
+    "S.S. Teramo Calcio",
+    "AC Tuttocuoio 1957 San Miniato SSD",
+    "Atalanta BC"
+  ]
+}

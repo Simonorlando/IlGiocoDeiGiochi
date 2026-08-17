@@ -1,0 +1,30 @@
+{
+  "player_id": 179839,
+  "full_name": "Denso Kasius",
+  "nationality": "Netherlands",
+  "birth_date": "2002-10-06",
+  "birth_place": "Delft",
+  "career_transfers": [
+    {
+      "date": "2023-07-03",
+      "type": "€ 3M",
+      "team_out": "Bologna",
+      "team_in": "AZ Alkmaar"
+    },
+    {
+      "date": "2023-01-26",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Rapid Vienna"
+    },
+    {
+      "date": "2022-01-30",
+      "type": "N/A",
+      "team_out": "FC Volendam",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "FC Utrecht"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 667,
+  "full_name": "Memphis Depay",
+  "nationality": "Netherlands",
+  "birth_date": "1994-02-13",
+  "birth_place": "Moordrecht",
+  "career_transfers": [
+    {
+      "date": "2023-01-20",
+      "type": "€ 3M",
+      "team_out": "Barcelona",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2024-09-09",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Corinthians"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "Manchester United F.C.",
+    "Olympique Lyonnais",
+    "FC Barcelona",
+    "Atlético Madrid",
+    "S.C. Corinthians Paulista"
+  ]
+}

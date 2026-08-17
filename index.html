@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chi Gioca</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-left">
+    <button type="button" id="globalBackBtn" class="global-back-btn hidden" aria-label="Indietro">←</button>
+    <button type="button" id="brandHome" class="home-btn" aria-label="Menu principale">🏠</button>
+  </div>
+  <div class="topbar-right" id="topbarRight"></div>
+</header>
+
+<main id="app">
+
+  <!-- SCHERMATA 0: titolo -->
+  <section id="screen-title" class="screen active">
+    <div class="title-wrap">
+      <svg class="title-pitch-bg pitch-bg-landscape" viewBox="0 0 1000 620" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <rect x="14" y="14" width="972" height="592" fill="none" stroke="white" stroke-width="4"/>
+        <line x1="500" y1="14" x2="500" y2="606" stroke="white" stroke-width="3"/>
+        <circle cx="500" cy="310" r="92" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="500" cy="310" r="4" fill="white"/>
+        <rect x="14" y="155" width="165" height="310" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="14" y="230" width="60" height="160" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="130" cy="310" r="3.5" fill="white"/>
+        <path d="M 179 265 A 92 92 0 0 1 179 355" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="821" y="155" width="165" height="310" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="926" y="230" width="60" height="160" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="870" cy="310" r="3.5" fill="white"/>
+        <path d="M 821 265 A 92 92 0 0 0 821 355" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 14 44 A 30 30 0 0 0 44 14" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 956 14 A 30 30 0 0 0 986 44" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 986 576 A 30 30 0 0 0 956 606" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 44 606 A 30 30 0 0 0 14 576" fill="none" stroke="white" stroke-width="3"/>
+      </svg>
+      <svg class="title-pitch-bg pitch-bg-portrait" viewBox="0 0 620 1000" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <rect x="14" y="14" width="592" height="972" fill="none" stroke="white" stroke-width="4"/>
+        <line x1="14" y1="500" x2="606" y2="500" stroke="white" stroke-width="3"/>
+        <circle cx="310" cy="500" r="92" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="310" cy="500" r="4" fill="white"/>
+        <rect x="155" y="14" width="310" height="165" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="230" y="14" width="160" height="60" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="310" cy="130" r="3.5" fill="white"/>
+        <path d="M 265 179 A 92 92 0 0 0 355 179" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="155" y="821" width="310" height="165" fill="none" stroke="white" stroke-width="3"/>
+        <rect x="230" y="926" width="160" height="60" fill="none" stroke="white" stroke-width="3"/>
+        <circle cx="310" cy="870" r="3.5" fill="white"/>
+        <path d="M 265 821 A 92 92 0 0 1 355 821" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 14 44 A 30 30 0 0 0 44 14" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 576 14 A 30 30 0 0 1 606 44" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 606 956 A 30 30 0 0 1 576 986" fill="none" stroke="white" stroke-width="3"/>
+        <path d="M 44 986 A 30 30 0 0 1 14 956" fill="none" stroke="white" stroke-width="3"/>
+      </svg>
+      <div class="title-banner title-banner-top">
+        <h1 class="game-title">IL GIOCO DEI GIOCHI</h1>
+      </div>
+      <div class="title-banner title-banner-bottom">
+        <button class="cta-btn" id="startFromTitle">Inizia a giocare</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCHERMATA 1: scelta competizione -->
+  <section id="screen-competition" class="screen">
+    <h1>Che partita vuoi indovinare?</h1>
+    <div class="big-choices">
+      <button class="big-choice" data-comp="serie_a">
+        <div class="big-choice-emoji">🇮🇹</div>
+        <div class="big-choice-title">Serie A</div>
+        <div class="big-choice-sub">2010-11 → 2025-26</div>
+      </button>
+      <button class="big-choice" data-comp="champions_league">
+        <div class="big-choice-emoji">⭐</div>
+        <div class="big-choice-title">Champions League</div>
+        <div class="big-choice-sub">Fase a eliminazione diretta, 2011-12 → 2025-26</div>
+      </button>
+    </div>
+  </section>
+
+  <!-- SCHERMATA 2: scelta modalita' -->
+  <section id="screen-mode" class="screen">
+    <h1>Come vuoi scegliere la partita?</h1>
+    <div class="mode-choices">
+      <button class="mode-choice" data-mode="random">
+        <div class="mode-choice-title">🎲 Partita a caso</div>
+        <div class="mode-choice-sub">Qualsiasi anno, completamente casuale</div>
+      </button>
+      <button class="mode-choice" data-mode="year-random">
+        <div class="mode-choice-title">📅 Scegli l'anno, poi a caso</div>
+        <div class="mode-choice-sub">Scegli una stagione o un intervallo, la partita è casuale</div>
+      </button>
+      <button class="mode-choice" data-mode="manual">
+        <div class="mode-choice-title">📋 Scelta manuale</div>
+        <div class="mode-choice-sub">Scegli tu la stagione e la partita esatta</div>
+      </button>
+    </div>
+    <button class="back-btn" id="backToCompetition">← indietro</button>
+  </section>
+
+  <!-- SCHERMATA 3a: range anni -->
+  <section id="screen-years" class="screen">
+    <h1>Che stagioni ti interessano?</h1>
+    <div class="years-picker">
+      <label>Da
+        <select id="yearFrom"></select>
+      </label>
+      <label>A
+        <select id="yearTo"></select>
+      </label>
+    </div>
+    <button class="cta-btn" id="generateFromYears">Genera partita 🎲</button>
+    <button class="back-btn" id="backToModeFromYears">← indietro</button>
+  </section>
+
+  <!-- SCHERMATA 3b: scelta manuale -->
+  <section id="screen-manual" class="screen">
+    <h1>Scegli la partita</h1>
+    <div class="manual-picker">
+      <label>Stagione
+        <select id="manualYear"></select>
+      </label>
+      <div class="round-nav">
+        <button type="button" class="round-nav-btn" id="roundPrev">◀</button>
+        <select id="manualRound"></select>
+        <button type="button" class="round-nav-btn" id="roundNext">▶</button>
+      </div>
+      <div id="roundDateRange" class="round-date-range"></div>
+      <div id="manualMatch" class="match-list"></div>
+    </div>
+    <button class="cta-btn" id="startManualMatch" disabled>Gioca questa partita</button>
+    <button class="back-btn" id="backToModeFromManual">← indietro</button>
+  </section>
+
+  <!-- SCHERMATA 4: gioco -->
+  <section id="screen-game" class="screen">
+    <div class="game-header">
+      <div class="match-header-info">
+        <div id="matchLabel" class="match-label"></div>
+        <div id="matchScore" class="match-score"></div>
+      </div>
+      <div class="game-header-actions">
+        <span id="scoreLabel" class="score-label"></span>
+        <button class="new-game-btn" id="newGameBtn">Nuova partita</button>
+      </div>
+    </div>
+
+    <div class="team-switcher">
+      <button type="button" class="team-tab" id="teamTabHome"></button>
+      <button type="button" class="team-tab" id="teamTabAway"></button>
+    </div>
+
+    <div class="pitch-stage">
+      <div class="team-panel pitch-slot" id="teamPanelHome">
+        <svg id="pitchHome" class="pitch-svg" viewBox="0 0 300 440" preserveAspectRatio="xMidYMid meet"></svg>
+      </div>
+      <div class="team-panel pitch-slot" id="teamPanelAway">
+        <svg id="pitchAway" class="pitch-svg" viewBox="0 0 300 440" preserveAspectRatio="xMidYMid meet"></svg>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- Card giocatore (overlay) -->
+<div id="playerCardOverlay" class="overlay hidden">
+  <div class="player-card">
+    <button class="player-card-close" id="closePlayerCard">✕</button>
+
+    <div id="cardSolved" class="card-solved hidden">
+      <div class="solved-check">✔</div>
+      <div class="solved-name" id="solvedName"></div>
+    </div>
+
+    <div id="cardUnsolved">
+      <div id="hintList" class="hint-list"></div>
+
+      <form id="guessForm" class="guess-form">
+        <div class="guess-input-wrap">
+          <input type="text" id="guessInput" placeholder="Come si chiama?" autocomplete="off">
+          <div id="suggestList" class="suggest-list hidden"></div>
+        </div>
+        <button type="submit">Indovina</button>
+      </form>
+      <div id="guessFeedback" class="guess-feedback"></div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

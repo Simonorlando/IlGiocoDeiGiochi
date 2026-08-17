@@ -1,0 +1,26 @@
+{
+  "player_id": 829,
+  "full_name": "Rodrigo Nascimento França",
+  "nationality": "Brazil",
+  "birth_date": "1996-01-19",
+  "birth_place": "Salvador",
+  "career_transfers": [
+    {
+      "date": "2023-07-20",
+      "type": "€ 8.3M",
+      "team_out": "Udinese",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2019-07-06",
+      "type": "€ 2.9M",
+      "team_out": "Bahia",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "PFC CSKA Moscow",
+    "Esporte Clube Bahia"
+  ]
+}

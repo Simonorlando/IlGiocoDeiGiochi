@@ -1,0 +1,42 @@
+{
+  "player_id": 115423,
+  "full_name": "Alberto Giuliatto",
+  "nationality": "Italy",
+  "birth_date": "1983-09-17",
+  "birth_place": "Treviso",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Savona",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-07-28",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Savona"
+    },
+    {
+      "date": "2013-07-24",
+      "type": "N/A",
+      "team_out": "Nocerina",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Belluno 1905",
+    "Treviso F.B.C. 1993",
+    "US Lecce",
+    "Nocerina 1910",
+    "Parma Calcio 1913",
+    "Savona F.B.C.",
+    "Venezia F.C."
+  ]
+}

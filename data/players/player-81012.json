@@ -1,0 +1,31 @@
+{
+  "player_id": 81012,
+  "full_name": "Devis Estiven Vásquez Llach",
+  "nationality": "Colombia",
+  "birth_date": "1998-05-12",
+  "birth_place": "Barranquilla",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Patriotas",
+    "Guaraní",
+    "AC Milan",
+    "Sheffield Wednesday",
+    "Ascoli",
+    "Empoli",
+    "Roma",
+    "Beşiktaş"
+  ]
+}

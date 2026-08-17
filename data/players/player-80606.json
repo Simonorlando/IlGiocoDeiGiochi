@@ -1,0 +1,30 @@
+{
+  "player_id": 80606,
+  "full_name": "Emerson da Conceição",
+  "nationality": "Brazil",
+  "birth_date": "1986-02-23",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2012-09-03",
+      "type": "1.6M €",
+      "team_out": "Benfica",
+      "team_in": "Trabzonspor"
+    },
+    {
+      "date": "2011-07-19",
+      "type": "2.5M €",
+      "team_out": "Lille",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Sport Club Corinthians Paranaense",
+    "S.L. Benfica",
+    "Trabzonspor",
+    "Stade Rennais F.C.",
+    "Clube Atlético Mineiro",
+    "Coritiba F.C."
+  ]
+}

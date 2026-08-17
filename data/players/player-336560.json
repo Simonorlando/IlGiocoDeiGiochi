@@ -1,0 +1,40 @@
+{
+  "player_id": 336560,
+  "full_name": "Álex Valle Gómez",
+  "nationality": "Spain",
+  "birth_date": "2004-04-25",
+  "birth_place": "Badalona",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Barcelona",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Andorra",
+    "Levante UD",
+    "Celtic F.C.",
+    "Como 1907"
+  ]
+}

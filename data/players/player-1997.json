@@ -1,0 +1,18 @@
+{
+  "player_id": 1997,
+  "full_name": "Necip Uysal",
+  "nationality": "Türkiye",
+  "birth_date": "1991-01-24",
+  "birth_place": "İstanbul",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "End of career",
+      "team_out": "Beşiktaş",
+      "team_in": "Uysal Necip"
+    }
+  ],
+  "career_clubs": [
+    "Beşiktaş J.K. (Football)"
+  ]
+}

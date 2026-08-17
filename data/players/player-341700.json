@@ -1,0 +1,19 @@
+{
+  "player_id": 341700,
+  "full_name": "Iván Fresneda Corraliza",
+  "nationality": "Spain",
+  "birth_date": "2004-09-28",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2023-08-30",
+      "type": "€ 9M",
+      "team_out": "Valladolid",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Real Valladolid",
+    "Sporting CP"
+  ]
+}

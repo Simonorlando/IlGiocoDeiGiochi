@@ -1,0 +1,28 @@
+{
+  "player_id": 267,
+  "full_name": "Julian Draxler",
+  "nationality": "Germany",
+  "birth_date": "1993-09-20",
+  "birth_place": "Gladbeck",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "VfL Wolfsburg",
+    "Paris Saint-Germain FC",
+    "S.L. Benfica",
+    "Al Ahli SC"
+  ]
+}

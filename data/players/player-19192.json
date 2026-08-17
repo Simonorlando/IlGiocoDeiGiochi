@@ -1,0 +1,32 @@
+{
+  "player_id": 19192,
+  "full_name": "Jacob Matthew Ramsey",
+  "nationality": "England",
+  "birth_date": "2001-05-28",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Doncaster",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Doncaster"
+    },
+    {
+      "date": "2025-08-17",
+      "type": "Transfer",
+      "team_out": "Aston Villa",
+      "team_in": "Newcastle"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Doncaster Rovers F.C.",
+    "Newcastle United F.C."
+  ]
+}

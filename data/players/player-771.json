@@ -1,0 +1,23 @@
+{
+  "player_id": 771,
+  "full_name": "Aleksandar Kolarov",
+  "nationality": "Serbia",
+  "birth_date": "1985-11-10",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2020-09-08",
+      "type": "€ 1.5M",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "FK Čukarički",
+    "OFK Beograd",
+    "SS Lazio",
+    "Manchester City F.C.",
+    "AS Roma",
+    "Inter Milan"
+  ]
+}

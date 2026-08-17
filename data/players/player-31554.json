@@ -1,0 +1,25 @@
+{
+  "player_id": 31554,
+  "full_name": "Antonio Luca Fiordilino",
+  "nationality": "Italy",
+  "birth_date": "1996-07-25",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "US Lecce"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 19504,
+  "full_name": "Darren Fletcher",
+  "nationality": "Scotland",
+  "birth_date": "1984-02-01",
+  "birth_place": "Dalkeith",
+  "career_transfers": [
+    {
+      "date": "2015-02-02",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "West Brom"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "West Bromwich Albion F.C.",
+    "Stoke City F.C."
+  ]
+}

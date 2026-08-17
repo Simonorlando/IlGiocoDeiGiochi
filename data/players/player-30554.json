@@ -1,0 +1,24 @@
+{
+  "player_id": 30554,
+  "full_name": "Luca Pellegrini",
+  "nationality": "Italy",
+  "birth_date": "1999-03-07",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Roma",
+    "Cagliari",
+    "Juventus",
+    "Cagliari",
+    "Genoa",
+    "Eintracht Frankfurt",
+    "Lazio"
+  ]
+}

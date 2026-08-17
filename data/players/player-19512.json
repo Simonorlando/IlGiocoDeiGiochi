@@ -1,0 +1,46 @@
+{
+  "player_id": 19512,
+  "full_name": "Bojan Krkić Pérez",
+  "nationality": "Spain",
+  "birth_date": "1990-08-28",
+  "birth_place": "Linyola",
+  "career_transfers": [
+    {
+      "date": "2014-07-22",
+      "type": "€ 1.8M",
+      "team_out": "Barcelona",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2013-07-06",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 13M",
+      "team_out": "AS Roma",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2011-07-22",
+      "type": "€ 12M",
+      "team_out": "Barcelona",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "AS Roma",
+    "AC Milan",
+    "FC Barcelona",
+    "AFC Ajax",
+    "Stoke City F.C.",
+    "Deportivo Alavés",
+    "CF Montréal",
+    "Vissel Kobe",
+    "1. FSV Mainz 05"
+  ]
+}

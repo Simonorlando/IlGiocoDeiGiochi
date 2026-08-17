@@ -1,0 +1,32 @@
+{
+  "player_id": 782,
+  "full_name": "Lorenzo Pellegrini",
+  "nationality": "Italy",
+  "birth_date": "1996-06-19",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 10M",
+      "team_out": "Sassuolo",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "Pellegrini Lorenzo"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Sassuolo Calcio",
+    "AS Roma"
+  ]
+}

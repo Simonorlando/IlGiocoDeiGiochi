@@ -1,0 +1,21 @@
+{
+  "player_id": 17,
+  "full_name": "Christian Mate Pulišić",
+  "nationality": "USA",
+  "birth_date": "1998-09-18",
+  "birth_place": "Hershey",
+  "career_transfers": [
+    {
+      "date": "2023-07-13",
+      "type": "€ 20M",
+      "team_out": "Chelsea",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Chelsea F.C.",
+    "Borussia Dortmund",
+    "AC Milan"
+  ]
+}

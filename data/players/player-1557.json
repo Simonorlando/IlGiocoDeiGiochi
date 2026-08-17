@@ -1,0 +1,32 @@
+{
+  "player_id": 1557,
+  "full_name": "Pau López Sabata",
+  "nationality": "Spain",
+  "birth_date": "1994-12-13",
+  "birth_place": "Girona",
+  "career_transfers": [
+    {
+      "date": "2022-06-11",
+      "type": "€ 12M",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2021-07-13",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2019-07-10",
+      "type": "€ 23.5M",
+      "team_out": "Real Betis",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "Real Betis Balompié"
+  ]
+}

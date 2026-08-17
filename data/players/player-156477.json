@@ -1,0 +1,19 @@
+{
+  "player_id": 156477,
+  "full_name": "Mathis Rayan Cherki",
+  "nationality": "France",
+  "birth_date": "2003-08-17",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2025-06-10",
+      "type": "Transfer",
+      "team_out": "Lyon",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "Manchester City F.C."
+  ]
+}

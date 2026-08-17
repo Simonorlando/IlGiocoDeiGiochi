@@ -1,0 +1,21 @@
+{
+  "player_id": 97626,
+  "full_name": "Konstantin Zyryanov",
+  "nationality": "Russia",
+  "birth_date": "1977-10-05",
+  "birth_place": "Perm",
+  "career_transfers": [
+    {
+      "date": "2007-01-01",
+      "type": "2.5M €",
+      "team_out": "Torpedo Moskva",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Amkar Perm",
+    "FC Torpedo Moscow",
+    "FC Zenit Saint Petersburg",
+    "FC Zenit-2"
+  ]
+}

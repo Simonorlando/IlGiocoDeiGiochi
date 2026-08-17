@@ -1,0 +1,178 @@
+{
+  "fixture_id": 608533,
+  "competition": "serie_a",
+  "season": 2020,
+  "teams": [
+    {
+      "team_name": "Napoli",
+      "team_id": 492,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 313,
+          "shirt_number": 25,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 772,
+          "shirt_number": 44,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 318,
+          "shirt_number": 26,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 317,
+          "shirt_number": 23,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 31042,
+          "shirt_number": 22,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 1635,
+          "shirt_number": 5,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 328,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 332,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 219,
+          "shirt_number": 21,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 248,
+          "shirt_number": 11,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 2780,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Sassuolo",
+      "team_id": 488,
+      "formation": "3-4-2-1",
+      "lineup": [
+        {
+          "player_id": 30516,
+          "shirt_number": 47,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 315,
+          "shirt_number": 21,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 25448,
+          "shirt_number": 5,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30523,
+          "shirt_number": 31,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30527,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1719,
+          "shirt_number": 17,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1910,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30533,
+          "shirt_number": 73,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 31057,
+          "shirt_number": 23,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30531,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30543,
+          "shirt_number": 18,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 0,
+  "away_score": 2
+}

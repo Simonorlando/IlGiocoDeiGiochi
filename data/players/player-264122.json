@@ -1,0 +1,18 @@
+{
+  "player_id": 264122,
+  "full_name": "Nikola Štulić",
+  "nationality": "Serbia",
+  "birth_date": "2001-09-08",
+  "birth_place": "Sremska Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2025-08-27",
+      "type": "Transfer",
+      "team_out": "Charleroi",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Royal Charleroi S.C."
+  ]
+}

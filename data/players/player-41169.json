@@ -1,0 +1,36 @@
+{
+  "player_id": 41169,
+  "full_name": "Leonardo César Jardim",
+  "nationality": "Brazil",
+  "birth_date": "1995-03-20",
+  "birth_place": "Ribeirão Preto",
+  "career_transfers": [
+    {
+      "date": "2023-01-26",
+      "type": "N/A",
+      "team_out": "Lille",
+      "team_in": "Vasco DA Gama"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Boavista",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Loan",
+      "team_out": "Lille",
+      "team_in": "Boavista"
+    },
+    {
+      "date": "2019-07-14",
+      "type": "6M",
+      "team_out": "Rio Ave",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA"
+  ]
+}

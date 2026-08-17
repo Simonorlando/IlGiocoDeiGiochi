@@ -1,0 +1,31 @@
+{
+  "player_id": 49958,
+  "full_name": "Aly Cissokho",
+  "nationality": "France",
+  "birth_date": "1987-09-15",
+  "birth_place": "Blois",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2017-01-16",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "FC Gueugnon",
+    "Vitória F.C.",
+    "Olympique Lyonnais",
+    "FC Porto",
+    "Valencia CF",
+    "Liverpool F.C.",
+    "Aston Villa F.C.",
+    "FC Porto"
+  ]
+}

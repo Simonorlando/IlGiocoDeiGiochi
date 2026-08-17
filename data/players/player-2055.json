@@ -1,0 +1,24 @@
+{
+  "player_id": 2055,
+  "full_name": "Marko Rog",
+  "nationality": "Croatia",
+  "birth_date": "1995-07-19",
+  "birth_place": "Varaždin",
+  "career_transfers": [
+    {
+      "date": "2019-01-29",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "NK Varteks",
+    "RNK Split",
+    "GNK Dinamo Zagreb",
+    "SSC Napoli",
+    "Sevilla FC",
+    "Cagliari Calcio",
+    "GNK Dinamo Zagreb"
+  ]
+}

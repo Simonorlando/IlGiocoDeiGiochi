@@ -1,0 +1,27 @@
+{
+  "player_id": 11731,
+  "full_name": "Germán Alexis Rolín Fernández",
+  "nationality": "Uruguay",
+  "birth_date": "1989-02-07",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2015-01-16",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2012-08-23",
+      "type": "€ 2.6M",
+      "team_out": "Club Nacional",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "Catania FC",
+    "Boca Juniors",
+    "Club Olimpia"
+  ]
+}

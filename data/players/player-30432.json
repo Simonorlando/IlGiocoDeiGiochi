@@ -1,0 +1,32 @@
+{
+  "player_id": 30432,
+  "full_name": "Marten Elco de Roon",
+  "nationality": "Netherlands",
+  "birth_date": "1991-03-29",
+  "birth_place": "Zwijndrecht",
+  "career_transfers": [
+    {
+      "date": "2017-08-10",
+      "type": "€ 13.5M",
+      "team_out": "Middlesbrough",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2016-07-04",
+      "type": "€ 15M",
+      "team_out": "Atalanta",
+      "team_in": "Middlesbrough"
+    },
+    {
+      "date": "2015-07-11",
+      "type": "N/A",
+      "team_out": "Heerenveen",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Sparta Rotterdam",
+    "SC Heerenveen",
+    "Atalanta BC"
+  ]
+}

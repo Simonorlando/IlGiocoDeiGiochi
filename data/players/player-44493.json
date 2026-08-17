@@ -1,0 +1,31 @@
+{
+  "player_id": 44493,
+  "full_name": "Anselmo De Moraes",
+  "nationality": "Brazil",
+  "birth_date": "1989-02-20",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2013-07-26",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "São Caetano"
+    },
+    {
+      "date": "2013-01-03",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "Grêmio Barueri Futebol",
+    "Genoa CFC",
+    "Associação Desportiva São Caetano",
+    "Palermo F.C.",
+    "Associação Desportiva São Caetano",
+    "Joinville Esporte Clube",
+    "S.C. Internacional"
+  ]
+}

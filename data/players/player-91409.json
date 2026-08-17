@@ -1,0 +1,26 @@
+{
+  "player_id": 91409,
+  "full_name": "Andrea Lisuzzo",
+  "nationality": "Italy",
+  "birth_date": "1981-01-26",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2014-07-30",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Calcio Foggia 1920",
+    "Società Calcistica Gela",
+    "Alma Juventus Fano 1906",
+    "A.S. Martina Franca 1947",
+    "Calcio Foggia 1920",
+    "Novara Calcio",
+    "Spezia Calcio",
+    "Pisa SC"
+  ]
+}

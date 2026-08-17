@@ -1,0 +1,24 @@
+{
+  "player_id": 550,
+  "full_name": "Kasper Dolberg Rasmussen",
+  "nationality": "Denmark",
+  "birth_date": "1997-10-06",
+  "birth_place": "Silkeborg",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Nice",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Silkeborg IF",
+    "AFC Ajax",
+    "OGC Nice",
+    "Sevilla FC",
+    "TSG 1899 Hoffenheim",
+    "R.S.C. Anderlecht",
+    "AFC Ajax"
+  ]
+}

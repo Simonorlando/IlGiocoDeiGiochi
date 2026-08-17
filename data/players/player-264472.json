@@ -1,0 +1,26 @@
+{
+  "player_id": 264472,
+  "full_name": "Filippo Terracciano",
+  "nationality": "Italy",
+  "birth_date": "2003-02-08",
+  "birth_place": "Verona",
+  "career_transfers": [
+    {
+      "date": "2025-08-11",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cremonese",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona",
+    "AC Milan",
+    "Cremonese"
+  ]
+}

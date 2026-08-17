@@ -1,0 +1,33 @@
+{
+  "player_id": 190958,
+  "full_name": "Balthazar Jean Philippe Marie Pierret",
+  "nationality": "France",
+  "birth_date": "2000-05-15",
+  "birth_place": "Cormeilles-en-Parisis",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Quevilly",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "RED Star FC 93"
+    },
+    {
+      "date": "2026-01-30",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "RED Star FC 93"
+    }
+  ],
+  "career_clubs": [
+    "US Boulogne",
+    "FC Dinamo Bucharest",
+    "US Quevilly",
+    "Red Star F.C."
+  ]
+}

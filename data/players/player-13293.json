@@ -1,0 +1,30 @@
+{
+  "player_id": 13293,
+  "full_name": "Pablo Daniel Ceppelini Gatto",
+  "nationality": "Uruguay",
+  "birth_date": "1991-09-11",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2013-01-30",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Lumezzane"
+    },
+    {
+      "date": "2011-01-31",
+      "type": "€ 2.4M",
+      "team_out": "Penarol",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "C.A. Bella Vista",
+    "Club Atlético Peñarol",
+    "Cagliari Calcio",
+    "A.C. Lumezzane",
+    "NK Maribor",
+    "FC Universitatea Cluj",
+    "Montevideo Wanderers Fútbol Club"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 30443,
+  "full_name": "Rafael Cabral Barbosa",
+  "nationality": "Brazil",
+  "birth_date": "1990-05-20",
+  "birth_place": "Sorocaba",
+  "career_transfers": [
+    {
+      "date": "2019-08-06",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Reading"
+    },
+    {
+      "date": "2018-07-22",
+      "type": "Free",
+      "team_out": "Napoli",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Santos F.C.",
+    "SSC Napoli",
+    "U.C. Sampdoria"
+  ]
+}

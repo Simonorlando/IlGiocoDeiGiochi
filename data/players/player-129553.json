@@ -1,0 +1,63 @@
+{
+  "player_id": 129553,
+  "full_name": "Alessandro Sorrentino",
+  "nationality": "Italy",
+  "birth_date": "2002-04-03",
+  "birth_place": "Guardiagrele",
+  "career_transfers": [
+    {
+      "date": "2024-08-26",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2022-07-13",
+      "type": "€ 1M",
+      "team_out": "Pescara",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Frosinone",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Frosinone",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Padova",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Pescara",
+    "Monza",
+    "Frosinone",
+    "Padova"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 30762,
+  "full_name": "Filip Đorđević",
+  "nationality": "Serbia",
+  "birth_date": "1987-09-28",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "FK Rad",
+    "FC Nantes",
+    "SS Lazio",
+    "AC ChievoVerona"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 40231,
+  "full_name": "Przemysław Wiśniewski",
+  "nationality": "Poland",
+  "birth_date": "1998-07-27",
+  "birth_place": "Zabrze",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Gornik Zabrze",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Górnik Zabrze"
+  ]
+}

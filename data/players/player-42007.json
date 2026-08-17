@@ -1,0 +1,27 @@
+{
+  "player_id": 42007,
+  "full_name": "Daniel Filipe Bandeira e Silva",
+  "nationality": "Portugal",
+  "birth_date": "2000-04-11",
+  "birth_place": "Aljustrel",
+  "career_transfers": [
+    {
+      "date": "2024-01-25",
+      "type": "€ 1.5M",
+      "team_out": "Guimaraes",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Verona",
+      "team_in": "FC Midtjylland"
+    }
+  ],
+  "career_clubs": [
+    "Vitória Guimarães",
+    "Hellas Verona",
+    "Midtjylland",
+    "Pafos"
+  ]
+}

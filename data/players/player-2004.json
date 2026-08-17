@@ -1,0 +1,39 @@
+{
+  "player_id": 2004,
+  "full_name": "Mustafa Pektemek",
+  "nationality": "Türkiye",
+  "birth_date": "1988-08-11",
+  "birth_place": "Sakarya",
+  "career_transfers": [
+    {
+      "date": "2019-07-29",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Kasimpasa"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2016-08-20",
+      "type": "Loan",
+      "team_out": "Besiktas",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2011-07-08",
+      "type": "€ 4M",
+      "team_out": "Genclerbirligi",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Sakaryaspor",
+    "Sarıyer G.K.",
+    "Gençlerbirliği S.K.",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

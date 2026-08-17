@@ -1,0 +1,39 @@
+{
+  "player_id": 31730,
+  "full_name": "Lorenzo Venuti",
+  "nationality": "Italy",
+  "birth_date": "1995-04-12",
+  "birth_place": "Montevarchi",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2023-07-14",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Delfino Pescara 1936",
+    "Brescia Calcio",
+    "US Lecce"
+  ]
+}

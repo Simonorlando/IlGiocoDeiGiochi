@@ -1,0 +1,23 @@
+{
+  "player_id": 113675,
+  "full_name": "Miloš Krasić",
+  "nationality": "Serbia",
+  "birth_date": "1984-11-01",
+  "birth_place": "Kosovska Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2010-08-21",
+      "type": "15M €",
+      "team_out": "CSKA Moscow",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "FK Vojvodina",
+    "PFC CSKA Moscow",
+    "Juventus FC",
+    "Fenerbahçe Istanbul",
+    "SC Bastia",
+    "KS Lechia Gdańsk"
+  ]
+}

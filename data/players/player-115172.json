@@ -1,0 +1,33 @@
+{
+  "player_id": 115172,
+  "full_name": "Giuseppe De Feudis",
+  "nationality": "Italy",
+  "birth_date": "1983-07-10",
+  "birth_place": "Bollate",
+  "career_transfers": [
+    {
+      "date": "2016-08-11",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2015-07-17",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "San Marino Calcio",
+    "AC Cesena",
+    "Lucchese 1905",
+    "San Marino Calcio",
+    "Torino FC",
+    "Calcio Padova",
+    "AC Cesena",
+    "US Lecce",
+    "Inter Milan"
+  ]
+}

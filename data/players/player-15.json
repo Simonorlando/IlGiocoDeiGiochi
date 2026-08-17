@@ -1,0 +1,53 @@
+{
+  "player_id": 15,
+  "full_name": "Thomas Joseph Delaney",
+  "nationality": "Denmark",
+  "birth_date": "1991-09-03",
+  "birth_place": "Frederiksberg",
+  "career_transfers": [
+    {
+      "date": "2024-07-20",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Anderlecht",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2023-08-22",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Anderlecht"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "1899 Hoffenheim"
+    },
+    {
+      "date": "2021-08-25",
+      "type": "N/A",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen",
+    "SV Werder Bremen",
+    "Borussia Dortmund",
+    "Sevilla FC",
+    "TSG 1899 Hoffenheim",
+    "R.S.C. Anderlecht"
+  ]
+}

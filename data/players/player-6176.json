@@ -1,0 +1,49 @@
+{
+  "player_id": 6176,
+  "full_name": "Pablo Sebastián Valeira Álvarez",
+  "nationality": "Argentina",
+  "birth_date": "1984-04-17",
+  "birth_place": "San Martín",
+  "career_transfers": [
+    {
+      "date": "2015-01-09",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Rosario Central"
+    },
+    {
+      "date": "2012-02-10",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2009-01-07",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Rosario Central"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "€ 1M",
+      "team_out": "Estudiantes L.P.",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors U20",
+    "Boca Juniors",
+    "Estudiantes de La Plata",
+    "Boca Juniors",
+    "Estudiantes de La Plata",
+    "Catania",
+    "Rosario Central",
+    "Catania",
+    "Real Zaragoza",
+    "Catania",
+    "Rosario Central",
+    "Racing Club",
+    "Huracán",
+    "Arsenal de Sarandí"
+  ]
+}

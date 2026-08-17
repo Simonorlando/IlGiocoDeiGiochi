@@ -1,0 +1,50 @@
+{
+  "player_id": 138935,
+  "full_name": "Carney Chibueze Chukwuemeka",
+  "nationality": "England",
+  "birth_date": "2003-10-20",
+  "birth_place": "Eisenstadt",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Back from Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-07-05",
+      "type": "Return from loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2025-08-25",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Chelsea F.C.",
+    "Borussia Dortmund"
+  ]
+}

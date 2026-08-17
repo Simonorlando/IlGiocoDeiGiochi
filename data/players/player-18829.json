@@ -1,0 +1,41 @@
+{
+  "player_id": 18829,
+  "full_name": "Jack Wilshere",
+  "nationality": "England",
+  "birth_date": "1992-01-01",
+  "birth_place": "Stevenage",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Bournemouth",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Bolton",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2010-01-29",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Bolton"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Bolton Wanderers F.C.",
+    "AFC Bournemouth",
+    "West Ham United F.C.",
+    "AFC Bournemouth",
+    "Aarhus Gymnastikforening"
+  ]
+}

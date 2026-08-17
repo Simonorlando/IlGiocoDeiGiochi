@@ -1,0 +1,47 @@
+{
+  "player_id": 30670,
+  "full_name": "Michele Di Gregorio",
+  "nationality": "Italy",
+  "birth_date": "1997-07-27",
+  "birth_place": "Milan",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2024-07-05",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 4.2M",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "A.C. Renate",
+    "Novara Calcio",
+    "Pordenone FC",
+    "AC Monza",
+    "Juventus FC"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 900,
+  "full_name": "Jesse Ellis Lingard",
+  "nationality": "England",
+  "birth_date": "1992-12-15",
+  "birth_place": "Warrington",
+  "career_transfers": [
+    {
+      "date": "2012-11-02",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Leicester"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Leicester City F.C.",
+    "Birmingham City F.C.",
+    "Brighton & Hove Albion F.C.",
+    "Derby County F.C.",
+    "West Ham United F.C.",
+    "Nottingham Forest F.C.",
+    "FC Seoul",
+    "S.C. Corinthians Paulista"
+  ]
+}

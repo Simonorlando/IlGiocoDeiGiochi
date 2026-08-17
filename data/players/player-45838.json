@@ -1,0 +1,27 @@
+{
+  "player_id": 45838,
+  "full_name": "Zoran Tošić",
+  "nationality": "Serbia",
+  "birth_date": "1987-04-28",
+  "birth_place": "Zrenjanin",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "€ 9.5M",
+      "team_out": "Manchester United",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "FK Budućnost Banatski Dvor",
+    "FK Banat Zrenjanin",
+    "FK Partizan",
+    "Manchester United F.C.",
+    "1. FC Köln",
+    "PFC CSKA Moscow",
+    "FK Partizan",
+    "Taizhou Yuanda F.C.",
+    "FC Tobol",
+    "P.A.S. Lamia 1964"
+  ]
+}

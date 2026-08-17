@@ -1,0 +1,33 @@
+{
+  "player_id": 114787,
+  "full_name": "John Arne Semundseth Riise",
+  "nationality": "Norway",
+  "birth_date": "1980-09-24",
+  "birth_place": "Molde",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Odisha"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Free",
+      "team_out": "Fulham",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Aalesunds FK",
+    "AS Monaco FC",
+    "Liverpool F.C.",
+    "AS Roma",
+    "Fulham F.C.",
+    "APOEL F.C.",
+    "Odisha FC",
+    "Aalesunds FK",
+    "Chennaiyin FC",
+    "SK Rollon"
+  ]
+}

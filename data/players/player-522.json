@@ -1,0 +1,19 @@
+{
+  "player_id": 522,
+  "full_name": "Thomas Müller",
+  "nationality": "Germany",
+  "birth_date": "1989-09-13",
+  "birth_place": "Weilheim",
+  "career_transfers": [
+    {
+      "date": "2025-08-05",
+      "type": "Free agent",
+      "team_out": "Bayern München",
+      "team_in": "Vancouver Whitecaps"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Vancouver Whitecaps FC"
+  ]
+}

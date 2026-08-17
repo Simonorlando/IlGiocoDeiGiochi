@@ -1,0 +1,29 @@
+{
+  "player_id": 13093,
+  "full_name": "Ezequiel Iván Lavezzi",
+  "nationality": "Argentina",
+  "birth_date": "1985-05-03",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2012-07-02",
+      "type": "€ 26M",
+      "team_out": "Napoli",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 6M",
+      "team_out": "San Lorenzo",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Estudiantes",
+    "Estudiantes de La Plata",
+    "San Lorenzo de Almagro",
+    "SSC Napoli",
+    "Paris Saint-Germain FC",
+    "Hebei F.C."
+  ]
+}

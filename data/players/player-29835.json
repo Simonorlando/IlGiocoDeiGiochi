@@ -1,0 +1,38 @@
+{
+  "player_id": 29835,
+  "full_name": "Kévin Constant",
+  "nationality": "Guinea",
+  "birth_date": "1987-05-15",
+  "birth_place": "Fréjus",
+  "career_transfers": [
+    {
+      "date": "2017-02-15",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "FC Sion"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Free",
+      "team_out": "Trabzonspor",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse U19",
+    "Toulouse 2",
+    "Toulouse",
+    "Châteauroux",
+    "Chievo Verona",
+    "Châteauroux",
+    "Chievo Verona",
+    "Genoa",
+    "AC Milan",
+    "Genoa",
+    "AC Milan",
+    "Trabzonspor",
+    "Bologna",
+    "FC Sion",
+    "Tractor FC"
+  ]
+}

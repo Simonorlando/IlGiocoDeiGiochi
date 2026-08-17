@@ -1,0 +1,21 @@
+{
+  "player_id": 92,
+  "full_name": "Danijel Subašić",
+  "nationality": "Croatia",
+  "birth_date": "1984-10-27",
+  "birth_place": "Zadar",
+  "career_transfers": [
+    {
+      "date": "2012-01-01",
+      "type": "€ 1M",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "NK Zadar",
+    "HNK Hajduk Split",
+    "AS Monaco FC",
+    "HNK Hajduk Split"
+  ]
+}

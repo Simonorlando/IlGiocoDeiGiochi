@@ -1,0 +1,28 @@
+{
+  "player_id": 1646,
+  "full_name": "Lucas Tolentino Coelho de Lima",
+  "nationality": "Brazil",
+  "birth_date": "1997-08-27",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2020-09-30",
+      "type": "€ 20M",
+      "team_out": "AC Milan",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2019-01-03",
+      "type": "€ 35M",
+      "team_out": "Flamengo",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "AC Milan",
+    "Olympique Lyonnais",
+    "West Ham United F.C.",
+    "Clube de Regatas do Flamengo"
+  ]
+}

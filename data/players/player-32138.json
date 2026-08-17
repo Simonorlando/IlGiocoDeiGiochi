@@ -1,0 +1,29 @@
+{
+  "player_id": 32138,
+  "full_name": "Massimo Maccarone",
+  "nationality": "Italy",
+  "birth_date": "1979-09-06",
+  "birth_place": "Galliate",
+  "career_transfers": [
+    {
+      "date": "2004-08-31",
+      "type": "Loan",
+      "team_out": "Middlesbrough",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Prato",
+    "AC Milan",
+    "Modena F.C.",
+    "Varese Calcio",
+    "A.C. Prato",
+    "Empoli FC",
+    "Middlesbrough F.C.",
+    "Parma Calcio 1913",
+    "Siena FC",
+    "Palermo F.C.",
+    "U.C. Sampdoria",
+    "Empoli FC"
+  ]
+}

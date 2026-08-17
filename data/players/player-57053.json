@@ -1,0 +1,30 @@
+{
+  "player_id": 57053,
+  "full_name": "Michele Cerofolini",
+  "nationality": "Italy",
+  "birth_date": "1999-01-04",
+  "birth_place": "Arezzo",
+  "career_transfers": [
+    {
+      "date": "2023-08-14",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2025-07-09",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina"
+  ]
+}

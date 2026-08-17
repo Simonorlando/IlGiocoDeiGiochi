@@ -1,0 +1,33 @@
+{
+  "player_id": 21065,
+  "full_name": "Clément Chantôme",
+  "nationality": "France",
+  "birth_date": "1987-09-11",
+  "birth_place": "Sens",
+  "career_transfers": [
+    {
+      "date": "2015-01-30",
+      "type": "€ 750K",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Bordeaux"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Toulouse",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2013-08-21",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Toulouse"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Toulouse FC",
+    "FC Girondins de Bordeaux",
+    "Stade Rennais F.C."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "player_id": 31021,
+  "full_name": "Alberto Grassi",
+  "nationality": "Italy",
+  "birth_date": "1995-03-07",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 2M",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2022-08-17",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2021-08-21",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 6.9M",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-08-14",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "SSC Napoli",
+    "Parma Calcio 1913"
+  ]
+}

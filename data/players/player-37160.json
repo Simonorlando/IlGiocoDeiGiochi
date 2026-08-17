@@ -1,0 +1,39 @@
+{
+  "player_id": 37160,
+  "full_name": "Steven Berghuis",
+  "nationality": "Netherlands",
+  "birth_date": "1991-12-19",
+  "birth_place": "Apeldoorn",
+  "career_transfers": [
+    {
+      "date": "2021-07-19",
+      "type": "N/A",
+      "team_out": "Feyenoord",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2017-07-31",
+      "type": "€ 6.5M",
+      "team_out": "Watford",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Feyenoord",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2016-08-01",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "FC Twente",
+    "AZ Alkmaar",
+    "VVV-Venlo",
+    "Watford F.C."
+  ]
+}

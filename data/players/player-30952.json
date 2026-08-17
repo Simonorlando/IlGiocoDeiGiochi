@@ -1,0 +1,34 @@
+{
+  "player_id": 30952,
+  "full_name": "Dario Dainelli",
+  "nationality": "Italy",
+  "birth_date": "1979-06-09",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2001-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2000-08-01",
+      "type": "N/A",
+      "team_out": "Fidelis Andria",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Modena F.C.",
+    "Fidelis Andria 2018",
+    "Cavese 1919",
+    "US Lecce",
+    "Brescia Calcio",
+    "Hellas Verona FC",
+    "ACF Fiorentina",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "US Livorno 1915"
+  ]
+}

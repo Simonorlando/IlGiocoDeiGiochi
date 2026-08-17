@@ -1,0 +1,39 @@
+{
+  "player_id": 2195,
+  "full_name": "Sacha Boey",
+  "nationality": "France",
+  "birth_date": "2000-09-13",
+  "birth_place": "Montreuil-sous-Bois",
+  "career_transfers": [
+    {
+      "date": "2024-01-28",
+      "type": "€ 30M",
+      "team_out": "Galatasaray",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2021-07-26",
+      "type": "N/A",
+      "team_out": "Rennes",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Galatasaray",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Dijon FCO",
+    "Galatasaray S.K.",
+    "FC Bayern Munich"
+  ]
+}

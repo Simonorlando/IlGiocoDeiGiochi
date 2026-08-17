@@ -1,0 +1,37 @@
+{
+  "player_id": 31033,
+  "full_name": "Nicolás Javier Schiappacasse Oliva",
+  "nationality": "Uruguay",
+  "birth_date": "1999-01-12",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2019-07-18",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Famalicao"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-08-07",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Rayo Majadahonda"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 1.5M",
+      "team_out": "CA River Plate",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Atlético Madrid"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "player_id": 30531,
+  "full_name": "Jérémie Boga",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1997-01-03",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2023-07-25",
+      "type": "€ 18M",
+      "team_out": "Atalanta",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2022-01-24",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C. Development Squad and Academy",
+    "Stade Rennais F.C.",
+    "Granada CF",
+    "Birmingham City F.C.",
+    "US Sassuolo Calcio"
+  ]
+}

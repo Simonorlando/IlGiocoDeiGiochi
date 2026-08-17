@@ -1,0 +1,41 @@
+{
+  "player_id": 102,
+  "full_name": "Djibril Sidibé",
+  "nationality": "France",
+  "birth_date": "1992-07-29",
+  "birth_place": "Troyes",
+  "career_transfers": [
+    {
+      "date": "2022-09-09",
+      "type": "Free",
+      "team_out": "Monaco",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2020-08-29",
+      "type": "N/A",
+      "team_out": "Everton",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2019-08-07",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2016-07-08",
+      "type": "€ 15M",
+      "team_out": "Lille",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "ES Troyes AC",
+    "Lille OSC",
+    "AS Monaco FC",
+    "Everton F.C.",
+    "AEK Athens F.C.",
+    "Toulouse FC"
+  ]
+}

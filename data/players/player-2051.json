@@ -1,0 +1,22 @@
+{
+  "player_id": 2051,
+  "full_name": "Maxime Gonalons",
+  "nationality": "France",
+  "birth_date": "1989-03-10",
+  "birth_place": "Vénissieux",
+  "career_transfers": [
+    {
+      "date": "2018-08-20",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "AS Roma",
+    "Sevilla FC",
+    "Granada CF",
+    "Clermont Foot 63"
+  ]
+}

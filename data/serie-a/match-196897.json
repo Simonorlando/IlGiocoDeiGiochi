@@ -1,0 +1,179 @@
+{
+  "fixture_id": 196897,
+  "competition": "serie_a",
+  "season": 2014,
+  "positions_available": true,
+  "teams": [
+    {
+      "team_name": "Verona",
+      "team_id": 504,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 30547,
+          "shirt_number": 1,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 95475,
+          "shirt_number": 4,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 115178,
+          "shirt_number": 33,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 26799,
+          "shirt_number": 18,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 11598,
+          "shirt_number": 40,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 24150,
+          "shirt_number": 8,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30808,
+          "shirt_number": 10,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30564,
+          "shirt_number": 23,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31741,
+          "shirt_number": 77,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 115142,
+          "shirt_number": 9,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 10402,
+          "shirt_number": 17,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    },
+    {
+      "team_name": "Fiorentina",
+      "team_id": 502,
+      "formation": "3-5-2",
+      "lineup": [
+        {
+          "player_id": 912,
+          "shirt_number": 1,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 6607,
+          "shirt_number": 2,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 35538,
+          "shirt_number": 19,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 39,
+          "shirt_number": 15,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2278,
+          "shirt_number": 28,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1579,
+          "shirt_number": 17,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 80792,
+          "shirt_number": 7,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 13582,
+          "shirt_number": 14,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 210,
+          "shirt_number": 20,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 866,
+          "shirt_number": 11,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 4
+        },
+        {
+          "player_id": 26314,
+          "shirt_number": 33,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        }
+      ]
+    }
+  ],
+  "positions_source": "sofascore",
+  "home_score": 1,
+  "away_score": 2
+}

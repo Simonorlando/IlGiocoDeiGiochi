@@ -1,0 +1,29 @@
+{
+  "player_id": 30462,
+  "full_name": "Manolo Gabbiadini",
+  "nationality": "Italy",
+  "birth_date": "1991-11-26",
+  "birth_place": "Calcinate",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2012-08-25",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Associazione Sportiva Cittadella",
+    "Bologna F.C. 1909",
+    "Juventus FC",
+    "U.C. Sampdoria",
+    "SSC Napoli"
+  ]
+}

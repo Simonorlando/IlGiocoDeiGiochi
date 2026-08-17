@@ -1,0 +1,18 @@
+{
+  "player_id": 38753,
+  "full_name": "Nicolas-Gerrit Kühn",
+  "nationality": "Germany",
+  "birth_date": "2000-01-01",
+  "birth_place": "Wunstorf",
+  "career_transfers": [
+    {
+      "date": "2025-07-11",
+      "type": "Transfer",
+      "team_out": "Celtic",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax"
+  ]
+}

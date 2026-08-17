@@ -1,0 +1,36 @@
+{
+  "player_id": 74837,
+  "full_name": "Fernando Rubén Gago",
+  "nationality": "Argentina",
+  "birth_date": "1986-04-10",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2012-07-20",
+      "type": "€ 3.5M",
+      "team_out": "Real Madrid",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "€ 20.5M",
+      "team_out": "Boca Juniors",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Real Madrid Club de Fútbol",
+    "AS Roma",
+    "Valencia CF",
+    "Club Atlético Vélez Sarsfield",
+    "Boca Juniors",
+    "Club Atlético Vélez Sarsfield"
+  ]
+}

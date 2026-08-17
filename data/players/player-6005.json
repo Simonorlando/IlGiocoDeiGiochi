@@ -1,0 +1,36 @@
+{
+  "player_id": 6005,
+  "full_name": "Juan Fernando Quintero Paniagua",
+  "nationality": "Colombia",
+  "birth_date": "1993-01-18",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2013-07-12",
+      "type": "€ 5M",
+      "team_out": "Pescara",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2012-07-17",
+      "type": "€ 3M",
+      "team_out": "Envigado",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Envigado Fútbol Club",
+    "Atlético Nacional",
+    "Delfino Pescara 1936",
+    "FC Porto",
+    "Stade Rennais F.C.",
+    "Deportivo Independiente Medellín",
+    "Club Atlético River Plate",
+    "Shenzhen F.C.",
+    "Club Atlético River Plate",
+    "Racing Club",
+    "América de Cali",
+    "Club Atlético River Plate",
+    "Deportivo Independiente Medellín"
+  ]
+}

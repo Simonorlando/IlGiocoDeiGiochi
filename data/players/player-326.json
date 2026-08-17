@@ -1,0 +1,28 @@
+{
+  "player_id": 326,
+  "full_name": "Allan Marques Loureiro",
+  "nationality": "Brazil",
+  "birth_date": "1991-01-08",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2015-07-21",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 3M",
+      "team_out": "Vasco DA Gama",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "CR Vasco da Gama",
+    "Deportivo Maldonado",
+    "Udinese Calcio",
+    "SSC Napoli",
+    "Everton F.C."
+  ]
+}

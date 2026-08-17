@@ -1,0 +1,30 @@
+{
+  "player_id": 77815,
+  "full_name": "Rafael Marques  Pinto",
+  "nationality": "Brazil",
+  "birth_date": "1983-09-21",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2015-07-23",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Coritiba"
+    },
+    {
+      "date": "2013-08-31",
+      "type": "N/A",
+      "team_out": "Atletico-MG",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Brasiliense Futebol Clube",
+    "Botafogo F.R.",
+    "Goiás Esporte Clube",
+    "Grêmio FBPA",
+    "Clube Atlético Mineiro",
+    "Hellas Verona FC",
+    "Coritiba F.C."
+  ]
+}

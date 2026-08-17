@@ -1,0 +1,28 @@
+{
+  "player_id": 1218,
+  "full_name": "Emiliano Ariel Rigoni",
+  "nationality": "Argentina",
+  "birth_date": "1993-02-04",
+  "birth_place": "Colonia Caroya",
+  "career_transfers": [
+    {
+      "date": "2019-01-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "Club Atlético Independiente",
+    "FC Zenit Saint Petersburg",
+    "Atalanta BC",
+    "Club América"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 30555,
+  "full_name": "Fabio Pisacane",
+  "nationality": "Italy",
+  "birth_date": "1986-01-28",
+  "birth_place": "Naples",
+  "career_transfers": [
+    {
+      "date": "2021-01-19",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "S.C. Ravenna Sport",
+    "US Cremonese",
+    "Italy Lega Pro representative teams",
+    "Lanciano Calcio 1920",
+    "A.C. Lumezzane",
+    "SSC Ancona",
+    "Ternana Calcio",
+    "U.S. Avellino 1912",
+    "Cagliari Calcio",
+    "AC ChievoVerona"
+  ]
+}

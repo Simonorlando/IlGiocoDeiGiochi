@@ -1,0 +1,32 @@
+{
+  "player_id": 158378,
+  "full_name": "Enzo Barrenechea",
+  "nationality": "Argentina",
+  "birth_date": "2001-05-25",
+  "birth_place": "Villa María",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Valencia",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa",
+    "Valencia",
+    "Aston Villa"
+  ]
+}

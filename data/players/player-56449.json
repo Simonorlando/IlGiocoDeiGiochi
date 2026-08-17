@@ -1,0 +1,25 @@
+{
+  "player_id": 56449,
+  "full_name": "Giuseppe Caso",
+  "nationality": "Italy",
+  "birth_date": "1998-12-09",
+  "birth_place": "Torre Annunziata",
+  "career_transfers": [
+    {
+      "date": "2026-01-21",
+      "type": "Loan",
+      "team_out": "Modena",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Modena"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Cuneo 1905 Olmo",
+    "Frosinone Calcio"
+  ]
+}

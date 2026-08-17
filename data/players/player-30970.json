@@ -1,0 +1,25 @@
+{
+  "player_id": 30970,
+  "full_name": "Niccolò Giannetti",
+  "nationality": "Italy",
+  "birth_date": "1991-05-12",
+  "birth_place": "Siena",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Siena FC",
+    "Juventus FC",
+    "A.S. Gubbio 1910",
+    "F.C. Südtirol",
+    "Associazione Sportiva Cittadella",
+    "Spezia Calcio",
+    "Cagliari Calcio",
+    "US Livorno 1915"
+  ]
+}

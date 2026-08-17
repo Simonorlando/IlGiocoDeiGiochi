@@ -1,0 +1,23 @@
+{
+  "player_id": 30494,
+  "full_name": "Antonio Rosati",
+  "nationality": "Italy",
+  "birth_date": "1983-06-26",
+  "birth_place": "Tivoli",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 2.9M",
+      "team_out": "Lecce",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "S.S. Sambenedettese Calcio",
+    "SSC Napoli",
+    "US Sassuolo Calcio",
+    "ACF Fiorentina",
+    "A.C. Perugia Calcio"
+  ]
+}

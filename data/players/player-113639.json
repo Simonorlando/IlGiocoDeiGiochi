@@ -1,0 +1,32 @@
+{
+  "player_id": 113639,
+  "full_name": "Dimitar Ivanov Berbatov",
+  "nationality": "Bulgaria",
+  "birth_date": "1981-01-30",
+  "birth_place": "Blagoevgrad",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "15.7M €",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2001-01-01",
+      "type": "1.3M €",
+      "team_out": "CSKA Sofia",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "PFC CSKA Sofia",
+    "PFC Pirin Blagoevgrad",
+    "Bayer 04 Leverkusen",
+    "Tottenham Hotspur F.C.",
+    "Manchester United F.C.",
+    "Fulham F.C.",
+    "AS Monaco FC",
+    "PAOK FC",
+    "Kerala Blasters FC"
+  ]
+}

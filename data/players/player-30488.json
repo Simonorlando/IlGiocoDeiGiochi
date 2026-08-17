@@ -1,0 +1,21 @@
+{
+  "player_id": 30488,
+  "full_name": "Riccardo Orsolini",
+  "nationality": "Italy",
+  "birth_date": "1997-01-24",
+  "birth_place": "Rotella",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Ascoli"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Juventus FC",
+    "Ascoli Calcio 1898 FC",
+    "Atalanta BC"
+  ]
+}

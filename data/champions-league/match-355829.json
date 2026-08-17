@@ -1,0 +1,179 @@
+{
+  "fixture_id": 355829,
+  "competition": "champions_league",
+  "season": 2011,
+  "positions_available": true,
+  "teams": [
+    {
+      "team_name": "Zenit Saint Petersburg",
+      "team_id": 596,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 210587,
+          "shirt_number": 30,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31015,
+          "shirt_number": 3,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1199,
+          "shirt_number": 2,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 8695,
+          "shirt_number": 6,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 1903,
+          "shirt_number": 14,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 105797,
+          "shirt_number": 15,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 117949,
+          "shirt_number": 20,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 97626,
+          "shirt_number": 18,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 477,
+          "shirt_number": 27,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 104610,
+          "shirt_number": 11,
+          "position": null,
+          "line_index": 4,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 53691,
+          "shirt_number": 99,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Benfica",
+      "team_id": 211,
+      "formation": "4-4-2",
+      "lineup": [
+        {
+          "player_id": 80369,
+          "shirt_number": 1,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 104404,
+          "shirt_number": 4,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 917,
+          "shirt_number": 24,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 80606,
+          "shirt_number": 3,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 377,
+          "shirt_number": 14,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 20,
+          "shirt_number": 28,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 50907,
+          "shirt_number": 20,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 902,
+          "shirt_number": 21,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 10573,
+          "shirt_number": 8,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 70475,
+          "shirt_number": 7,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 935,
+          "shirt_number": 19,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_source": "sofascore",
+  "home_score": 3,
+  "away_score": 2
+}

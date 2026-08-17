@@ -1,0 +1,24 @@
+{
+  "player_id": 128338,
+  "full_name": "Woyo Coulibaly",
+  "nationality": "France",
+  "birth_date": "1999-05-26",
+  "birth_place": "Gonesse",
+  "career_transfers": [
+    {
+      "date": "2021-08-30",
+      "type": "€ 2M",
+      "team_out": "Le Havre",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-01-15",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Leicester"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre AC"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "player_id": 330456,
+  "full_name": "Axel Thurel Sahuye Guessand",
+  "nationality": "France",
+  "birth_date": "2004-11-06",
+  "birth_place": "Schiltigheim",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "FC Volendam",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2024-01-19",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "FC Volendam"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Nancy",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-03-04",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Kristiansund BK"
+    }
+  ],
+  "career_clubs": [
+    "Nancy",
+    "Udinese",
+    "Volendam",
+    "Kristiansund",
+    "Pafos",
+    "Kalamata"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 41779,
+  "full_name": "Bruno Alexandre Marques Pereirinha",
+  "nationality": "Portugal",
+  "birth_date": "1988-03-02",
+  "birth_place": "Rio de Mouro",
+  "career_transfers": [
+    {
+      "date": "2015-07-15",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Atletico Paranaense"
+    },
+    {
+      "date": "2013-01-30",
+      "type": "Free",
+      "team_out": "Sporting CP",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Clube Desportivo dos Olivais e Moscavide",
+    "Sporting CP",
+    "Vitória S.C.",
+    "A.O. Kavalas (association football)",
+    "Sporting CP B",
+    "SS Lazio",
+    "Club Athletico Paranaense"
+  ]
+}

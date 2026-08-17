@@ -1,0 +1,24 @@
+{
+  "player_id": 30866,
+  "full_name": "Manuel Lazzari",
+  "nationality": "Italy",
+  "birth_date": "1993-11-29",
+  "birth_place": "Valdagno",
+  "career_transfers": [
+    {
+      "date": "2019-07-12",
+      "type": "€ 17M",
+      "team_out": "Spal",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": null,
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio"
+  ]
+}

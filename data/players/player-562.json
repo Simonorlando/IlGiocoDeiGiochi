@@ -1,0 +1,27 @@
+{
+  "player_id": 562,
+  "full_name": "André Gomes Magalhães de Almeida",
+  "nationality": "Portugal",
+  "birth_date": "1990-09-10",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2011-08-01",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "União de Leiria"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Belenenses",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "C.F. Os Belenenses",
+    "S.L. Benfica",
+    "U.D. Leiria",
+    "S.L. Benfica B"
+  ]
+}

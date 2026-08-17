@@ -1,0 +1,18 @@
+{
+  "player_id": 67943,
+  "full_name": "Felipe Rodrigues da Silva",
+  "nationality": "Brazil",
+  "birth_date": "2001-06-30",
+  "birth_place": "Francisco Morato",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 11M",
+      "team_out": "Benfica",
+      "team_in": "Nottingham Forest"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC"
+  ]
+}

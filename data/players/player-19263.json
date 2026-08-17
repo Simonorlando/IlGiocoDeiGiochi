@@ -1,0 +1,33 @@
+{
+  "player_id": 19263,
+  "full_name": "Lloyd Casius Kelly",
+  "nationality": "England",
+  "birth_date": "1998-10-06",
+  "birth_place": "Bristol",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Newcastle",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Juventus",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Newcastle",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Bristol City F.C.",
+    "AFC Bournemouth",
+    "Newcastle United F.C.",
+    "Juventus FC"
+  ]
+}

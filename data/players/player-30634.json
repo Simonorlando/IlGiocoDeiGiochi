@@ -1,0 +1,35 @@
+{
+  "player_id": 30634,
+  "full_name": "Cristian Buonaiuto",
+  "nationality": "Italy",
+  "birth_date": "1992-12-29",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2015-07-10",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Maceratese"
+    },
+    {
+      "date": "2015-07-09",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Benevento Calcio",
+    "F.C. Aprilia Racing Club",
+    "Benevento Calcio",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "A.C. Perugia Calcio"
+  ]
+}

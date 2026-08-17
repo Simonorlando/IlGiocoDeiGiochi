@@ -1,0 +1,22 @@
+{
+  "player_id": 25635,
+  "full_name": "Jonas Hofmann",
+  "nationality": "Germany",
+  "birth_date": "1992-07-14",
+  "birth_place": "Heidelberg",
+  "career_transfers": [
+    {
+      "date": "2023-07-05",
+      "type": "€ 10M",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim",
+    "Borussia Dortmund",
+    "1. FSV Mainz 05",
+    "Borussia Mönchengladbach",
+    "Bayer 04 Leverkusen"
+  ]
+}

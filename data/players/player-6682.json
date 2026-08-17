@@ -1,0 +1,38 @@
+{
+  "player_id": 6682,
+  "full_name": "Alberto Facundo Costa",
+  "nationality": "Argentina",
+  "birth_date": "1985-01-09",
+  "birth_place": "Las Flores",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Valencia",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Montpellier",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club de France",
+    "Pau Football Club",
+    "FC Sète",
+    "Montpellier Hérault Sport Club",
+    "Valencia CF",
+    "Spartak Moscow",
+    "Genoa CFC",
+    "ACF Fiorentina",
+    "San Lorenzo de Almagro",
+    "Unión Deportiva Almería",
+    "San Muertín de Tucumán",
+    "Atlético Nacional",
+    "San Muertín de Tucumán",
+    "Club Deportivo Morón",
+    "Pau Football Club"
+  ]
+}

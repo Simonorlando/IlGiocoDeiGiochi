@@ -1,0 +1,33 @@
+{
+  "player_id": 30526,
+  "full_name": "Giangiacomo Magnani",
+  "nationality": "Italy",
+  "birth_date": "1995-10-04",
+  "birth_place": "Correggio",
+  "career_transfers": [
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Verona",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-01-13",
+      "type": "Return from loan",
+      "team_out": "Reggiana",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Reggiana"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "Calcio Padova",
+    "Juventus FC",
+    "A.C. Perugia Calcio"
+  ]
+}

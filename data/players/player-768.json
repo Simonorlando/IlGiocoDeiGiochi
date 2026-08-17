@@ -1,0 +1,42 @@
+{
+  "player_id": 768,
+  "full_name": "Federico Julián Fazio",
+  "nationality": "Argentina",
+  "birth_date": "1987-03-17",
+  "birth_place": "Ramos Mejía",
+  "career_transfers": [
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2014-08-27",
+      "type": "€ 10M",
+      "team_out": "Sevilla",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 800K",
+      "team_out": "Ferro Carril Oeste",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Ferro Carril Oeste",
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Tottenham Hotspur F.C.",
+    "Sevilla FC",
+    "AS Roma",
+    "U.S. Salernitana 1919"
+  ]
+}

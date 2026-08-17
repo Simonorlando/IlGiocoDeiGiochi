@@ -1,0 +1,24 @@
+{
+  "player_id": 6050,
+  "full_name": "Lautaro Daniel Giannetti",
+  "nationality": "Argentina",
+  "birth_date": "1993-11-13",
+  "birth_place": "San Nicolás de los Arroyos",
+  "career_transfers": [
+    {
+      "date": "2024-01-05",
+      "type": "Free",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-08-13",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Antalyaspor"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield"
+  ]
+}

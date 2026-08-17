@@ -1,0 +1,178 @@
+{
+  "fixture_id": 816252,
+  "competition": "champions_league",
+  "season": 2021,
+  "teams": [
+    {
+      "team_name": "Benfica",
+      "team_id": 211,
+      "formation": "4-4-1-1",
+      "lineup": [
+        {
+          "player_id": 557,
+          "shirt_number": 99,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 170,
+          "shirt_number": 5,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 624,
+          "shirt_number": 30,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 10305,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 563,
+          "shirt_number": 3,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 578,
+          "shirt_number": 49,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 573,
+          "shirt_number": 27,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 19,
+          "shirt_number": 28,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 2414,
+          "shirt_number": 7,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 51617,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 41585,
+          "shirt_number": 88,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Ajax",
+      "team_id": 194,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 37113,
+          "shirt_number": 32,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 531,
+          "shirt_number": 17,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 545,
+          "shirt_number": 12,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2467,
+          "shirt_number": 21,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 38746,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 2869,
+          "shirt_number": 4,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 542,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 554,
+          "shirt_number": 10,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 37160,
+          "shirt_number": 23,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1826,
+          "shirt_number": 22,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 9971,
+          "shirt_number": 11,
+          "position": "M",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 2,
+  "away_score": 2
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 794,
+  "full_name": "Patrik Schick",
+  "nationality": "Czechia",
+  "birth_date": "1996-01-24",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 37M",
+      "team_out": "Sampdoria",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2017-08-29",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2016-07-13",
+      "type": "€ 4M",
+      "team_out": "Sparta Praha",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "AC Sparta Prague",
+    "Bohemians 1905",
+    "U.C. Sampdoria",
+    "AS Roma",
+    "RB Leipzig",
+    "Bayer 04 Leverkusen"
+  ]
+}

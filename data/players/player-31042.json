@@ -1,0 +1,29 @@
+{
+  "player_id": 31042,
+  "full_name": "Giovanni Di Lorenzo",
+  "nationality": "Italy",
+  "birth_date": "1993-08-04",
+  "birth_place": "Castelnuovo Garfagnana",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 8M",
+      "team_out": "Empoli",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2017-08-30",
+      "type": "N/A",
+      "team_out": "Matera",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "A.C. Cuneo 1905 Olmo",
+    "Italy under-21 Serie B representative team",
+    "FC Matera",
+    "Empoli FC",
+    "SSC Napoli"
+  ]
+}

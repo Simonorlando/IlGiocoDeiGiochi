@@ -1,0 +1,30 @@
+{
+  "player_id": 963,
+  "full_name": "Lukáš Hrádecký",
+  "nationality": "Finland",
+  "birth_date": "1989-11-24",
+  "birth_place": "Bratislava",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2015-08-07",
+      "type": "€ 2M",
+      "team_out": "Brondby",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "TPS Turku",
+    "Åbo IFK",
+    "Esbjerg fB",
+    "Brøndby IF",
+    "Eintracht Frankfurt",
+    "Bayer 04 Leverkusen",
+    "AS Monaco FC"
+  ]
+}

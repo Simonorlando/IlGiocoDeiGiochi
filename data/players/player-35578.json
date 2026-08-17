@@ -1,0 +1,24 @@
+{
+  "player_id": 35578,
+  "full_name": "Milton Joel Caraglio",
+  "nationality": "Argentina",
+  "birth_date": "1988-12-01",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-01-01",
+      "type": "Loan",
+      "team_out": "Rangers de Talca",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "New England Revolution",
+    "Club Social de Deportes Rangers",
+    "Delfino Pescara 1936",
+    "Arsenal Fútbol Club",
+    "Club Atlético Vélez Sarsfield",
+    "Dorados de Sinaloa"
+  ]
+}

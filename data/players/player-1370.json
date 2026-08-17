@@ -1,0 +1,33 @@
+{
+  "player_id": 1370,
+  "full_name": "André Morgan Rami Ayew",
+  "nationality": "Ghana",
+  "birth_date": "1989-12-17",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Lorient"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille",
+    "F.C. Lorient",
+    "AC Arles",
+    "Swansea City A.F.C.",
+    "West Ham United F.C.",
+    "Swansea City A.F.C.",
+    "Fenerbahçe Istanbul",
+    "Al Sadd Sports Club",
+    "Nottingham Forest F.C.",
+    "Le Havre AC"
+  ]
+}

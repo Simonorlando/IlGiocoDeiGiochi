@@ -1,0 +1,53 @@
+{
+  "player_id": 31741,
+  "full_name": "Panagiotis Tachtsidis",
+  "nationality": "Greece",
+  "birth_date": "1991-02-15",
+  "birth_place": "Nafplio",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 500K",
+      "team_out": "Nottingham Forest",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2019-01-03",
+      "type": "Loan",
+      "team_out": "Nottingham Forest",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AEK Athens F.C.",
+    "Genoa CFC",
+    "AC Cesena",
+    "U.S. Grosseto 1912",
+    "Hellas Verona FC",
+    "AS Roma",
+    "Catania FC",
+    "Genoa CFC",
+    "Torino FC",
+    "Hellas Verona FC",
+    "Torino FC",
+    "Cagliari Calcio",
+    "Olympiacos F.C.",
+    "Nottingham Forest F.C.",
+    "US Lecce",
+    "Al-Fayhaa SC",
+    "Khor Fakkan Club",
+    "CFR Cluj"
+  ]
+}

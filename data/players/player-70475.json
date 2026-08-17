@@ -1,0 +1,30 @@
+{
+  "player_id": 70475,
+  "full_name": "Óscar René Cardozo Marín",
+  "nationality": "Paraguay",
+  "birth_date": "1983-05-20",
+  "birth_place": "Juan Eulogio Estigarribia",
+  "career_transfers": [
+    {
+      "date": "2017-06-27",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Libertad Asuncion"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "Trabzonspor",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético 3 de Febrero",
+    "Club Nacional",
+    "Newell's Old Boys",
+    "S.L. Benfica",
+    "Trabzonspor",
+    "Olympiacos F.C.",
+    "Club Libertad"
+  ]
+}

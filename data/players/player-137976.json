@@ -1,0 +1,26 @@
+{
+  "player_id": 137976,
+  "full_name": "Isak Malcolm Kwaku Hien",
+  "nationality": "Sweden",
+  "birth_date": "1999-01-13",
+  "birth_place": "Kista",
+  "career_transfers": [
+    {
+      "date": "2024-01-02",
+      "type": "€ 8.5M",
+      "team_out": "Verona",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2022-08-27",
+      "type": "€ 2.9M",
+      "team_out": "Djurgardens IF",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Djurgårdens IF Fotboll",
+    "Vasalunds IF",
+    "Hellas Verona FC"
+  ]
+}

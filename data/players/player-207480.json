@@ -1,0 +1,18 @@
+{
+  "player_id": 207480,
+  "full_name": "Andrea Papetti",
+  "nationality": "Italy",
+  "birth_date": "2002-07-03",
+  "birth_place": "cernusco sul naviglio",
+  "career_transfers": [
+    {
+      "date": "2025-07-09",
+      "type": "Free Transfer",
+      "team_out": "Brescia",
+      "team_in": "Reggiana"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

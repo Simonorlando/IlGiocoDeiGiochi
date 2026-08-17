@@ -1,0 +1,24 @@
+{
+  "player_id": 1905,
+  "full_name": "Rolando Jorge Pires da Fonseca",
+  "nationality": "Portugal",
+  "birth_date": "1985-08-31",
+  "birth_place": "São Vicente",
+  "career_transfers": [
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "C.F. Os Belenenses",
+    "FC Porto",
+    "SSC Napoli",
+    "Inter Milan",
+    "R.S.C. Anderlecht",
+    "Olympique de Marseille",
+    "S.C. Braga"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 30553,
+  "full_name": "Charalampos Lykogiannis",
+  "nationality": "Greece",
+  "birth_date": "1993-10-22",
+  "birth_place": "Athen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Bologna",
+      "team_in": "Lykogiannis Charalampos"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C.",
+    "Levadiakos F.C.",
+    "Ergotelis F.C.",
+    "SK Sturm Graz",
+    "Cagliari Calcio"
+  ]
+}

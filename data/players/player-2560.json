@@ -1,0 +1,26 @@
+{
+  "player_id": 2560,
+  "full_name": "Erick Antonio Pulgar Farfán",
+  "nationality": "Chile",
+  "birth_date": "1994-01-15",
+  "birth_place": "Antofagasta",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportes Antofagasta",
+    "Club Deportivo Universidad Católica",
+    "Bologna F.C. 1909"
+  ]
+}

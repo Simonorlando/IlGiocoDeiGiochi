@@ -1,0 +1,28 @@
+{
+  "player_id": 31553,
+  "full_name": "César Alejandro Falletti dos Santos",
+  "nationality": "Uruguay",
+  "birth_date": "1992-12-02",
+  "birth_place": "Artigas",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2018-08-13",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "C.A. Cerro",
+    "Ternana Calcio",
+    "Bologna F.C. 1909",
+    "Club Tijuana",
+    "Palermo F.C."
+  ]
+}

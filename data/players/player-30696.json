@@ -1,0 +1,43 @@
+{
+  "player_id": 30696,
+  "full_name": "Daniele Cacia",
+  "nationality": "Italy",
+  "birth_date": "1983-08-23",
+  "birth_place": "Catanzaro",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 1.1M",
+      "team_out": "Piacenza",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2009-08-28",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 3M",
+      "team_out": "Piacenza",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Ternana Calcio",
+    "SPAL",
+    "Pistoiese FC",
+    "ACF Fiorentina",
+    "US Lecce",
+    "AS Reggina 1914",
+    "Piacenza Calcio",
+    "Calcio Padova",
+    "Hellas Verona FC",
+    "Bologna F.C. 1909",
+    "Ascoli Calcio 1898 FC",
+    "Novara Calcio",
+    "AC Cesena"
+  ]
+}

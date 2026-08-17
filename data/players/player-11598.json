@@ -1,0 +1,87 @@
+{
+  "player_id": 11598,
+  "full_name": "Alejandro Damián González Hernández",
+  "nationality": "Uruguay",
+  "birth_date": "1988-03-23",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2018-08-01",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Palestino"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2018-01-30",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Avellino",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2016-07-19",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2015-08-18",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2015-01-08",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Penarol",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Tacuarembó F.C.",
+    "Club Sporting Cristal",
+    "Club Atlético Peñarol",
+    "Hellas Verona FC",
+    "Cagliari Calcio",
+    "Ternana Calcio",
+    "U.S. Avellino 1912",
+    "A.C. Perugia Calcio",
+    "C.D. Palestino",
+    "Barcelona S.C.",
+    "Defensor Sporting Club",
+    "Club Sporting Cristal",
+    "CD Universidad San Martín",
+    "Miramar Misiones",
+    "Club Oriental de Fútbol"
+  ]
+}

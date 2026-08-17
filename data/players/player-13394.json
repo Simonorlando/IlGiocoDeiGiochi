@@ -1,0 +1,41 @@
+{
+  "player_id": 13394,
+  "full_name": "Matías Julio Cabrera Acevedo",
+  "nationality": "Uruguay",
+  "birth_date": "1986-05-16",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2015-09-22",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Club Nacional"
+    },
+    {
+      "date": "2015-06-30",
+      "type": "N/A",
+      "team_out": "Estoril",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Estoril"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "€ 1.5M",
+      "team_out": "Club Nacional",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "El Tanque Sisley",
+    "C.A. Cerro",
+    "Club Nacional de Football",
+    "Cagliari Calcio",
+    "G.D. Estoril Praia",
+    "Club Nacional de Football"
+  ]
+}

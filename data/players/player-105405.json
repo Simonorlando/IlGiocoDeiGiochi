@@ -1,0 +1,30 @@
+{
+  "player_id": 105405,
+  "full_name": "Andrea Pirlo",
+  "nationality": "Italy",
+  "birth_date": "1979-05-19",
+  "birth_place": "Flero",
+  "career_transfers": [
+    {
+      "date": "2015-07-08",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "New York City FC"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Inter Milan",
+    "AS Reggina 1914",
+    "AC Milan",
+    "Brescia Calcio",
+    "Juventus FC",
+    "New York City FC"
+  ]
+}

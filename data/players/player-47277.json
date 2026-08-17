@@ -1,0 +1,34 @@
+{
+  "player_id": 47277,
+  "full_name": "Unai Núñez Gestoso",
+  "nationality": "Spain",
+  "birth_date": "1997-01-30",
+  "birth_place": "Portugalete",
+  "career_transfers": [
+    {
+      "date": "2026-01-22",
+      "type": "Loan",
+      "team_out": "Celta Vigo",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Valencia",
+      "team_in": "Celta Vigo"
+    }
+  ],
+  "career_clubs": [
+    "Danok Bat CF",
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Athletic Club",
+    "Basque Country regional football team",
+    "RC Celta de Vigo",
+    "Athletic Club",
+    "Hellas Verona FC",
+    "Valencia CF",
+    "RCD Espanyol de Barcelona"
+  ]
+}

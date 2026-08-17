@@ -1,0 +1,18 @@
+{
+  "player_id": 834,
+  "full_name": "Kristijan Bistrović",
+  "nationality": "Croatia",
+  "birth_date": "1998-04-09",
+  "birth_place": "Koprivnica",
+  "career_transfers": [
+    {
+      "date": "2022-07-24",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "PFC CSKA Moscow"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "fixture_id": 232849,
+  "competition": "serie_a",
+  "season": 2019,
+  "teams": [
+    {
+      "team_name": "Spal",
+      "team_id": 493,
+      "formation": "4-4-2",
+      "lineup": [
+        {
+          "player_id": 64,
+          "shirt_number": 25,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30448,
+          "shirt_number": 26,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30863,
+          "shirt_number": 23,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30853,
+          "shirt_number": 41,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 3010,
+          "shirt_number": 13,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 31624,
+          "shirt_number": 21,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30874,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30404,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30868,
+          "shirt_number": 11,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 30879,
+          "shirt_number": 37,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30570,
+          "shirt_number": 32,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        }
+      ]
+    },
+    {
+      "team_name": "Inter",
+      "team_id": 505,
+      "formation": "3-4-1-2",
+      "lineup": [
+        {
+          "player_id": 188,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 198,
+          "shirt_number": 37,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 197,
+          "shirt_number": 13,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31009,
+          "shirt_number": 95,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 202,
+          "shirt_number": 87,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 201,
+          "shirt_number": 77,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 203,
+          "shirt_number": 5,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30396,
+          "shirt_number": 34,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 174,
+          "shirt_number": 24,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 910,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 217,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 1
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 0,
+  "away_score": 4
+}

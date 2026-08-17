@@ -1,0 +1,28 @@
+{
+  "player_id": 30480,
+  "full_name": "Ladislav Krejčí",
+  "nationality": "Czechia",
+  "birth_date": "1992-07-05",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Sparta Praha"
+    },
+    {
+      "date": "2016-07-07",
+      "type": "€ 4M",
+      "team_out": "Sparta Praha",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "AC Sparta Prague",
+    "Bologna F.C. 1909",
+    "AC Sparta Prague",
+    "FC Hradec Králové",
+    "FK Teplice"
+  ]
+}

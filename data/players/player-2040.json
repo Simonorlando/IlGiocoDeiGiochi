@@ -1,0 +1,31 @@
+{
+  "player_id": 2040,
+  "full_name": "Sergio Escudero Palomo",
+  "nationality": "Spain",
+  "birth_date": "1989-09-02",
+  "birth_place": "Valladolid",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2015-07-03",
+      "type": "€ 2.5M",
+      "team_out": "Getafe",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Real Murcia Imperial",
+    "Real Murcia",
+    "Schalke 04",
+    "Getafe CF",
+    "Sevilla FC",
+    "Granada CF",
+    "Real Valladolid",
+    "Deportivo de A Coruña"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 114785,
+  "full_name": "Javier Garrido Behovide",
+  "nationality": "Spain",
+  "birth_date": "1985-03-15",
+  "birth_place": "Irun",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "€ 2.3M",
+      "team_out": "Real Sociedad",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Real Sociedad B",
+    "Real Sociedad",
+    "Manchester City",
+    "Lazio",
+    "Norwich City",
+    "Lazio",
+    "Norwich City",
+    "UD Las Palmas",
+    "AEK Larnaca",
+    "Real Unión Club"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 354753,
+  "full_name": "Ousmane Diomande",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2003-12-04",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "€ 7.5M",
+      "team_out": "FC Midtjylland",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2026-08-10",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Nottingham Forest"
+    }
+  ],
+  "career_clubs": [
+    "FC Midtjylland",
+    "C.D. Mafra",
+    "Sporting CP"
+  ]
+}

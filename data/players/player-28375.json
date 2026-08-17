@@ -1,0 +1,41 @@
+{
+  "player_id": 28375,
+  "full_name": "Dániel Tőzsér",
+  "nationality": "Hungary",
+  "birth_date": "1985-05-12",
+  "birth_place": "Szolnok",
+  "career_transfers": [
+    {
+      "date": "2015-08-28",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2014-07-08",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2014-07-05",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Debreceni VSC",
+    "Galatasaray S.K.",
+    "Ferencvárosi TC",
+    "AEK Athens F.C.",
+    "A.E.K.",
+    "K.R.C. Genk",
+    "Genoa CFC",
+    "Watford F.C.",
+    "Parma Calcio 1913",
+    "Watford F.C.",
+    "Queens Park Rangers F.C.",
+    "Parma Calcio 1913"
+  ]
+}

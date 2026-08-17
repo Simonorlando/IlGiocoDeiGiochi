@@ -1,0 +1,31 @@
+{
+  "player_id": 535,
+  "full_name": "Perr Schuurs",
+  "nationality": "Netherlands",
+  "birth_date": "1999-11-26",
+  "birth_place": "Nieuwstadt",
+  "career_transfers": [
+    {
+      "date": "2022-08-18",
+      "type": "€ 9M",
+      "team_out": "Ajax",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Free agent",
+      "team_out": "Torino",
+      "team_in": "Schuurs Perr"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "NEC Nijmegen"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Fortuna Sittard"
+  ]
+}

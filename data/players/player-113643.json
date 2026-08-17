@@ -1,0 +1,29 @@
+{
+  "player_id": 113643,
+  "full_name": "Souleymane Diawara",
+  "nationality": "Senegal",
+  "birth_date": "1978-12-24",
+  "birth_place": "Gabou",
+  "career_transfers": [
+    {
+      "date": "2014-08-05",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2009-07-02",
+      "type": "€ 6.5M",
+      "team_out": "Bordeaux",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre AC",
+    "FC Sochaux-Montbéliard",
+    "Charlton Athletic F.C.",
+    "FC Girondins de Bordeaux",
+    "Olympique de Marseille",
+    "OGC Nice"
+  ]
+}

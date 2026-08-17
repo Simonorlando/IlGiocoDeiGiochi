@@ -1,0 +1,28 @@
+{
+  "player_id": 30761,
+  "full_name": "Mariusz Paweł Stępiński",
+  "nationality": "Poland",
+  "birth_date": "1995-05-12",
+  "birth_place": "Sieradz",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2020-10-02",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "RTS Widzew Łódź",
+    "1. FC Nürnberg",
+    "Wisła Kraków",
+    "Ruch Chorzów",
+    "AC ChievoVerona"
+  ]
+}

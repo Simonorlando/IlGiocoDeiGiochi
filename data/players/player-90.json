@@ -1,0 +1,28 @@
+{
+  "player_id": 90,
+  "full_name": "Diego Orlando Benaglio",
+  "nationality": "Switzerland",
+  "birth_date": "1983-09-08",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2008-01-21",
+      "type": "€ 1.5M",
+      "team_out": "Nacional",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "VfB Stuttgart",
+    "C.D. Nacional",
+    "VfL Wolfsburg",
+    "AS Monaco FC"
+  ]
+}

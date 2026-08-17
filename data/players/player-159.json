@@ -1,0 +1,27 @@
+{
+  "player_id": 159,
+  "full_name": "Hugo Hadrien Dominique Lloris",
+  "nationality": "France",
+  "birth_date": "1986-12-26",
+  "birth_place": "Nice",
+  "career_transfers": [
+    {
+      "date": "2012-08-31",
+      "type": "€ 12.6M",
+      "team_out": "Lyon",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 8.5M",
+      "team_out": "Nice",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "OGC Nice",
+    "Olympique Lyonnais",
+    "Tottenham Hotspur F.C.",
+    "Los Angeles FC"
+  ]
+}

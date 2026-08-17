@@ -1,0 +1,28 @@
+{
+  "player_id": 115386,
+  "full_name": "Francesco Antonioli",
+  "nationality": "Italy",
+  "birth_date": "1969-09-14",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2009-07-07",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "AC Monza",
+    "AC Milan",
+    "AC Cesena",
+    "Modena F.C.",
+    "Pisa SC",
+    "A.C. Reggiana 1919",
+    "Bologna F.C. 1909",
+    "AS Roma",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909",
+    "AC Cesena"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "fixture_id": 197772,
+  "competition": "serie_a",
+  "season": 2012,
+  "positions_available": true,
+  "teams": [
+    {
+      "team_name": "AC Milan",
+      "team_id": 489,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 91571,
+          "shirt_number": 1,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1685,
+          "shirt_number": 25,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1634,
+          "shirt_number": 17,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 1626,
+          "shirt_number": 20,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 47261,
+          "shirt_number": 16,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1645,
+          "shirt_number": 18,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 91302,
+          "shirt_number": 8,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 29835,
+          "shirt_number": 21,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 1917,
+          "shirt_number": 45,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 791,
+          "shirt_number": 92,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 2216,
+          "shirt_number": 19,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Udinese",
+      "team_id": 494,
+      "formation": "3-5-2",
+      "lineup": [
+        {
+          "player_id": 189,
+          "shirt_number": 25,
+          "position": null,
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1838,
+          "shirt_number": 8,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30472,
+          "shirt_number": 5,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31358,
+          "shirt_number": 11,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 50140,
+          "shirt_number": 75,
+          "position": null,
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 22084,
+          "shirt_number": 34,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 91349,
+          "shirt_number": 66,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 56767,
+          "shirt_number": 21,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 4
+        },
+        {
+          "player_id": 326,
+          "shirt_number": 3,
+          "position": null,
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 115141,
+          "shirt_number": 10,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2493,
+          "shirt_number": 24,
+          "position": null,
+          "line_index": 3,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_source": "sofascore",
+  "home_score": 2,
+  "away_score": 1
+}

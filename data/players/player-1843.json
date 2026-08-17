@@ -1,0 +1,53 @@
+{
+  "player_id": 1843,
+  "full_name": "Jordan Zacharie Lukaku Menama Mokelenge",
+  "nationality": "Belgium",
+  "birth_date": "1994-07-25",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2022-08-28",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Ponferradina"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2022-01-12",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Antwerp",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Antwerp"
+    },
+    {
+      "date": "2016-07-22",
+      "type": "€ 3M",
+      "team_out": "Oostende",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "KV Oostende",
+    "SS Lazio",
+    "Royal Antwerp F.C.",
+    "Vicenza Calcio",
+    "Sociedad Deportiva Ponferradina"
+  ]
+}

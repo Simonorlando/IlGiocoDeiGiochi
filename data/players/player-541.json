@@ -1,0 +1,22 @@
+{
+  "player_id": 541,
+  "full_name": "Jurgen Ekkelenkamp",
+  "nationality": "Netherlands",
+  "birth_date": "2000-04-05",
+  "birth_place": "Zeist",
+  "career_transfers": [
+    {
+      "date": "2024-08-06",
+      "type": "€ 5.5M",
+      "team_out": "Antwerp",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Hertha BSC",
+    "Royal Antwerp F.C.",
+    "Udinese Calcio",
+    "Jong Ajax"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 39083,
+  "full_name": "Odin Lurås Bjørtuft",
+  "nationality": "Norway",
+  "birth_date": "1998-12-19",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-01-09",
+      "type": "N/A",
+      "team_out": "ODD Ballklubb",
+      "team_in": "Bodo/Glimt"
+    }
+  ],
+  "career_clubs": [
+    "Eidanger IL",
+    "Odd",
+    "Bodø/Glimt"
+  ]
+}

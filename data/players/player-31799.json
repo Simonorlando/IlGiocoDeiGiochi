@@ -1,0 +1,37 @@
+{
+  "player_id": 31799,
+  "full_name": "Antonio Junior Vacca",
+  "nationality": "Italy",
+  "birth_date": "1990-05-13",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2019-07-16",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Casertana",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-08-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Casertana"
+    },
+    {
+      "date": "2018-01-11",
+      "type": "N/A",
+      "team_out": "Foggia",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "Parma Calcio 1913"
+  ]
+}

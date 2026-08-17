@@ -1,0 +1,31 @@
+{
+  "player_id": 115451,
+  "full_name": "Davide Zoboli",
+  "nationality": "Italy",
+  "birth_date": "1981-10-08",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2012-08-07",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2009-09-18",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Benevento Calcio",
+    "A.S.D. G.C. Sora",
+    "AC Monza",
+    "U.C. AlbinoLeffe",
+    "Brescia Calcio",
+    "Torino FC",
+    "Modena F.C."
+  ]
+}

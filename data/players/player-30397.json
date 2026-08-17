@@ -1,0 +1,21 @@
+{
+  "player_id": 30397,
+  "full_name": "Federico Ceccherini",
+  "nationality": "Italy",
+  "birth_date": "1992-05-11",
+  "birth_place": "Livorno",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "Pistoiese FC",
+    "F.C. Crotone",
+    "ACF Fiorentina"
+  ]
+}

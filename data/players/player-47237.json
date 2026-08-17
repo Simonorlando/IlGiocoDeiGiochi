@@ -1,0 +1,23 @@
+{
+  "player_id": 47237,
+  "full_name": "Luis Javier Suárez Charris",
+  "nationality": "Colombia",
+  "birth_date": "1997-12-02",
+  "birth_place": "Santa Marta",
+  "career_transfers": [
+    {
+      "date": "2025-07-28",
+      "type": "Transfer",
+      "team_out": "Almeria",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Leones F.C.",
+    "Club Recreativo Granada",
+    "Watford F.C.",
+    "Real Valladolid",
+    "Gimnàstic de Tarragona",
+    "Real Zaragoza"
+  ]
+}

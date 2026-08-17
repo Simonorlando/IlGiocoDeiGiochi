@@ -1,0 +1,28 @@
+{
+  "player_id": 1816,
+  "full_name": "Gélson da Conceição Tavares Fernandes",
+  "nationality": "Switzerland",
+  "birth_date": "1986-09-02",
+  "birth_place": "Praia",
+  "career_transfers": [
+    {
+      "date": "2010-09-01",
+      "type": "Loan",
+      "team_out": "Saint Etienne",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "FC Sion",
+    "Manchester City F.C.",
+    "AS Saint-Étienne",
+    "AC ChievoVerona",
+    "Leicester City F.C.",
+    "Udinese Calcio",
+    "Sporting CP",
+    "FC Sion",
+    "SC Freiburg",
+    "Stade Rennais F.C.",
+    "Eintracht Frankfurt"
+  ]
+}

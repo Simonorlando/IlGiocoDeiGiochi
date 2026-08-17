@@ -1,0 +1,41 @@
+{
+  "player_id": 31064,
+  "full_name": "Dimitri Joseph Oberlin Mfomo",
+  "nationality": "Switzerland",
+  "birth_date": "1997-09-27",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2017-07-20",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2017-01-01",
+      "type": "N/A",
+      "team_out": "SCR Altach",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "SCR Altach"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "FC Zurich",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "S.V. Zulte Waregem",
+    "Sepsi OSK Sfântu Gheorghe",
+    "FC Basel"
+  ]
+}

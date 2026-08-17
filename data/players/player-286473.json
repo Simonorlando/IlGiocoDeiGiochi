@@ -1,0 +1,25 @@
+{
+  "player_id": 286473,
+  "full_name": "Franco Ezequiel Carboni",
+  "nationality": "Argentina",
+  "birth_date": "2003-04-04",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2023-01-24",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Cagliari",
+    "Monza",
+    "Ternana",
+    "River Plate",
+    "Venezia",
+    "Empoli",
+    "Parma"
+  ]
+}

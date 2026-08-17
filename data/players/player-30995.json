@@ -1,0 +1,30 @@
+{
+  "player_id": 30995,
+  "full_name": "Andrea Nalini",
+  "nationality": "Italy",
+  "birth_date": "1990-06-20",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Salernitana",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Virtus Verona",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Virtus Verona"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Salernitana 1919"
+  ]
+}

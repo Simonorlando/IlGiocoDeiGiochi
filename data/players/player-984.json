@@ -1,0 +1,26 @@
+{
+  "player_id": 984,
+  "full_name": "Julian Brandt",
+  "nationality": "Germany",
+  "birth_date": "1996-05-02",
+  "birth_place": "Bremen",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "Borussia Dortmund",
+    "AFC Ajax"
+  ]
+}

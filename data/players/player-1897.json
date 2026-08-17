@@ -1,0 +1,40 @@
+{
+  "player_id": 1897,
+  "full_name": "Steve Mandanda Mpidi",
+  "nationality": "France",
+  "birth_date": "1985-03-28",
+  "birth_place": "Kinshasa",
+  "career_transfers": [
+    {
+      "date": "2022-07-06",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2017-07-11",
+      "type": "N/A",
+      "team_out": "Crystal Palace",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Marseille",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 2.9M",
+      "team_out": "Le Havre",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre AC",
+    "Olympique de Marseille",
+    "Crystal Palace F.C.",
+    "Olympique de Marseille",
+    "Stade Rennais F.C."
+  ]
+}

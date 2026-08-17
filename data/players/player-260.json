@@ -1,0 +1,49 @@
+{
+  "player_id": 260,
+  "full_name": "Colin Obasanya Dagba",
+  "nationality": "France",
+  "birth_date": "1998-09-09",
+  "birth_place": "Béthune",
+  "career_transfers": [
+    {
+      "date": "2024-09-05",
+      "type": "Free",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Beerschot Wilrijk"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Auxerre",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Auxerre"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Strasbourg",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-07-06",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Boulogne",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "US Boulogne",
+    "Paris Saint-Germain FC"
+  ]
+}

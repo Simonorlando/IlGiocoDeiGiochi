@@ -1,0 +1,19 @@
+{
+  "player_id": 37145,
+  "full_name": "Tyrell Johannes Chicco Malacia",
+  "nationality": "Netherlands",
+  "birth_date": "1999-08-17",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2022-07-05",
+      "type": "€ 15M",
+      "team_out": "Feyenoord",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "Manchester United F.C."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 264094,
+  "full_name": "Benjamin Tahirović",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "2003-03-03",
+  "birth_place": "Spånga",
+  "career_transfers": [
+    {
+      "date": "2023-06-18",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "Vasalunds IF",
+    "AS Roma",
+    "AFC Ajax",
+    "Brøndby IF"
+  ]
+}

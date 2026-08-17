@@ -1,0 +1,26 @@
+{
+  "player_id": 30800,
+  "full_name": "Benjamin Lewis Wilmot",
+  "nationality": "England",
+  "birth_date": "1999-11-04",
+  "birth_place": "Stevenage",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Stevenage F.C.",
+    "Watford F.C.",
+    "Udinese Calcio"
+  ]
+}

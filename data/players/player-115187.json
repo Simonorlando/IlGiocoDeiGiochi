@@ -1,0 +1,29 @@
+{
+  "player_id": 115187,
+  "full_name": "Vlada Avramov",
+  "nationality": "Serbia",
+  "birth_date": "1979-05-04",
+  "birth_place": "Novi Sad",
+  "career_transfers": [
+    {
+      "date": "2005-08-01",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "FK Vojvodina",
+    "L.R. Vicenza",
+    "Pescara",
+    "L.R. Vicenza",
+    "Fiorentina",
+    "Treviso",
+    "Fiorentina",
+    "Cagliari",
+    "Torino",
+    "Atalanta",
+    "Torino",
+    "FC Tokyo"
+  ]
+}

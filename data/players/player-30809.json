@@ -1,0 +1,19 @@
+{
+  "player_id": 30809,
+  "full_name": "Svante Ulf Ingel Ingelsson",
+  "nationality": "Sweden",
+  "birth_date": "1998-06-14",
+  "birth_place": "Kalmar",
+  "career_transfers": [
+    {
+      "date": "2019-08-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Kalmar FF",
+    "Udinese Calcio"
+  ]
+}

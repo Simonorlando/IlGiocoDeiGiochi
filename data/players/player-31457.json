@@ -1,0 +1,45 @@
+{
+  "player_id": 31457,
+  "full_name": "Marco Ezio Fossati",
+  "nationality": "Italy",
+  "birth_date": "1992-10-05",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "HNK Hajduk Split"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-02-15",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "HNK Hajduk Split"
+    },
+    {
+      "date": "2019-01-05",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Latina Calcio 1932",
+    "Ascoli Calcio 1898 FC",
+    "SSC Bari",
+    "A.C. Perugia Calcio",
+    "Cagliari Calcio",
+    "Hellas Verona FC",
+    "AC Monza",
+    "HNK Hajduk Split",
+    "FC Universitatea Cluj"
+  ]
+}

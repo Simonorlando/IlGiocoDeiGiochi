@@ -1,0 +1,39 @@
+{
+  "player_id": 19124,
+  "full_name": "Pontus Jansson",
+  "nationality": "Sweden",
+  "birth_date": "1991-02-13",
+  "birth_place": "Arlöv",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 4.1M",
+      "team_out": "Torino",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Leeds",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2016-08-18",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Malmo FF",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Malmö FF",
+    "IFK Malmö",
+    "Torino FC",
+    "IFK Malmö Fotboll"
+  ]
+}

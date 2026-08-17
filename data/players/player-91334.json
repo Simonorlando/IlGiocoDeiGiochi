@@ -1,0 +1,24 @@
+{
+  "player_id": 91334,
+  "full_name": "Archimede Morleo",
+  "nationality": "Italy",
+  "birth_date": "1983-09-26",
+  "birth_place": "Mesagne",
+  "career_transfers": [
+    {
+      "date": "2017-01-03",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Carrarese Calcio",
+    "A.S.D. G.C. Sora",
+    "Atletico Roma F.C.",
+    "Unione Sportiva Catanzaro",
+    "F.C. Crotone",
+    "Bologna F.C. 1909",
+    "US Lecce"
+  ]
+}

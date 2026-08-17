@@ -1,0 +1,35 @@
+{
+  "player_id": 30567,
+  "full_name": "Lucas Nahuel Castro",
+  "nationality": "Argentina",
+  "birth_date": "1989-04-09",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2021-01-20",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 3M",
+      "team_out": "Cagliari",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "Club de Gimnasia y Esgrima La Plata",
+    "Racing Club",
+    "Catania FC",
+    "AC ChievoVerona",
+    "Club Atlético Huracán",
+    "Cagliari Calcio"
+  ]
+}

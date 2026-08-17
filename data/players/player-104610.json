@@ -1,0 +1,34 @@
+{
+  "player_id": 104610,
+  "full_name": "Alexander Kerzhakov",
+  "nationality": "Russia",
+  "birth_date": "1982-11-27",
+  "birth_place": "Kingisepp",
+  "career_transfers": [
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "FC Zurich",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2016-01-16",
+      "type": "Loan",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "FC Zurich"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "5M €",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Zenit Saint Petersburg",
+    "Sevilla FC",
+    "FC Dinamo Moscow",
+    "FC Zenit Saint Petersburg",
+    "FC Zürich"
+  ]
+}

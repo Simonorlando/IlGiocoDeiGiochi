@@ -1,0 +1,21 @@
+{
+  "player_id": 142691,
+  "full_name": "Alexsandro Victor de Souza Ribeiro",
+  "nationality": "Brazil",
+  "birth_date": "1999-08-09",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Chaves",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Praiense",
+    "Amora",
+    "Chaves",
+    "Lille"
+  ]
+}

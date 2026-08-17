@@ -1,0 +1,20 @@
+{
+  "player_id": 38749,
+  "full_name": "Kenneth Taylor",
+  "nationality": "Netherlands",
+  "birth_date": "2002-05-16",
+  "birth_place": "Alkmaar",
+  "career_transfers": [
+    {
+      "date": "2026-01-08",
+      "type": "Transfer",
+      "team_out": "Ajax",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "SS Lazio"
+  ]
+}

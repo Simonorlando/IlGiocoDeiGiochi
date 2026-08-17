@@ -1,0 +1,29 @@
+{
+  "player_id": 91465,
+  "full_name": "Guglielmo Stendardo",
+  "nationality": "Italy",
+  "birth_date": "1981-05-06",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919",
+    "A.C. Perugia Calcio",
+    "Catania FC",
+    "U.S. Salernitana 1919",
+    "SS Lazio",
+    "Juventus FC",
+    "US Lecce",
+    "Atalanta BC",
+    "Casertana",
+    "Delfino Pescara 1936"
+  ]
+}

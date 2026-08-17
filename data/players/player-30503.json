@@ -1,0 +1,38 @@
+{
+  "player_id": 30503,
+  "full_name": "Nicolas Julio Nkoulou Ndoubena",
+  "nationality": "Cameroon",
+  "birth_date": "1990-03-27",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2021-10-07",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Lyon",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-08-05",
+      "type": "Loan",
+      "team_out": "Lyon",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Olympique de Marseille",
+    "Olympique Lyonnais",
+    "Torino FC",
+    "Watford F.C.",
+    "Aris Thessaloniki F.C.",
+    "Gaziantep F.K.",
+    "Amed S.F.K.",
+    "Sakaryaspor"
+  ]
+}

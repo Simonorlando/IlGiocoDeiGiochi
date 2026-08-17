@@ -1,0 +1,25 @@
+{
+  "player_id": 1331,
+  "full_name": "Bruno Petković",
+  "nationality": "Croatia",
+  "birth_date": "1994-09-16",
+  "birth_place": "Metković",
+  "career_transfers": [
+    {
+      "date": "2018-01-11",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Catania FC",
+    "Varese Calcio",
+    "Virtus Entella",
+    "A.C. Reggiana 1919",
+    "F.C. Trapani 1905",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "GNK Dinamo Zagreb"
+  ]
+}

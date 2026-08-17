@@ -1,0 +1,26 @@
+{
+  "player_id": 30925,
+  "full_name": "Alan Pereira Empereur",
+  "nationality": "Brazil",
+  "birth_date": "1994-03-10",
+  "birth_place": "Ipatinga",
+  "career_transfers": [
+    {
+      "date": "2016-07-26",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Foggia"
+    },
+    {
+      "date": "2015-09-01",
+      "type": "N/A",
+      "team_out": "Teramo",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "ACF Fiorentina",
+    "Hellas Verona FC"
+  ]
+}

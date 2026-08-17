@@ -1,0 +1,22 @@
+{
+  "player_id": 396380,
+  "full_name": "Zachary Athekame",
+  "nationality": "Switzerland",
+  "birth_date": "2004-12-13",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-08-15",
+      "type": "Transfer",
+      "team_out": "BSC Young Boys",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Neuchâtel Xamax",
+    "Young Boys",
+    "Neuchâtel Xamax",
+    "AC Milan",
+    "Lyon"
+  ]
+}

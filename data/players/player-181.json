@@ -1,0 +1,27 @@
+{
+  "player_id": 181,
+  "full_name": "Victor Mugubi Wanyama",
+  "nationality": "Kenya",
+  "birth_date": "1991-06-25",
+  "birth_place": "Nairobi",
+  "career_transfers": [
+    {
+      "date": "2020-03-03",
+      "type": "N/A",
+      "team_out": "Tottenham",
+      "team_in": "CF Montreal"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 13.5M",
+      "team_out": "Southampton",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Beerschot A.C.",
+    "Celtic F.C.",
+    "Southampton F.C.",
+    "Helsingborgs IF"
+  ]
+}

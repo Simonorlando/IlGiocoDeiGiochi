@@ -1,0 +1,32 @@
+{
+  "player_id": 1831,
+  "full_name": "Ante Rebić",
+  "nationality": "Croatia",
+  "birth_date": "1993-09-21",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2024-08-26",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-08-01",
+      "type": "Free Transfer",
+      "team_out": "Lecce",
+      "team_in": "HNK Hajduk Split"
+    }
+  ],
+  "career_clubs": [
+    "RNK Split",
+    "ACF Fiorentina",
+    "RB Leipzig",
+    "Hellas Verona FC",
+    "Eintracht Frankfurt",
+    "AC Milan",
+    "Beşiktaş J.K. (Football)",
+    "US Lecce",
+    "HNK Hajduk Split"
+  ]
+}

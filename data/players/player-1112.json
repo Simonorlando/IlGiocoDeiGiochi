@@ -1,0 +1,37 @@
+{
+  "player_id": 1112,
+  "full_name": "Emilio Arturo Izaguirre Girón",
+  "nationality": "Honduras",
+  "birth_date": "1986-05-10",
+  "birth_place": "Tegucigalpa",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Celtic",
+      "team_in": "CD Motagua"
+    },
+    {
+      "date": "2018-08-10",
+      "type": "Free",
+      "team_out": "Al-Fayha",
+      "team_in": "Celtic"
+    },
+    {
+      "date": "2017-07-25",
+      "type": "€ 1.4M",
+      "team_out": "Celtic",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2010-08-18",
+      "type": "€ 730K",
+      "team_out": "CD Motagua",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Motagua",
+    "Celtic F.C."
+  ]
+}

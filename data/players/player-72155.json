@@ -1,0 +1,20 @@
+{
+  "player_id": 72155,
+  "full_name": "Ayase Ueda",
+  "nationality": "Japan",
+  "birth_date": "1998-08-28",
+  "birth_place": "Mito",
+  "career_transfers": [
+    {
+      "date": "2023-08-03",
+      "type": "N/A",
+      "team_out": "Cercle Brugge",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "Kashima Antlers",
+    "Cercle Brugge K.S.V.",
+    "Feyenoord Rotterdam"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 193,
+  "full_name": "Danilo D'Ambrosio",
+  "nationality": "Italy",
+  "birth_date": "1988-09-09",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2023-08-02",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Potenza Calcio",
+    "S.S. Juve Stabia",
+    "Torino FC",
+    "Inter Milan"
+  ]
+}

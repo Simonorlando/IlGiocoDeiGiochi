@@ -1,0 +1,33 @@
+{
+  "player_id": 2037,
+  "full_name": "Tomáš Vaclík",
+  "nationality": "Czechia",
+  "birth_date": "1989-03-29",
+  "birth_place": "Ostrava",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Huddersfield"
+    },
+    {
+      "date": "2021-07-13",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "MFK Vítkovice",
+    "FK Viktoria Žižkov",
+    "AC Sparta Prague",
+    "FC Basel",
+    "Sevilla FC",
+    "Olympiacos F.C.",
+    "Huddersfield Town A.F.C.",
+    "New England Revolution",
+    "Albacete Balompié",
+    "Boavista F.C."
+  ]
+}

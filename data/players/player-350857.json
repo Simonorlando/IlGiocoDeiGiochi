@@ -1,0 +1,18 @@
+{
+  "player_id": 350857,
+  "full_name": "Oliver Provstgaard Nielsen",
+  "nationality": "Denmark",
+  "birth_date": "2003-06-04",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Vejle",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Vejle Boldklub"
+  ]
+}

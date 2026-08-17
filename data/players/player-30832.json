@@ -1,0 +1,43 @@
+{
+  "player_id": 30832,
+  "full_name": "Marco Crimi",
+  "nationality": "Italy",
+  "birth_date": "1990-03-17",
+  "birth_place": "Messina",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 350K",
+      "team_out": "Carpi",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2017-02-01",
+      "type": "Loan",
+      "team_out": "Carpi",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 500K",
+      "team_out": "Bologna",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2016-01-04",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Igea Virtus Barcellona",
+    "SSC Bari",
+    "U.S. Grosseto 1912",
+    "Latina Calcio 1932",
+    "Bologna F.C. 1909",
+    "A.C. Carpi",
+    "Spezia Calcio",
+    "AC Cesena"
+  ]
+}

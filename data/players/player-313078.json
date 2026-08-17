@@ -1,0 +1,32 @@
+{
+  "player_id": 313078,
+  "full_name": "Isaac Achmed Koroma Junior Babadi",
+  "nationality": "Netherlands",
+  "birth_date": "2005-04-06",
+  "birth_place": "Nijmegen",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Antwerp"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Antwerp",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Antwerp"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV",
+    "Antwerp"
+  ]
+}

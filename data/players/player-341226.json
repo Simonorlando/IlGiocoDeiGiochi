@@ -1,0 +1,33 @@
+{
+  "player_id": 341226,
+  "full_name": "Rafiu Adekunle Durosinmi",
+  "nationality": "Nigeria",
+  "birth_date": "2003-01-01",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-07",
+      "type": "Transfer",
+      "team_out": "Plzen",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Transfer",
+      "team_out": "Pisa",
+      "team_in": "Genk"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "Transfer",
+      "team_out": "Pisa",
+      "team_in": "Genk"
+    }
+  ],
+  "career_clubs": [
+    "Karviná",
+    "Viktoria Plzeň",
+    "Pisa",
+    "Genk"
+  ]
+}

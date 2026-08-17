@@ -1,0 +1,28 @@
+{
+  "player_id": 30876,
+  "full_name": "Mirco Antenucci",
+  "nationality": "Italy",
+  "birth_date": "1984-09-08",
+  "birth_place": "Termoli",
+  "career_transfers": [
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Giulianova Calcio",
+    "SSC Ancona",
+    "Venezia F.C.",
+    "Catania FC",
+    "Pisa SC",
+    "Ascoli Calcio 1898 FC",
+    "Torino FC",
+    "Spezia Calcio",
+    "Catania FC",
+    "Ternana Calcio",
+    "Leeds United F.C."
+  ]
+}

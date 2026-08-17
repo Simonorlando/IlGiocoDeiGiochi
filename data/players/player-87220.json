@@ -1,0 +1,32 @@
+{
+  "player_id": 87220,
+  "full_name": "Mickaël Ciani",
+  "nationality": "France",
+  "birth_date": "1984-04-06",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2015-07-18",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2012-08-28",
+      "type": "€ 1.5M",
+      "team_out": "Bordeaux",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club de France",
+    "Royal Charleroi S.C.",
+    "AJ Auxerre",
+    "CS Sedan Ardennes",
+    "F.C. Lorient",
+    "FC Girondins de Bordeaux",
+    "SS Lazio",
+    "RCD Espanyol de Barcelona",
+    "Sporting CP"
+  ]
+}

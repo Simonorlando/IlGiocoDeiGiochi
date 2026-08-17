@@ -1,0 +1,27 @@
+{
+  "player_id": 868,
+  "full_name": "Sami Khedira",
+  "nationality": "Germany",
+  "birth_date": "1987-04-04",
+  "birth_place": "Stuttgart",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2010-07-30",
+      "type": "€ 14M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "Real Madrid Club de Fútbol",
+    "Juventus FC",
+    "Hertha BSC"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 30398,
+  "full_name": "Vitor Hugo Franchescoli de Souza",
+  "nationality": "Brazil",
+  "birth_date": "1991-05-20",
+  "birth_place": "Curitiba",
+  "career_transfers": [
+    {
+      "date": "2019-07-26",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 8M",
+      "team_out": "Palmeiras",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Santo André",
+    "Sport Club do Recife",
+    "Ituano Futebol Clube",
+    "Ceará Sporting Club",
+    "América Futebol Clube",
+    "Ituano Futebol Clube",
+    "Sociedade Esportiva Palmeiras",
+    "ACF Fiorentina"
+  ]
+}

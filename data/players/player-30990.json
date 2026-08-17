@@ -1,0 +1,30 @@
+{
+  "player_id": 30990,
+  "full_name": "Ahmed Benali",
+  "nationality": "Libya",
+  "birth_date": "1992-02-07",
+  "birth_place": "Manchester",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2022-01-26",
+      "type": "Loan",
+      "team_out": "Crotone",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Rochdale A.F.C.",
+    "Brescia Calcio",
+    "Palermo F.C.",
+    "Delfino Pescara 1936",
+    "F.C. Crotone",
+    "Pisa SC"
+  ]
+}

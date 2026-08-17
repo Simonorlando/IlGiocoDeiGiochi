@@ -1,0 +1,19 @@
+{
+  "player_id": 387128,
+  "full_name": "Sebastian Otoa",
+  "nationality": "Denmark",
+  "birth_date": "2004-05-13",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-16",
+      "type": "Transfer",
+      "team_out": "Aalborg",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "AaB Fodbold",
+    "Genoa CFC"
+  ]
+}

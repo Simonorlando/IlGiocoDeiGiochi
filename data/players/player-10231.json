@@ -1,0 +1,37 @@
+{
+  "player_id": 10231,
+  "full_name": "Henrique Adriano Buss",
+  "nationality": "Brazil",
+  "birth_date": "1986-10-14",
+  "birth_place": "Marechal Cândido Rôndon",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Barcelona",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2011-07-19",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2009-08-31",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Racing Santander"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C.",
+    "Sociedade Esportiva Palmeiras",
+    "FC Barcelona",
+    "Bayer 04 Leverkusen",
+    "Racing de Santander",
+    "Sociedade Esportiva Palmeiras",
+    "SSC Napoli",
+    "Fluminense F.C."
+  ]
+}

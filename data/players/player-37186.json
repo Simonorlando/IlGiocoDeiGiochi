@@ -1,0 +1,26 @@
+{
+  "player_id": 37186,
+  "full_name": "Cyriel Kolawole Dessers",
+  "nationality": "Nigeria",
+  "birth_date": "1994-12-08",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2023-07-06",
+      "type": "€ 6M",
+      "team_out": "Cremonese",
+      "team_in": "Rangers"
+    },
+    {
+      "date": "2022-08-10",
+      "type": "€ 6.5M",
+      "team_out": "Genk",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Oud-Heverlee Leuven",
+    "K.S.C. Lokeren Oost-Vlaanderen",
+    "Rangers F.C."
+  ]
+}

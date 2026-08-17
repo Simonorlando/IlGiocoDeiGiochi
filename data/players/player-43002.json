@@ -1,0 +1,40 @@
+{
+  "player_id": 43002,
+  "full_name": "Damjan Đoković",
+  "nationality": "Croatia",
+  "birth_date": "1990-04-18",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "€ 350K",
+      "team_out": "Monza",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "N/A",
+      "team_out": "Gorica",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "FC Spartak Trnava",
+    "AC Monza",
+    "AC Cesena",
+    "Bologna F.C. 1909",
+    "CFR Cluj",
+    "US Livorno 1915",
+    "Gazélec Ajaccio",
+    "SpVgg Greuther Fürth",
+    "Spezia Calcio",
+    "HNK Rijeka",
+    "CFR Cluj",
+    "Çaykur Rizespor",
+    "Adana Demirspor",
+    "Al-Raed FC",
+    "FCSB",
+    "FC Rapid București",
+    "CFR Cluj"
+  ]
+}

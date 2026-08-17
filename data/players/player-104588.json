@@ -1,0 +1,40 @@
+{
+  "player_id": 104588,
+  "full_name": "Vladimir Bystrov",
+  "nationality": "Russia",
+  "birth_date": "1984-01-31",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2017-08-07",
+      "type": "Free",
+      "team_out": "Krasnodar",
+      "team_in": "FC Tosno"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Krasnodar"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Anzhi"
+    },
+    {
+      "date": "2009-08-29",
+      "type": "9M €",
+      "team_out": "Spartak Moscow",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Zenit Saint Petersburg",
+    "Spartak Moscow",
+    "FC Zenit Saint Petersburg",
+    "FC Anzhi Makhachkala",
+    "FC Krasnodar"
+  ]
+}

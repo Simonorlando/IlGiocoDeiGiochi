@@ -1,0 +1,33 @@
+{
+  "player_id": 21090,
+  "full_name": "Diego Carlos Santos Silva",
+  "nationality": "Brazil",
+  "birth_date": "1993-03-15",
+  "birth_place": "Barra Bonita",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Fenerbahçe",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "Fenerbahçe"
+    }
+  ],
+  "career_clubs": [
+    "Desportivo Brasil",
+    "São Paulo FC",
+    "FC Porto B",
+    "Paulista Futebol Clube",
+    "G.D. Estoril Praia",
+    "FC Nantes",
+    "Sevilla FC",
+    "Aston Villa F.C.",
+    "Fenerbahçe Istanbul",
+    "Como 1907"
+  ]
+}

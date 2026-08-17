@@ -1,0 +1,32 @@
+{
+  "player_id": 6011,
+  "full_name": "Rafael Santos Borré Maury",
+  "nationality": "Colombia",
+  "birth_date": "1995-09-15",
+  "birth_place": "Barranquilla",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2016-08-13",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Cali",
+    "Atlético Madrid",
+    "Deportivo Cali",
+    "Villarreal CF",
+    "Club Atlético River Plate",
+    "Eintracht Frankfurt",
+    "SV Werder Bremen",
+    "S.C. Internacional",
+    "Club Atlético River Plate"
+  ]
+}

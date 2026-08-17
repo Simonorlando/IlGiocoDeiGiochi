@@ -1,0 +1,27 @@
+{
+  "player_id": 9971,
+  "full_name": "Antony Matheus dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "2000-02-24",
+  "birth_place": "Osasco",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "€ 95M",
+      "team_out": "Ajax",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Sao Paulo",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "AFC Ajax",
+    "Manchester United F.C.",
+    "Real Betis Balompié"
+  ]
+}

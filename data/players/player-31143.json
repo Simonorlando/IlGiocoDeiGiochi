@@ -1,0 +1,38 @@
+{
+  "player_id": 31143,
+  "full_name": "Leonardo Morosini",
+  "nationality": "Italy",
+  "birth_date": "1995-10-13",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2020-10-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2020-01-16",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2017-01-05",
+      "type": "€ 2M",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Italy under-21 Serie B representative team",
+    "Inter Milan"
+  ]
+}

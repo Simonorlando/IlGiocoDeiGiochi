@@ -1,0 +1,38 @@
+{
+  "player_id": 56396,
+  "full_name": "Junior Walter Messias",
+  "nationality": "Brazil",
+  "birth_date": "1991-05-13",
+  "birth_place": "Belo Horizonte",
+  "career_transfers": [
+    {
+      "date": "2022-07-07",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Crotone",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Gozzano",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Crotone",
+    "AC Milan",
+    "Genoa CFC"
+  ]
+}

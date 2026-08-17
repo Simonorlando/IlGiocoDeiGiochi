@@ -1,0 +1,50 @@
+{
+  "player_id": 265722,
+  "full_name": "Rafael Obrador Burguera",
+  "nationality": "Spain",
+  "birth_date": "2004-02-24",
+  "birth_place": "Palma de Mallorca",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2024-08-21",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Deportivo La Coruna"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Dep. La Coruna",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "CE Campos",
+    "RCD Mallorca",
+    "Real Madrid Club de Fútbol",
+    "RCD Mallorca",
+    "Real Madrid Castilla",
+    "Deportivo de A Coruña",
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Torino FC"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 22157,
+  "full_name": "Walter Daniel Benítez",
+  "nationality": "Argentina",
+  "birth_date": "1993-01-19",
+  "birth_place": "General San Martín",
+  "career_transfers": [
+    {
+      "date": "2022-06-21",
+      "type": "Free",
+      "team_out": "Nice",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Crystal Palace"
+    }
+  ],
+  "career_clubs": [
+    "Quilmes Atlético Club",
+    "OGC Nice"
+  ]
+}

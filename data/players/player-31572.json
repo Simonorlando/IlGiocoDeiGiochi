@@ -1,0 +1,43 @@
+{
+  "player_id": 31572,
+  "full_name": "Andrea Mantovani",
+  "nationality": "Italy",
+  "birth_date": "1984-06-22",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2015-02-01",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2013-08-29",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2011-07-07",
+      "type": "3.5M €",
+      "team_out": "Chievo",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "US Triestina Calcio 1918",
+    "Torino FC",
+    "AC ChievoVerona",
+    "Palermo F.C.",
+    "Bologna F.C. 1909",
+    "A.C. Perugia Calcio",
+    "Vicenza Calcio",
+    "Novara Calcio"
+  ]
+}

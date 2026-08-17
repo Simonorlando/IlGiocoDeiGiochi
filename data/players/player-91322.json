@@ -1,0 +1,30 @@
+{
+  "player_id": 91322,
+  "full_name": "Andrea Cossu",
+  "nationality": "Italy",
+  "birth_date": "1980-05-03",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "€ 500K",
+      "team_out": "Verona",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Olbia 1905",
+    "Hellas Verona FC",
+    "A.C. Lumezzane",
+    "S.E.F. Torres 1903",
+    "Cagliari Calcio",
+    "Hellas Verona FC",
+    "U.S. Olbia 1905"
+  ]
+}

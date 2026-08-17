@@ -1,0 +1,31 @@
+{
+  "player_id": 105587,
+  "full_name": "Mikael Antonsson",
+  "nationality": "Sweden",
+  "birth_date": "1981-05-31",
+  "birth_place": "Karlskrona",
+  "career_transfers": [
+    {
+      "date": "2014-07-28",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2011-07-04",
+      "type": "Free",
+      "team_out": "FC Copenhagen",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Sillhövda AIK",
+    "IFK Göteborg",
+    "FK Austria Wien",
+    "Panathinaikos F.C.",
+    "F.C. Copenhagen",
+    "Bologna F.C. 1909",
+    "F.C. Copenhagen",
+    "AIK Atlas"
+  ]
+}

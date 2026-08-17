@@ -1,0 +1,32 @@
+{
+  "player_id": 852,
+  "full_name": "Andrea Barzagli",
+  "nationality": "Italy",
+  "birth_date": "1981-05-08",
+  "birth_place": "Fiesole",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "14M €",
+      "team_out": "Palermo",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "1.5M €",
+      "team_out": "Chievo",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "San Frediano Rondinella S.S.",
+    "Pistoiese FC",
+    "Piacenza Calcio",
+    "San Frediano Rondinella S.S.",
+    "Ascoli Calcio 1898 FC",
+    "AC ChievoVerona",
+    "Palermo F.C.",
+    "VfL Wolfsburg",
+    "Juventus FC"
+  ]
+}

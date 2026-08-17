@@ -1,0 +1,27 @@
+{
+  "player_id": 1044,
+  "full_name": "Ivan Trichkovski",
+  "nationality": "North Macedonia",
+  "birth_date": "1987-04-18",
+  "birth_place": "Skopje",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "FK Vardar",
+    "FK Crvena zvezda",
+    "FK Rabotnički",
+    "Enosis Neon Paralimni FC",
+    "APOEL F.C.",
+    "Club Brugge K.V.",
+    "Sportkring Beveren",
+    "Alshariqa",
+    "Legia Warsaw",
+    "AEK Larnaca F.C."
+  ]
+}

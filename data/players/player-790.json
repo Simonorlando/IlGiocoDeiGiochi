@@ -1,0 +1,33 @@
+{
+  "player_id": 790,
+  "full_name": "Edin Džeko",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1986-03-17",
+  "birth_place": "Sarajevo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2021-08-13",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "FK Željezničar Sarajevo",
+    "FK Teplice",
+    "FK Ústí nad Labem",
+    "VfL Wolfsburg",
+    "Manchester City F.C.",
+    "AS Roma",
+    "Inter Milan",
+    "Fenerbahçe Istanbul",
+    "ACF Fiorentina",
+    "Schalke 04"
+  ]
+}

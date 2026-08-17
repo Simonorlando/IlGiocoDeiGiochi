@@ -1,0 +1,27 @@
+{
+  "player_id": 1607,
+  "full_name": "Guilherme dos Santos Torres",
+  "nationality": "Brazil",
+  "birth_date": "1991-04-05",
+  "birth_place": "Santo André",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Al Sadd"
+    },
+    {
+      "date": "2018-08-18",
+      "type": "N/A",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Associação Portuguesa de Desportos",
+    "S.C. Corinthians Paulista",
+    "Udinese Calcio",
+    "Deportivo de A Coruña"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "player_id": 785,
+  "full_name": "Cengiz Ünder",
+  "nationality": "Türkiye",
+  "birth_date": "1997-07-14",
+  "birth_place": "Balıkesir",
+  "career_transfers": [
+    {
+      "date": "2022-06-10",
+      "type": "€ 8.4M",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2021-07-04",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2020-09-20",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-07-16",
+      "type": "€ 13.4M",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Altınordu F.K.",
+    "İstanbul Başakşehir F.K.",
+    "AS Roma",
+    "Leicester City F.C.",
+    "Olympique de Marseille",
+    "Fenerbahçe Istanbul",
+    "Los Angeles FC",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

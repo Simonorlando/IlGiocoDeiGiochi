@@ -1,0 +1,32 @@
+{
+  "player_id": 2002,
+  "full_name": "Adem Bojan Ljajić",
+  "nationality": "Serbia",
+  "birth_date": "1991-09-29",
+  "birth_place": "Novi Pazar",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "ACF Fiorentina",
+    "AS Roma",
+    "Inter Milan",
+    "Torino FC",
+    "Beşiktaş J.K. (Football)",
+    "Fatih Karagümrük S.K.",
+    "FK Novi Pazar",
+    "FK Sarajevo"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 18756,
+  "full_name": "Maarten Stekelenburg",
+  "nationality": "Netherlands",
+  "birth_date": "1982-09-22",
+  "birth_place": "Haarlem",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 5.6M",
+      "team_out": "AS Roma",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2011-08-01",
+      "type": "€ 6.3M",
+      "team_out": "Ajax",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "AS Roma",
+    "Fulham F.C.",
+    "AS Monaco FC",
+    "Southampton F.C.",
+    "Everton F.C.",
+    "AFC Ajax"
+  ]
+}

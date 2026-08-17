@@ -1,0 +1,27 @@
+{
+  "player_id": 15573,
+  "full_name": "Kamil Mieczysław Grabara",
+  "nationality": "Poland",
+  "birth_date": "1999-01-08",
+  "birth_place": "Ruda Śląska",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 13.5M",
+      "team_out": "FC Copenhagen",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2021-07-03",
+      "type": "N/A",
+      "team_out": "Aarhus",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "Ruch Chorzów",
+    "Aarhus Gymnastikforening",
+    "Huddersfield Town A.F.C.",
+    "F.C. Copenhagen"
+  ]
+}

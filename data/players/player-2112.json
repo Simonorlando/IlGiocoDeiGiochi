@@ -1,0 +1,27 @@
+{
+  "player_id": 2112,
+  "full_name": "Mehdi François Carcela-González",
+  "nationality": "Morocco",
+  "birth_date": "1989-07-01",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2017-07-07",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "FC Anzhi Makhachkala",
+    "Standard Liège",
+    "S.L. Benfica"
+  ]
+}

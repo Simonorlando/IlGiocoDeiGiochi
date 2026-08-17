@@ -1,0 +1,26 @@
+{
+  "player_id": 30498,
+  "full_name": "Lorenzo De Silvestri",
+  "nationality": "Italy",
+  "birth_date": "1988-05-23",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2020-09-17",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2016-08-18",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "ACF Fiorentina",
+    "U.C. Sampdoria"
+  ]
+}

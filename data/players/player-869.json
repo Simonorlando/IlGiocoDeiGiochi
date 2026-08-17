@@ -1,0 +1,28 @@
+{
+  "player_id": 869,
+  "full_name": "Blaise Matuidi",
+  "nationality": "France",
+  "birth_date": "1987-04-09",
+  "birth_place": "Toulouse",
+  "career_transfers": [
+    {
+      "date": "2020-08-13",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Inter Miami"
+    },
+    {
+      "date": "2017-08-18",
+      "type": "€ 20M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "ES Troyes AC",
+    "AS Saint-Étienne",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "Inter Miami CF"
+  ]
+}

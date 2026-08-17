@@ -1,0 +1,24 @@
+{
+  "player_id": 47969,
+  "full_name": "Gabriel Johan Gudmundsson",
+  "nationality": "Sweden",
+  "birth_date": "1999-04-29",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "€ 6M",
+      "team_out": "Groningen",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Transfer",
+      "team_out": "Lille",
+      "team_in": "Leeds"
+    }
+  ],
+  "career_clubs": [
+    "Halmstads BK"
+  ]
+}

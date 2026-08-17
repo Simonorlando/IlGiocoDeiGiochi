@@ -1,0 +1,54 @@
+{
+  "player_id": 14292,
+  "full_name": "Boadu Maxwell Acosty",
+  "nationality": "Ghana",
+  "birth_date": "1991-09-10",
+  "birth_place": "Akwamufie",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2014-07-25",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2013-07-07",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2012-07-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Juve Stabia"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Reggiana 1919",
+    "ACF Fiorentina",
+    "S.S. Juve Stabia",
+    "AC ChievoVerona",
+    "Modena F.C.",
+    "A.C. Carpi",
+    "Latina Calcio 1932"
+  ]
+}

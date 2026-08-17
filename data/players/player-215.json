@@ -1,0 +1,32 @@
+{
+  "player_id": 215,
+  "full_name": "Sebastiano Esposito",
+  "nationality": "Italy",
+  "birth_date": "2002-07-02",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2021-01-15",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "SPAL",
+    "Venezia F.C.",
+    "FC Basel",
+    "R.S.C. Anderlecht",
+    "SSC Bari",
+    "U.C. Sampdoria",
+    "Empoli FC",
+    "Cagliari Calcio"
+  ]
+}

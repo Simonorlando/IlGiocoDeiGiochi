@@ -1,0 +1,42 @@
+{
+  "player_id": 31138,
+  "full_name": "Alessandro Semprini",
+  "nationality": "Italy",
+  "birth_date": "1998-02-24",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2021-09-09",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Carrarese"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Arezzo",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2018-01-16",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "S.S. Arezzo"
+  ]
+}

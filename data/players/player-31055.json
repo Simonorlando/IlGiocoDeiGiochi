@@ -1,0 +1,30 @@
+{
+  "player_id": 31055,
+  "full_name": "Marko Pajač",
+  "nationality": "Croatia",
+  "birth_date": "1993-05-11",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2022-07-11",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "NK Varteks",
+    "NK Lokomotiva",
+    "NK Radnik Sesvete",
+    "Fehérvár FC",
+    "NK Celje",
+    "Cagliari Calcio",
+    "A.C. Perugia Calcio"
+  ]
+}

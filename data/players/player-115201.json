@@ -1,0 +1,31 @@
+{
+  "player_id": 115201,
+  "full_name": "Alberto Frison",
+  "nationality": "Italy",
+  "birth_date": "1988-01-22",
+  "birth_place": "Mirano",
+  "career_transfers": [
+    {
+      "date": "2015-01-20",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2012-07-09",
+      "type": "€ 880K",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Treviso F.B.C. 1993",
+    "A.S.D. Manfredonia Calcio 1932",
+    "Vicenza Calcio",
+    "Genoa CFC",
+    "Frosinone Calcio",
+    "Catania FC",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919"
+  ]
+}

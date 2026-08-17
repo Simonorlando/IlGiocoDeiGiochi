@@ -1,0 +1,21 @@
+{
+  "player_id": 269,
+  "full_name": "Christopher Alan Nkunku",
+  "nationality": "France",
+  "birth_date": "1997-11-14",
+  "birth_place": "Lagny-sur-Marne",
+  "career_transfers": [
+    {
+      "date": "2025-08-30",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "RB Leipzig",
+    "Chelsea F.C.",
+    "AC Milan"
+  ]
+}

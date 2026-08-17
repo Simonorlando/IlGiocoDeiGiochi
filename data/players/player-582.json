@@ -1,0 +1,30 @@
+{
+  "player_id": 582,
+  "full_name": "Haris Seferović",
+  "nationality": "Switzerland",
+  "birth_date": "1992-02-22",
+  "birth_place": "Sursee",
+  "career_transfers": [
+    {
+      "date": "2012-01-27",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "ACF Fiorentina",
+    "Neuchâtel Xamax FCS",
+    "US Lecce",
+    "Novara Calcio",
+    "Real Sociedad",
+    "Eintracht Frankfurt",
+    "S.L. Benfica",
+    "Galatasaray S.K.",
+    "RC Celta de Vigo",
+    "Al Wasl FC",
+    "Alshariqa",
+    "United Football Club"
+  ]
+}

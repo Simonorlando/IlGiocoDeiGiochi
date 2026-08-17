@@ -1,0 +1,178 @@
+{
+  "fixture_id": 1223794,
+  "competition": "serie_a",
+  "season": 2024,
+  "teams": [
+    {
+      "team_name": "Venezia",
+      "team_id": 517,
+      "formation": "3-5-2",
+      "lineup": [
+        {
+          "player_id": 162445,
+          "shirt_number": 35,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 375321,
+          "shirt_number": 21,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 37651,
+          "shirt_number": 4,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 26095,
+          "shirt_number": 33,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 31079,
+          "shirt_number": 7,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 331046,
+          "shirt_number": 97,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 881,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 51266,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 89520,
+          "shirt_number": 77,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 4
+        },
+        {
+          "player_id": 161859,
+          "shirt_number": 11,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 986,
+          "shirt_number": 20,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        }
+      ]
+    },
+    {
+      "team_name": "Inter",
+      "team_id": 505,
+      "formation": "3-1-4-2",
+      "lineup": [
+        {
+          "player_id": 2802,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 887,
+          "shirt_number": 36,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 194,
+          "shirt_number": 6,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31009,
+          "shirt_number": 95,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 275776,
+          "shirt_number": 21,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 226,
+          "shirt_number": 2,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30558,
+          "shirt_number": 23,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 329,
+          "shirt_number": 7,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 10238,
+          "shirt_number": 30,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 42315,
+          "shirt_number": 99,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 217,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 1
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 0,
+  "away_score": 1
+}

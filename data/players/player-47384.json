@@ -1,0 +1,26 @@
+{
+  "player_id": 47384,
+  "full_name": "José Ángel Valdés Díaz",
+  "nationality": "Spain",
+  "birth_date": "1989-09-05",
+  "birth_place": "Gijón",
+  "career_transfers": [
+    {
+      "date": "2012-08-04",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Sporting de Gijón B",
+    "Sporting de Gijón",
+    "AS Roma",
+    "Real Sociedad",
+    "FC Porto",
+    "Villarreal CF",
+    "SD Eibar",
+    "Club Atlético Osasuna",
+    "Sporting de Gijón"
+  ]
+}

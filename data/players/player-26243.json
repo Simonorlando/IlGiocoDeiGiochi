@@ -1,0 +1,20 @@
+{
+  "player_id": 26243,
+  "full_name": "Nico Cedric Schlotterbeck",
+  "nationality": "Germany",
+  "birth_date": "1999-12-01",
+  "birth_place": "Waiblingen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 20M",
+      "team_out": "SC Freiburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "1. FC Union Berlin",
+    "Borussia Dortmund"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 300,
+  "full_name": "Georginio Gregion Emile Wijnaldum",
+  "nationality": "Netherlands",
+  "birth_date": "1990-11-11",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-08-05",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "PSV Eindhoven",
+    "Newcastle United F.C.",
+    "Liverpool F.C.",
+    "Paris Saint-Germain FC",
+    "AS Roma",
+    "Al-Ettifaq FC"
+  ]
+}

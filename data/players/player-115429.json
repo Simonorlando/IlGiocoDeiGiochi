@@ -1,0 +1,25 @@
+{
+  "player_id": 115429,
+  "full_name": "Omar Milanetto",
+  "nationality": "Italy",
+  "birth_date": "1975-11-30",
+  "birth_place": "Venaria",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "US Fiorenzuola 1922",
+    "AC Monza",
+    "Como 1907",
+    "Modena F.C.",
+    "Brescia Calcio",
+    "Genoa CFC",
+    "Calcio Padova"
+  ]
+}

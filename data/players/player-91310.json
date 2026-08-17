@@ -1,0 +1,23 @@
+{
+  "player_id": 91310,
+  "full_name": "Alessandro Gamberini",
+  "nationality": "Italy",
+  "birth_date": "1981-08-27",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2002-08-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Genoa CFC",
+    "AC ChievoVerona"
+  ]
+}

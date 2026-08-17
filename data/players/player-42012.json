@@ -1,0 +1,30 @@
+{
+  "player_id": 42012,
+  "full_name": "Mohamed Elias Achouri",
+  "nationality": "Tunisia",
+  "birth_date": "1999-02-10",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-24",
+      "type": "N/A",
+      "team_out": "Viborg",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Transfer",
+      "team_out": "FC Copenhagen",
+      "team_in": "San Diego"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "Transfer",
+      "team_out": "FC Copenhagen",
+      "team_in": "San Diego"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne"
+  ]
+}

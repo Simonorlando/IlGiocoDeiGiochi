@@ -1,0 +1,18 @@
+{
+  "player_id": 7754,
+  "full_name": "Mohamed Camara",
+  "nationality": "Mali",
+  "birth_date": "2000-01-06",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2022-08-14",
+      "type": "€ 15M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering"
+  ]
+}

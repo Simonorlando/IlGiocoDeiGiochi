@@ -1,0 +1,20 @@
+{
+  "player_id": 1422,
+  "full_name": "Jérémy Baffour Doku",
+  "nationality": "Belgium",
+  "birth_date": "2002-05-27",
+  "birth_place": "Antwerp",
+  "career_transfers": [
+    {
+      "date": "2023-08-24",
+      "type": "€ 60M",
+      "team_out": "Rennes",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "Stade Rennais F.C.",
+    "Manchester City F.C."
+  ]
+}

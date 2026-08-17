@@ -1,0 +1,25 @@
+{
+  "player_id": 411171,
+  "full_name": "Juan David Arizala Micolta",
+  "nationality": "Colombia",
+  "birth_date": "2005-10-10",
+  "birth_place": "El Charco",
+  "career_transfers": [
+    {
+      "date": "2026-01-05",
+      "type": "Transfer",
+      "team_out": "Independiente Medellin",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-01-04",
+      "type": "Transfer",
+      "team_out": "Independiente Medellin",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Independiente Medellín",
+    "Udinese"
+  ]
+}

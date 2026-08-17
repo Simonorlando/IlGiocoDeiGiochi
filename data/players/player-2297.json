@@ -1,0 +1,30 @@
+{
+  "player_id": 2297,
+  "full_name": "Gonzalo Gerardo Higuaín",
+  "nationality": "Argentina",
+  "birth_date": "1987-12-10",
+  "birth_place": "Brest",
+  "career_transfers": [
+    {
+      "date": "2013-07-24",
+      "type": "€ 37M",
+      "team_out": "Real Madrid",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "€ 12M",
+      "team_out": "River Plate",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Real Madrid Club de Fútbol",
+    "SSC Napoli",
+    "Juventus FC",
+    "AC Milan",
+    "Chelsea F.C.",
+    "Inter Miami CF"
+  ]
+}

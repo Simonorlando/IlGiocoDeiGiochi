@@ -1,0 +1,48 @@
+{
+  "player_id": 1011,
+  "full_name": "Kevin Rüegg",
+  "nationality": "Switzerland",
+  "birth_date": "1998-08-05",
+  "birth_place": "Uster",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2023-09-06",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "BSC Young Boys",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2022-07-18",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "BSC Young Boys"
+    },
+    {
+      "date": "2022-02-01",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "FC Lugano"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 2M",
+      "team_out": "FC Zurich",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich"
+  ]
+}

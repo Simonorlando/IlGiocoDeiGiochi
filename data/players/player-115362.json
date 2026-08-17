@@ -1,0 +1,32 @@
+{
+  "player_id": 115362,
+  "full_name": "Jorge Andrés Martínez Barrios",
+  "nationality": "Uruguay",
+  "birth_date": "1983-04-05",
+  "birth_place": "Las Piedras",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "€ 12M",
+      "team_out": "Catania",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "N/A",
+      "team_out": "Club Nacional",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Montevideo Wanderers Fútbol Club",
+    "Club Nacional de Football",
+    "Catania FC",
+    "Juventus FC",
+    "AC Cesena",
+    "CFR Cluj",
+    "Novara Calcio",
+    "Juventud de Las Piedras",
+    "Siena FC"
+  ]
+}

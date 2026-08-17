@@ -1,0 +1,23 @@
+{
+  "player_id": 31094,
+  "full_name": "Andrea Pinamonti",
+  "nationality": "Italy",
+  "birth_date": "1999-05-19",
+  "birth_place": "Cles",
+  "career_transfers": [
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Genoa CFC",
+    "Inter Milan",
+    "Empoli FC",
+    "US Sassuolo Calcio",
+    "Genoa CFC"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1425,
+  "full_name": "Sven Kums",
+  "nationality": "Belgium",
+  "birth_date": "1988-02-26",
+  "birth_place": "Asse",
+  "career_transfers": [
+    {
+      "date": "2016-08-30",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "Lierse S.K.",
+    "K.V. Kortrijk",
+    "SC Heerenveen",
+    "S.V. Zulte Waregem",
+    "KAA Gent",
+    "Udinese Calcio"
+  ]
+}

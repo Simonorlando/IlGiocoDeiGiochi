@@ -1,0 +1,25 @@
+{
+  "player_id": 1253,
+  "full_name": "Benoît Guy Robert Costil",
+  "nationality": "France",
+  "birth_date": "1987-07-04",
+  "birth_place": "Caen",
+  "career_transfers": [
+    {
+      "date": "2023-07-31",
+      "type": "Free",
+      "team_out": "Lille",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Caen",
+    "Vannes",
+    "Sedan",
+    "Rennes",
+    "Bordeaux",
+    "Auxerre",
+    "Lille",
+    "Salernitana"
+  ]
+}

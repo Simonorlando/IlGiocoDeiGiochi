@@ -1,0 +1,27 @@
+{
+  "player_id": 1632,
+  "full_name": "Alessio Romagnoli",
+  "nationality": "Italy",
+  "birth_date": "1995-01-12",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "U.C. Sampdoria",
+    "AC Milan",
+    "SS Lazio"
+  ]
+}

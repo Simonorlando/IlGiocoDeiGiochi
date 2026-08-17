@@ -1,0 +1,31 @@
+{
+  "player_id": 40291,
+  "full_name": "Alen Stevanović",
+  "nationality": "Serbia",
+  "birth_date": "1991-01-07",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FK Radnički Obrenovac",
+    "Inter Milan",
+    "Torino FC",
+    "Toronto FC",
+    "Palermo F.C.",
+    "SSC Bari",
+    "Spezia Calcio",
+    "FK Partizan"
+  ]
+}

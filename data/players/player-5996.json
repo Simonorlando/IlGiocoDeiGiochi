@@ -1,0 +1,27 @@
+{
+  "player_id": 5996,
+  "full_name": "Enzo Jeremías Fernández",
+  "nationality": "Argentina",
+  "birth_date": "2001-01-17",
+  "birth_place": "San Martín",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "€ 121M",
+      "team_out": "Benfica",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2022-07-14",
+      "type": "€ 10M",
+      "team_out": "River Plate",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Defensa y Justicia",
+    "S.L. Benfica",
+    "Chelsea F.C."
+  ]
+}

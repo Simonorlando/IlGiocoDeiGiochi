@@ -1,0 +1,33 @@
+{
+  "player_id": 341832,
+  "full_name": "Daniele Montevago",
+  "nationality": "Italy",
+  "birth_date": "2003-03-18",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2024-07-29",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2024-01-11",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Gubbio"
+    }
+  ],
+  "career_clubs": [
+    "Sampdoria",
+    "Gubbio",
+    "Virtus Entella",
+    "Perugia"
+  ]
+}

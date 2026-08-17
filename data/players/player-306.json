@@ -1,0 +1,24 @@
+{
+  "player_id": 306,
+  "full_name": "Mohamed Salah Hamed Mahrous Ghaly",
+  "nationality": "Egypt",
+  "birth_date": "1992-06-15",
+  "birth_place": "Muḥāfaẓat al Gharbiyya",
+  "career_transfers": [
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Al Mokawloon Al Arab SC",
+    "FC Basel",
+    "Chelsea F.C.",
+    "ACF Fiorentina",
+    "AS Roma",
+    "Liverpool F.C.",
+    "Trabzonspor"
+  ]
+}

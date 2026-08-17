@@ -1,0 +1,25 @@
+{
+  "player_id": 30845,
+  "full_name": "Emanuel Quartsin Gyasi",
+  "nationality": "Ghana",
+  "birth_date": "1994-01-11",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2014-07-04",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Pro Vercelli 1892",
+    "Torino FC",
+    "Pisa SC",
+    "Mantova 1911",
+    "Carrarese Calcio",
+    "Spezia Calcio",
+    "Pistoiese FC",
+    "F.C. Südtirol"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 20656,
+  "full_name": "Enzo Jacques Rodolphe Ebosse",
+  "nationality": "Cameroon",
+  "birth_date": "1999-03-11",
+  "birth_place": "Amiens",
+  "career_transfers": [
+    {
+      "date": "2025-07-15",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens"
+  ]
+}

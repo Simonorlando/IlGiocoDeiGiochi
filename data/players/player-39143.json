@@ -1,0 +1,18 @@
+{
+  "player_id": 39143,
+  "full_name": "Kristian Thorstvedt",
+  "nationality": "Norway",
+  "birth_date": "1999-03-13",
+  "birth_place": "Stavanger",
+  "career_transfers": [
+    {
+      "date": "2022-07-12",
+      "type": "€ 10M",
+      "team_out": "Genk",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Viking FK"
+  ]
+}

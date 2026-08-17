@@ -1,0 +1,29 @@
+{
+  "player_id": 47422,
+  "full_name": "Youssef En-Nesyri",
+  "nationality": "Morocco",
+  "birth_date": "1997-06-01",
+  "birth_place": "Fès",
+  "career_transfers": [
+    {
+      "date": "2024-07-25",
+      "type": "€ 19.5M",
+      "team_out": "Sevilla",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2020-01-16",
+      "type": "€ 20M",
+      "team_out": "Leganes",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Malagueño",
+    "Málaga CF",
+    "CD Leganés",
+    "Sevilla FC",
+    "Fenerbahçe Istanbul",
+    "Al Ittihad FC"
+  ]
+}

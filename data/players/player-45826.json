@@ -1,0 +1,29 @@
+{
+  "player_id": 45826,
+  "full_name": "Strahinja Pavlović",
+  "nationality": "Serbia",
+  "birth_date": "2001-05-24",
+  "birth_place": "Šabac",
+  "career_transfers": [
+    {
+      "date": "2024-07-31",
+      "type": "€ 18M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "AS Monaco FC",
+    "Cercle Brugge K.S.V.",
+    "FC Basel",
+    "FC Red Bull Salzburg",
+    "AC Milan"
+  ]
+}

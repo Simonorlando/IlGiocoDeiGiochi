@@ -1,0 +1,31 @@
+{
+  "player_id": 1563,
+  "full_name": "Zouhair Feddal Agharbi",
+  "nationality": "Morocco",
+  "birth_date": "1989-12-23",
+  "birth_place": "Tetuan",
+  "career_transfers": [
+    {
+      "date": "2013-08-29",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "UE Vilajuïga",
+    "Terrassa FC",
+    "CD Teruel",
+    "CD San Roque de Lepe",
+    "RCD Espanyol B",
+    "FUS de Rabat",
+    "Siena FC",
+    "Parma Calcio 1913",
+    "Palermo F.C.",
+    "Levante UD",
+    "Deportivo Alavés",
+    "Real Betis Balompié",
+    "Sporting CP",
+    "Real Valladolid"
+  ]
+}

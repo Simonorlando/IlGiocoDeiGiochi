@@ -1,0 +1,25 @@
+{
+  "player_id": 30423,
+  "full_name": "Hans Hateboer",
+  "nationality": "Netherlands",
+  "birth_date": "1994-01-09",
+  "birth_place": "Beerta",
+  "career_transfers": [
+    {
+      "date": "2024-08-06",
+      "type": "€ 3M",
+      "team_out": "Atalanta",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "€ 1.5M",
+      "team_out": "Groningen",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "FC Groningen",
+    "Atalanta BC"
+  ]
+}

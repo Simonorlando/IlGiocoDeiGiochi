@@ -1,0 +1,29 @@
+{
+  "player_id": 2057,
+  "full_name": "Franco Damián Vázquez",
+  "nationality": "Argentina",
+  "birth_date": "1989-02-22",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2016-07-16",
+      "type": "€ 15M",
+      "team_out": "Palermo",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "Palermo F.C.",
+    "Rayo Vallecano",
+    "Sevilla FC",
+    "Parma Calcio 1913",
+    "US Cremonese"
+  ]
+}

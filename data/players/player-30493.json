@@ -1,0 +1,59 @@
+{
+  "player_id": 30493,
+  "full_name": "Salvador Ichazo Fernández",
+  "nationality": "Uruguay",
+  "birth_date": "1992-01-26",
+  "birth_place": "San José de Mayo",
+  "career_transfers": [
+    {
+      "date": "2020-02-14",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Danubio",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-02-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Danubio"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2015-07-18",
+      "type": "€ 1.2M",
+      "team_out": "Danubio",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Danubio"
+    },
+    {
+      "date": "2015-01-27",
+      "type": "Loan",
+      "team_out": "Danubio",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Torino FC",
+    "SSC Bari",
+    "Danubio F.C.",
+    "Genoa CFC",
+    "Danubio F.C."
+  ]
+}

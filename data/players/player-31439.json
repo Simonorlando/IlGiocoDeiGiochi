@@ -1,0 +1,39 @@
+{
+  "player_id": 31439,
+  "full_name": "Jerry Uche Mbakogu",
+  "nationality": "Nigeria",
+  "birth_date": "1992-10-01",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2019-01-08",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2017-01-28",
+      "type": "N/A",
+      "team_out": "Krylia Sovetov",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2016-08-10",
+      "type": "Loan",
+      "team_out": "Carpi",
+      "team_in": "Krylia Sovetov"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Padova",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "S.S. Juve Stabia",
+    "A.C. Carpi",
+    "Palermo F.C."
+  ]
+}

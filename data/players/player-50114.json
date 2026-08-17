@@ -1,0 +1,27 @@
+{
+  "player_id": 50114,
+  "full_name": "Olexandr Kucher",
+  "nationality": "Ukraine",
+  "birth_date": "1982-10-22",
+  "birth_place": "Kyiv",
+  "career_transfers": [
+    {
+      "date": "2017-08-16",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Kayserispor"
+    }
+  ],
+  "career_clubs": [
+    "FC Arsenal Kharkiv",
+    "FC Kharkiv",
+    "FC Metalurh Donetsk",
+    "FC Urartu",
+    "FC Kharkiv",
+    "FC Metalist Kharkiv",
+    "FC Shakhtar Donetsk",
+    "Kayserispor",
+    "FC Karpaty Lviv",
+    "FC Metal Kharkiv"
+  ]
+}

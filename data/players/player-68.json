@@ -1,0 +1,28 @@
+{
+  "player_id": 68,
+  "full_name": "Clinton Mukoni Mata Pedro Lourenço",
+  "nationality": "Angola",
+  "birth_date": "1992-11-07",
+  "birth_place": "Verviers",
+  "career_transfers": [
+    {
+      "date": "2023-07-06",
+      "type": "€ 5M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Genk",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Eupen",
+    "Charleroi",
+    "Genk",
+    "Club Brugge",
+    "Lyon"
+  ]
+}

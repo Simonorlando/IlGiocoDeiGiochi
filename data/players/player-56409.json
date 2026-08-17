@@ -1,0 +1,27 @@
+{
+  "player_id": 56409,
+  "full_name": "Jonathan Rossini",
+  "nationality": "Switzerland",
+  "birth_date": "1989-04-05",
+  "birth_place": "Giubiasco",
+  "career_transfers": [
+    {
+      "date": "2018-01-30",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Pontedera"
+    }
+  ],
+  "career_clubs": [
+    "AC Bellinzona",
+    "A.C. Legnano",
+    "U.C. Sampdoria",
+    "Associazione Sportiva Cittadella",
+    "US Sassuolo Calcio",
+    "SSC Bari",
+    "Parma Calcio 1913",
+    "SSC Bari",
+    "Savona F.B.C.",
+    "US Livorno 1915"
+  ]
+}

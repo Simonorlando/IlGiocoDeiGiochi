@@ -1,0 +1,19 @@
+{
+  "player_id": 329401,
+  "full_name": "Gerard Yepes Laut",
+  "nationality": "Spain",
+  "birth_date": "2002-08-25",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2025-08-08",
+      "type": "Free Transfer",
+      "team_out": "Sampdoria",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Sampdoria",
+    "Empoli"
+  ]
+}

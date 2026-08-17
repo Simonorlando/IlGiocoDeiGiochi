@@ -1,0 +1,27 @@
+{
+  "player_id": 743,
+  "full_name": "Marcelo Vieira da Silva Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1988-05-12",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2022-09-02",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "€ 6.5M",
+      "team_out": "Fluminense",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Real Madrid Club de Fútbol",
+    "Olympiacos F.C.",
+    "Fluminense F.C."
+  ]
+}

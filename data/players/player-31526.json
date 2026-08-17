@@ -1,0 +1,54 @@
+{
+  "player_id": 31526,
+  "full_name": "Davide Gavazzi",
+  "nationality": "Italy",
+  "birth_date": "1986-05-07",
+  "birth_place": "Sondrio",
+  "career_transfers": [
+    {
+      "date": "2015-07-10",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-08-22",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-01-21",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2013-01-17",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "A.C. Renate",
+    "Vicenza Calcio",
+    "U.C. Sampdoria",
+    "Ternana Calcio",
+    "U.S. Avellino 1912",
+    "AC Milan"
+  ]
+}

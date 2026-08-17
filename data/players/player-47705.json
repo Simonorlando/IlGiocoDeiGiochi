@@ -1,0 +1,32 @@
+{
+  "player_id": 47705,
+  "full_name": "Aílton José Almeida",
+  "nationality": "Brazil",
+  "birth_date": "1984-08-20",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2012-09-06",
+      "type": "€ 2.2M",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Akhmat"
+    },
+    {
+      "date": "2010-07-28",
+      "type": "€ 700K",
+      "team_out": "FC Copenhagen",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Örgryte IS",
+    "F.C. Copenhagen",
+    "APOEL F.C.",
+    "FC Akhmat Grozny",
+    "Al Hilal SFC",
+    "Tupi Football Club",
+    "Sport Club Corinthians Alagoano",
+    "Örgryte IS Fotboll"
+  ]
+}

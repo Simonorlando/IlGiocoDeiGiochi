@@ -1,0 +1,22 @@
+{
+  "player_id": 31607,
+  "full_name": "Francesco Migliore",
+  "nationality": "Italy",
+  "birth_date": "1988-04-17",
+  "birth_place": "Arezzo",
+  "career_transfers": [
+    {
+      "date": "2018-07-05",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "R.A.E.C. Mons",
+    "Giulianova Calcio",
+    "F.C. Crotone",
+    "Spezia Calcio",
+    "Olympique Lyonnais"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "player_id": 31008,
+  "full_name": "Luigi Sepe",
+  "nationality": "Italy",
+  "birth_date": "1991-05-08",
+  "birth_place": "Torre del Greco",
+  "career_transfers": [
+    {
+      "date": "2011-07-30",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Pisa SC",
+    "Lanciano Calcio 1920",
+    "Empoli FC",
+    "ACF Fiorentina",
+    "Parma Calcio 1913"
+  ]
+}

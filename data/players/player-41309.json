@@ -1,0 +1,57 @@
+{
+  "player_id": 41309,
+  "full_name": "Nwankwo Emeka Obiora",
+  "nationality": "Nigeria",
+  "birth_date": "1991-07-12",
+  "birth_place": "Kaduna",
+  "career_transfers": [
+    {
+      "date": "2013-07-03",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "CFR 1907 Cluj"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "CFR 1907 Cluj",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-02-06",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "CFR 1907 Cluj"
+    },
+    {
+      "date": "2012-01-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Gubbio"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Heartland F.C.",
+    "Wikki Tourists F.C.",
+    "Real Murcia",
+    "Inter Milan",
+    "Parma Calcio 1913",
+    "Calcio Padova",
+    "A.S. Gubbio 1910",
+    "CFR Cluj",
+    "Córdoba CF",
+    "Associação Académica de Coimbra – O.A.F."
+  ]
+}

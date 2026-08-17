@@ -1,0 +1,19 @@
+{
+  "player_id": 48047,
+  "full_name": "Jesper Kewe Karlström",
+  "nationality": "Sweden",
+  "birth_date": "1995-06-21",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2024-08-03",
+      "type": "€ 2M",
+      "team_out": "Lech Poznan",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "IF Brommapojkarna",
+    "Djurgårdens IF Fotboll"
+  ]
+}

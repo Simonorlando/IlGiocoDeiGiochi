@@ -1,0 +1,19 @@
+{
+  "player_id": 428237,
+  "full_name": "Mariano Troilo",
+  "nationality": "Argentina",
+  "birth_date": "2003-06-22",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-08-21",
+      "type": "Transfer",
+      "team_out": "Belgrano Cordoba",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Belgrano",
+    "Parma"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 6346,
+  "full_name": "Mauro Abel Formica",
+  "nationality": "Argentina",
+  "birth_date": "1988-04-04",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Blackburn"
+    },
+    {
+      "date": "2013-01-24",
+      "type": "Loan",
+      "team_out": "Blackburn",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "Blackburn Rovers F.C.",
+    "Palermo F.C.",
+    "Cruz Azul",
+    "Newell's Old Boys",
+    "Pumas UNAM"
+  ]
+}

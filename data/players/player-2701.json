@@ -1,0 +1,36 @@
+{
+  "player_id": 2701,
+  "full_name": "Yassine Bounou",
+  "nationality": "Morocco",
+  "birth_date": "1991-04-05",
+  "birth_place": "Montréal",
+  "career_transfers": [
+    {
+      "date": "2023-08-17",
+      "type": "€ 21M",
+      "team_out": "Sevilla",
+      "team_in": "Al-Hilal Saudi FC"
+    },
+    {
+      "date": "2020-09-04",
+      "type": "N/A",
+      "team_out": "Girona",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Girona",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Wydad Athletic Club",
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Real Zaragoza",
+    "Girona FC",
+    "Sevilla FC",
+    "Al Hilal SFC"
+  ]
+}

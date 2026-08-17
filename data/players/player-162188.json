@@ -1,0 +1,31 @@
+{
+  "player_id": 162188,
+  "full_name": "Pierre Kazeye Rommel Kalulu Kyatengwa",
+  "nationality": "France",
+  "birth_date": "2000-06-05",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2024-08-21",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-06-05",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Juventus FC"
+  ]
+}

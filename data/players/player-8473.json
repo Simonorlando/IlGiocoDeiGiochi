@@ -1,0 +1,23 @@
+{
+  "player_id": 8473,
+  "full_name": "Nana Akwasi Asare",
+  "nationality": "Ghana",
+  "birth_date": "1986-07-11",
+  "birth_place": "Kumasi",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 900K",
+      "team_out": "Utrecht",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Academy Ghana",
+    "Feyenoord Rotterdam",
+    "Royal Antwerp F.C.",
+    "KV Mechelen",
+    "FC Utrecht",
+    "KAA Gent"
+  ]
+}

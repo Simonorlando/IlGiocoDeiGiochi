@@ -1,0 +1,38 @@
+{
+  "player_id": 115380,
+  "full_name": "Alessandro Carrozza",
+  "nationality": "Italy",
+  "birth_date": "1982-02-01",
+  "birth_place": "Gallipoli",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Juve Stabia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2015-02-01",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2014-07-29",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Gallipoli Calcio",
+    "Pisa SC",
+    "Taranto Sport",
+    "Varese Calcio",
+    "Hellas Verona FC",
+    "Atalanta BC",
+    "Spezia Calcio",
+    "US Lecce",
+    "S.S. Juve Stabia"
+  ]
+}

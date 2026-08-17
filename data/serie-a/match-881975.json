@@ -1,0 +1,178 @@
+{
+  "fixture_id": 881975,
+  "competition": "serie_a",
+  "season": 2022,
+  "teams": [
+    {
+      "team_name": "Lecce",
+      "team_id": 867,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 56459,
+          "shirt_number": 30,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 127631,
+          "shirt_number": 17,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 127035,
+          "shirt_number": 6,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 139,
+          "shirt_number": 93,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30775,
+          "shirt_number": 97,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 21384,
+          "shirt_number": 29,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 7712,
+          "shirt_number": 42,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 56560,
+          "shirt_number": 32,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 22016,
+          "shirt_number": 28,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 263481,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31624,
+          "shirt_number": 27,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    },
+    {
+      "team_name": "Salernitana",
+      "team_id": 514,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 2098,
+          "shirt_number": 13,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 21585,
+          "shirt_number": 6,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 2773,
+          "shirt_number": 15,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2945,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 14327,
+          "shirt_number": 3,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 1748,
+          "shirt_number": 18,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 39286,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 37157,
+          "shirt_number": 10,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 202,
+          "shirt_number": 87,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1651,
+          "shirt_number": 99,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 22015,
+          "shirt_number": 29,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 1,
+  "away_score": 2
+}

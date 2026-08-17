@@ -1,0 +1,41 @@
+{
+  "player_id": 33413,
+  "full_name": "Fernando José Torres Sanz",
+  "nationality": "Spain",
+  "birth_date": "1984-03-20",
+  "birth_place": "Fuenlabrada",
+  "career_transfers": [
+    {
+      "date": "2018-07-10",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Sagan Tosu"
+    },
+    {
+      "date": "2016-07-04",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2015-01-06",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2007-07-04",
+      "type": "€ 38M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid",
+    "Liverpool F.C.",
+    "Chelsea F.C.",
+    "AC Milan",
+    "Atlético Madrid",
+    "Sagan Tosu"
+  ]
+}

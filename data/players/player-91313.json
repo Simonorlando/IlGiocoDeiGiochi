@@ -1,0 +1,28 @@
+{
+  "player_id": 91313,
+  "full_name": "Simon Laner",
+  "nationality": "Italy",
+  "birth_date": "1984-01-28",
+  "birth_place": "Merano",
+  "career_transfers": [
+    {
+      "date": "2014-08-26",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "Carrarese Calcio",
+    "U.S. Castelnuovo Garfagnana",
+    "A.S.D. Sanremese",
+    "Pro Sesto 1913",
+    "U.C. AlbinoLeffe",
+    "Cagliari Calcio",
+    "Hellas Verona FC",
+    "Novara Calcio",
+    "A.C. Carpi",
+    "FC Chiasso"
+  ]
+}

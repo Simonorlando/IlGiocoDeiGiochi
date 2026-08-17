@@ -1,0 +1,49 @@
+{
+  "player_id": 31296,
+  "full_name": "Juan Manuel Ramos Pintos",
+  "nationality": "Uruguay",
+  "birth_date": "1996-09-01",
+  "birth_place": "Durazno",
+  "career_transfers": [
+    {
+      "date": "2019-07-04",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Trapani",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-08-16",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Trapani"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Cosenza",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2017-07-07",
+      "type": "Free",
+      "team_out": "Casertana",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Catania FC",
+    "Parma Calcio 1913"
+  ]
+}

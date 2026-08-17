@@ -1,0 +1,27 @@
+{
+  "player_id": 1417,
+  "full_name": "Alexis Jesse Saelemaekers",
+  "nationality": "Belgium",
+  "birth_date": "1999-06-27",
+  "birth_place": "Berchem-Sainte-Agathe",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2023-08-30",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "AC Milan",
+    "Bologna F.C. 1909",
+    "AS Roma"
+  ]
+}

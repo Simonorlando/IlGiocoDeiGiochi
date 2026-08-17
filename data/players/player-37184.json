@@ -1,0 +1,29 @@
+{
+  "player_id": 37184,
+  "full_name": "Jean-Christophe Bahebeck",
+  "nationality": "France",
+  "birth_date": "1993-05-01",
+  "birth_place": "Saint-Denis",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2016-08-22",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "ES Troyes AC",
+    "Valenciennes F.C.",
+    "Paris Saint-Germain FC",
+    "AS Saint-Étienne",
+    "Delfino Pescara 1936"
+  ]
+}

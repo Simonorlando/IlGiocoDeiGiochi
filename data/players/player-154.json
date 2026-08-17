@@ -1,0 +1,24 @@
+{
+  "player_id": 154,
+  "full_name": "Lionel Andrés Messi Cuccittini",
+  "nationality": "Argentina",
+  "birth_date": "1987-06-24",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2021-08-10",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "FC Barcelona Juvenil A",
+    "FC Barcelona C",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Paris Saint-Germain FC",
+    "Inter Miami CF"
+  ]
+}

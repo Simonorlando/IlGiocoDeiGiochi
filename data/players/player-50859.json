@@ -1,0 +1,29 @@
+{
+  "player_id": 50859,
+  "full_name": "Maximiliano Nicolás Moralez",
+  "nationality": "Argentina",
+  "birth_date": "1987-02-27",
+  "birth_place": "Granadero Baigorria",
+  "career_transfers": [
+    {
+      "date": "2016-01-01",
+      "type": "€ 3.7M",
+      "team_out": "Atalanta",
+      "team_in": "Leon"
+    },
+    {
+      "date": "2011-08-09",
+      "type": "€ 5.3M",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "FC Moscow",
+    "Racing Club",
+    "Club Atlético Vélez Sarsfield",
+    "Atalanta BC",
+    "Club León"
+  ]
+}

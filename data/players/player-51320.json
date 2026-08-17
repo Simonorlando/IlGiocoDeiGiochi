@@ -1,0 +1,33 @@
+{
+  "player_id": 51320,
+  "full_name": "Shkëlzen Gashi",
+  "nationality": "Albania",
+  "birth_date": "1988-07-15",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2016-02-01",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Colorado Rapids"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Grasshoppers",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "FC Schaffhausen",
+    "AC Bellinzona",
+    "Neuchâtel Xamax",
+    "FC Aarau",
+    "Grasshopper Club Zürich",
+    "FC Aarau",
+    "FC Basel",
+    "Colorado Rapids",
+    "FC Aarau"
+  ]
+}

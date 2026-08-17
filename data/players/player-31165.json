@@ -1,0 +1,44 @@
+{
+  "player_id": 31165,
+  "full_name": "Matteo Rubin",
+  "nationality": "Italy",
+  "birth_date": "1987-07-09",
+  "birth_place": "Bassano del Grappa",
+  "career_transfers": [
+    {
+      "date": "2014-07-30",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2014-01-24",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2012-07-16",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Associazione Sportiva Cittadella",
+    "Torino FC",
+    "Bologna F.C. 1909",
+    "Parma Calcio 1913",
+    "Siena FC",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "Modena F.C.",
+    "AC ChievoVerona"
+  ]
+}

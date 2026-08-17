@@ -1,0 +1,35 @@
+{
+  "player_id": 10412,
+  "full_name": "Roger De Carvalho",
+  "nationality": "Brazil",
+  "birth_date": "1986-12-10",
+  "birth_place": "Arapongas",
+  "career_transfers": [
+    {
+      "date": "2013-09-24",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2012-07-20",
+      "type": "N/A",
+      "team_out": "Tombense",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Iraty Sport Club",
+    "Rio Branco Sport Club",
+    "Tombense Futebol Clube",
+    "Clube Desportivo dos Olivais e Moscavide",
+    "Guarani Esporte Clube",
+    "Figueirense Futebol Clube",
+    "Genoa CFC",
+    "Bologna F.C. 1909",
+    "São Paulo FC",
+    "E.C. Vitória",
+    "Botafogo F.R.",
+    "Sociedade Esportiva Palmeiras"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 25918,
+  "full_name": "Leandro Barreiro Martins",
+  "nationality": "Luxembourg",
+  "birth_date": "2000-01-03",
+  "birth_place": "Erpeldange",
+  "career_transfers": [
+    {
+      "date": "2024-07-02",
+      "type": "Free",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05"
+  ]
+}

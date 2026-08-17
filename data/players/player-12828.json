@@ -1,0 +1,37 @@
+{
+  "player_id": 12828,
+  "full_name": "Luiz Fernando Pereira da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1985-11-25",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Gremio"
+    },
+    {
+      "date": "2015-01-16",
+      "type": "Loan",
+      "team_out": "Gremio",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Associação Portuguesa Londrinense",
+    "Central Sport Club",
+    "Ferroviário Atlético Clube",
+    "Iraty Sport Club",
+    "Daejeon Hana Citizen FC",
+    "Citizen AA",
+    "Grêmio Barueri Futebol",
+    "São Paulo FC",
+    "Grêmio Barueri Futebol",
+    "Al Jazira Club",
+    "Clube Atlético Mineiro",
+    "Grêmio FBPA",
+    "Hellas Verona FC",
+    "Clube de Regatas do Flamengo"
+  ]
+}

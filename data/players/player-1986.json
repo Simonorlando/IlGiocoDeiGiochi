@@ -1,0 +1,29 @@
+{
+  "player_id": 1986,
+  "full_name": "Domagoj Vida",
+  "nationality": "Croatia",
+  "birth_date": "1989-04-29",
+  "birth_place": "Osijek",
+  "career_transfers": [
+    {
+      "date": "2018-01-03",
+      "type": "Free",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2013-01-02",
+      "type": "€ 4.5M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Dynamo Kyiv"
+    }
+  ],
+  "career_clubs": [
+    "NK Osijek",
+    "Bayer 04 Leverkusen",
+    "GNK Dinamo Zagreb",
+    "FC Dynamo Kyiv",
+    "Beşiktaş J.K. (Football)",
+    "AEK Athens F.C."
+  ]
+}

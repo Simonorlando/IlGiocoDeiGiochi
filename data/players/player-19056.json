@@ -1,0 +1,35 @@
+{
+  "player_id": 19056,
+  "full_name": "Laurent Depoitre",
+  "nationality": "Belgium",
+  "birth_date": "1988-12-07",
+  "birth_place": "Tournai",
+  "career_transfers": [
+    {
+      "date": "2019-07-23",
+      "type": "Free",
+      "team_out": "Huddersfield",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2016-08-08",
+      "type": "€ 6M",
+      "team_out": "Gent",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Oostende",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "R.F.C. Tournai",
+    "R.R.C. Peruwelz",
+    "Royal Excel Mouscron",
+    "SC Eendracht Aalst",
+    "KV Oostende",
+    "KAA Gent"
+  ]
+}

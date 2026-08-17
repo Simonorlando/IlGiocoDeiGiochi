@@ -1,0 +1,42 @@
+{
+  "player_id": 30842,
+  "full_name": "Soufiane Bidaoui",
+  "nationality": "Morocco",
+  "birth_date": "1990-04-20",
+  "birth_place": "Etterbeek",
+  "career_transfers": [
+    {
+      "date": "2015-01-29",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-07-24",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Lierse",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "K.V.C. Westerlo",
+    "K.S.V. Roeselare",
+    "Lierse S.K.",
+    "F.C. Crotone",
+    "Parma Calcio 1913",
+    "Latina Calcio 1932",
+    "Spezia Calcio"
+  ]
+}

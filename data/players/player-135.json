@@ -1,0 +1,36 @@
+{
+  "player_id": 135,
+  "full_name": "Jeison Fabián Murillo Cerón",
+  "nationality": "Colombia",
+  "birth_date": "1992-05-27",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2019-01-02",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2018-08-18",
+      "type": "€ 12M",
+      "team_out": "Inter",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2017-08-18",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Club Recreativo Granada",
+    "Granada CF",
+    "Cádiz Club de Fútbol",
+    "UD Las Palmas",
+    "Inter Milan",
+    "Deportivo Cali"
+  ]
+}

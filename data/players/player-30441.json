@@ -1,0 +1,44 @@
+{
+  "player_id": 30441,
+  "full_name": "Emilio Audero Mulyadi",
+  "nationality": "Italy",
+  "birth_date": "1997-01-18",
+  "birth_place": "Mataram",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "€ 6M",
+      "team_out": "Sampdoria",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Palermo",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-27",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cremonese",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Juventus FC",
+    "U.C. Sampdoria"
+  ]
+}

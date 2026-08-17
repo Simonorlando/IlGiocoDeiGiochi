@@ -1,0 +1,25 @@
+{
+  "player_id": 211,
+  "full_name": "Matías Vecino Falero",
+  "nationality": "Uruguay",
+  "birth_date": "1991-08-24",
+  "birth_place": "San Jacinto",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Central Español",
+    "Club Nacional de Football",
+    "ACF Fiorentina",
+    "Cagliari Calcio",
+    "Empoli FC",
+    "Inter Milan",
+    "SS Lazio",
+    "RC Celta de Vigo"
+  ]
+}

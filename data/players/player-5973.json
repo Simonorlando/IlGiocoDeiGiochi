@@ -1,0 +1,32 @@
+{
+  "player_id": 5973,
+  "full_name": "Nicolás Capaldo Taboas",
+  "nationality": "Argentina",
+  "birth_date": "1998-09-14",
+  "birth_place": "Santa Rosa",
+  "career_transfers": [
+    {
+      "date": "2021-06-23",
+      "type": "N/A",
+      "team_out": "Boca Juniors",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Transfer",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Hamburger SV"
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Transfer",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Hamburger SV"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Red Bull Salzburg",
+    "Hamburger SV"
+  ]
+}

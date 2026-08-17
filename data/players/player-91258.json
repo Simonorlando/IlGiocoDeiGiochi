@@ -1,0 +1,24 @@
+{
+  "player_id": 91258,
+  "full_name": "Željko Brkić",
+  "nationality": "Serbia",
+  "birth_date": "1986-07-09",
+  "birth_place": "Novi Sad",
+  "career_transfers": [
+    {
+      "date": "2011-07-19",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "FK Vojvodina",
+    "FK Proleter Novi Sad",
+    "Udinese Calcio",
+    "Siena FC",
+    "Udinese Calcio",
+    "Cagliari Calcio",
+    "A.C. Carpi"
+  ]
+}

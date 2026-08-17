@@ -1,0 +1,29 @@
+{
+  "player_id": 34423,
+  "full_name": "Joo-Ho Park",
+  "nationality": "Korea Republic",
+  "birth_date": "1987-01-16",
+  "birth_place": "Seoul",
+  "career_transfers": [
+    {
+      "date": "2013-07-17",
+      "type": "€ 1M",
+      "team_out": "FC Basel 1893",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Jubilo Iwata",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "Mito HollyHock",
+    "Kashima Antlers",
+    "Júbilo Iwata",
+    "FC Basel",
+    "1. FSV Mainz 05",
+    "Borussia Dortmund"
+  ]
+}

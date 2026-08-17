@@ -1,0 +1,33 @@
+{
+  "player_id": 26295,
+  "full_name": "Dennis Aogo",
+  "nationality": "Germany",
+  "birth_date": "1987-01-14",
+  "birth_place": "Karlsruhe",
+  "career_transfers": [
+    {
+      "date": "2017-08-09",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 2.9M",
+      "team_out": "Hamburger SV",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2013-08-29",
+      "type": "Loan",
+      "team_out": "Hamburger SV",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "Hamburger SV",
+    "Schalke 04",
+    "VfB Stuttgart"
+  ]
+}

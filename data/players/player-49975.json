@@ -1,0 +1,28 @@
+{
+  "player_id": 49975,
+  "full_name": "Yekta Kurtuluş",
+  "nationality": "Türkiye",
+  "birth_date": "1985-12-11",
+  "birth_place": "İzmir",
+  "career_transfers": [
+    {
+      "date": "2015-08-18",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Sivasspor"
+    },
+    {
+      "date": "2011-01-21",
+      "type": "€ 3.8M",
+      "team_out": "Kasimpasa",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "İzmirspor",
+    "Kasımpaşa S.K.",
+    "Galatasaray S.K.",
+    "Sivasspor",
+    "Antalyaspor"
+  ]
+}

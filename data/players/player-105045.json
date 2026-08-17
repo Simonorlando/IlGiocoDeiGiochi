@@ -1,0 +1,24 @@
+{
+  "player_id": 105045,
+  "full_name": "Rubén Gracia Calmache",
+  "nationality": "Spain",
+  "birth_date": "1981-08-03",
+  "birth_place": "Zaragoza",
+  "career_transfers": [
+    {
+      "date": "2015-01-07",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Depor FC"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Aragón",
+    "Utebo FC",
+    "Real Zaragoza",
+    "Villarreal CF",
+    "Atlético Madrid",
+    "Deportivo de A Coruña",
+    "Real Zaragoza"
+  ]
+}

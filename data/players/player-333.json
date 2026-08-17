@@ -1,0 +1,31 @@
+{
+  "player_id": 333,
+  "full_name": "Arkadiusz Krystian Milik",
+  "nationality": "Poland",
+  "birth_date": "1994-02-28",
+  "birth_place": "Tychy",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 6.3M",
+      "team_out": "Marseille",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-08-26",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Rozwój Katowice",
+    "Górnik Zabrze",
+    "FC Augsburg",
+    "Bayer 04 Leverkusen",
+    "AFC Ajax",
+    "SSC Napoli",
+    "Olympique de Marseille",
+    "Juventus FC"
+  ]
+}

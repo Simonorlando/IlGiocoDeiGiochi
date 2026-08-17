@@ -1,0 +1,25 @@
+{
+  "player_id": 724,
+  "full_name": "Ishak Belfodil",
+  "nationality": "Algeria",
+  "birth_date": "1992-01-12",
+  "birth_place": "Mostaganem",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "Bologna F.C. 1909",
+    "Parma Calcio 1913",
+    "Inter Milan",
+    "US Livorno 1915",
+    "Parma Calcio 1913",
+    "Baniyas SC",
+    "Clermont Foot 63"
+  ]
+}

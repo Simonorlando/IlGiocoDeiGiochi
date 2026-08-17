@@ -1,0 +1,34 @@
+{
+  "player_id": 645,
+  "full_name": "Raheem Shaquille Sterling",
+  "nationality": "England",
+  "birth_date": "1994-12-08",
+  "birth_place": "Kingston",
+  "career_transfers": [
+    {
+      "date": "2026-02-11",
+      "type": "Free agent",
+      "team_out": "Chelsea",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Free agent",
+      "team_out": "Chelsea",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Feyenoord",
+      "team_in": "Sterling Raheem"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "Manchester City F.C.",
+    "Chelsea F.C.",
+    "Arsenal F.C.",
+    "Feyenoord Rotterdam"
+  ]
+}

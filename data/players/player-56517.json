@@ -1,0 +1,40 @@
+{
+  "player_id": 56517,
+  "full_name": "Alessandro Lambrughi",
+  "nationality": "Italy",
+  "birth_date": "1987-05-19",
+  "birth_place": "Cernusco sul Naviglio",
+  "career_transfers": [
+    {
+      "date": "2017-08-08",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Miami FC"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2014-01-21",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2010-07-09",
+      "type": "Free",
+      "team_out": "Mantova",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Pro Sesto 1913",
+    "Mantova 1911",
+    "US Livorno 1915",
+    "Novara Calcio",
+    "AC Milan"
+  ]
+}

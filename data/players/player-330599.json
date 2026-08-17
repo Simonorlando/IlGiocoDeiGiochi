@@ -1,0 +1,45 @@
+{
+  "player_id": 330599,
+  "full_name": "Iker Bravo Solanilla",
+  "nationality": "Spain",
+  "birth_date": "2005-01-13",
+  "birth_place": "Sant Cugat del Vallès",
+  "career_transfers": [
+    {
+      "date": "2024-07-31",
+      "type": "€ 600K",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2026-01-14",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Las Palmas"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Las Palmas",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Bayer Leverkusen",
+    "Udinese",
+    "Las Palmas",
+    "Watford"
+  ]
+}

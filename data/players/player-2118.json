@@ -1,0 +1,29 @@
+{
+  "player_id": 2118,
+  "full_name": "Răzvan Gabriel Marin",
+  "nationality": "Romania",
+  "birth_date": "1996-05-23",
+  "birth_place": "Bucureşti",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2022-07-05",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "FC Viitorul Constanța",
+    "Standard Liège",
+    "AFC Ajax",
+    "Cagliari Calcio",
+    "Empoli FC",
+    "AEK Athens F.C."
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "fixture_id": 816254,
+  "competition": "champions_league",
+  "season": 2021,
+  "teams": [
+    {
+      "team_name": "Atletico Madrid",
+      "team_id": 530,
+      "formation": "3-5-2",
+      "lineup": [
+        {
+          "player_id": 29,
+          "shirt_number": 13,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 199,
+          "shirt_number": 24,
+          "position": "M",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 39,
+          "shirt_number": 15,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 22225,
+          "shirt_number": 23,
+          "position": "D",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 10122,
+          "shirt_number": 12,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 382,
+          "shirt_number": 16,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 926,
+          "shirt_number": 4,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 753,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 4
+        },
+        {
+          "player_id": 53,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 583,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        }
+      ]
+    },
+    {
+      "team_name": "Manchester United",
+      "team_id": 33,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 882,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 889,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 742,
+          "shirt_number": 19,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2935,
+          "shirt_number": 5,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 891,
+          "shirt_number": 23,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 904,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 905,
+          "shirt_number": 17,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1485,
+          "shirt_number": 18,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 874,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 909,
+          "shirt_number": 10,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 18,
+          "shirt_number": 25,
+          "position": "M",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 1,
+  "away_score": 1
+}

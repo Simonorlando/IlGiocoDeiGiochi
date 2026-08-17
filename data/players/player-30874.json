@@ -1,0 +1,23 @@
+{
+  "player_id": 30874,
+  "full_name": "Mirko Valdifiori",
+  "nationality": "Italy",
+  "birth_date": "1986-04-21",
+  "birth_place": "Lugo",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 5M",
+      "team_out": "Empoli",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "AC Pavia 1911",
+    "A.C. Legnano",
+    "Empoli FC",
+    "SSC Napoli",
+    "SS Lazio"
+  ]
+}

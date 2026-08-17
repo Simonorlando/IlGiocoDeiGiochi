@@ -1,0 +1,30 @@
+{
+  "player_id": 516,
+  "full_name": "Arjen Robben",
+  "nationality": "Netherlands",
+  "birth_date": "1984-01-23",
+  "birth_place": "Bedum",
+  "career_transfers": [
+    {
+      "date": "2009-08-28",
+      "type": "€ 24M",
+      "team_out": "Real Madrid",
+      "team_in": "Bayern Munich"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 36M",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "VV Bedum",
+    "FC Groningen",
+    "PSV Eindhoven",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol",
+    "FC Bayern Munich",
+    "FC Groningen"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 31069,
+  "full_name": "Marco Sportiello",
+  "nationality": "Italy",
+  "birth_date": "1992-05-10",
+  "birth_place": "Desio",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2018-07-06",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "U.S.D. 1913 Seregno Calcio",
+    "U.S. Poggibonsi",
+    "A.C. Carpi",
+    "Atalanta BC",
+    "ACF Fiorentina"
+  ]
+}

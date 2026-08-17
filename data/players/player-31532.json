@@ -1,0 +1,19 @@
+{
+  "player_id": 31532,
+  "full_name": "Patrick Ciurria",
+  "nationality": "Italy",
+  "birth_date": "1995-02-09",
+  "birth_place": "Sassuolo",
+  "career_transfers": [
+    {
+      "date": "2021-07-31",
+      "type": "N/A",
+      "team_out": "Pordenone",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "Siena FC"
+  ]
+}

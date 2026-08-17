@@ -1,0 +1,65 @@
+{
+  "player_id": 47472,
+  "full_name": "Borja Mayoral Moya",
+  "nationality": "Spain",
+  "birth_date": "1997-04-05",
+  "birth_place": "Parla",
+  "career_transfers": [
+    {
+      "date": "2022-08-01",
+      "type": "€ 10M",
+      "team_out": "Real Madrid",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2022-01-13",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2020-10-02",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Levante",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2018-08-31",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Levante"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2016-07-21",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "VfL Wolfsburg",
+    "Levante UD",
+    "AS Roma",
+    "Getafe CF"
+  ]
+}

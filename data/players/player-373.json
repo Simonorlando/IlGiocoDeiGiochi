@@ -1,0 +1,29 @@
+{
+  "player_id": 373,
+  "full_name": "Képler Laveran de Lima Ferreira",
+  "nationality": "Portugal",
+  "birth_date": "1983-02-26",
+  "birth_place": "Maceió",
+  "career_transfers": [
+    {
+      "date": "2017-07-24",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2007-07-10",
+      "type": "€ 30M",
+      "team_out": "FC Porto",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "C.S. Marítimo B",
+    "C.S. Marítimo",
+    "FC Porto",
+    "Real Madrid Club de Fútbol",
+    "Beşiktaş J.K. (Football)",
+    "FC Porto"
+  ]
+}

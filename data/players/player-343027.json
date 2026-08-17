@@ -1,0 +1,20 @@
+{
+  "player_id": 343027,
+  "full_name": "Désiré Doué",
+  "nationality": "France",
+  "birth_date": "2005-06-03",
+  "birth_place": "Angers",
+  "career_transfers": [
+    {
+      "date": "2024-08-17",
+      "type": "€ 50M",
+      "team_out": "Rennes",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais FC B",
+    "Stade Rennais F.C.",
+    "Paris Saint-Germain FC"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "player_id": 353609,
+  "full_name": "Ibrahim Sulemana Kakari",
+  "nationality": "Ghana",
+  "birth_date": "2003-05-22",
+  "birth_place": "Sunyani",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 4M",
+      "team_out": "Verona",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Verona",
+    "Cagliari"
+  ]
+}

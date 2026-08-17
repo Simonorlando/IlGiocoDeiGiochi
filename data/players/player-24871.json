@@ -1,0 +1,29 @@
+{
+  "player_id": 24871,
+  "full_name": "Kyriakos Papadopoulos",
+  "nationality": "Greece",
+  "birth_date": "1992-02-23",
+  "birth_place": "Katerini",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "€ 2M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C.",
+    "Schalke 04",
+    "Bayer 04 Leverkusen",
+    "RB Leipzig",
+    "Hamburger SV",
+    "NK Lokomotiva",
+    "Al-Feiha FC",
+    "Atromitos F.C.",
+    "FC U Craiova 1948",
+    "P.A.S. Lamia 1964",
+    "Levadiakos F.C.",
+    "G.A.S. Svoronou"
+  ]
+}

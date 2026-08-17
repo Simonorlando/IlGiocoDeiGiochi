@@ -1,0 +1,28 @@
+{
+  "player_id": 50773,
+  "full_name": "Wayne Mark Rooney",
+  "nationality": "England",
+  "birth_date": "1985-10-24",
+  "birth_place": "Liverpool",
+  "career_transfers": [
+    {
+      "date": "2017-07-09",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "€ 37M",
+      "team_out": "Everton",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Everton F.C.",
+    "Manchester United F.C.",
+    "Everton F.C.",
+    "D.C. United",
+    "Derby County F.C."
+  ]
+}

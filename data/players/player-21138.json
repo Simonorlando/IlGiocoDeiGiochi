@@ -1,0 +1,18 @@
+{
+  "player_id": 21138,
+  "full_name": "Rayan Aït-Nouri",
+  "nationality": "Algeria",
+  "birth_date": "2001-06-06",
+  "birth_place": "Montreuil",
+  "career_transfers": [
+    {
+      "date": "2025-06-09",
+      "type": "Transfer",
+      "team_out": "Wolves",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Wolverhampton Wanderers F.C."
+  ]
+}

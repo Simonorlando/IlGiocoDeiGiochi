@@ -1,0 +1,22 @@
+{
+  "player_id": 769,
+  "full_name": "Alessandro Florenzi",
+  "nationality": "Italy",
+  "birth_date": "1991-03-11",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "F.C. Crotone",
+    "Valencia CF",
+    "Paris Saint-Germain FC",
+    "AC Milan"
+  ]
+}

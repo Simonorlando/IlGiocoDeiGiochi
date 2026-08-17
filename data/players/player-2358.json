@@ -1,0 +1,26 @@
+{
+  "player_id": 2358,
+  "full_name": "José Ángel Crespo Rincón",
+  "nationality": "Spain",
+  "birth_date": "1987-02-09",
+  "birth_place": "Lora del Río",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "PAOK",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Racing de Santander",
+    "Calcio Padova",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "Córdoba CF",
+    "Aston Villa F.C.",
+    "Rayo Vallecano"
+  ]
+}

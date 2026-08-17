@@ -1,0 +1,25 @@
+{
+  "player_id": 91429,
+  "full_name": "Giuseppe Rossi",
+  "nationality": "Italy",
+  "birth_date": "1987-02-01",
+  "birth_place": "Teaneck",
+  "career_transfers": [
+    {
+      "date": "2013-01-04",
+      "type": "€ 10M",
+      "team_out": "Villarreal",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Newcastle United F.C.",
+    "Villarreal CF",
+    "Parma Calcio 1913",
+    "ACF Fiorentina",
+    "Levante UD",
+    "RC Celta de Vigo",
+    "ACF Fiorentina"
+  ]
+}

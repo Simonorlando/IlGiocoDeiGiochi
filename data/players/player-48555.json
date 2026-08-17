@@ -1,0 +1,49 @@
+{
+  "player_id": 48555,
+  "full_name": "Charles Monginda Pickel",
+  "nationality": "Switzerland",
+  "birth_date": "1997-05-15",
+  "birth_place": "Solothurn",
+  "career_transfers": [
+    {
+      "date": "2022-07-22",
+      "type": "€ 4.5M",
+      "team_out": "Famalicao",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-08-27",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Free agent",
+      "team_out": "Cremonese",
+      "team_in": "Sharjah FC"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Espanyol",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-07-05",
+      "type": "Free agent",
+      "team_out": "Cremonese",
+      "team_in": "Sharjah FC"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Grasshopper Club Zürich",
+    "FC Schaffhausen",
+    "Neuchâtel Xamax FCS",
+    "Grenoble Foot 38",
+    "FC Famalicão",
+    "US Cremonese",
+    "RCD Espanyol de Barcelona"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "player_id": 19339,
+  "full_name": "Luciano Narsingh",
+  "nationality": "Netherlands",
+  "birth_date": "1990-09-13",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2022-03-01",
+      "type": "N/A",
+      "team_out": "Feyenoord",
+      "team_in": "Sydney"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Twente",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2021-01-22",
+      "type": "Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Twente"
+    },
+    {
+      "date": "2019-07-05",
+      "type": "Free",
+      "team_out": "Swansea",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "AFC Ajax"
+  ]
+}

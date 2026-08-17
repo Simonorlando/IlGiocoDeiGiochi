@@ -1,0 +1,21 @@
+{
+  "player_id": 957,
+  "full_name": "Mohameth Djibril Ibrahima Sow",
+  "nationality": "Switzerland",
+  "birth_date": "1997-02-06",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2023-08-04",
+      "type": "€ 10M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "BSC Young Boys",
+    "Eintracht Frankfurt",
+    "Sevilla FC",
+    "Genoa CFC"
+  ]
+}

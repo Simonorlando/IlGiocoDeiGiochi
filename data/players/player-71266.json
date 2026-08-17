@@ -1,0 +1,32 @@
+{
+  "player_id": 71266,
+  "full_name": "Edson René Braafheid",
+  "nationality": "Netherlands",
+  "birth_date": "1983-04-08",
+  "birth_place": "Paramaribo",
+  "career_transfers": [
+    {
+      "date": "2016-08-17",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Utrecht"
+    },
+    {
+      "date": "2014-08-01",
+      "type": "Free",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FC Utrecht",
+    "FC Twente",
+    "FC Bayern Munich",
+    "Celtic F.C.",
+    "TSG 1899 Hoffenheim",
+    "FC Twente",
+    "SS Lazio",
+    "FC Utrecht",
+    "Austin Bold FC"
+  ]
+}

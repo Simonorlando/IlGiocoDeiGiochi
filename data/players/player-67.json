@@ -1,0 +1,38 @@
+{
+  "player_id": 67,
+  "full_name": "Stefano Wilfred Denswil",
+  "nationality": "Suriname",
+  "birth_date": "1993-05-07",
+  "birth_place": "Zaandam",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Club Brugge KV",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2021-01-07",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2019-07-06",
+      "type": "€ 6M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-01-05",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Jong Ajax",
+    "Club Brugge K.V."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "player_id": 89045,
+  "full_name": "Zsolt Laczkó",
+  "nationality": "Hungary",
+  "birth_date": "1986-12-18",
+  "birth_place": "Szeged",
+  "career_transfers": [
+    {
+      "date": "2008-07-28",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Vasas"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "€ 85K",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Levadiakos"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Free",
+      "team_out": "Ferencvarosi TC",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Ferencvárosi TC",
+    "Olympiacos F.C.",
+    "Levadiakos F.C.",
+    "Leicester City F.C.",
+    "Vasas FC",
+    "Debreceni VSC",
+    "U.C. Sampdoria",
+    "Vicenza Calcio",
+    "Calcio Padova",
+    "Kecskeméti TE",
+    "Ferencvárosi TC",
+    "Békéscsaba 1912 Előre SE"
+  ]
+}

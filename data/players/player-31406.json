@@ -1,0 +1,58 @@
+{
+  "player_id": 31406,
+  "full_name": "Umar Sadiq Mesbah",
+  "nationality": "Nigeria",
+  "birth_date": "1997-02-02",
+  "birth_place": "Kaduna",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "€ 20M",
+      "team_out": "Almeria",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Valencia",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-01-04",
+      "type": "Loan",
+      "team_out": "Real Sociedad",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Valencia",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2026-01-06",
+      "type": "Transfer",
+      "team_out": "Real Sociedad",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Transfer",
+      "team_out": "Real Sociedad",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "AS Roma",
+    "Bologna F.C. 1909",
+    "Torino FC",
+    "Rangers F.C.",
+    "NAC Breda",
+    "FK Partizan",
+    "A.C. Perugia Calcio",
+    "Unión Deportiva Almería",
+    "Real Sociedad",
+    "Valencia CF"
+  ]
+}

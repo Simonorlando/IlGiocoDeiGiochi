@@ -1,0 +1,25 @@
+{
+  "player_id": 39285,
+  "full_name": "Kristoffer Askildsen",
+  "nationality": "Norway",
+  "birth_date": "2001-01-09",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2022-07-17",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Stabæk Fotball",
+    "U.C. Sampdoria"
+  ]
+}

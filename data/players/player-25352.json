@@ -1,0 +1,31 @@
+{
+  "player_id": 25352,
+  "full_name": "Salomon Armand Magloire Kalou",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1985-08-05",
+  "birth_place": "Oumé",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 4M",
+      "team_out": "Feyenoord",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Excelsior"
+    }
+  ],
+  "career_clubs": [
+    "ASEC Mimosas",
+    "Feyenoord Rotterdam",
+    "Excelsior Rotterdam",
+    "Chelsea F.C.",
+    "Lille OSC",
+    "Hertha BSC",
+    "Botafogo F.R.",
+    "Arta/Solar7"
+  ]
+}

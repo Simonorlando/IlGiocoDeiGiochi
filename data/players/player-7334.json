@@ -1,0 +1,21 @@
+{
+  "player_id": 7334,
+  "full_name": "Karim-David Adeyemi",
+  "nationality": "Germany",
+  "birth_date": "2002-01-18",
+  "birth_place": "München",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 30M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg",
+    "FC Liefering",
+    "Borussia Dortmund",
+    "FC Barcelona"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 158121,
+  "full_name": "Ismail Joshua Jakobs",
+  "nationality": "Senegal",
+  "birth_date": "1999-08-17",
+  "birth_place": "Stuttgart",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Galatasaray",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Monaco",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Köln",
+    "AS Monaco FC"
+  ]
+}

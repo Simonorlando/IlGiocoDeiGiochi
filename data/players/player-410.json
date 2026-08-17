@@ -1,0 +1,28 @@
+{
+  "player_id": 410,
+  "full_name": "Daniel Caligiuri",
+  "nationality": "Germany",
+  "birth_date": "1988-01-15",
+  "birth_place": "Villingen-Schwenningen",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2017-01-25",
+      "type": "€ 2.5M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "VfL Wolfsburg",
+    "Schalke 04",
+    "FC Augsburg",
+    "FC 08 Villingen"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 514,
+  "full_name": "Javier Martínez Aginaga",
+  "nationality": "Spain",
+  "birth_date": "1988-09-02",
+  "birth_place": "Estella",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Bayern München",
+      "team_in": "Qatar SC"
+    },
+    {
+      "date": "2012-08-29",
+      "type": "€ 40M",
+      "team_out": "Athletic Club",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "CD Berceo",
+    "CD Logroñés",
+    "CD Izarra",
+    "Club Atlético Osasuna",
+    "Osasuna B",
+    "Athletic Club",
+    "Basque Country regional football team",
+    "FC Bayern Munich",
+    "Qatar SC",
+    "Al Bidaa SC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 656,
+  "full_name": "Oumar Mickaël Solet Bomawoko",
+  "nationality": "France",
+  "birth_date": "2000-02-07",
+  "birth_place": "Melun",
+  "career_transfers": [
+    {
+      "date": "2020-07-26",
+      "type": "€ 4.5M",
+      "team_out": "Lyon",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "US Créteil-Lusitanos",
+    "Stade Lavallois",
+    "Olympique Lyonnais"
+  ]
+}

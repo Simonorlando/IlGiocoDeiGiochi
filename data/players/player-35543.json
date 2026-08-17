@@ -1,0 +1,25 @@
+{
+  "player_id": 35543,
+  "full_name": "Leonel Jesús Vangioni",
+  "nationality": "Argentina",
+  "birth_date": "1987-05-05",
+  "birth_place": "Constitución",
+  "career_transfers": [
+    {
+      "date": "2017-08-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Monterrey"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "River Plate",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "Club Atlético River Plate"
+  ]
+}

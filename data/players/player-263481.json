@@ -1,0 +1,25 @@
+{
+  "player_id": 263481,
+  "full_name": "Lorenzo Colombo",
+  "nationality": "Italy",
+  "birth_date": "2002-03-08",
+  "birth_place": "Vimercate",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Genoa CFC"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 2805,
+  "full_name": "Michael Rico Lang",
+  "nationality": "Switzerland",
+  "birth_date": "1991-02-08",
+  "birth_place": "Egnach",
+  "career_transfers": [
+    {
+      "date": "2021-07-20",
+      "type": "N/A",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 2.8M",
+      "team_out": "FC Basel 1893",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Grasshoppers",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC St. Gallen",
+    "Grasshopper Club Zürich",
+    "FC Basel"
+  ]
+}

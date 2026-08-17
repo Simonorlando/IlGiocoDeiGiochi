@@ -1,0 +1,178 @@
+{
+  "fixture_id": 1360762,
+  "competition": "champions_league",
+  "season": 2024,
+  "teams": [
+    {
+      "team_name": "Paris Saint Germain",
+      "team_id": 85,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 1622,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 9,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 307835,
+          "shirt_number": 35,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 16367,
+          "shirt_number": 51,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 263482,
+          "shirt_number": 25,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 335051,
+          "shirt_number": 87,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 128384,
+          "shirt_number": 17,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 328,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 343027,
+          "shirt_number": 14,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 153,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 483,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    },
+    {
+      "team_name": "Aston Villa",
+      "team_id": 66,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 19599,
+          "shirt_number": 23,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 19298,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 19354,
+          "shirt_number": 4,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 46815,
+          "shirt_number": 14,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 2724,
+          "shirt_number": 12,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 1904,
+          "shirt_number": 44,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 2926,
+          "shirt_number": 8,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 19170,
+          "shirt_number": 27,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 19191,
+          "shirt_number": 7,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 19192,
+          "shirt_number": 41,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 909,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 3,
+  "away_score": 1
+}

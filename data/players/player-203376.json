@@ -1,0 +1,21 @@
+{
+  "player_id": 203376,
+  "full_name": "Jonas Kurt Urbig",
+  "nationality": "Germany",
+  "birth_date": "2003-08-08",
+  "birth_place": "Euskirchen",
+  "career_transfers": [
+    {
+      "date": "2025-01-27",
+      "type": "Transfer",
+      "team_out": "1.FC Köln",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Köln",
+    "Jahn Regensburg",
+    "Greuther Fürth",
+    "Bayern Munich"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 30771,
+  "full_name": "Domenico Criscito",
+  "nationality": "Italy",
+  "birth_date": "1986-12-30",
+  "birth_place": "Cercola",
+  "career_transfers": [
+    {
+      "date": "2008-01-01",
+      "type": "€ 13.5M",
+      "team_out": "Juventus",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "Inter Milan",
+    "U.C. Sampdoria",
+    "A.C. Reggiana 1919"
+  ]
+}

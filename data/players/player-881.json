@@ -1,0 +1,48 @@
+{
+  "player_id": 881,
+  "full_name": "Hans Nicolussi Caviglia",
+  "nationality": "Italy",
+  "birth_date": "2000-06-18",
+  "birth_place": "Aosta",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 47254,
+  "full_name": "Mathías Olivera Miramontes",
+  "nationality": "Uruguay",
+  "birth_date": "1997-10-31",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 11M",
+      "team_out": "Getafe",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "Atenas de San Carlos",
+    "Getafe CF",
+    "Albacete Balompié"
+  ]
+}

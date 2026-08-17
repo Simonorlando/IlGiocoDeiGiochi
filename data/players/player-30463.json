@@ -1,0 +1,39 @@
+{
+  "player_id": 30463,
+  "full_name": "Fabio Quagliarella",
+  "nationality": "Italy",
+  "birth_date": "1983-01-31",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 2.7M",
+      "team_out": "Torino",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-07-16",
+      "type": "€ 3.5M",
+      "team_out": "Juventus",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "ACF Fiorentina",
+    "S.S. Chieti Calcio",
+    "Ascoli Calcio 1898 FC",
+    "U.C. Sampdoria",
+    "Udinese Calcio",
+    "SSC Napoli",
+    "Juventus FC",
+    "Torino FC",
+    "U.C. Sampdoria"
+  ]
+}

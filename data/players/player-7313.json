@@ -1,0 +1,31 @@
+{
+  "player_id": 7313,
+  "full_name": "Philipp François Köhn",
+  "nationality": "Switzerland",
+  "birth_date": "1998-04-02",
+  "birth_place": "Dinslaken",
+  "career_transfers": [
+    {
+      "date": "2023-07-15",
+      "type": "€ 10M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "FC WIL 1900",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2020-07-29",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "FC WIL 1900"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg",
+    "RB Leipzig"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 18761,
+  "full_name": "Bernard Anício Caldeira Duarte",
+  "nationality": "Brazil",
+  "birth_date": "1992-09-08",
+  "birth_place": "Belo Horizonte",
+  "career_transfers": [
+    {
+      "date": "2018-08-09",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2013-08-08",
+      "type": "€ 25M",
+      "team_out": "Atletico-MG",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Democrata Futebol Clube",
+    "FC Shakhtar Donetsk",
+    "Everton F.C.",
+    "Sharjah FC",
+    "Panathinaikos F.C.",
+    "Clube Atlético Mineiro"
+  ]
+}

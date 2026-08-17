@@ -1,0 +1,31 @@
+{
+  "player_id": 731,
+  "full_name": "Keylor Antonio Navas Gamboa",
+  "nationality": "Costa Rica",
+  "birth_date": "1986-12-15",
+  "birth_place": "San Isidro",
+  "career_transfers": [
+    {
+      "date": "2019-09-02",
+      "type": "€ 13M",
+      "team_out": "Real Madrid",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2014-08-03",
+      "type": "€ 10M",
+      "team_out": "Levante",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Saprissa",
+    "Albacete Balompié",
+    "Levante UD",
+    "Real Madrid Club de Fútbol",
+    "Paris Saint-Germain FC",
+    "Nottingham Forest F.C.",
+    "Newell's Old Boys",
+    "Pumas UNAM"
+  ]
+}

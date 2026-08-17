@@ -1,0 +1,42 @@
+{
+  "player_id": 910,
+  "full_name": "Alexis Alejandro Sánchez Sánchez",
+  "nationality": "Chile",
+  "birth_date": "1988-12-19",
+  "birth_place": "Tocopilla",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Free Transfer",
+      "team_out": "Udinese",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "Udinese",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Sevilla",
+      "team_in": "Sanchez Alexis"
+    }
+  ],
+  "career_clubs": [
+    "Cobreloa",
+    "Udinese Calcio",
+    "Club Social y Deportivo Colo Colo",
+    "Club Atlético River Plate",
+    "FC Barcelona",
+    "Arsenal F.C.",
+    "Manchester United F.C.",
+    "Inter Milan",
+    "Olympique de Marseille",
+    "Inter Milan",
+    "Udinese Calcio",
+    "Sevilla FC",
+    "CF Montréal"
+  ]
+}

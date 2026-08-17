@@ -1,0 +1,29 @@
+{
+  "player_id": 10180,
+  "full_name": "Bruno Henrique Pinto",
+  "nationality": "Brazil",
+  "birth_date": "1990-12-30",
+  "birth_place": "Belo Horizonte",
+  "career_transfers": [
+    {
+      "date": "2017-01-23",
+      "type": "€ 4M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2016-01-29",
+      "type": "N/A",
+      "team_out": "Goias",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "Uberlândia E.C.",
+    "Itumbiara Esporte Clube",
+    "Goiás Esporte Clube",
+    "VfL Wolfsburg",
+    "Cruzeiro E.C."
+  ]
+}

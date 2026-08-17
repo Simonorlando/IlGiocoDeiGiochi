@@ -1,0 +1,35 @@
+{
+  "player_id": 30729,
+  "full_name": "Davide Moscardelli",
+  "nationality": "Italy",
+  "birth_date": "1980-02-03",
+  "birth_place": "Mons",
+  "career_transfers": [
+    {
+      "date": "2016-07-12",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2014-08-01",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Maccarese Calcio",
+    "A.C.D. Guidonia Montecelio",
+    "A.S.D. SanGiovanniValdarno",
+    "US Triestina Calcio 1918",
+    "Rimini FC",
+    "AC Cesena",
+    "Piacenza Calcio",
+    "AC ChievoVerona",
+    "Bologna F.C. 1909",
+    "US Lecce",
+    "S.S. Arezzo",
+    "Pisa SC"
+  ]
+}

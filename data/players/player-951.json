@@ -1,0 +1,31 @@
+{
+  "player_id": 951,
+  "full_name": "Michel Aebischer",
+  "nationality": "Switzerland",
+  "birth_date": "1997-01-06",
+  "birth_place": "Fribourg",
+  "career_transfers": [
+    {
+      "date": "2025-08-03",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Bologna",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Bologna",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "BSC Young Boys"
+  ]
+}

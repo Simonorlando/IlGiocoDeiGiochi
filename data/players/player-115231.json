@@ -1,0 +1,35 @@
+{
+  "player_id": 115231,
+  "full_name": "Alessandro Sgrigna",
+  "nationality": "Italy",
+  "birth_date": "1980-04-24",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2013-08-30",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Atletico Roma F.C.",
+    "A.S. Lodigiani",
+    "Inter Milan",
+    "Atletico Roma F.C.",
+    "A.S. Lodigiani",
+    "Vicenza Calcio",
+    "Pistoiese FC",
+    "Hellas Verona FC",
+    "A.C. Reggiana 1919",
+    "Associazione Sportiva Cittadella",
+    "Vicenza Calcio",
+    "US Triestina Calcio 1918",
+    "SSC Bari",
+    "Vicenza Calcio",
+    "Torino FC",
+    "Hellas Verona FC",
+    "A.C. Carpi",
+    "Associazione Sportiva Cittadella"
+  ]
+}

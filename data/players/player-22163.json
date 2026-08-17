@@ -1,0 +1,31 @@
+{
+  "player_id": 22163,
+  "full_name": "Dante Bonfim Costa Santos",
+  "nationality": "Brazil",
+  "birth_date": "1983-10-18",
+  "birth_place": "Salvador",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 4.7M",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2009-01-08",
+      "type": "€ 2.5M",
+      "team_out": "Standard Liege",
+      "team_in": "Borussia Mönchengladbach"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Juventude",
+    "Lille OSC",
+    "Royal Charleroi S.C.",
+    "Standard Liège",
+    "Borussia Mönchengladbach",
+    "FC Bayern Munich",
+    "VfL Wolfsburg",
+    "OGC Nice"
+  ]
+}

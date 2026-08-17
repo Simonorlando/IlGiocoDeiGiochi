@@ -1,0 +1,29 @@
+{
+  "player_id": 874,
+  "full_name": "Cristiano Ronaldo dos Santos Aveiro",
+  "nationality": "Portugal",
+  "birth_date": "1985-02-05",
+  "birth_place": "Funchal",
+  "career_transfers": [
+    {
+      "date": "2018-07-10",
+      "type": "€ 100M",
+      "team_out": "Real Madrid",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 94M",
+      "team_out": "Manchester United",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Manchester United F.C.",
+    "Real Madrid Club de Fútbol",
+    "Juventus FC",
+    "Manchester United F.C.",
+    "Al-Nassr"
+  ]
+}

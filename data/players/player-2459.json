@@ -1,0 +1,45 @@
+{
+  "player_id": 2459,
+  "full_name": "Darwin Daniel Machís Marcano",
+  "nationality": "Venezuela",
+  "birth_date": "1993-02-07",
+  "birth_place": "Tucupita",
+  "career_transfers": [
+    {
+      "date": "2019-07-28",
+      "type": "€ 3.5M",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Cadiz",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2019-01-29",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Cadiz"
+    },
+    {
+      "date": "2018-07-18",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Asociación Civil Mineros de Guayana",
+    "Granada CF",
+    "Club Recreativo Granada",
+    "Vitória S.C.",
+    "Hércules CF",
+    "Granada CF",
+    "Sociedad Deportiva Huesca",
+    "Udinese Calcio",
+    "Granada CF",
+    "Club de Fútbol Monterrey"
+  ]
+}

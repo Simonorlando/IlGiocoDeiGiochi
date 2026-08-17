@@ -1,0 +1,27 @@
+{
+  "player_id": 30407,
+  "full_name": "Christian Thers Nørgaard",
+  "nationality": "Denmark",
+  "birth_date": "1994-03-10",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2019-06-22",
+      "type": "€ 3.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Brentford"
+    },
+    {
+      "date": "2018-07-19",
+      "type": "€ 3.5M",
+      "team_out": "Brondby",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Lyngby Boldklub",
+    "Hamburger SV",
+    "Brøndby IF",
+    "ACF Fiorentina"
+  ]
+}

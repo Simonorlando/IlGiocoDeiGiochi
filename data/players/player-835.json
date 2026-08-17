@@ -1,0 +1,21 @@
+{
+  "player_id": 835,
+  "full_name": "Alan Dzagoev",
+  "nationality": "Russia",
+  "birth_date": "1990-06-17",
+  "birth_place": "Beslan",
+  "career_transfers": [
+    {
+      "date": "2022-09-02",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": "Rubin"
+    }
+  ],
+  "career_clubs": [
+    "FC Krylia Sovetov Samara",
+    "PFC CSKA Moscow",
+    "Rubin Kazan",
+    "P.A.S. Lamia 1964"
+  ]
+}

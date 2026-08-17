@@ -1,0 +1,29 @@
+{
+  "player_id": 1358,
+  "full_name": "Eljif Elmas",
+  "nationality": "North Macedonia",
+  "birth_date": "1999-09-24",
+  "birth_place": "Skopje",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Torino",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Loan",
+      "team_out": "RB Leipzig",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FK Rabotnički",
+    "Fenerbahçe Istanbul",
+    "SSC Napoli",
+    "RB Leipzig",
+    "Torino FC",
+    "SSC Napoli"
+  ]
+}

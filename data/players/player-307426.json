@@ -1,0 +1,33 @@
+{
+  "player_id": 307426,
+  "full_name": "Adamo Nagalo",
+  "nationality": "Burkina Faso",
+  "birth_date": "2002-09-22",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "N/A",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Konyaspor"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Konyaspor",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "Konyaspor"
+  ]
+}

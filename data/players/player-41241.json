@@ -1,0 +1,26 @@
+{
+  "player_id": 41241,
+  "full_name": "Eduardo Henrique da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1995-05-17",
+  "birth_place": "Limeira",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2020-09-10",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Guarani Futebol Clube",
+    "São Paulo FC",
+    "Clube Atlético Mineiro"
+  ]
+}

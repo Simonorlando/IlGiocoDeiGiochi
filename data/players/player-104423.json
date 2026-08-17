@@ -1,0 +1,36 @@
+{
+  "player_id": 104423,
+  "full_name": "Júlio César Soares de Espíndola",
+  "nationality": "Brazil",
+  "birth_date": "1979-09-03",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2012-08-29",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2004-12-02",
+      "type": "€ 2.6M",
+      "team_out": "Flamengo",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Inter Milan",
+    "AC ChievoVerona",
+    "Queens Park Rangers F.C.",
+    "Toronto FC",
+    "S.L. Benfica",
+    "Clube de Regatas do Flamengo"
+  ]
+}

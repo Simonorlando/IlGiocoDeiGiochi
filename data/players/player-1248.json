@@ -1,0 +1,36 @@
+{
+  "player_id": 1248,
+  "full_name": "Jaromír Zmrhal",
+  "nationality": "Czechia",
+  "birth_date": "1993-08-02",
+  "birth_place": "Žatec",
+  "career_transfers": [
+    {
+      "date": "2021-07-02",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Slovan Bratislava"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Mlada Boleslav",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Mlada Boleslav"
+    },
+    {
+      "date": "2019-08-06",
+      "type": "€ 3.5M",
+      "team_out": "Slavia Praha",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "SK Slavia Prague"
+  ]
+}

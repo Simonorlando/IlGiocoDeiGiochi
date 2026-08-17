@@ -1,0 +1,24 @@
+{
+  "player_id": 6221,
+  "full_name": "Lautaro Rodrigo Valenti",
+  "nationality": "Argentina",
+  "birth_date": "1999-01-14",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Lanus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-09-26",
+      "type": "Loan",
+      "team_out": "Lanus",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Lanús"
+  ]
+}

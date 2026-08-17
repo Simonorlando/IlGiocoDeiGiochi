@@ -1,0 +1,28 @@
+{
+  "player_id": 31200,
+  "full_name": "Michele Rinaldi",
+  "nationality": "Italy",
+  "birth_date": "1987-01-09",
+  "birth_place": "Manerbio",
+  "career_transfers": [
+    {
+      "date": "2007-01-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Rimini FC",
+    "Parma Calcio 1913",
+    "Rimini FC",
+    "SSC Bari",
+    "Benevento Calcio",
+    "AC Pavia 1911",
+    "Savoia 1908 FC",
+    "A.C. Cuneo 1905 Olmo",
+    "A.C. Prato",
+    "Atalanta BC"
+  ]
+}

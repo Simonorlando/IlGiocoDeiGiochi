@@ -1,0 +1,30 @@
+{
+  "player_id": 2275,
+  "full_name": "Wilfredo Daniel Caballero Lazcano",
+  "nationality": "Argentina",
+  "birth_date": "1981-09-28",
+  "birth_place": "Entre Ríos",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2014-07-08",
+      "type": "€ 8M",
+      "team_out": "Malaga",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Elche CF",
+    "Arsenal Fútbol Club",
+    "Málaga CF",
+    "Manchester City F.C.",
+    "Boca Juniors",
+    "Chelsea F.C."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "player_id": 140,
+  "full_name": "Thomas Vermaelen",
+  "nationality": "Belgium",
+  "birth_date": "1985-11-14",
+  "birth_place": "Kapellen",
+  "career_transfers": [
+    {
+      "date": "2019-07-27",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Vissel Kobe"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2016-08-08",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2014-08-09",
+      "type": "€ 10M",
+      "team_out": "Arsenal",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "RKC Waalwijk",
+    "Arsenal F.C.",
+    "FC Barcelona",
+    "AS Roma",
+    "Vissel Kobe"
+  ]
+}

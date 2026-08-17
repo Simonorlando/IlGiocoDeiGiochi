@@ -1,0 +1,28 @@
+{
+  "player_id": 32227,
+  "full_name": "Juan Ignacio Gómez Taleb",
+  "nationality": "Argentina",
+  "birth_date": "1985-05-20",
+  "birth_place": "Santa Fe",
+  "career_transfers": [
+    {
+      "date": "2018-09-11",
+      "type": "Free",
+      "team_out": "Cremonese",
+      "team_in": "Sicula Leonzio"
+    },
+    {
+      "date": "2017-12-13",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Ferentino Calcio",
+    "US Triestina Calcio 1918",
+    "A.C. Bellaria Igea Marina",
+    "Hellas Verona FC",
+    "A.S. Gubbio 1910"
+  ]
+}

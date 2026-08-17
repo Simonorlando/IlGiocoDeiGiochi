@@ -1,0 +1,32 @@
+{
+  "player_id": 772,
+  "full_name": "Konstantinos Manolas",
+  "nationality": "Greece",
+  "birth_date": "1991-06-14",
+  "birth_place": "Athína",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 36M",
+      "team_out": "AS Roma",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2014-08-26",
+      "type": "€ 13M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "PAO Thrasyvoulos Fylis",
+    "AEK Athens",
+    "Olympiacos FC",
+    "AS Roma",
+    "SSC Napoli",
+    "Olympiacos FC",
+    "Al-Sharjah",
+    "US Salernitana 1919",
+    "AO Pannaxiakos"
+  ]
+}

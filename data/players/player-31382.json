@@ -1,0 +1,33 @@
+{
+  "player_id": 31382,
+  "full_name": "Albano Benjamín Bizzarri",
+  "nationality": "Argentina",
+  "birth_date": "1977-11-09",
+  "birth_place": "Etruria",
+  "career_transfers": [
+    {
+      "date": "2000-08-01",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "1998-08-01",
+      "type": "N/A",
+      "team_out": "Racing Club",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Real Madrid Club de Fútbol",
+    "Real Valladolid",
+    "Gimnàstic de Tarragona",
+    "Catania FC",
+    "SS Lazio",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "Delfino Pescara 1936",
+    "Udinese Calcio"
+  ]
+}

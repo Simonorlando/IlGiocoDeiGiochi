@@ -1,0 +1,41 @@
+{
+  "player_id": 775,
+  "full_name": "Davide Santon",
+  "nationality": "Italy",
+  "birth_date": "1991-01-02",
+  "birth_place": "Porto Maggiore",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 9.5M",
+      "team_out": "Inter",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3.7M",
+      "team_out": "Newcastle",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Newcastle",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "AC Cesena",
+    "Newcastle United F.C.",
+    "Inter Milan",
+    "S.C. Ravenna Sport",
+    "AS Roma"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 207,
+  "full_name": "Ivan Perišić",
+  "nationality": "Croatia",
+  "birth_date": "1989-02-02",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 5.5M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2009-08-27",
+      "type": "€ 200K",
+      "team_out": "Sochaux",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "FC Sochaux-Montbéliard",
+    "K.S.V. Roeselare",
+    "Club Brugge K.V.",
+    "Borussia Dortmund",
+    "VfL Wolfsburg",
+    "Inter Milan",
+    "FC Bayern Munich",
+    "Tottenham Hotspur F.C.",
+    "HNK Hajduk Split",
+    "PSV Eindhoven"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "player_id": 590,
+  "full_name": "Dmytro Chyhrynskyi",
+  "nationality": "Ukraine",
+  "birth_date": "1986-11-07",
+  "birth_place": "Iziaslav",
+  "career_transfers": [
+    {
+      "date": "2023-08-04",
+      "type": "Free",
+      "team_out": "Ionikos",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2015-02-09",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Dnipro Dnipropetrovsk"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 15M",
+      "team_out": "Barcelona",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2009-08-31",
+      "type": "€ 25M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "N/A",
+      "team_out": "Metalurh Zaporizhya",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar-2 Donetsk",
+    "FC Shakhtar Donetsk",
+    "FC Karpaty-3 Lviv",
+    "FC Metalurh Zaporizhzhia",
+    "FC Barcelona",
+    "FC Shakhtar Donetsk",
+    "FC Dnipro",
+    "AEK Athens F.C.",
+    "Ionikos Nikaia F.C.",
+    "FC Shakhtar Donetsk"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 31562,
+  "full_name": "George Alexandru Puşcaş",
+  "nationality": "Romania",
+  "birth_date": "1996-04-08",
+  "birth_place": "Marghita",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Reading"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Reading",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "FC Bihor Oradea",
+    "Inter Milan",
+    "SSC Bari",
+    "Benevento Calcio",
+    "Novara Calcio",
+    "Palermo F.C.",
+    "Reading F.C.",
+    "Pisa SC",
+    "Genoa CFC",
+    "SSC Bari",
+    "Bodrum FK",
+    "FC Dinamo Bucharest"
+  ]
+}

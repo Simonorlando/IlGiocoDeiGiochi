@@ -1,0 +1,27 @@
+{
+  "player_id": 30759,
+  "full_name": "Sergio Pellissier",
+  "nationality": "Italy",
+  "birth_date": "1979-04-12",
+  "birth_place": "Aosta",
+  "career_transfers": [
+    {
+      "date": "2000-07-16",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "1998-08-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Varese"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Varese Calcio",
+    "AC ChievoVerona",
+    "SPAL"
+  ]
+}

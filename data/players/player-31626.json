@@ -1,0 +1,47 @@
+{
+  "player_id": 31626,
+  "full_name": "Samuele Longo",
+  "nationality": "Italy",
+  "birth_date": "1992-01-12",
+  "birth_place": "Valdobbiadene",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2019-01-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Treviso F.B.C. 1993",
+    "Inter Milan",
+    "Piacenza Calcio",
+    "Inter Milan",
+    "Genoa CFC",
+    "RCD Espanyol de Barcelona",
+    "Hellas Verona FC",
+    "Rayo Vallecano",
+    "Cagliari Calcio",
+    "Frosinone Calcio",
+    "Girona FC",
+    "C.D. Tenerife",
+    "Sociedad Deportiva Huesca",
+    "US Cremonese",
+    "Deportivo de A Coruña",
+    "Venezia F.C.",
+    "LR Vicenza",
+    "Modena F.C.",
+    "FC Dordrecht",
+    "P.A.S. Lamia 1964",
+    "Sociedad Deportiva Ponferradina",
+    "Milan Futuro",
+    "Antequera CF",
+    "Xerez Deportivo Fútbol Club"
+  ]
+}

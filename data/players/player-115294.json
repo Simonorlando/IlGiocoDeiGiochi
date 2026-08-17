@@ -1,0 +1,29 @@
+{
+  "player_id": 115294,
+  "full_name": "Marco Rossi",
+  "nationality": "Italy",
+  "birth_date": "1978-04-01",
+  "birth_place": "Serravezza",
+  "career_transfers": [
+    {
+      "date": "2003-08-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2002-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Lucchese U20",
+    "Lucchese Calcio",
+    "US Salernitana 1919",
+    "Fiorentina",
+    "Como",
+    "Genoa"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 532,
+  "full_name": "Matthijs de Ligt",
+  "nationality": "Netherlands",
+  "birth_date": "1999-08-12",
+  "birth_place": "Leiderdorp",
+  "career_transfers": [
+    {
+      "date": "2022-07-19",
+      "type": "€ 67M",
+      "team_out": "Juventus",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2019-07-18",
+      "type": "€ 75M",
+      "team_out": "Ajax",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Juventus FC",
+    "FC Bayern Munich",
+    "Manchester United F.C."
+  ]
+}

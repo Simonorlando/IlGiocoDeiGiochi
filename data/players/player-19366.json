@@ -1,0 +1,21 @@
+{
+  "player_id": 19366,
+  "full_name": "Oliver George Arthur Watkins",
+  "nationality": "England",
+  "birth_date": "1995-12-30",
+  "birth_place": "Torbay",
+  "career_transfers": [
+    {
+      "date": "2020-09-09",
+      "type": "€ 28M",
+      "team_out": "Brentford",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Exeter City F.C.",
+    "Weston-super-Mare A.F.C.",
+    "Brentford F.C.",
+    "Aston Villa F.C."
+  ]
+}

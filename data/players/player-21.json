@@ -1,0 +1,31 @@
+{
+  "player_id": 21,
+  "full_name": "Francisco Alcácer García",
+  "nationality": "Spain",
+  "birth_date": "1993-08-30",
+  "birth_place": "Torrent",
+  "career_transfers": [
+    {
+      "date": "2022-08-17",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Sharjah FC"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "€ 23M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "Getafe CF",
+    "FC Barcelona",
+    "Borussia Dortmund",
+    "Villarreal CF",
+    "Sharjah FC",
+    "Emirates Club"
+  ]
+}

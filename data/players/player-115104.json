@@ -1,0 +1,25 @@
+{
+  "player_id": 115104,
+  "full_name": "Daniel Monberg Jensen",
+  "nationality": "Denmark",
+  "birth_date": "1979-06-25",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2013-09-01",
+      "type": "N/A",
+      "team_out": "FC Copenhagen",
+      "team_in": "Sonderjyske"
+    }
+  ],
+  "career_clubs": [
+    "Boldklubben af 1893",
+    "SC Heerenveen",
+    "Real Murcia",
+    "SV Werder Bremen",
+    "Novara Calcio",
+    "F.C. Copenhagen",
+    "Sønderjyske Fodbold",
+    "Lyngby Boldklub"
+  ]
+}

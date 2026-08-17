@@ -1,0 +1,31 @@
+{
+  "player_id": 18979,
+  "full_name": "Viktor Einar Gyökeres",
+  "nationality": "Sweden",
+  "birth_date": "1998-06-04",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2023-07-13",
+      "type": "€ 20M",
+      "team_out": "Coventry",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2025-07-26",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "IFK Aspudden-Tellus",
+    "IF Brommapojkarna",
+    "Brighton & Hove Albion F.C.",
+    "FC St. Pauli",
+    "Swansea City A.F.C.",
+    "Coventry City F.C.",
+    "Sporting CP",
+    "Arsenal F.C."
+  ]
+}

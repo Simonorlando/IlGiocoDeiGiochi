@@ -1,0 +1,42 @@
+{
+  "player_id": 56753,
+  "full_name": "Mouhamadou Fallou Mbacke Sarr",
+  "nationality": "Senegal",
+  "birth_date": "1997-01-05",
+  "birth_place": "Kaolack",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2024-07-25",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909"
+  ]
+}

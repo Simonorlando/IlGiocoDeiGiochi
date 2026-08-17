@@ -1,0 +1,26 @@
+{
+  "player_id": 30797,
+  "full_name": "Bram Nuytinck",
+  "nationality": "Netherlands",
+  "birth_date": "1990-05-04",
+  "birth_place": "Malden",
+  "career_transfers": [
+    {
+      "date": "2023-07-03",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "NEC Nijmegen"
+    },
+    {
+      "date": "2023-01-02",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "N.E.C.",
+    "R.S.C. Anderlecht",
+    "Udinese Calcio"
+  ]
+}

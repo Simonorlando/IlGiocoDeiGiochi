@@ -1,0 +1,26 @@
+{
+  "player_id": 286475,
+  "full_name": "Edoardo Bove",
+  "nationality": "Italy",
+  "birth_date": "2002-05-16",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Fiorentina",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Roma",
+    "Fiorentina",
+    "Watford"
+  ]
+}

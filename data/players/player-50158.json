@@ -1,0 +1,30 @@
+{
+  "player_id": 50158,
+  "full_name": "Alessio Cerci",
+  "nationality": "Italy",
+  "birth_date": "1987-07-23",
+  "birth_place": "Velletri",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Brescia Calcio",
+    "Pisa SC",
+    "Atalanta BC",
+    "ACF Fiorentina",
+    "Torino FC",
+    "Atlético Madrid",
+    "AC Milan",
+    "Genoa CFC",
+    "Hellas Verona FC",
+    "MKE Ankaragücü",
+    "U.S. Salernitana 1919",
+    "S.S. Arezzo"
+  ]
+}

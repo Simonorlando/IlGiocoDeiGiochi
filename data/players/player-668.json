@@ -1,0 +1,21 @@
+{
+  "player_id": 668,
+  "full_name": "Nabil Fekir",
+  "nationality": "France",
+  "birth_date": "1993-07-18",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2019-07-23",
+      "type": "€ 22M",
+      "team_out": "Lyon",
+      "team_in": "Real Betis"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "Real Betis Balompié",
+    "Al Jazira Club",
+    "Abha"
+  ]
+}

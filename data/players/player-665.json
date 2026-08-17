@@ -1,0 +1,40 @@
+{
+  "player_id": 665,
+  "full_name": "Gnaly Albert Maxwel Cornet",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1996-09-27",
+  "birth_place": "Bregbo",
+  "career_transfers": [
+    {
+      "date": "2025-01-20",
+      "type": "Loan",
+      "team_out": "West Ham",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Genoa",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "West Ham",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "West Ham"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz",
+    "Olympique Lyonnais",
+    "Burnley F.C.",
+    "West Ham United F.C.",
+    "Genoa CFC"
+  ]
+}

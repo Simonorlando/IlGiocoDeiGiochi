@@ -1,0 +1,39 @@
+{
+  "player_id": 43056,
+  "full_name": "Valentin Mihai Mihăilă",
+  "nationality": "Romania",
+  "birth_date": "2000-02-02",
+  "birth_place": "Târgoviște",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "€ 8M",
+      "team_out": "Universitatea Craiova",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-07-18",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Rizespor"
+    }
+  ],
+  "career_clubs": [
+    "CS Universitatea Craiova",
+    "Parma Calcio 1913",
+    "Atalanta BC",
+    "Çaykur Rizespor"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 25414,
+  "full_name": "John Yeboah Zamora",
+  "nationality": "Germany",
+  "birth_date": "2000-06-23",
+  "birth_place": "Hamburg",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 2.5M",
+      "team_out": "Raków Częstochowa",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "VfL Wolfsburg"
+  ]
+}

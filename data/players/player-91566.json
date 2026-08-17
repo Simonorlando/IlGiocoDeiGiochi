@@ -1,0 +1,40 @@
+{
+  "player_id": 91566,
+  "full_name": "Daniele Corvia",
+  "nationality": "Italy",
+  "birth_date": "1984-11-22",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2009-08-07",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 400K",
+      "team_out": "AS Roma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Robur Siena",
+    "Lecce",
+    "Empoli",
+    "Lecce"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1456,
+  "full_name": "Ainsley Cory Maitland-Niles",
+  "nationality": "England",
+  "birth_date": "1997-08-29",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2022-01-07",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Ipswich Town F.C.",
+    "West Bromwich Albion F.C.",
+    "AS Roma",
+    "Southampton F.C.",
+    "Olympique Lyonnais"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "player_id": 2412,
+  "full_name": "Felipe Anderson Pereira Gomes",
+  "nationality": "Brazil",
+  "birth_date": "1993-04-15",
+  "birth_place": "Brasília",
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2021-07-16",
+      "type": "€ 3M",
+      "team_out": "West Ham",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2018-07-15",
+      "type": "€ 40.5M",
+      "team_out": "Lazio",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2013-07-09",
+      "type": "€ 8M",
+      "team_out": "Santos",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Santos F.C.",
+    "SS Lazio",
+    "West Ham United F.C."
+  ]
+}

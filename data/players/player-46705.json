@@ -1,0 +1,30 @@
+{
+  "player_id": 46705,
+  "full_name": "Santiago Juan Gentiletti Selak",
+  "nationality": "Argentina",
+  "birth_date": "1985-01-09",
+  "birth_place": "Gödeken",
+  "career_transfers": [
+    {
+      "date": "2018-08-29",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Albacete"
+    },
+    {
+      "date": "2016-07-18",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Club de Gimnasia y Esgrima La Plata",
+    "Provincial Osorno",
+    "O'Higgins F.C.",
+    "Argentinos Juniors",
+    "Stade Brestois 29",
+    "San Lorenzo de Almagro",
+    "SS Lazio"
+  ]
+}

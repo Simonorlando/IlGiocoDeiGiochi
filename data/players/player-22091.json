@@ -1,0 +1,43 @@
+{
+  "player_id": 22091,
+  "full_name": "Neven Subotić",
+  "nationality": "Serbia",
+  "birth_date": "1988-12-10",
+  "birth_place": "Banja Luka",
+  "career_transfers": [
+    {
+      "date": "2018-01-25",
+      "type": "N/A",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "FC Koln",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2017-01-26",
+      "type": "Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "FC Koln"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 4.5M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05",
+    "Borussia Dortmund",
+    "1. FC Köln",
+    "AS Saint-Étienne",
+    "1. FC Union Berlin",
+    "Denizlispor",
+    "SC Rheindorf Altach",
+    "South Florida Bulls men's soccer"
+  ]
+}

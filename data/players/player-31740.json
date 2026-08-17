@@ -1,0 +1,32 @@
+{
+  "player_id": 31740,
+  "full_name": "Andrea Tabanelli",
+  "nationality": "Italy",
+  "birth_date": "1990-02-02",
+  "birth_place": "Ravenna",
+  "career_transfers": [
+    {
+      "date": "2020-01-15",
+      "type": "€ 262.8K",
+      "team_out": "Lecce",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2018-01-31",
+      "type": null,
+      "team_out": "Padova",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "A.C. Bellaria Igea Marina",
+    "A.C. Giacomense",
+    "AC Cesena",
+    "Cagliari Calcio",
+    "Pisa SC",
+    "Leeds United F.C.",
+    "Calcio Padova",
+    "US Lecce"
+  ]
+}

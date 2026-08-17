@@ -1,0 +1,27 @@
+{
+  "player_id": 53,
+  "full_name": "Ángel Martín Correa Martínez",
+  "nationality": "Argentina",
+  "birth_date": "1995-03-09",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2015-01-01",
+      "type": "€ 5.6M",
+      "team_out": "San Lorenzo",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Transfer",
+      "team_out": "Atletico Madrid",
+      "team_in": "Tigres UANL"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro",
+    "Atlético Madrid",
+    "Tigres UANL",
+    "Club Atlético River Plate"
+  ]
+}

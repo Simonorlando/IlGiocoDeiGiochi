@@ -1,0 +1,27 @@
+{
+  "player_id": 82028,
+  "full_name": "Almen Abdi",
+  "nationality": "Switzerland",
+  "birth_date": "1986-10-21",
+  "birth_place": "Prizren",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Le Mans",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2012-07-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "Le Mans F.C.",
+    "Udinese Calcio",
+    "Watford F.C."
+  ]
+}

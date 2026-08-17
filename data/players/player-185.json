@@ -1,0 +1,36 @@
+{
+  "player_id": 185,
+  "full_name": "Fernando Llorente Torres",
+  "nationality": "Spain",
+  "birth_date": "1985-02-26",
+  "birth_place": "Pamplona",
+  "career_transfers": [
+    {
+      "date": "2016-08-05",
+      "type": "€ 5.9M",
+      "team_out": "Sevilla",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2015-08-27",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "CA River Ebro",
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Athletic Club",
+    "Basque Country regional football team",
+    "Juventus FC",
+    "Sevilla FC",
+    "Swansea City A.F.C.",
+    "Tottenham Hotspur F.C.",
+    "SSC Napoli",
+    "Udinese Calcio",
+    "SD Eibar"
+  ]
+}

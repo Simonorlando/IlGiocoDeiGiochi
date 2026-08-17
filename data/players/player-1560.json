@@ -1,0 +1,30 @@
+{
+  "player_id": 1560,
+  "full_name": "Antonio Barragán Fernández",
+  "nationality": "Spain",
+  "birth_date": "1987-06-12",
+  "birth_place": "Pontedeume",
+  "career_transfers": [
+    {
+      "date": "2016-07-15",
+      "type": "€ 2.7M",
+      "team_out": "Valencia",
+      "team_in": "Middlesbrough"
+    },
+    {
+      "date": "2011-08-30",
+      "type": "€ 1.5M",
+      "team_out": "Valladolid",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "Deportivo de A Coruña",
+    "Real Valladolid",
+    "Valencia CF",
+    "Middlesbrough F.C.",
+    "Real Betis Balompié",
+    "Elche CF"
+  ]
+}

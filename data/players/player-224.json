@@ -1,0 +1,28 @@
+{
+  "player_id": 224,
+  "full_name": "Jeroen Zoet",
+  "nationality": "Netherlands",
+  "birth_date": "1991-01-06",
+  "birth_place": "Veendam",
+  "career_transfers": [
+    {
+      "date": "2020-09-08",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2024-07-15",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "AZ Alkmaar"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "RKC Waalwijk",
+    "Jong PSV",
+    "Spezia Calcio",
+    "AZ Alkmaar"
+  ]
+}

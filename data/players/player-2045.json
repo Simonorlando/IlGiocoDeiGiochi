@@ -1,0 +1,38 @@
+{
+  "player_id": 2045,
+  "full_name": "Simon Thorup Kjær",
+  "nationality": "Denmark",
+  "birth_date": "1989-03-26",
+  "birth_place": "Horsens",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2017-08-03",
+      "type": "€ 12.5M",
+      "team_out": "Fenerbahce",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Midtjylland",
+    "Palermo F.C.",
+    "VfL Wolfsburg",
+    "AS Roma",
+    "Lille OSC",
+    "Fenerbahçe Istanbul",
+    "Sevilla FC",
+    "Atalanta BC",
+    "AC Milan"
+  ]
+}

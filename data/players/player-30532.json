@@ -1,0 +1,21 @@
+{
+  "player_id": 30532,
+  "full_name": "Joseph Alfred Duncan",
+  "nationality": "Ghana",
+  "birth_date": "1993-03-10",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2024-07-27",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "US Livorno 1915",
+    "U.C. Sampdoria",
+    "US Sassuolo Calcio"
+  ]
+}

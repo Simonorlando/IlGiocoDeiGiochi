@@ -1,0 +1,23 @@
+{
+  "player_id": 2289,
+  "full_name": "Jorge Luiz Frello Filho",
+  "nationality": "Italy",
+  "birth_date": "1991-12-20",
+  "birth_place": "Imbituba",
+  "career_transfers": [
+    {
+      "date": "2014-01-18",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "A.C. Sambonifacese",
+    "SSC Napoli",
+    "Chelsea F.C.",
+    "Arsenal F.C.",
+    "Clube de Regatas do Flamengo"
+  ]
+}

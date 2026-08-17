@@ -1,0 +1,40 @@
+{
+  "player_id": 115230,
+  "full_name": "Paolo Grossi",
+  "nationality": "Italy",
+  "birth_date": "1981-05-29",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2012-07-04",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2011-07-07",
+      "type": "1M €",
+      "team_out": "Varese",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Milan U20",
+    "Folgore Caratese",
+    "Varese",
+    "AlbinoLeffe",
+    "Varese",
+    "ACR Siena 1904",
+    "Hellas Verona",
+    "ACR Siena 1904",
+    "Hellas Verona",
+    "Pro Vercelli",
+    "Hellas Verona",
+    "Brescia",
+    "Hellas Verona",
+    "Lanciano FC",
+    "Hellas Verona",
+    "Ternana",
+    "Arezzo"
+  ]
+}

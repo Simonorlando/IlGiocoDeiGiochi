@@ -1,0 +1,26 @@
+{
+  "player_id": 48643,
+  "full_name": "Adilson Tavares Varela",
+  "nationality": "Switzerland",
+  "birth_date": "1988-10-21",
+  "birth_place": "Praia",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "FC Basel 1893",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel 1893",
+    "Sevilla",
+    "Sunderland"
+  ]
+}

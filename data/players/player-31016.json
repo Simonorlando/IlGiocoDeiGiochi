@@ -1,0 +1,26 @@
+{
+  "player_id": 31016,
+  "full_name": "Francisco Andrés Sierralta Carvallo",
+  "nationality": "Chile",
+  "birth_date": "1997-05-06",
+  "birth_place": "Santiago",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2017-08-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Universidad Católica",
+    "Parma Calcio 1913",
+    "Udinese Calcio"
+  ]
+}

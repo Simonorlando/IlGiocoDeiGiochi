@@ -1,0 +1,27 @@
+{
+  "player_id": 19200,
+  "full_name": "Efetobore Ambrose Emuobo",
+  "nationality": "Nigeria",
+  "birth_date": "1988-10-18",
+  "birth_place": "Kaduna",
+  "career_transfers": [
+    {
+      "date": "2017-02-01",
+      "type": "N/A",
+      "team_out": "Celtic",
+      "team_in": "Hibernian"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "N/A",
+      "team_out": "Ashdod",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Kaduna United F.C.",
+    "Bayelsa United F.C.",
+    "F.C. Ashdod",
+    "Celtic F.C."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 754,
+  "full_name": "Luka Modrić",
+  "nationality": "Croatia",
+  "birth_date": "1985-09-09",
+  "birth_place": "Zadar",
+  "career_transfers": [
+    {
+      "date": "2012-08-27",
+      "type": "€ 30M",
+      "team_out": "Tottenham",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-07-14",
+      "type": "Free Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-07-12",
+      "type": "Free agent",
+      "team_out": "Real Madrid",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "HŠK Zrinjski Mostar",
+    "GNK Dinamo Zagreb",
+    "NK Inter Zaprešić",
+    "Tottenham Hotspur F.C.",
+    "Real Madrid Club de Fútbol",
+    "AC Milan"
+  ]
+}

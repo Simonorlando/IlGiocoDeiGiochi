@@ -1,0 +1,24 @@
+{
+  "player_id": 47315,
+  "full_name": "Martín Zubimendi Ibáñez",
+  "nationality": "Spain",
+  "birth_date": "1999-02-02",
+  "birth_place": "San Sebastián",
+  "career_transfers": [
+    {
+      "date": "2025-07-06",
+      "type": "Transfer",
+      "team_out": "Real Sociedad",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Antiguoko",
+    "Real Sociedad",
+    "Antiguoko",
+    "CD Berio FT",
+    "Real Sociedad B",
+    "Real Sociedad",
+    "Arsenal F.C."
+  ]
+}

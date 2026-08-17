@@ -1,0 +1,19 @@
+{
+  "player_id": 30529,
+  "full_name": "Marlon Santos da Silva Barbosa",
+  "nationality": "Brazil",
+  "birth_date": "1995-09-07",
+  "birth_place": "Duque de Caxias",
+  "career_transfers": [
+    {
+      "date": "2022-08-05",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "FC Barcelona"
+  ]
+}

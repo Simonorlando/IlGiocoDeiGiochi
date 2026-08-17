@@ -1,0 +1,40 @@
+{
+  "player_id": 426,
+  "full_name": "Mark-Alexander Uth",
+  "nationality": "Germany",
+  "birth_date": "1991-08-24",
+  "birth_place": "Köln",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "1.FC Köln"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "1.FC Köln",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2020-01-03",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "1.FC Köln"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "Heracles Almelo",
+    "TSG 1899 Hoffenheim",
+    "Schalke 04",
+    "1. FC Köln"
+  ]
+}

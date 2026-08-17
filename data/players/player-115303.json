@@ -1,0 +1,41 @@
+{
+  "player_id": 115303,
+  "full_name": "Fabrizio Grillo",
+  "nationality": "Italy",
+  "birth_date": "1987-02-02",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2014-08-13",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Varese"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "N/A",
+      "team_out": "Varese",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "S.S. Arezzo",
+    "S.S. Sambenedettese Calcio",
+    "F.C. Crotone",
+    "PFC CSKA Sofia",
+    "Varese Calcio",
+    "Siena FC",
+    "Varese Calcio",
+    "Delfino Pescara 1936",
+    "AC Pavia 1911",
+    "US Livorno 1915",
+    "SS Lazio"
+  ]
+}

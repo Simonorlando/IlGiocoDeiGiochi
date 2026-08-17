@@ -1,0 +1,27 @@
+{
+  "player_id": 26315,
+  "full_name": "Nicolás Iván González",
+  "nationality": "Argentina",
+  "birth_date": "1998-04-06",
+  "birth_place": "Belén de Escobar",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Argentinos Juniors",
+    "VfB Stuttgart",
+    "ACF Fiorentina",
+    "Juventus FC"
+  ]
+}

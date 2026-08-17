@@ -1,0 +1,29 @@
+{
+  "player_id": 90488,
+  "full_name": "Yohan Cabaye",
+  "nationality": "France",
+  "birth_date": "1986-01-14",
+  "birth_place": "Tourcoing",
+  "career_transfers": [
+    {
+      "date": "2015-07-10",
+      "type": "€ 15M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2014-01-29",
+      "type": "€ 23M",
+      "team_out": "Newcastle",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Newcastle United F.C.",
+    "Paris Saint-Germain FC",
+    "Crystal Palace F.C.",
+    "Alshariqa",
+    "AS Saint-Étienne"
+  ]
+}

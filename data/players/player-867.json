@@ -1,0 +1,25 @@
+{
+  "player_id": 867,
+  "full_name": "Grigoris Kastanos",
+  "nationality": "Cyprus",
+  "birth_date": "1998-01-30",
+  "birth_place": "Nikosia",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2017-01-18",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Delfino Pescara 1936"
+  ]
+}

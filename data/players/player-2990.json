@@ -1,0 +1,29 @@
+{
+  "player_id": 2990,
+  "full_name": "Idrissa Gana Gueye",
+  "nationality": "Senegal",
+  "birth_date": "1989-09-26",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "€ 10M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2019-07-30",
+      "type": "€ 32M",
+      "team_out": "Everton",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Diambars FC",
+    "Lille OSC",
+    "Aston Villa F.C.",
+    "Everton F.C.",
+    "Paris Saint-Germain FC",
+    "Everton F.C."
+  ]
+}

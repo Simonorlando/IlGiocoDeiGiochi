@@ -1,0 +1,26 @@
+{
+  "player_id": 1920,
+  "full_name": "Nemanja Radonjić",
+  "nationality": "Serbia",
+  "birth_date": "1996-02-15",
+  "birth_place": "Niš",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "FK Čukarički",
+    "FK Crvena zvezda",
+    "Olympique de Marseille",
+    "Hertha BSC",
+    "S.L. Benfica",
+    "Torino FC",
+    "RCD Mallorca",
+    "FK Crvena zvezda"
+  ]
+}

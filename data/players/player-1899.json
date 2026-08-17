@@ -1,0 +1,44 @@
+{
+  "player_id": 1899,
+  "full_name": "Aymen Abdennour",
+  "nationality": "Tunisia",
+  "birth_date": "1989-08-06",
+  "birth_place": "Sousse",
+  "career_transfers": [
+    {
+      "date": "2019-07-11",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Kayserispor"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2017-08-30",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2015-08-29",
+      "type": "€ 25M",
+      "team_out": "Monaco",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Étoile Sportive du Sahel",
+    "SV Werder Bremen",
+    "Toulouse FC",
+    "AS Monaco FC",
+    "Valencia CF",
+    "Olympique de Marseille",
+    "Kayserispor",
+    "Umm Salal SC",
+    "Rodez AF"
+  ]
+}

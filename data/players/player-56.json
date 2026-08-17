@@ -1,0 +1,22 @@
+{
+  "player_id": 56,
+  "full_name": "Antoine Griezmann",
+  "nationality": "France",
+  "birth_date": "1991-03-21",
+  "birth_place": "Mâcon",
+  "career_transfers": [
+    {
+      "date": "2014-07-29",
+      "type": "€ 30M",
+      "team_out": "Real Sociedad",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Real Sociedad",
+    "Atlético Madrid",
+    "FC Barcelona",
+    "Atlético Madrid",
+    "Orlando City SC"
+  ]
+}

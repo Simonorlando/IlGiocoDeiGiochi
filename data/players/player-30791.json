@@ -1,0 +1,33 @@
+{
+  "player_id": 30791,
+  "full_name": "Goran Pandev",
+  "nationality": "North Macedonia",
+  "birth_date": "1983-07-27",
+  "birth_place": "Strumica",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "€ 1M",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FK Belasica",
+    "Inter Milan",
+    "Spezia Calcio",
+    "SSC Ancona",
+    "SS Lazio",
+    "Inter Milan",
+    "SSC Napoli",
+    "Galatasaray S.K.",
+    "Genoa CFC",
+    "Parma Calcio 1913"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 50464,
+  "full_name": "Mame Baba Thiam",
+  "nationality": "Senegal",
+  "birth_date": "1992-10-09",
+  "birth_place": "Nguidile",
+  "career_transfers": [
+    {
+      "date": "2017-01-13",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "U.S. Avellino 1912",
+    "F.C. Südtirol",
+    "Lanciano Calcio 1920",
+    "Juventus FC",
+    "S.V. Zulte Waregem",
+    "Empoli FC"
+  ]
+}

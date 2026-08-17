@@ -1,0 +1,40 @@
+{
+  "player_id": 1954,
+  "full_name": "Behrang Safari",
+  "nationality": "Sweden",
+  "birth_date": "1985-02-09",
+  "birth_place": "Tehran",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "Malmo FF"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 1M",
+      "team_out": "Anderlecht",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "Anderlecht"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 400K",
+      "team_out": "Malmo FF",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "Malmö FF",
+    "FC Basel",
+    "R.S.C. Anderlecht",
+    "FC Basel",
+    "Malmö FF"
+  ]
+}

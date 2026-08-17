@@ -1,0 +1,18 @@
+{
+  "player_id": 916,
+  "full_name": "Mouctar Diakhaby",
+  "nationality": "Guinea",
+  "birth_date": "1996-12-19",
+  "birth_place": "Vendôme",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "€ 15M",
+      "team_out": "Lyon",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais"
+  ]
+}

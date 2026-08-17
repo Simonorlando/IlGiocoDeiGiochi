@@ -1,0 +1,20 @@
+{
+  "player_id": 82009,
+  "full_name": "John Terry",
+  "nationality": "England",
+  "birth_date": "1980-12-07",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2017-07-03",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Nottingham Forest F.C.",
+    "Aston Villa F.C."
+  ]
+}

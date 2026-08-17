@@ -1,0 +1,27 @@
+{
+  "player_id": 282,
+  "full_name": "Simon Luc Hildebert Mignolet",
+  "nationality": "Belgium",
+  "birth_date": "1988-03-06",
+  "birth_place": "Sint-Truiden",
+  "career_transfers": [
+    {
+      "date": "2019-08-04",
+      "type": "€ 7M",
+      "team_out": "Liverpool",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "End of career",
+      "team_out": "Club Brugge KV",
+      "team_in": "Mignolet Simon"
+    }
+  ],
+  "career_clubs": [
+    "Sint-Truidense V.V.",
+    "Sunderland A.F.C.",
+    "Liverpool F.C.",
+    "Club Brugge K.V."
+  ]
+}

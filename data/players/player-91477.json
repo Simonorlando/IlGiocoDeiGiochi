@@ -1,0 +1,36 @@
+{
+  "player_id": 91477,
+  "full_name": "Alexandre Geijo Pazos",
+  "nationality": "Spain",
+  "birth_date": "1982-03-11",
+  "birth_place": "Genève",
+  "career_transfers": [
+    {
+      "date": "2016-07-08",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Neuchâtel Xamax",
+    "Atlético Malagueño",
+    "Málaga CF",
+    "Xerez C.D.",
+    "Levante UD",
+    "Racing de Santander",
+    "Udinese Calcio",
+    "Granada CF",
+    "Watford F.C.",
+    "RCD Mallorca",
+    "Brescia Calcio",
+    "Venezia F.C.",
+    "Atlético Sanluqueño CF"
+  ]
+}

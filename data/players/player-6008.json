@@ -1,0 +1,26 @@
+{
+  "player_id": 6008,
+  "full_name": "Bruno Zuculini",
+  "nationality": "Argentina",
+  "birth_date": "1993-04-02",
+  "birth_place": "Escobar",
+  "career_transfers": [
+    {
+      "date": "2014-08-19",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Manchester City F.C.",
+    "Valencia CF",
+    "Córdoba CF",
+    "Middlesbrough F.C.",
+    "AEK Athens F.C.",
+    "Rayo Vallecano",
+    "Club Atlético River Plate",
+    "Hellas Verona FC"
+  ]
+}

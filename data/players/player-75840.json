@@ -1,0 +1,25 @@
+{
+  "player_id": 75840,
+  "full_name": "Mario Ariel Bolatti",
+  "nationality": "Argentina",
+  "birth_date": "1985-02-17",
+  "birth_place": "La Para",
+  "career_transfers": [
+    {
+      "date": "2011-02-01",
+      "type": "€ 4M",
+      "team_out": "Fiorentina",
+      "team_in": "Internacional"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "FC Porto",
+    "Club Atlético Huracán",
+    "ACF Fiorentina",
+    "S.C. Internacional",
+    "Racing Club",
+    "Botafogo F.R.",
+    "Club Atlético Belgrano"
+  ]
+}

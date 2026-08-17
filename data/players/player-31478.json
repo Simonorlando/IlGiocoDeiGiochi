@@ -1,0 +1,23 @@
+{
+  "player_id": 31478,
+  "full_name": "Hugo Armando Campagnaro",
+  "nationality": "Argentina",
+  "birth_date": "1980-06-27",
+  "birth_place": "Río Cuarto",
+  "career_transfers": [
+    {
+      "date": "2015-09-03",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Morón",
+    "Piacenza Calcio",
+    "U.C. Sampdoria",
+    "SSC Napoli",
+    "Inter Milan",
+    "Delfino Pescara 1936"
+  ]
+}

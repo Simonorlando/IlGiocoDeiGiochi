@@ -1,0 +1,66 @@
+{
+  "player_id": 31079,
+  "full_name": "Francesco Filippo Zampano",
+  "nationality": "Italy",
+  "birth_date": "1993-09-30",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2019-07-02",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-08-16",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-01-26",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2015-07-23",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2014-08-28",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Virtus Entella",
+    "Hellas Verona FC",
+    "S.S. Juve Stabia",
+    "Italy under-21 Serie B representative team",
+    "Delfino Pescara 1936",
+    "U.C. Sampdoria",
+    "Udinese Calcio"
+  ]
+}

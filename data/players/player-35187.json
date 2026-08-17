@@ -1,0 +1,45 @@
+{
+  "player_id": 35187,
+  "full_name": "José Eduardo Bischofe de Almeida",
+  "nationality": "Brazil",
+  "birth_date": "1987-10-29",
+  "birth_place": "Promissão",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "Associação Portuguesa de Desportos",
+    "Associação Atlética Portuguesa",
+    "Club Athletico Paranaense",
+    "Cruzeiro E.C.",
+    "Red Bull Bragantino",
+    "Ipatinga Futebol Clube",
+    "Villa Nova Atlético Clube",
+    "Grêmio FBPA",
+    "Sport Club do Recife",
+    "Fortaleza E.C.",
+    "Associação Ferroviária de Esportes",
+    "Associação Desportiva São Caetano",
+    "América Futebol Clube",
+    "ABC Futebol Clube",
+    "Santos F.C.",
+    "Genoa CFC",
+    "Siena FC",
+    "Coritiba F.C.",
+    "Shanghai Shenxin F.C.",
+    "Goiás Esporte Clube",
+    "Al-Shaab CSC"
+  ]
+}

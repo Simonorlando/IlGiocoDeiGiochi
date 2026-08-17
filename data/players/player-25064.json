@@ -1,0 +1,47 @@
+{
+  "player_id": 25064,
+  "full_name": "Tim Hoogland",
+  "nationality": "Germany",
+  "birth_date": "1985-06-11",
+  "birth_place": "Marl",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "VfB Stuttgart",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "FSV Mainz 05",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 280K",
+      "team_out": "FC Schalke 04",
+      "team_in": "FSV Mainz 05"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "1. FSV Mainz 05",
+    "Schalke 04",
+    "VfB Stuttgart",
+    "Fulham F.C.",
+    "VfL Bochum"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "player_id": 30968,
+  "full_name": "Alessandro Diamanti",
+  "nationality": "Italy",
+  "birth_date": "1983-05-02",
+  "birth_place": "Prato",
+  "career_transfers": [
+    {
+      "date": "2018-02-17",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Perugia"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Prato",
+    "Empoli FC",
+    "Associazione Calcio Fucecchio",
+    "ACF Fiorentina",
+    "U.C. AlbinoLeffe",
+    "US Livorno 1915",
+    "West Ham United F.C.",
+    "Brescia Calcio",
+    "Bologna F.C. 1909",
+    "Guangzhou F.C.",
+    "ACF Fiorentina",
+    "Watford F.C.",
+    "Atalanta BC",
+    "Palermo F.C.",
+    "A.C. Perugia Calcio",
+    "US Livorno 1915",
+    "Western United FC"
+  ]
+}

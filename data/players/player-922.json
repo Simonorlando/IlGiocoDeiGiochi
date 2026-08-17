@@ -1,0 +1,25 @@
+{
+  "player_id": 922,
+  "full_name": "Facundo Sebastián Roncaglia",
+  "nationality": "Argentina",
+  "birth_date": "1987-02-10",
+  "birth_place": "Chajarí",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Celta Vigo",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "RCD Espanyol de Barcelona",
+    "Estudiantes de La Plata",
+    "ACF Fiorentina",
+    "Genoa CFC",
+    "ACF Fiorentina",
+    "Boca Juniors",
+    "RC Celta de Vigo"
+  ]
+}

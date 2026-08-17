@@ -1,0 +1,31 @@
+{
+  "player_id": 35555,
+  "full_name": "Dorlan Mauricio Pabón Ríos",
+  "nationality": "Colombia",
+  "birth_date": "1988-01-24",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2013-08-27",
+      "type": "€ 7.5M",
+      "team_out": "Monterrey",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Envigado Fútbol Club",
+    "Atlético Nacional",
+    "Parma Calcio 1913",
+    "Real Betis Balompié",
+    "Valencia CF",
+    "Club de Fútbol Monterrey",
+    "São Paulo FC",
+    "Atlético Nacional"
+  ]
+}

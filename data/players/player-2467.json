@@ -1,0 +1,27 @@
+{
+  "player_id": 2467,
+  "full_name": "Lisandro Martínez",
+  "nationality": "Argentina",
+  "birth_date": "1998-01-18",
+  "birth_place": "Gualeguay",
+  "career_transfers": [
+    {
+      "date": "2022-07-17",
+      "type": "€ 57.4M",
+      "team_out": "Ajax",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2019-06-11",
+      "type": "€ 7M",
+      "team_out": "Defensa Y Justicia",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "Defensa y Justicia",
+    "AFC Ajax",
+    "Manchester United F.C."
+  ]
+}

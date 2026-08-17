@@ -1,0 +1,26 @@
+{
+  "player_id": 30618,
+  "full_name": "Gianluca Di Chiara",
+  "nationality": "Italy",
+  "birth_date": "1993-12-26",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2015-01-22",
+      "type": "Loan",
+      "team_out": "Catanzaro",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Reggiana 1919",
+    "Palermo F.C.",
+    "AC Pavia 1911",
+    "Latina Calcio 1932",
+    "Unione Sportiva Catanzaro",
+    "Calcio Foggia 1920",
+    "US Lecce",
+    "Parma Calcio 1913",
+    "A.C. Perugia Calcio"
+  ]
+}

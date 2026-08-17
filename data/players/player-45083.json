@@ -1,0 +1,39 @@
+{
+  "player_id": 45083,
+  "full_name": "Benjamin Kevin Siegrist",
+  "nationality": "Switzerland",
+  "birth_date": "1992-01-31",
+  "birth_place": "Basel",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Rapid"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Loan",
+      "team_out": "Rapid",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "Rapid"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Burton Albion F.C.",
+    "Cambridge United F.C.",
+    "Solihull Moors F.C.",
+    "Wycombe Wanderers F.C.",
+    "FC Vaduz",
+    "Dundee United F.C.",
+    "Celtic F.C.",
+    "FC Rapid București",
+    "Genoa CFC"
+  ]
+}

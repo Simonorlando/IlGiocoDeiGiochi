@@ -1,0 +1,178 @@
+{
+  "fixture_id": 1378119,
+  "competition": "serie_a",
+  "season": 2025,
+  "teams": [
+    {
+      "team_name": "Juventus",
+      "team_id": 496,
+      "formation": "3-4-2-1",
+      "lineup": [
+        {
+          "player_id": 30670,
+          "shirt_number": 16,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 268341,
+          "shirt_number": 4,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 19263,
+          "shirt_number": 6,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 36899,
+          "shirt_number": 8,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 415,
+          "shirt_number": 22,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30533,
+          "shirt_number": 5,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 116,
+          "shirt_number": 19,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 127011,
+          "shirt_number": 27,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 181808,
+          "shirt_number": 21,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 339883,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 86,
+          "shirt_number": 20,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Como",
+      "team_id": 895,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 8574,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 14266,
+          "shirt_number": 28,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 386305,
+          "shirt_number": 14,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 26301,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 336560,
+          "shirt_number": 3,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 288699,
+          "shirt_number": 23,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 162266,
+          "shirt_number": 33,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 8586,
+          "shirt_number": 31,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 659,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 295026,
+          "shirt_number": 20,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 26845,
+          "shirt_number": 11,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 0,
+  "away_score": 2
+}

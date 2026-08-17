@@ -1,0 +1,24 @@
+{
+  "player_id": 379,
+  "full_name": "Bruno Xavier Almeida Costa",
+  "nationality": "Portugal",
+  "birth_date": "1997-04-19",
+  "birth_place": "Oliveira de Azeméis",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Valenciennes"
+    },
+    {
+      "date": "2021-07-06",
+      "type": "N/A",
+      "team_out": "Portimonense",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto"
+  ]
+}

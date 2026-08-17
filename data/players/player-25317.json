@@ -1,0 +1,32 @@
+{
+  "player_id": 25317,
+  "full_name": "Niklas Kristian Moisander",
+  "nationality": "Finland",
+  "birth_date": "1985-09-29",
+  "birth_place": "Turku",
+  "career_transfers": [
+    {
+      "date": "2016-07-09",
+      "type": "€ 1.8M",
+      "team_out": "Sampdoria",
+      "team_in": "Werder Bremen"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "TPS Turku",
+    "AFC Ajax",
+    "PEC Zwolle",
+    "AZ Alkmaar",
+    "AFC Ajax",
+    "Jong Ajax",
+    "U.C. Sampdoria",
+    "SV Werder Bremen",
+    "Malmö FF"
+  ]
+}

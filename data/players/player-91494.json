@@ -1,0 +1,34 @@
+{
+  "player_id": 91494,
+  "full_name": "Valerio Di Cesare",
+  "nationality": "Italy",
+  "birth_date": "1983-05-23",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2018-09-13",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "U.S. Avellino 1912",
+    "U.C. AlbinoLeffe",
+    "Unione Sportiva Catanzaro",
+    "Mantova 1911",
+    "Vicenza Calcio",
+    "Torino FC",
+    "Brescia Calcio",
+    "SSC Bari",
+    "SS Lazio",
+    "Parma Calcio 1913"
+  ]
+}

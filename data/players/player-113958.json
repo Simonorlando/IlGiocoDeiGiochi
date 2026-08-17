@@ -1,0 +1,43 @@
+{
+  "player_id": 113958,
+  "full_name": "Mario Ángel Paglialunga",
+  "nationality": "Argentina",
+  "birth_date": "1988-10-29",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Hércules",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-01-28",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Hércules"
+    },
+    {
+      "date": "2011-08-09",
+      "type": "€ 840K",
+      "team_out": "Rosario Central",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "Catania FC",
+    "Real Zaragoza",
+    "Hércules CF",
+    "Sociedad Deportiva Ponferradina",
+    "Club Atlético Tigre",
+    "Sarmiento",
+    "Club Social y Deportivo Colo Colo"
+  ]
+}

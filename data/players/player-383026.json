@@ -1,0 +1,19 @@
+{
+  "player_id": 383026,
+  "full_name": "Riyad Idrissi",
+  "nationality": "Morocco",
+  "birth_date": "2003-03-31",
+  "birth_place": "Sadali",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Modena",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Modena",
+    "Cagliari"
+  ]
+}

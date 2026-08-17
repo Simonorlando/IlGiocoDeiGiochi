@@ -1,0 +1,41 @@
+{
+  "player_id": 1082,
+  "full_name": "Stefan Lainer",
+  "nationality": "Austria",
+  "birth_date": "1992-08-27",
+  "birth_place": "Salzburg",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 12M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Ried",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-06-08",
+      "type": "Free Transfer",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-06-06",
+      "type": "Transfer",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg",
+    "SV Grödig",
+    "FC Liefering",
+    "SV Ried",
+    "FC Red Bull Salzburg",
+    "Borussia Mönchengladbach"
+  ]
+}

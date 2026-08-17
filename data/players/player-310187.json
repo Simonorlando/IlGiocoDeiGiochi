@@ -1,0 +1,20 @@
+{
+  "player_id": 310187,
+  "full_name": "Stefan Bajčetić Maquieira",
+  "nationality": "Spain",
+  "birth_date": "2004-10-22",
+  "birth_place": "Vigo",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "FC Red Bull Salzburg",
+    "UD Las Palmas"
+  ]
+}

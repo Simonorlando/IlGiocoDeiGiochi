@@ -1,0 +1,29 @@
+{
+  "player_id": 31404,
+  "full_name": "Kwang-Song Han",
+  "nationality": "Korea DPR",
+  "birth_date": "1998-09-11",
+  "birth_place": "Pyongyang",
+  "career_transfers": [
+    {
+      "date": "2020-01-08",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Al-Duhail SC"
+    },
+    {
+      "date": "2019-09-03",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Tecnofutbol CF",
+    "Cagliari",
+    "Perugia",
+    "Juventus",
+    "Al-Duhail",
+    "April 25"
+  ]
+}

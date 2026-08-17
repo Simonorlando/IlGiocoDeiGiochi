@@ -1,0 +1,57 @@
+{
+  "player_id": 342019,
+  "full_name": "Daniele Ghilardi",
+  "nationality": "Italy",
+  "birth_date": "2003-01-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-08-11",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Mantova",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-08-02",
+      "type": "Loan",
+      "team_out": "Hellas Verona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Hellas Verona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Hellas Verona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona",
+    "Mantova",
+    "Sampdoria",
+    "Roma"
+  ]
+}

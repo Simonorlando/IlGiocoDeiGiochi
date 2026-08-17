@@ -1,0 +1,37 @@
+{
+  "player_id": 19011,
+  "full_name": "Fabricio Martín Agosto Ramírez",
+  "nationality": "Spain",
+  "birth_date": "1987-12-31",
+  "birth_place": "Vecindario",
+  "career_transfers": [
+    {
+      "date": "2018-07-24",
+      "type": "€ 6M",
+      "team_out": "Besiktas",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2016-07-05",
+      "type": "Free",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Fabril",
+    "Deportivo de A Coruña",
+    "Deportivo Fabril",
+    "Real Valladolid",
+    "Recreativo de Huelva",
+    "Real Valladolid",
+    "Real Betis",
+    "Deportivo de A Coruña",
+    "Beşiktaş JK",
+    "Fulham",
+    "Mallorca",
+    "Fulham",
+    "Numancia",
+    "UD Ibiza"
+  ]
+}

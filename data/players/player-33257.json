@@ -1,0 +1,33 @@
+{
+  "player_id": 33257,
+  "full_name": "David Villa Sánchez",
+  "nationality": "Spain",
+  "birth_date": "1981-12-03",
+  "birth_place": "Tuilla",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "€ 40M",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "€ 12M",
+      "team_out": "Zaragoza",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Sporting de Gijón B",
+    "Sporting de Gijón",
+    "Asturias autonomous football team",
+    "Real Zaragoza",
+    "Valencia CF",
+    "FC Barcelona",
+    "Atlético Madrid",
+    "New York City FC",
+    "Melbourne City FC",
+    "Vissel Kobe"
+  ]
+}

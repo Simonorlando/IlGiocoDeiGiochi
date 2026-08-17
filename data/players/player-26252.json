@@ -1,0 +1,22 @@
+{
+  "player_id": 26252,
+  "full_name": "Roland Sallai",
+  "nationality": "Hungary",
+  "birth_date": "1997-05-22",
+  "birth_place": "Budapest",
+  "career_transfers": [
+    {
+      "date": "2024-09-13",
+      "type": "€ 6M",
+      "team_out": "SC Freiburg",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Ferenc Puskás Football Academy",
+    "Palermo F.C.",
+    "APOEL F.C.",
+    "SC Freiburg",
+    "Galatasaray S.K."
+  ]
+}

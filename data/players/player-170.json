@@ -1,0 +1,28 @@
+{
+  "player_id": 170,
+  "full_name": "Jan Vertonghen",
+  "nationality": "Belgium",
+  "birth_date": "1987-04-24",
+  "birth_place": "Sint-Niklaas",
+  "career_transfers": [
+    {
+      "date": "2022-09-02",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "Anderlecht"
+    },
+    {
+      "date": "2020-08-14",
+      "type": "Free",
+      "team_out": "Tottenham",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "RKC Waalwijk",
+    "AFC Ajax",
+    "Tottenham Hotspur F.C.",
+    "S.L. Benfica",
+    "R.S.C. Anderlecht"
+  ]
+}

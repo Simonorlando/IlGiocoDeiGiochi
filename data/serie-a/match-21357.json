@@ -1,0 +1,178 @@
+{
+  "fixture_id": 21357,
+  "competition": "serie_a",
+  "season": 2016,
+  "teams": [
+    {
+      "team_name": "AC Milan",
+      "team_id": 489,
+      "formation": "4-2-3-1",
+      "lineup": [
+        {
+          "player_id": 1622,
+          "shirt_number": 99,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1634,
+          "shirt_number": 17,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 858,
+          "shirt_number": 2,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 1632,
+          "shirt_number": 13,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 1627,
+          "shirt_number": 96,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 49887,
+          "shirt_number": 23,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31023,
+          "shirt_number": 33,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2763,
+          "shirt_number": 80,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1706,
+          "shirt_number": 70,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 18809,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 1650,
+          "shirt_number": 8,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Palermo",
+      "team_id": 522,
+      "formation": "3-5-1-1",
+      "lineup": [
+        {
+          "player_id": 30850,
+          "shirt_number": 68,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31549,
+          "shirt_number": 3,
+          "position": "M",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31412,
+          "shirt_number": 4,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2833,
+          "shirt_number": 12,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 31073,
+          "shirt_number": 6,
+          "position": "D",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30775,
+          "shirt_number": 97,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30968,
+          "shirt_number": 23,
+          "position": "F",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 9010,
+          "shirt_number": 28,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 9921,
+          "shirt_number": 25,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 4
+        },
+        {
+          "player_id": 31552,
+          "shirt_number": 18,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31561,
+          "shirt_number": 30,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 4,
+  "away_score": 0
+}

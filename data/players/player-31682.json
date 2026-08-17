@@ -1,0 +1,45 @@
+{
+  "player_id": 31682,
+  "full_name": "Andrea Mazzarani",
+  "nationality": "Italy",
+  "birth_date": "1989-11-06",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2021-01-28",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2019-07-24",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2018-07-06",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2016-10-11",
+      "type": "Free",
+      "team_out": "Crotone",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Atletico Roma F.C.",
+    "Udinese Calcio",
+    "F.C. Crotone",
+    "Modena F.C.",
+    "Novara Calcio",
+    "Italy under-21 Serie B representative team",
+    "SSC Napoli",
+    "Modena F.C.",
+    "Udinese Calcio",
+    "Virtus Entella"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 1601,
+  "full_name": "Jagoš Vuković",
+  "nationality": "Serbia",
+  "birth_date": "1988-06-10",
+  "birth_place": "Vrbas",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2018-01-23",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "FK Rad",
+    "PSV Eindhoven",
+    "Roda JC Kerkrade",
+    "FK Vojvodina",
+    "Konyaspor",
+    "Hellas Verona FC"
+  ]
+}

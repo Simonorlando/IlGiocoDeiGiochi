@@ -1,0 +1,31 @@
+{
+  "player_id": 1155,
+  "full_name": "Kevin Kampl",
+  "nationality": "Slovenia",
+  "birth_date": "1990-10-09",
+  "birth_place": "Solingen",
+  "career_transfers": [
+    {
+      "date": "2015-01-01",
+      "type": "€ 12M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "€ 3M",
+      "team_out": "VfR Aalen",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "SpVgg Greuther Fürth",
+    "VfL Osnabrück",
+    "FC Red Bull Salzburg",
+    "VfR Aalen",
+    "Borussia Dortmund",
+    "Bayer 04 Leverkusen",
+    "RB Leipzig"
+  ]
+}

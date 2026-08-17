@@ -1,0 +1,25 @@
+{
+  "player_id": 30996,
+  "full_name": "Marcus Christer Rohdén",
+  "nationality": "Sweden",
+  "birth_date": "1991-05-11",
+  "birth_place": "Värnamo",
+  "career_transfers": [
+    {
+      "date": "2023-07-26",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Crotone",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "IF Elfsborg",
+    "Skövde AIK"
+  ]
+}

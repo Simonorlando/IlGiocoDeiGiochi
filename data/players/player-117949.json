@@ -1,0 +1,21 @@
+{
+  "player_id": 117949,
+  "full_name": "Viktor Faizulin",
+  "nationality": "Russia",
+  "birth_date": "1986-04-22",
+  "birth_place": "Nakhodka",
+  "career_transfers": [
+    {
+      "date": "2007-11-01",
+      "type": "2M €",
+      "team_out": "Spartak Nalchik",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC SKA-Energiya Khabarovsk",
+    "FC Okean Nakhodka",
+    "PFC Spartak Nalchik",
+    "FC Zenit Saint Petersburg"
+  ]
+}

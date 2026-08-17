@@ -1,0 +1,34 @@
+{
+  "player_id": 510,
+  "full_name": "Serge David Gnabry",
+  "nationality": "Germany",
+  "birth_date": "1995-07-14",
+  "birth_place": "Stuttgart",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2017-07-18",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "1899 Hoffenheim"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 10M",
+      "team_out": "Werder Bremen",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "West Bromwich Albion F.C.",
+    "SV Werder Bremen",
+    "FC Bayern Munich",
+    "TSG 1899 Hoffenheim"
+  ]
+}

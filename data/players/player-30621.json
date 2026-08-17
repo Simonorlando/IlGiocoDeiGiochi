@@ -1,0 +1,25 @@
+{
+  "player_id": 30621,
+  "full_name": "Christian Maggio",
+  "nationality": "Italy",
+  "birth_date": "1982-02-11",
+  "birth_place": "Montecchio Maggiore",
+  "career_transfers": [
+    {
+      "date": "2022-02-25",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Vicenza Virtus"
+    }
+  ],
+  "career_clubs": [
+    "LR Vicenza",
+    "ACF Fiorentina",
+    "U.C. Sampdoria",
+    "Treviso F.B.C. 1993",
+    "SSC Napoli",
+    "Benevento Calcio",
+    "US Lecce",
+    "LR Vicenza"
+  ]
+}

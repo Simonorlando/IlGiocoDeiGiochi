@@ -1,0 +1,40 @@
+{
+  "player_id": 31723,
+  "full_name": "Luca Di Matteo",
+  "nationality": "Italy",
+  "birth_date": "1988-02-25",
+  "birth_place": "Pescara",
+  "career_transfers": [
+    {
+      "date": "2019-07-12",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Teramo"
+    },
+    {
+      "date": "2017-07-10",
+      "type": "Free",
+      "team_out": "Latina",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Palermo F.C.",
+    "F.C. Crotone",
+    "Associazione Sportiva Cittadella",
+    "Vicenza Calcio",
+    "Palermo F.C.",
+    "US Lecce",
+    "Vicenza Calcio",
+    "Calcio Padova",
+    "S.S. Teramo Calcio",
+    "Lanciano Calcio 1920"
+  ]
+}

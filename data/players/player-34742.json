@@ -1,0 +1,27 @@
+{
+  "player_id": 34742,
+  "full_name": "Luc Castaignos",
+  "nationality": "Netherlands",
+  "birth_date": "1992-09-27",
+  "birth_place": "Schiedam",
+  "career_transfers": [
+    {
+      "date": "2012-07-30",
+      "type": "€ 6M",
+      "team_out": "Inter",
+      "team_in": "Twente"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 2M",
+      "team_out": "Feyenoord",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "Inter Milan",
+    "FC Twente",
+    "Eintracht Frankfurt"
+  ]
+}

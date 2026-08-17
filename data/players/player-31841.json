@@ -1,0 +1,20 @@
+{
+  "player_id": 31841,
+  "full_name": "Luca Checchin",
+  "nationality": "Italy",
+  "birth_date": "1997-05-03",
+  "birth_place": "Voghera",
+  "career_transfers": [
+    {
+      "date": "2017-07-03",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "Brescia Calcio",
+    "US Alessandria Calcio 1912"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 200,
+  "full_name": "Gabriele Zappa",
+  "nationality": "Italy",
+  "birth_date": "1999-12-22",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2020-09-08",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936"
+  ]
+}

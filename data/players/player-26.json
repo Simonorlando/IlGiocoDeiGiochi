@@ -1,0 +1,30 @@
+{
+  "player_id": 26,
+  "full_name": "Marius Wolf",
+  "nationality": "Germany",
+  "birth_date": "1995-05-27",
+  "birth_place": "Coburg",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 5M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "Hannover 96",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "Hannover 96",
+    "Eintracht Frankfurt",
+    "Borussia Dortmund",
+    "Hertha BSC",
+    "1. FC Köln",
+    "FC Augsburg"
+  ]
+}

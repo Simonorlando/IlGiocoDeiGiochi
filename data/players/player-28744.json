@@ -1,0 +1,42 @@
+{
+  "player_id": 28744,
+  "full_name": "Þórir Jóhann Helgason",
+  "nationality": "Iceland",
+  "birth_date": "2000-09-28",
+  "birth_place": "Hafnarfjörður",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Braunschweig",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Eintracht Braunschweig"
+    },
+    {
+      "date": "2021-07-15",
+      "type": "N/A",
+      "team_out": "FH hafnarfjordur",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Fimleikafélag Hafnarfjarðar"
+  ]
+}

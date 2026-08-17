@@ -1,0 +1,31 @@
+{
+  "player_id": 115220,
+  "full_name": "Manuel Pamić",
+  "nationality": "Croatia",
+  "birth_date": "1986-08-20",
+  "birth_place": "Zminj",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Sparta Praha"
+    },
+    {
+      "date": "2014-01-24",
+      "type": "Loan",
+      "team_out": "Sparta Praha",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "NK Istra 1961",
+    "HNK Rijeka",
+    "FC Red Bull Salzburg",
+    "AC Sparta Prague",
+    "AC ChievoVerona",
+    "Siena FC",
+    "Frosinone Calcio",
+    "NK Istra 1961"
+  ]
+}

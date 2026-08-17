@@ -1,0 +1,33 @@
+{
+  "player_id": 10553,
+  "full_name": "Leandro Castán da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1986-11-05",
+  "birth_place": "Jaú",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2016-08-18",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Helsingborgs IF",
+    "Grêmio Barueri Futebol",
+    "S.C. Corinthians Paulista",
+    "AS Roma",
+    "U.C. Sampdoria",
+    "Torino FC",
+    "Cagliari Calcio",
+    "CR Vasco da Gama",
+    "Guarani Futebol Clube"
+  ]
+}

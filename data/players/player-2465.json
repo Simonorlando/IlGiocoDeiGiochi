@@ -1,0 +1,33 @@
+{
+  "player_id": 2465,
+  "full_name": "Juan Agustín Musso",
+  "nationality": "Argentina",
+  "birth_date": "1994-05-06",
+  "birth_place": "San Nicolás de los Arroyos",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2024-08-27",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2025-06-10",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Udinese Calcio",
+    "Atalanta BC",
+    "Atlético Madrid"
+  ]
+}

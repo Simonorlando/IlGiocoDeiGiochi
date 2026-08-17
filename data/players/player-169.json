@@ -1,0 +1,30 @@
+{
+  "player_id": 169,
+  "full_name": "Kieran John Trippier",
+  "nationality": "England",
+  "birth_date": "1990-09-19",
+  "birth_place": "Bury",
+  "career_transfers": [
+    {
+      "date": "2022-01-07",
+      "type": "€ 16.2M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2019-07-17",
+      "type": "€ 25M",
+      "team_out": "Tottenham",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Barnsley F.C.",
+    "Burnley F.C.",
+    "Tottenham Hotspur F.C.",
+    "Atlético Madrid",
+    "Newcastle United F.C.",
+    "Wolverhampton Wanderers F.C."
+  ]
+}

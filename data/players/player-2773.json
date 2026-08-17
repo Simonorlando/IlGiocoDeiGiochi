@@ -1,0 +1,29 @@
+{
+  "player_id": 2773,
+  "full_name": "William Paul Troost-Ekong",
+  "nationality": "Nigeria",
+  "birth_date": "1993-09-01",
+  "birth_place": "Haarlem",
+  "career_transfers": [
+    {
+      "date": "2023-01-24",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "FC Groningen",
+    "FC Dordrecht",
+    "KAA Gent",
+    "FK Haugesund",
+    "Bursaspor",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "U.S. Salernitana 1919",
+    "PAOK FC",
+    "Al-Kholood",
+    "Al Ahli SC"
+  ]
+}

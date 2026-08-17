@@ -1,0 +1,26 @@
+{
+  "player_id": 330419,
+  "full_name": "Alberto Oliveira Baio",
+  "nationality": "Portugal",
+  "birth_date": "2003-09-29",
+  "birth_place": "Santo Tirso",
+  "career_transfers": [
+    {
+      "date": "2025-01-15",
+      "type": "€ 13.8M",
+      "team_out": "Guimaraes",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-07-24",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Vitória de Guimarães",
+    "Juventus",
+    "Porto"
+  ]
+}

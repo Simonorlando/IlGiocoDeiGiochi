@@ -1,0 +1,23 @@
+{
+  "player_id": 6615,
+  "full_name": "Rubén Alejandro Botta Montero",
+  "nationality": "Argentina",
+  "birth_date": "1990-01-31",
+  "birth_place": "San Juan",
+  "career_transfers": [
+    {
+      "date": "2013-08-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Tigre",
+    "US Livorno 1915",
+    "Inter Milan",
+    "AC ChievoVerona",
+    "CF Pachuca",
+    "San Lorenzo de Almagro"
+  ]
+}

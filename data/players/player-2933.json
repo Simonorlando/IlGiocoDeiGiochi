@@ -1,0 +1,40 @@
+{
+  "player_id": 2933,
+  "full_name": "Benjamin James Chilwell",
+  "nationality": "England",
+  "birth_date": "1996-12-21",
+  "birth_place": "Milton Keynes",
+  "career_transfers": [
+    {
+      "date": "2020-08-26",
+      "type": "€ 56M",
+      "team_out": "Leicester",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Crystal Palace",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Strasbourg"
+    }
+  ],
+  "career_clubs": [
+    "Leicester City F.C.",
+    "Huddersfield Town A.F.C.",
+    "Chelsea F.C.",
+    "Crystal Palace F.C.",
+    "RC Strasbourg Alsace"
+  ]
+}

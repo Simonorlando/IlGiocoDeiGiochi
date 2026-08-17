@@ -1,0 +1,19 @@
+{
+  "player_id": 31377,
+  "full_name": "Cristiano Lombardi",
+  "nationality": "Italy",
+  "birth_date": "1995-08-19",
+  "birth_place": "Viterbo",
+  "career_transfers": [
+    {
+      "date": "2019-01-15",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "Siena FC"
+  ]
+}

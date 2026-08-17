@@ -1,0 +1,31 @@
+{
+  "player_id": 1465,
+  "full_name": "Pierre-Emerick Emiliano Franço Aubameyang",
+  "nationality": "Gabon",
+  "birth_date": "1989-06-18",
+  "birth_place": "Laval",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "€ 12M",
+      "team_out": "Barcelona",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Stade Lavallois",
+    "AC Milan",
+    "Dijon FCO",
+    "Lille OSC",
+    "AS Monaco FC",
+    "AS Saint-Étienne",
+    "Borussia Dortmund",
+    "Arsenal F.C.",
+    "FC Barcelona",
+    "Chelsea F.C.",
+    "Olympique de Marseille",
+    "Al Qadsiah FC",
+    "Olympique de Marseille",
+    "Deportivo de A Coruña"
+  ]
+}

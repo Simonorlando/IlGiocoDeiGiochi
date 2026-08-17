@@ -1,0 +1,27 @@
+{
+  "player_id": 30516,
+  "full_name": "Andrea Consigli",
+  "nationality": "Italy",
+  "birth_date": "1987-01-27",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2007-09-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Rimini"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "S.S. Sambenedettese Calcio",
+    "Rimini FC",
+    "US Sassuolo Calcio"
+  ]
+}

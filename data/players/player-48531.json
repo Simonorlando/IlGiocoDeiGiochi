@@ -1,0 +1,44 @@
+{
+  "player_id": 48531,
+  "full_name": "Robert Acquafresca",
+  "nationality": "Italy",
+  "birth_date": "1987-09-11",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2009-06-29",
+      "type": "€ 15M",
+      "team_out": "Inter",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Treviso"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Inter Milan",
+    "Treviso F.B.C. 1993",
+    "Cagliari Calcio",
+    "Atalanta BC",
+    "Genoa CFC",
+    "Cagliari Calcio",
+    "Bologna F.C. 1909",
+    "Levante UD"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 37250,
+  "full_name": "Lennart-Marten Quint Czyborra",
+  "nationality": "Germany",
+  "birth_date": "1999-05-03",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2021-08-23",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2020-09-09",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-01-22",
+      "type": "N/A",
+      "team_out": "Heracles",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Heracles Almelo",
+    "Atalanta BC",
+    "Genoa CFC",
+    "WSG Tirol"
+  ]
+}

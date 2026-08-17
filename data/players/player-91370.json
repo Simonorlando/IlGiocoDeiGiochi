@@ -1,0 +1,30 @@
+{
+  "player_id": 91370,
+  "full_name": "Bogdan Ionuț Lobonț",
+  "nationality": "Romania",
+  "birth_date": "1978-01-18",
+  "birth_place": "Hunedoara",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "1.1M €",
+      "team_out": "Fiorentina",
+      "team_in": "Dinamo Bucuresti"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "1.5M €",
+      "team_out": "Ajax",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FC Corvinul Hunedoara",
+    "FC Rapid București",
+    "AFC Ajax",
+    "FC Dinamo Bucharest",
+    "ACF Fiorentina",
+    "FC Dinamo Bucharest",
+    "AS Roma"
+  ]
+}

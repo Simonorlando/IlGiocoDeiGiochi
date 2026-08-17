@@ -1,0 +1,27 @@
+{
+  "player_id": 3406,
+  "full_name": "André-Frank Zambo Anguissa",
+  "nationality": "Cameroon",
+  "birth_date": "1995-11-16",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2019-07-26",
+      "type": "Loan",
+      "team_out": "Fulham",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille",
+    "Fulham F.C.",
+    "Villarreal CF",
+    "SSC Napoli"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 30642,
+  "full_name": "Alberto Andrea Paleari",
+  "nationality": "Italy",
+  "birth_date": "1992-08-29",
+  "birth_place": "Giussano",
+  "career_transfers": [
+    {
+      "date": "2024-07-19",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2021-07-17",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Giana Erminio"
+  ]
+}

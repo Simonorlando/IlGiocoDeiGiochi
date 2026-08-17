@@ -1,0 +1,33 @@
+{
+  "player_id": 312615,
+  "full_name": "Giovane Santana do Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "2003-11-24",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-08",
+      "type": "Free Transfer",
+      "team_out": "Corinthians",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-06",
+      "type": "Free agent",
+      "team_out": "Corinthians",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2026-01-23",
+      "type": "Transfer",
+      "team_out": "Hellas Verona",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Capivariano",
+    "Corinthians",
+    "Hellas Verona",
+    "Napoli"
+  ]
+}

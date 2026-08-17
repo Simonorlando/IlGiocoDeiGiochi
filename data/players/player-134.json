@@ -1,0 +1,37 @@
+{
+  "player_id": 134,
+  "full_name": "Juan Miranda González",
+  "nationality": "Spain",
+  "birth_date": "2000-01-19",
+  "birth_place": "Olivares",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2019-08-30",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "player_id": 30892,
+  "full_name": "Giovanni Marchese",
+  "nationality": "Italy",
+  "birth_date": "1984-10-17",
+  "birth_place": "Caltanissetta",
+  "career_transfers": [
+    {
+      "date": "2017-01-12",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-07-04",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2009-08-31",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Treviso F.B.C. 1993",
+    "AC ChievoVerona",
+    "Catania FC",
+    "SSC Bari",
+    "U.S. Salernitana 1919",
+    "Catania FC",
+    "Genoa CFC",
+    "Catania FC"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 30504,
+  "full_name": "Wilfried Stephane Singo",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2000-12-25",
+  "birth_place": "Grand-Béréby",
+  "career_transfers": [
+    {
+      "date": "2025-08-28",
+      "type": "Transfer",
+      "team_out": "Monaco",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Transfer",
+      "team_out": "Monaco",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Torino",
+    "Monaco",
+    "Galatasaray"
+  ]
+}

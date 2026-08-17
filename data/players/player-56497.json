@@ -1,0 +1,20 @@
+{
+  "player_id": 56497,
+  "full_name": "Cristian Daniel Ledesma",
+  "nationality": "Italy",
+  "birth_date": "1982-09-24",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "5.3M €",
+      "team_out": "Lecce",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "SS Lazio",
+    "Santos F.C."
+  ]
+}

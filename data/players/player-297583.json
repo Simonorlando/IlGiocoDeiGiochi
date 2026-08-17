@@ -1,0 +1,47 @@
+{
+  "player_id": 297583,
+  "full_name": "Jeyland Yahir Mitchell Baltodano",
+  "nationality": "Costa Rica",
+  "birth_date": "2004-09-29",
+  "birth_place": "Puerto Limón",
+  "career_transfers": [
+    {
+      "date": "2024-07-08",
+      "type": "€ 2.5M",
+      "team_out": "LD Alajuelense",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2025-09-02",
+      "type": "Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Sturm Graz"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "Sturm Graz"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "Sturm Graz"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sturm Graz",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "Limón",
+    "Guanacasteca",
+    "Municipal Liberia",
+    "Alajuelense",
+    "Feyenoord",
+    "Sturm Graz"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 152849,
+  "full_name": "Micky van de Ven",
+  "nationality": "Netherlands",
+  "birth_date": "2001-04-19",
+  "birth_place": "Wormer",
+  "career_transfers": [
+    {
+      "date": "2023-08-08",
+      "type": "€ 40M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "FC Volendam",
+    "VfL Wolfsburg",
+    "Tottenham Hotspur F.C."
+  ]
+}

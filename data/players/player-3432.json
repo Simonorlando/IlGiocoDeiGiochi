@@ -1,0 +1,46 @@
+{
+  "player_id": 3432,
+  "full_name": "Abdul Majeed Waris",
+  "nationality": "Ghana",
+  "birth_date": "1991-09-19",
+  "birth_place": "Tamale",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "€ 2M",
+      "team_out": "FC Porto",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2020-01-17",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2018-08-07",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 6M",
+      "team_out": "Lorient",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2018-01-19",
+      "type": "Loan",
+      "team_out": "Lorient",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "BK Häcken",
+    "Spartak Moscow",
+    "Valenciennes F.C.",
+    "Trabzonspor",
+    "F.C. Lorient"
+  ]
+}

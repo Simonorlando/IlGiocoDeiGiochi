@@ -1,0 +1,30 @@
+{
+  "player_id": 56005,
+  "full_name": "Rami Gershon",
+  "nationality": "Israel",
+  "birth_date": "1988-08-12",
+  "birth_place": "Rishon Letzion",
+  "career_transfers": [
+    {
+      "date": "2017-08-13",
+      "type": "€ 400K",
+      "team_out": "Gent",
+      "team_in": "Maccabi Haifa"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 400K",
+      "team_out": "Waasland-beveren",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Hapoel Rishon LeZion F.C.",
+    "Standard Liège",
+    "K.V. Kortrijk",
+    "Celtic F.C.",
+    "Sportkring Beveren",
+    "KAA Gent",
+    "Maccabi Haifa F.C."
+  ]
+}

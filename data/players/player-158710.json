@@ -1,0 +1,26 @@
+{
+  "player_id": 158710,
+  "full_name": "Victor Bernth Kristiansen",
+  "nationality": "Denmark",
+  "birth_date": "2002-12-16",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2023-08-30",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen",
+    "Leicester City F.C.",
+    "Bologna F.C. 1909"
+  ]
+}

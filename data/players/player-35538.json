@@ -1,0 +1,41 @@
+{
+  "player_id": 35538,
+  "full_name": "José María Basanta",
+  "nationality": "Argentina",
+  "birth_date": "1984-04-03",
+  "birth_place": "Tres Sargentos",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 1M",
+      "team_out": "Fiorentina",
+      "team_in": "Monterrey"
+    },
+    {
+      "date": "2016-06-30",
+      "type": "N/A",
+      "team_out": "Monterrey",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Monterrey"
+    },
+    {
+      "date": "2014-07-25",
+      "type": "€ 3.5M",
+      "team_out": "Monterrey",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "Sarmiento",
+    "Estudiantes de La Plata",
+    "Club de Fútbol Monterrey",
+    "ACF Fiorentina",
+    "Club de Fútbol Monterrey"
+  ]
+}

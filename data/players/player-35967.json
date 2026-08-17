@@ -1,0 +1,27 @@
+{
+  "player_id": 35967,
+  "full_name": "Diego Martín Novaretti",
+  "nationality": "Argentina",
+  "birth_date": "1985-05-09",
+  "birth_place": "La Palestina",
+  "career_transfers": [
+    {
+      "date": "2015-06-24",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Leon"
+    },
+    {
+      "date": "2013-07-08",
+      "type": "Free",
+      "team_out": "Toluca",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "Toluca FC",
+    "SS Lazio",
+    "Club León"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 2833,
+  "full_name": "Giancarlo González Castro",
+  "nationality": "Costa Rica",
+  "birth_date": "1988-02-08",
+  "birth_place": "San José",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 2M",
+      "team_out": "Palermo",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2014-08-26",
+      "type": "N/A",
+      "team_out": "Columbus Crew",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Liga Deportiva Alajuelense",
+    "Vålerenga Fotball",
+    "Columbus Crew",
+    "Palermo F.C.",
+    "Bologna F.C. 1909",
+    "LA Galaxy"
+  ]
+}

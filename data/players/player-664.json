@@ -1,0 +1,38 @@
+{
+  "player_id": 664,
+  "full_name": "Lucas Simon Pierre Tousart",
+  "nationality": "France",
+  "birth_date": "1997-04-29",
+  "birth_place": "Arras",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Lyon",
+      "team_in": "Hertha BSC"
+    },
+    {
+      "date": "2020-01-28",
+      "type": "Loan",
+      "team_out": "Hertha BSC",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2020-01-27",
+      "type": "€ 23M",
+      "team_out": "Lyon",
+      "team_in": "Hertha BSC"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "€ 3.5M",
+      "team_out": "Valenciennes",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "Valenciennes F.C.",
+    "Olympique Lyonnais",
+    "Valenciennes F.C."
+  ]
+}

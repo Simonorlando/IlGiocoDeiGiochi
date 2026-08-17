@@ -1,0 +1,33 @@
+{
+  "player_id": 19149,
+  "full_name": "Ahmed El Sayed Ali El Sayed Hegazy",
+  "nationality": "Egypt",
+  "birth_date": "1991-01-25",
+  "birth_place": "Ismailia",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Ismaily SC",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Ismaily SC",
+    "ACF Fiorentina",
+    "A.C. Perugia Calcio",
+    "Al Ahly SC"
+  ]
+}

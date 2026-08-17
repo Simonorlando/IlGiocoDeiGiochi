@@ -1,0 +1,32 @@
+{
+  "player_id": 152654,
+  "full_name": "Jeremie Agyekum Frimpong",
+  "nationality": "Netherlands",
+  "birth_date": "2000-12-10",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2021-01-27",
+      "type": "€ 11M",
+      "team_out": "Celtic",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-06-01",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Celtic F.C.",
+    "Bayer 04 Leverkusen",
+    "Liverpool F.C."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 30928,
+  "full_name": "Andrea Danzi",
+  "nationality": "Italy",
+  "birth_date": "1999-02-25",
+  "birth_place": "Verona",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Cittadella"
+    },
+    {
+      "date": "2021-01-26",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Ascoli"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC"
+  ]
+}

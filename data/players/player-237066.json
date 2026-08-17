@@ -1,0 +1,33 @@
+{
+  "player_id": 237066,
+  "full_name": "Rafael Marín Zamora",
+  "nationality": "Spain",
+  "birth_date": "2002-05-19",
+  "birth_place": "Guadajoz",
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "€ 12M",
+      "team_out": "Real Madrid",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2023-07-28",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Alaves"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid",
+    "Alavés",
+    "Napoli",
+    "Villarreal"
+  ]
+}

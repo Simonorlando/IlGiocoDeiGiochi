@@ -1,0 +1,26 @@
+{
+  "player_id": 570,
+  "full_name": "Franco Emanuel Cervi",
+  "nationality": "Argentina",
+  "birth_date": "1994-05-26",
+  "birth_place": "San Lorenzo",
+  "career_transfers": [
+    {
+      "date": "2021-07-05",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "Celta Vigo"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 4.7M",
+      "team_out": "Rosario Central",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "S.L. Benfica",
+    "RC Celta de Vigo"
+  ]
+}

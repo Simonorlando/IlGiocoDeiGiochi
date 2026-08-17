@@ -1,0 +1,45 @@
+{
+  "player_id": 115314,
+  "full_name": "Francesco Fabio Sciacca",
+  "nationality": "Italy",
+  "birth_date": "1989-05-16",
+  "birth_place": "Catania",
+  "career_transfers": [
+    {
+      "date": "2014-09-02",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-07-25",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Grosseto",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2012-01-07",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Grosseto"
+    }
+  ],
+  "career_clubs": [
+    "Catania FC",
+    "U.S. Grosseto 1912",
+    "Ternana Calcio",
+    "Vicenza Calcio"
+  ]
+}

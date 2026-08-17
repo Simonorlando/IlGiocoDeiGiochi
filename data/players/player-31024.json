@@ -1,0 +1,63 @@
+{
+  "player_id": 31024,
+  "full_name": "José Ndong Machín Dicombo",
+  "nationality": "Equatorial Guinea",
+  "birth_date": "1996-08-14",
+  "birth_place": "Bata",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "FC Cartagena",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2024-07-26",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-01-15",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 4M",
+      "team_out": "Parma",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-01-29",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "FC Cartagena"
+    },
+    {
+      "date": "2025-10-30",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "Vis Pesaro"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Malagueño",
+    "AS Roma",
+    "FC Barcelona",
+    "Delfino Pescara 1936"
+  ]
+}

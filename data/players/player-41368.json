@@ -1,0 +1,24 @@
+{
+  "player_id": 41368,
+  "full_name": "Bruno Vinícius Souza Ramos",
+  "nationality": "Brazil",
+  "birth_date": "1997-03-30",
+  "birth_place": "Ipatinga",
+  "career_transfers": [
+    {
+      "date": "2022-08-08",
+      "type": "N/A",
+      "team_out": "Sporting CP",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2020-09-29",
+      "type": "N/A",
+      "team_out": "Portimonense",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro"
+  ]
+}

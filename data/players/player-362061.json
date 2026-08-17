@@ -1,0 +1,54 @@
+{
+  "player_id": 362061,
+  "full_name": "Benjamin Cremaschi",
+  "nationality": "USA",
+  "birth_date": "2005-03-02",
+  "birth_place": "Miami",
+  "career_transfers": [
+    {
+      "date": "2025-09-02",
+      "type": "Loan",
+      "team_out": "Inter Miami",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Miami",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Miami",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Parma",
+      "team_in": "Miami"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Inter Miami",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Inter Miami",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Parma",
+      "team_in": "Inter Miami"
+    }
+  ],
+  "career_clubs": [
+    "Inter Miami CF"
+  ]
+}

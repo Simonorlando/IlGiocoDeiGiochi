@@ -1,0 +1,84 @@
+{
+  "player_id": 31660,
+  "full_name": "Pietro Iemmello",
+  "nationality": "Italy",
+  "birth_date": "1992-03-06",
+  "birth_place": "Catanzaro",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "€ 2.3M",
+      "team_out": "Spezia",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Foggia",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2015-08-21",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Foggia"
+    },
+    {
+      "date": "2015-07-20",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": null
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Foggia",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2014-08-20",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Foggia"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "PRO Vercelli",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2014-01-21",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "PRO Vercelli"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2013-09-01",
+      "type": "N/A",
+      "team_out": "PRO Vercelli",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "F.C. Pro Vercelli 1892",
+    "Novara Calcio",
+    "Calcio Foggia 1920",
+    "F.C. Pro Vercelli 1892",
+    "Spezia Calcio",
+    "US Sassuolo Calcio",
+    "Benevento Calcio",
+    "Calcio Foggia 1920",
+    "A.C. Perugia Calcio",
+    "UD Las Palmas",
+    "Frosinone Calcio",
+    "Unione Sportiva Catanzaro"
+  ]
+}

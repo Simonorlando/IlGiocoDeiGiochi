@@ -1,0 +1,61 @@
+{
+  "player_id": 30900,
+  "full_name": "Cristian Ezequiel Llama",
+  "nationality": "Argentina",
+  "birth_date": "1986-06-26",
+  "birth_place": "Lomas de Zamora",
+  "career_transfers": [
+    {
+      "date": "2020-01-20",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Gimnasia M."
+    },
+    {
+      "date": "2018-07-13",
+      "type": "Free",
+      "team_out": "Gimnasia M.",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-08-30",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Veracruz"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Newells Old Boys"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 300K",
+      "team_out": "Arsenal Sarandi",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal Fútbol Club",
+    "Catania FC",
+    "Newell's Old Boys",
+    "Catania FC",
+    "ACF Fiorentina",
+    "Tiburones Rojos de Veracruz",
+    "Club Atlético Colón",
+    "Club Atlético Aldosivi"
+  ]
+}

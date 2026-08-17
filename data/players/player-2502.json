@@ -1,0 +1,26 @@
+{
+  "player_id": 2502,
+  "full_name": "Gustavo Raúl Gómez Portillo",
+  "nationality": "Paraguay",
+  "birth_date": "1993-05-06",
+  "birth_place": "San Juan Bautista",
+  "career_transfers": [
+    {
+      "date": "2018-08-02",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2016-08-05",
+      "type": "Free",
+      "team_out": "Lanus",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Club Libertad",
+    "Boca Juniors",
+    "AC Milan"
+  ]
+}

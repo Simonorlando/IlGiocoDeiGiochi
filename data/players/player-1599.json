@@ -1,0 +1,28 @@
+{
+  "player_id": 1599,
+  "full_name": "Vassilis Torosidis",
+  "nationality": "Greece",
+  "birth_date": "1985-06-10",
+  "birth_place": "Xanthi",
+  "career_transfers": [
+    {
+      "date": "2018-07-27",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Xanthi F.C.",
+    "Olympiacos F.C.",
+    "AS Roma",
+    "Bologna F.C. 1909",
+    "Olympiacos F.C."
+  ]
+}

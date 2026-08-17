@@ -1,0 +1,46 @@
+{
+  "player_id": 19034,
+  "full_name": "Ryan Guno Babel",
+  "nationality": "Netherlands",
+  "birth_date": "1986-12-19",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2022-07-22",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Eyüpspor"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2020-01-11",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Fulham",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Liverpool F.C.",
+    "TSG 1899 Hoffenheim",
+    "AFC Ajax",
+    "Kasımpaşa S.K.",
+    "Al Ain FC",
+    "Deportivo de A Coruña",
+    "Beşiktaş J.K. (Football)",
+    "Fulham F.C.",
+    "Galatasaray S.K.",
+    "Eyüpspor"
+  ]
+}

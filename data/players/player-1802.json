@@ -1,0 +1,23 @@
+{
+  "player_id": 1802,
+  "full_name": "David Ángel Abraham",
+  "nationality": "Argentina",
+  "birth_date": "1986-07-15",
+  "birth_place": "Chabás",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "Getafe"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Independiente",
+    "Gimnàstic de Tarragona",
+    "FC Basel",
+    "Getafe CF",
+    "TSG 1899 Hoffenheim",
+    "Eintracht Frankfurt"
+  ]
+}

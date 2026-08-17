@@ -1,0 +1,23 @@
+{
+  "player_id": 91554,
+  "full_name": "Milan Milanović",
+  "nationality": "Serbia",
+  "birth_date": "1991-03-31",
+  "birth_place": "Kosovska Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "FC Lokomotiv Moscow",
+    "Palermo F.C.",
+    "Siena FC",
+    "Palermo F.C.",
+    "Vicenza Calcio",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

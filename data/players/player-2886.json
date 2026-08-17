@@ -1,0 +1,32 @@
+{
+  "player_id": 2886,
+  "full_name": "Javier Hernández Balcázar",
+  "nationality": "Mexico",
+  "birth_date": "1988-06-01",
+  "birth_place": "Guadalajara",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "C.D. Guadalajara",
+    "Manchester United F.C.",
+    "Real Madrid Club de Fútbol",
+    "Bayer 04 Leverkusen",
+    "West Ham United F.C.",
+    "Sevilla FC",
+    "LA Galaxy",
+    "C.D. Guadalajara",
+    "Atlético Dallas"
+  ]
+}

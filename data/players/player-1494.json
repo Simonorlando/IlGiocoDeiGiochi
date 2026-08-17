@@ -1,0 +1,24 @@
+{
+  "player_id": 1494,
+  "full_name": "Jovane Eduardo Borges Cabral",
+  "nationality": "Cape Verde",
+  "birth_date": "1998-06-14",
+  "birth_place": "Assomada",
+  "career_transfers": [
+    {
+      "date": "2024-01-30",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2023-08-23",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP"
+  ]
+}

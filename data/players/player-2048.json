@@ -1,0 +1,24 @@
+{
+  "player_id": 2048,
+  "full_name": "Maximilian Wöber",
+  "nationality": "Austria",
+  "birth_date": "1998-02-04",
+  "birth_place": "Wien",
+  "career_transfers": [
+    {
+      "date": "2023-01-03",
+      "type": "€ 12M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2019-08-13",
+      "type": "€ 11.5M",
+      "team_out": "Sevilla",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "SK Rapid Wien"
+  ]
+}

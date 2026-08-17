@@ -1,0 +1,18 @@
+{
+  "player_id": 118956,
+  "full_name": "Lameck Banda",
+  "nationality": "Zambia",
+  "birth_date": "2001-01-29",
+  "birth_place": "Lusaka",
+  "career_transfers": [
+    {
+      "date": "2022-08-04",
+      "type": "Free",
+      "team_out": "Maccabi Petah Tikva",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FC Arsenal Tula"
+  ]
+}

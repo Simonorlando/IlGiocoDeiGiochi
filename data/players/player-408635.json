@@ -1,0 +1,22 @@
+{
+  "player_id": 408635,
+  "full_name": "Ebenezer Akinsanmiro",
+  "nationality": "Nigeria",
+  "birth_date": "2004-11-25",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2026-07-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Remo Stars",
+    "Inter Milan",
+    "Sampdoria",
+    "Pisa",
+    "Monza"
+  ]
+}

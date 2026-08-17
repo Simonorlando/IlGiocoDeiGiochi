@@ -1,0 +1,25 @@
+{
+  "player_id": 30788,
+  "full_name": "Andrea Favilli",
+  "nationality": "Italy",
+  "birth_date": "1997-05-17",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

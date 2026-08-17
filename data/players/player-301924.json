@@ -1,0 +1,28 @@
+{
+  "player_id": 301924,
+  "full_name": "Nesta Elphege",
+  "nationality": "France",
+  "birth_date": "2001-01-09",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Grenoble",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Grenoble",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Tours",
+    "Sète",
+    "Chamois Niortais",
+    "Grenoble",
+    "Parma"
+  ]
+}

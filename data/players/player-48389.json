@@ -1,0 +1,24 @@
+{
+  "player_id": 48389,
+  "full_name": "Noah Arinzechukwu Okafor",
+  "nationality": "Switzerland",
+  "birth_date": "2000-05-24",
+  "birth_place": "Binningen",
+  "career_transfers": [
+    {
+      "date": "2023-07-22",
+      "type": "€ 14M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2020-02-01",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel"
+  ]
+}

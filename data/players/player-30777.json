@@ -1,0 +1,31 @@
+{
+  "player_id": 30777,
+  "full_name": "Ervin Zukanović",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1987-02-11",
+  "birth_place": "Sarajevo",
+  "career_transfers": [
+    {
+      "date": "2016-07-21",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "FK Željezničar Sarajevo",
+    "SC Austria Lustenau",
+    "FK Velež Mostar",
+    "KFC Uerdingen 05",
+    "F.C. Verbroedering Dender Eendracht Hekelgem",
+    "K.A.S. Eupen",
+    "K.V. Kortrijk",
+    "KAA Gent",
+    "AC ChievoVerona",
+    "U.C. Sampdoria",
+    "AS Roma",
+    "Atalanta BC",
+    "ACF Fiorentina",
+    "SSC Napoli"
+  ]
+}

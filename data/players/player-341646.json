@@ -1,0 +1,28 @@
+{
+  "player_id": 341646,
+  "full_name": "Valentín Carboni",
+  "nationality": "Argentina",
+  "birth_date": "2005-03-05",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2023-07-15",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "AC Monza",
+    "Olympique de Marseille",
+    "Genoa CFC",
+    "Racing Club"
+  ]
+}

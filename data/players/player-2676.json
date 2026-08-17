@@ -1,0 +1,18 @@
+{
+  "player_id": 2676,
+  "full_name": "Rúben Diogo da Silva Neves",
+  "nationality": "Portugal",
+  "birth_date": "1997-03-13",
+  "birth_place": "Santa Maria da Feira",
+  "career_transfers": [
+    {
+      "date": "2017-07-08",
+      "type": "€ 17M",
+      "team_out": "FC Porto",
+      "team_in": "Wolves"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto"
+  ]
+}

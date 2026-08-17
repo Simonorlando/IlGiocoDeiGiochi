@@ -1,0 +1,27 @@
+{
+  "player_id": 1858,
+  "full_name": "Lucas Pezzini Leiva",
+  "nationality": "Brazil",
+  "birth_date": "1987-01-09",
+  "birth_place": "Dourados",
+  "career_transfers": [
+    {
+      "date": "2022-06-27",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Gremio"
+    },
+    {
+      "date": "2017-07-18",
+      "type": "€ 5.7M",
+      "team_out": "Liverpool",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA",
+    "Liverpool F.C.",
+    "SS Lazio",
+    "Grêmio FBPA"
+  ]
+}

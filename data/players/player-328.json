@@ -1,0 +1,28 @@
+{
+  "player_id": 328,
+  "full_name": "Fabián Ruiz Peña",
+  "nationality": "Spain",
+  "birth_date": "1996-04-03",
+  "birth_place": "Los Palacios y Villafranca",
+  "career_transfers": [
+    {
+      "date": "2022-08-30",
+      "type": "€ 23M",
+      "team_out": "Napoli",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2018-07-05",
+      "type": "€ 30M",
+      "team_out": "Real Betis",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Real Betis Balompié",
+    "Real Betis B",
+    "Elche CF",
+    "SSC Napoli",
+    "Paris Saint-Germain FC"
+  ]
+}

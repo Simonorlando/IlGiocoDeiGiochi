@@ -1,0 +1,31 @@
+{
+  "player_id": 47334,
+  "full_name": "David López Silva",
+  "nationality": "Spain",
+  "birth_date": "1989-10-09",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2016-08-27",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "N/A",
+      "team_out": "Espanyol",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "Terrassa FC",
+    "RCD Espanyol de Barcelona",
+    "CD Leganés",
+    "Sociedad Deportiva Huesca",
+    "SSC Napoli",
+    "RCD Espanyol de Barcelona",
+    "Girona FC"
+  ]
+}

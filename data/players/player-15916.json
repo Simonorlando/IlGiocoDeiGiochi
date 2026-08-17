@@ -1,0 +1,25 @@
+{
+  "player_id": 15916,
+  "full_name": "Andreas Skov Olsen",
+  "nationality": "Denmark",
+  "birth_date": "1999-12-29",
+  "birth_place": "Hillerød",
+  "career_transfers": [
+    {
+      "date": "2022-01-28",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2025-01-17",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland",
+    "Bologna F.C. 1909"
+  ]
+}

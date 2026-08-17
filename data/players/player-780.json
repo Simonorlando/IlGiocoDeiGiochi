@@ -1,0 +1,35 @@
+{
+  "player_id": 780,
+  "full_name": "Steven N'Kemboanza Mike Christ Nzonzi",
+  "nationality": "France",
+  "birth_date": "1988-12-15",
+  "birth_place": "Colombes",
+  "career_transfers": [
+    {
+      "date": "2020-01-31",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-08-16",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Amiens SC",
+    "Blackburn Rovers F.C.",
+    "Stoke City F.C.",
+    "Sevilla FC",
+    "AS Roma",
+    "Galatasaray S.K.",
+    "Stade Rennais F.C.",
+    "Al-Rayyan",
+    "Konyaspor",
+    "Sepahan F.C.",
+    "Stoke City F.C.",
+    "USL Dunkerque"
+  ]
+}

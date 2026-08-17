@@ -1,0 +1,18 @@
+{
+  "player_id": 404574,
+  "full_name": "Luis Guilherme Lira dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "2006-02-09",
+  "birth_place": "Aracaju",
+  "career_transfers": [
+    {
+      "date": "2026-01-03",
+      "type": "Transfer",
+      "team_out": "West Ham",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras"
+  ]
+}

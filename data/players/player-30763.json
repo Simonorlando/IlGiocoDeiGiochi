@@ -1,0 +1,36 @@
+{
+  "player_id": 30763,
+  "full_name": "Jandrei Chitolina Carniel",
+  "nationality": "Brazil",
+  "birth_date": "1993-03-01",
+  "birth_place": "Itaqui",
+  "career_transfers": [
+    {
+      "date": "2021-08-25",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Paranaense",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-02-10",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Atletico Paranaense"
+    },
+    {
+      "date": "2019-01-07",
+      "type": "€ 2.4M",
+      "team_out": "Chapecoense-sc",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 32182,
+  "full_name": "Marco Rossi",
+  "nationality": "Italy",
+  "birth_date": "1987-09-30",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2019-07-16",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2018-07-11",
+      "type": "Free",
+      "team_out": "Wellington Phoenix",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Parma U20",
+    "Parma",
+    "Modena",
+    "Parma",
+    "Sampdoria",
+    "Parma",
+    "Bari",
+    "Parma",
+    "Cesena",
+    "Perugia",
+    "Varese",
+    "Perugia",
+    "Wellington Phoenix",
+    "ACR Siena 1904",
+    "Reggina 1914",
+    "Seregno",
+    "Brindisi",
+    "Akragas",
+    "Enna"
+  ]
+}

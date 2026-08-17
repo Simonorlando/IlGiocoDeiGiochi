@@ -1,0 +1,26 @@
+{
+  "player_id": 2104,
+  "full_name": "Senna Malik Miangué",
+  "nationality": "Belgium",
+  "birth_date": "1997-02-05",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2017-01-26",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "K.A.S. Eupen",
+    "Inter Milan",
+    "Cagliari Calcio"
+  ]
+}

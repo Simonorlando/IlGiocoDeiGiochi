@@ -1,0 +1,27 @@
+{
+  "player_id": 30731,
+  "full_name": "Elia Caprile",
+  "nationality": "Italy",
+  "birth_date": "2001-08-25",
+  "birth_place": "Verona",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2023-07-24",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "SSC Napoli",
+    "Empoli FC",
+    "Cagliari Calcio"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "player_id": 22169,
+  "full_name": "Wylan Jean-Claude Cyprien",
+  "nationality": "France",
+  "birth_date": "1995-01-28",
+  "birth_place": "Les Abymes",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "FC Sion",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2022-08-10",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "FC Sion"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Nantes",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Nice II",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Nice",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Changchun Yatai"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "OGC Nice",
+    "Parma Calcio 1913",
+    "FC Nantes"
+  ]
+}

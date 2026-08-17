@@ -1,0 +1,24 @@
+{
+  "player_id": 91416,
+  "full_name": "Francesco Bolzoni",
+  "nationality": "Italy",
+  "birth_date": "1989-05-07",
+  "birth_place": "Lodi",
+  "career_transfers": [
+    {
+      "date": "2013-08-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Frosinone Calcio",
+    "Genoa CFC",
+    "Siena FC",
+    "Palermo F.C.",
+    "Novara Calcio",
+    "Spezia Calcio"
+  ]
+}

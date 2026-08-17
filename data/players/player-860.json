@@ -1,0 +1,29 @@
+{
+  "player_id": 860,
+  "full_name": "Alex Sandro Lobo Silva",
+  "nationality": "Brazil",
+  "birth_date": "1991-01-26",
+  "birth_place": "Catanduva",
+  "career_transfers": [
+    {
+      "date": "2024-08-26",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Flamengo"
+    },
+    {
+      "date": "2015-08-20",
+      "type": "€ 26M",
+      "team_out": "FC Porto",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "Santos F.C.",
+    "Deportivo Maldonado",
+    "FC Porto",
+    "Juventus FC",
+    "Clube de Regatas do Flamengo"
+  ]
+}

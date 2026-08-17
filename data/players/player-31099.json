@@ -1,0 +1,25 @@
+{
+  "player_id": 31099,
+  "full_name": "Nicolò Casale",
+  "nationality": "Italy",
+  "birth_date": "1998-02-14",
+  "birth_place": "Negrar",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "A.C. Perugia Calcio"
+  ]
+}

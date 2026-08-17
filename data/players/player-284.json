@@ -1,0 +1,19 @@
+{
+  "player_id": 284,
+  "full_name": "Joseph Dave Gomez",
+  "nationality": "England",
+  "birth_date": "1997-05-23",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Charlton",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Charlton Athletic F.C.",
+    "Liverpool F.C."
+  ]
+}

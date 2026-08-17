@@ -1,0 +1,21 @@
+{
+  "player_id": 1203,
+  "full_name": "Luís Carlos Novo Neto",
+  "nationality": "Portugal",
+  "birth_date": "1988-05-26",
+  "birth_place": "Póvoa do Varzim",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Zenit",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Varzim S.C.",
+    "C.D. Nacional",
+    "Siena FC",
+    "FC Zenit Saint Petersburg"
+  ]
+}

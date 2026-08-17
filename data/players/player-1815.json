@@ -1,0 +1,45 @@
+{
+  "player_id": 1815,
+  "full_name": "Jonathan Alexander de Guzmán",
+  "nationality": "Netherlands",
+  "birth_date": "1987-09-13",
+  "birth_place": "Toronto",
+  "career_transfers": [
+    {
+      "date": "2014-08-20",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Swansea",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2012-07-10",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 8M",
+      "team_out": "Mallorca",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "RCD Mallorca",
+    "Villarreal CF",
+    "Swansea City A.F.C.",
+    "SSC Napoli",
+    "A.C. Carpi",
+    "AC ChievoVerona",
+    "Eintracht Frankfurt",
+    "OFI Crete F.C.",
+    "Sparta Rotterdam"
+  ]
+}

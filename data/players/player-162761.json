@@ -1,0 +1,18 @@
+{
+  "player_id": 162761,
+  "full_name": "Castello Junior Lukeba",
+  "nationality": "France",
+  "birth_date": "2002-12-17",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2023-08-11",
+      "type": "€ 30M",
+      "team_out": "Lyon",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais"
+  ]
+}

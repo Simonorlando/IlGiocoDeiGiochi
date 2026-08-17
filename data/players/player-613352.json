@@ -1,0 +1,38 @@
+{
+  "player_id": 613352,
+  "full_name": "T. Macchioni",
+  "nationality": "Italy",
+  "birth_date": "2006-04-04",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-11-28",
+      "type": "Free agent",
+      "team_out": "Sassuolo",
+      "team_in": "Macchioni Tommaso"
+    },
+    {
+      "date": "2025-12-31",
+      "type": "-",
+      "team_out": "Sassuolo",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-11-26",
+      "type": "Raise",
+      "team_out": "Sassuolo",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-11-28",
+      "type": "-",
+      "team_out": "Sassuolo",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Sassuolo",
+    "Macchioni Tommaso",
+    "Sassuolo"
+  ]
+}

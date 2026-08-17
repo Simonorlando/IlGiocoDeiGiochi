@@ -1,0 +1,28 @@
+{
+  "player_id": 962,
+  "full_name": "Jean-Pierre Junior Nsame",
+  "nationality": "Cameroon",
+  "birth_date": "1993-05-01",
+  "birth_place": "Douala",
+  "career_transfers": [
+    {
+      "date": "2024-06-18",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Legia Warszawa"
+    },
+    {
+      "date": "2024-01-25",
+      "type": "€ 500K",
+      "team_out": "BSC Young Boys",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Angers SCO",
+    "USJA Carquefou",
+    "Amiens SC",
+    "Servette FC",
+    "BSC Young Boys"
+  ]
+}

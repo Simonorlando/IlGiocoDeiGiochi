@@ -1,0 +1,65 @@
+{
+  "player_id": 237268,
+  "full_name": "Filippo Rinaldi",
+  "nationality": "Italy",
+  "birth_date": "2002-12-04",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-10",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Feralpisalo"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Olbia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2023-08-23",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Olbia"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Piacenza",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2022-07-09",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Piacenza"
+    },
+    {
+      "date": "2021-08-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Montevarchi Calcio"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Feralpisalo",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Montevarchi",
+    "Piacenza",
+    "Olbia",
+    "Feralpisalò",
+    "Catania"
+  ]
+}

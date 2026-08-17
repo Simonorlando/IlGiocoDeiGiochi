@@ -1,0 +1,55 @@
+{
+  "player_id": 37009,
+  "full_name": "Andrija Balić",
+  "nationality": "Croatia",
+  "birth_date": "1997-08-11",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2020-08-01",
+      "type": "Free",
+      "team_out": "Udinese",
+      "team_in": "Dunajska Streda"
+    },
+    {
+      "date": "2020-02-14",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Dunajska Streda"
+    },
+    {
+      "date": "2020-02-13",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2019-09-03",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Fortuna Sittard",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2019-01-24",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Fortuna Sittard"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "Udinese Calcio"
+  ]
+}

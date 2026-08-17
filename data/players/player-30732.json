@@ -1,0 +1,21 @@
+{
+  "player_id": 30732,
+  "full_name": "Andrea Seculin",
+  "nationality": "Italy",
+  "birth_date": "1990-07-14",
+  "birth_place": "Gorizia",
+  "career_transfers": [
+    {
+      "date": "2011-07-20",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Juve Stabia"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "S.S. Juve Stabia",
+    "AC ChievoVerona",
+    "U.S. Avellino 1912"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 2376,
+  "full_name": "Yevhen Shakhov",
+  "nationality": "Ukraine",
+  "birth_date": "1990-11-30",
+  "birth_place": "Dnipro",
+  "career_transfers": [
+    {
+      "date": "2020-09-19",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "PAOK",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FC Dnipro",
+    "FC Arsenal Kyiv"
+  ]
+}

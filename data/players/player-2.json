@@ -1,0 +1,29 @@
+{
+  "player_id": 2,
+  "full_name": "Marwin Hitz",
+  "nationality": "Switzerland",
+  "birth_date": "1987-09-18",
+  "birth_place": "St. Gallen",
+  "career_transfers": [
+    {
+      "date": "2022-07-07",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "FC Augsburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "FC St. Gallen",
+    "Yverdon-Sport FC",
+    "FC Winterthur",
+    "VfL Wolfsburg",
+    "FC Augsburg",
+    "Borussia Dortmund"
+  ]
+}

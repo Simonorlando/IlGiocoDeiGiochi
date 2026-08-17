@@ -1,0 +1,21 @@
+{
+  "player_id": 261,
+  "full_name": "Jan Thilo Kehrer",
+  "nationality": "Germany",
+  "birth_date": "1996-09-21",
+  "birth_place": "Tübingen",
+  "career_transfers": [
+    {
+      "date": "2018-08-16",
+      "type": "€ 35M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Paris Saint-Germain FC",
+    "West Ham United F.C.",
+    "AS Monaco FC"
+  ]
+}

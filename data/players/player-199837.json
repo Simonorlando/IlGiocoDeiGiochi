@@ -1,0 +1,18 @@
+{
+  "player_id": 199837,
+  "full_name": "Kamaldeen Sulemana",
+  "nationality": "Ghana",
+  "birth_date": "2002-02-15",
+  "birth_place": "Techiman",
+  "career_transfers": [
+    {
+      "date": "2025-07-02",
+      "type": "Transfer",
+      "team_out": "Southampton",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland"
+  ]
+}

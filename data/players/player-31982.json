@@ -1,0 +1,25 @@
+{
+  "player_id": 31982,
+  "full_name": "Francesco Gelli",
+  "nationality": "Italy",
+  "birth_date": "1996-10-15",
+  "birth_place": "Livorno",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Cremonese",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "U.C. AlbinoLeffe",
+    "Frosinone Calcio"
+  ]
+}

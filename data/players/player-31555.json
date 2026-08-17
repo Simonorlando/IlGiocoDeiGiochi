@@ -1,0 +1,26 @@
+{
+  "player_id": 31555,
+  "full_name": "Nicolas Thibault Haas",
+  "nationality": "Switzerland",
+  "birth_date": "1996-01-23",
+  "birth_place": "Sursee",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FC Luzern",
+    "Atalanta BC",
+    "Palermo F.C."
+  ]
+}

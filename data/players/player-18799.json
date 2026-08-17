@@ -1,0 +1,34 @@
+{
+  "player_id": 18799,
+  "full_name": "Adam Masina",
+  "nationality": "Morocco",
+  "birth_date": "1994-01-02",
+  "birth_place": "Khouribga",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 1M",
+      "team_out": "Udinese",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Free agent",
+      "team_out": "Torino",
+      "team_in": "Masina Adam"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Giacomense",
+    "Bologna F.C. 1909",
+    "Italy under-21 Serie B representative team",
+    "Udinese Calcio",
+    "Watford F.C."
+  ]
+}

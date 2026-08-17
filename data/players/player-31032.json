@@ -1,0 +1,32 @@
+{
+  "player_id": 31032,
+  "full_name": "Gervais Lombe Yao Kouassi",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1987-05-27",
+  "birth_place": "Anyama",
+  "career_transfers": [
+    {
+      "date": "2021-06-17",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Trabzonspor"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Free",
+      "team_out": "Hebei Zhongji",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "K.S.K. Beveren",
+    "Le Mans F.C.",
+    "Lille OSC",
+    "Arsenal F.C.",
+    "AS Roma",
+    "Hebei F.C.",
+    "Parma Calcio 1913",
+    "Trabzonspor",
+    "Aris Thessaloniki F.C."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 31091,
+  "full_name": "Camillo Ciano",
+  "nationality": "Italy",
+  "birth_date": "1990-02-22",
+  "birth_place": "Marcianise",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Calcio Lecco 1912",
+    "Cavese 1919",
+    "F.C. Crotone",
+    "Calcio Padova",
+    "U.S. Avellino 1912",
+    "Parma Calcio 1913",
+    "F.C. Crotone",
+    "AC Cesena"
+  ]
+}

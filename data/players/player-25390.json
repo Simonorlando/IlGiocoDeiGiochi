@@ -1,0 +1,38 @@
+{
+  "player_id": 25390,
+  "full_name": "Jonathas Cristian de Jesus",
+  "nationality": "Brazil",
+  "birth_date": "1989-03-06",
+  "birth_place": "Betim",
+  "career_transfers": [
+    {
+      "date": "2016-08-01",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2015-07-27",
+      "type": "€ 7.2M",
+      "team_out": "Elche",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "Ipatinga Futebol Clube",
+    "Villa Nova Atlético Clube",
+    "Vila Nova Futebol Clube",
+    "AZ Alkmaar",
+    "Brescia Calcio",
+    "Delfino Pescara 1936",
+    "Torino FC",
+    "Latina Calcio 1932",
+    "Delfino Pescara 1936",
+    "Elche CF",
+    "Real Sociedad",
+    "Sevilla FC",
+    "Rubin Kazan",
+    "Hannover 96"
+  ]
+}

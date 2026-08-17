@@ -1,0 +1,36 @@
+{
+  "player_id": 25292,
+  "full_name": "Philipp Martin Max",
+  "nationality": "Germany",
+  "birth_date": "1993-09-30",
+  "birth_place": "Viersen",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 1.9M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2020-09-02",
+      "type": "€ 8M",
+      "team_out": "FC Augsburg",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Karlsruher SC",
+    "FC Augsburg",
+    "PSV Eindhoven",
+    "Eintracht Frankfurt",
+    "Panathinaikos F.C.",
+    "Gamba Osaka"
+  ]
+}

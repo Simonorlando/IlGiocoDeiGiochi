@@ -1,0 +1,30 @@
+{
+  "player_id": 31668,
+  "full_name": "Alessandro Bernardini",
+  "nationality": "Italy",
+  "birth_date": "1987-01-21",
+  "birth_place": "Domodossola",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D.C. Verbania",
+    "Parma Calcio 1913",
+    "A.S.D.C. Borgomanero",
+    "Varese Calcio",
+    "US Livorno 1915",
+    "AC ChievoVerona",
+    "U.S. Salernitana 1919"
+  ]
+}

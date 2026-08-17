@@ -1,0 +1,31 @@
+{
+  "player_id": 50054,
+  "full_name": "Simone Scuffet",
+  "nationality": "Italy",
+  "birth_date": "1996-05-31",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2015-08-06",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Como 1907",
+    "Kasımpaşa S.K.",
+    "Spezia Calcio",
+    "APOEL Nicosia",
+    "CFR Cluj",
+    "Cagliari Calcio",
+    "SSC Napoli"
+  ]
+}

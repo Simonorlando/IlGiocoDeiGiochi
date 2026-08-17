@@ -1,0 +1,29 @@
+{
+  "player_id": 399,
+  "full_name": "Alexander Nübel",
+  "nationality": "Germany",
+  "birth_date": "1996-09-30",
+  "birth_place": "Paderborn",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2015-08-27",
+      "type": "N/A",
+      "team_out": "SC Paderborn 07",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "SC Paderborn 07",
+    "Schalke 04",
+    "FC Bayern Munich",
+    "AS Monaco FC",
+    "VfB Stuttgart",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "player_id": 386,
+  "full_name": "Vincent Aboubakar",
+  "nationality": "Cameroon",
+  "birth_date": "1992-01-22",
+  "birth_place": "Garoua",
+  "career_transfers": [
+    {
+      "date": "2023-01-21",
+      "type": "Free",
+      "team_out": "Al-Nassr",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2020-09-25",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2016-08-29",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2024-09-09",
+      "type": "Free",
+      "team_out": "Beşiktaş",
+      "team_in": "Hatayspor"
+    }
+  ],
+  "career_clubs": [
+    "Coton Sport FC de Garoua",
+    "AC Monza",
+    "F.C. Lorient",
+    "FC Porto",
+    "Beşiktaş J.K. (Football)",
+    "Al-Nassr"
+  ]
+}

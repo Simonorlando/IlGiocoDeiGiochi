@@ -1,0 +1,33 @@
+{
+  "player_id": 115367,
+  "full_name": "Edward Ofere",
+  "nationality": "Nigeria",
+  "birth_date": "1986-03-28",
+  "birth_place": "Enugu",
+  "career_transfers": [
+    {
+      "date": "2013-07-23",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "trelleborgs FF"
+    },
+    {
+      "date": "2010-08-31",
+      "type": "N/A",
+      "team_out": "Malmo FF",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Enugu Rangers",
+    "Malmö FF",
+    "US Lecce",
+    "Trelleborgs FF",
+    "FC Vestsjælland",
+    "Sogndal Fotball",
+    "Inverness Caledonian Thistle F.C.",
+    "Boluspor",
+    "Dundee United F.C.",
+    "FC Rosengård 1917"
+  ]
+}

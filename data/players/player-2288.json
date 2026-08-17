@@ -1,0 +1,35 @@
+{
+  "player_id": 2288,
+  "full_name": "Daniel Noel Drinkwater",
+  "nationality": "England",
+  "birth_date": "1990-03-05",
+  "birth_place": "Manchester",
+  "career_transfers": [
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Aston Villa",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2020-01-07",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Huddersfield Town A.F.C.",
+    "Cardiff City F.C.",
+    "Watford F.C.",
+    "Barnsley F.C.",
+    "Leicester City F.C.",
+    "Chelsea F.C.",
+    "Blackburn Rovers F.C.",
+    "Burnley F.C.",
+    "Aston Villa F.C.",
+    "Kasımpaşa S.K.",
+    "Reading F.C."
+  ]
+}

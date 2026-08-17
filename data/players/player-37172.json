@@ -1,0 +1,40 @@
+{
+  "player_id": 37172,
+  "full_name": "Timo Letschert",
+  "nationality": "Netherlands",
+  "birth_date": "1993-05-25",
+  "birth_place": "Purmerend",
+  "career_transfers": [
+    {
+      "date": "2019-07-24",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Hamburger SV"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Utrecht",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Utrecht"
+    },
+    {
+      "date": "2016-08-03",
+      "type": "€ 3.5M",
+      "team_out": "Utrecht",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "FC Groningen",
+    "Roda JC Kerkrade",
+    "FC Utrecht",
+    "Roda JC Kerkrade",
+    "FC Utrecht"
+  ]
+}

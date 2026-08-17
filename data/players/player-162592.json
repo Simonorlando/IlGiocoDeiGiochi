@@ -1,0 +1,27 @@
+{
+  "player_id": 162592,
+  "full_name": "Daan Dierckx",
+  "nationality": "Belgium",
+  "birth_date": "2003-02-24",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2023-09-03",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Standard Liège II"
+    },
+    {
+      "date": "2022-08-12",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "KRC Genk II"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Jong Genk",
+    "SL16 FC",
+    "Standard Liège"
+  ]
+}

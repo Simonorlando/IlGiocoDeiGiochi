@@ -1,0 +1,29 @@
+{
+  "player_id": 935,
+  "full_name": "Rodrigo Moreno Machado",
+  "nationality": "Spain",
+  "birth_date": "1991-03-06",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2010-07-31",
+      "type": "€ 6M",
+      "team_out": "Real Madrid",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "Bolton Wanderers F.C.",
+    "S.L. Benfica",
+    "Valencia CF",
+    "Leeds United F.C.",
+    "Al-Rayyan",
+    "Al-Gharafa SC",
+    "Lusail Sports Club",
+    "RC Celta de Vigo",
+    "Real Madrid Club de Fútbol",
+    "Clube de Regatas do Flamengo"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 31679,
+  "full_name": "Davide Di Gennaro",
+  "nationality": "Italy",
+  "birth_date": "1988-06-16",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2014-09-08",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Bologna F.C. 1909",
+    "AS Reggina 1914",
+    "Genoa CFC",
+    "Calcio Padova",
+    "US Livorno 1915",
+    "Modena F.C.",
+    "Spezia Calcio",
+    "Palermo F.C.",
+    "Vicenza Calcio",
+    "Cagliari Calcio",
+    "SS Lazio",
+    "S.S. Juve Stabia"
+  ]
+}

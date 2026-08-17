@@ -1,0 +1,22 @@
+{
+  "player_id": 91404,
+  "full_name": "Boukary Dramé",
+  "nationality": "Senegal",
+  "birth_date": "1985-07-22",
+  "birth_place": "Villepinte",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "Loan",
+      "team_out": "Sochaux",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "FC Sochaux-Montbéliard",
+    "Real Sociedad",
+    "AC ChievoVerona",
+    "Atalanta BC"
+  ]
+}

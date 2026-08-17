@@ -1,0 +1,27 @@
+{
+  "player_id": 56266,
+  "full_name": "Franco Israel Wibmer",
+  "nationality": "Uruguay",
+  "birth_date": "2000-04-22",
+  "birth_place": "Nueva Helvecia",
+  "career_transfers": [
+    {
+      "date": "2025-07-27",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-07-25",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen",
+    "Juventus FC",
+    "Sporting CP",
+    "Torino FC"
+  ]
+}

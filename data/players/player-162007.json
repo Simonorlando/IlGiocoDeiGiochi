@@ -1,0 +1,39 @@
+{
+  "player_id": 162007,
+  "full_name": "Maxim De Cuyper",
+  "nationality": "Belgium",
+  "birth_date": "2000-12-22",
+  "birth_place": "Knokke-Heist",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "KVC Westerlo",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2021-08-02",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "KVC Westerlo"
+    },
+    {
+      "date": "2025-07-05",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V.",
+    "Club NXT",
+    "K.V.C. Westerlo",
+    "Brighton & Hove Albion F.C."
+  ]
+}

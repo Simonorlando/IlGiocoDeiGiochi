@@ -1,0 +1,35 @@
+{
+  "player_id": 80388,
+  "full_name": "Leandro Salino do Carmo",
+  "nationality": "Brazil",
+  "birth_date": "1985-04-22",
+  "birth_place": "Juiz de Fora",
+  "career_transfers": [
+    {
+      "date": "2017-01-24",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Vitoria"
+    },
+    {
+      "date": "2013-07-06",
+      "type": "Free",
+      "team_out": "SC Braga",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "América Futebol Clube",
+    "Ipatinga Futebol Clube",
+    "C.D. Nacional",
+    "A.D. Camacha",
+    "Ipatinga Futebol Clube",
+    "Clube de Regatas do Flamengo",
+    "Ipatinga Futebol Clube",
+    "C.D. Nacional",
+    "S.C. Braga",
+    "Olympiacos F.C.",
+    "P.A.O.K.",
+    "Cruzeiro E.C."
+  ]
+}

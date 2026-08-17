@@ -1,0 +1,28 @@
+{
+  "player_id": 30540,
+  "full_name": "Khouma El Hadji Babacar",
+  "nationality": "Senegal",
+  "birth_date": "1993-03-17",
+  "birth_place": "Thiès",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Racing de Santander",
+    "Calcio Padova",
+    "Modena F.C.",
+    "F.C. Copenhagen"
+  ]
+}

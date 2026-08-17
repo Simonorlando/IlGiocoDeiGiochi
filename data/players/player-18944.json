@@ -1,0 +1,35 @@
+{
+  "player_id": 18944,
+  "full_name": "Maya Yoshida",
+  "nationality": "Japan",
+  "birth_date": "1988-08-24",
+  "birth_place": "Nagasaki",
+  "career_transfers": [
+    {
+      "date": "2022-07-05",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Free",
+      "team_out": "Southampton",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Southampton",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Nagoya Grampus",
+    "VVV-Venlo",
+    "Southampton F.C.",
+    "U.C. Sampdoria",
+    "Schalke 04",
+    "LA Galaxy"
+  ]
+}

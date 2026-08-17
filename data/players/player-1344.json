@@ -1,0 +1,57 @@
+{
+  "player_id": 1344,
+  "full_name": "Mauricio Aníbal Isla Isla",
+  "nationality": "Chile",
+  "birth_date": "1988-06-12",
+  "birth_place": "Buin",
+  "career_transfers": [
+    {
+      "date": "2016-08-10",
+      "type": "€ 4.5M",
+      "team_out": "Juventus",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Marseille",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "QPR",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2014-08-06",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 9.4M",
+      "team_out": "Udinese",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Juventus FC",
+    "Queens Park Rangers F.C.",
+    "Olympique de Marseille",
+    "Cagliari Calcio",
+    "Fenerbahçe Istanbul",
+    "Clube de Regatas do Flamengo",
+    "Club Deportivo Universidad Católica",
+    "Club Atlético Independiente",
+    "Club Social y Deportivo Colo Colo"
+  ]
+}

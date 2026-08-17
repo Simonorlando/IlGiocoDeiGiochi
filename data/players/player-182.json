@@ -1,0 +1,21 @@
+{
+  "player_id": 182,
+  "full_name": "Harry Billy Winks",
+  "nationality": "England",
+  "birth_date": "1996-02-02",
+  "birth_place": "Hemel Hempstead",
+  "career_transfers": [
+    {
+      "date": "2022-08-30",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "U.C. Sampdoria",
+    "Leicester City F.C.",
+    "Cagliari Calcio"
+  ]
+}

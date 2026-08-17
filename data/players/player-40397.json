@@ -1,0 +1,31 @@
+{
+  "player_id": 40397,
+  "full_name": "Cristian Pasquato",
+  "nationality": "Italy",
+  "birth_date": "1989-07-20",
+  "birth_place": "Padova",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Empoli FC",
+    "US Triestina Calcio 1918",
+    "Modena F.C.",
+    "Juventus FC",
+    "US Lecce",
+    "Torino FC",
+    "Bologna F.C. 1909",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "US Livorno 1915",
+    "Delfino Pescara 1936",
+    "Legia Warsaw",
+    "Udinese Calcio"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 115147,
+  "full_name": "Igor Bubnjić",
+  "nationality": "Croatia",
+  "birth_date": "1992-07-17",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2015-07-23",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "NK Slaven Belupo",
+    "NK Koprivnica",
+    "Udinese Calcio",
+    "A.C. Carpi",
+    "Brescia Calcio"
+  ]
+}

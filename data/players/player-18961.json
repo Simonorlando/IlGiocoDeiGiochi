@@ -1,0 +1,24 @@
+{
+  "player_id": 18961,
+  "full_name": "Daniel Johnson Burn",
+  "nationality": "England",
+  "birth_date": "1992-05-09",
+  "birth_place": "Blyth",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "€ 15M",
+      "team_out": "Brighton",
+      "team_in": "Newcastle"
+    }
+  ],
+  "career_clubs": [
+    "Darlington F.C.",
+    "Fulham F.C.",
+    "Yeovil Town F.C.",
+    "Birmingham City F.C.",
+    "Wigan Athletic F.C.",
+    "Brighton & Hove Albion F.C.",
+    "Newcastle United F.C."
+  ]
+}

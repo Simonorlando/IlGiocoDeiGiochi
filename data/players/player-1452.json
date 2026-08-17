@@ -1,0 +1,33 @@
+{
+  "player_id": 1452,
+  "full_name": "Mohamed Naser Elsayed Elneny",
+  "nationality": "Egypt",
+  "birth_date": "1992-07-11",
+  "birth_place": "El-Mahalla El-Kubra",
+  "career_transfers": [
+    {
+      "date": "2016-01-14",
+      "type": "€ 6.6M",
+      "team_out": "FC Basel 1893",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 640K",
+      "team_out": "El Mokawloon",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2013-01-30",
+      "type": "Loan",
+      "team_out": "El Mokawloon",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "Al Mokawloon Al Arab SC",
+    "FC Basel",
+    "Arsenal F.C.",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

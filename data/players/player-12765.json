@@ -1,0 +1,28 @@
+{
+  "player_id": 12765,
+  "full_name": "Graziano Pellè",
+  "nationality": "Italy",
+  "birth_date": "1985-07-15",
+  "birth_place": "San Cesario di Lecce",
+  "career_transfers": [
+    {
+      "date": "2007-07-02",
+      "type": "€ 6M",
+      "team_out": "Lecce",
+      "team_in": "AZ Alkmaar"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "Catania FC",
+    "F.C. Crotone",
+    "AC Cesena",
+    "AZ Alkmaar",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "Feyenoord Rotterdam",
+    "Southampton F.C.",
+    "Shandong Taishan F.C.",
+    "Parma Calcio 1913"
+  ]
+}

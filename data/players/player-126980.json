@@ -1,0 +1,24 @@
+{
+  "player_id": 126980,
+  "full_name": "Tommaso Barbieri",
+  "nationality": "Italy",
+  "birth_date": "2002-08-26",
+  "birth_place": "Magenta",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2023-07-20",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio"
+  ]
+}

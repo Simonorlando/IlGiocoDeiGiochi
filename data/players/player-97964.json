@@ -1,0 +1,29 @@
+{
+  "player_id": 97964,
+  "full_name": "Massimo Donati",
+  "nationality": "Italy",
+  "birth_date": "1981-03-26",
+  "birth_place": "San Vito al Tagliamento",
+  "career_transfers": [
+    {
+      "date": "2002-08-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "AC Milan",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "Torino FC",
+    "A.C.R. Messina",
+    "Atalanta BC",
+    "Celtic F.C.",
+    "SSC Bari",
+    "Palermo F.C.",
+    "Hellas Verona FC",
+    "SSC Bari"
+  ]
+}

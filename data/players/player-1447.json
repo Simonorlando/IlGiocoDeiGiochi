@@ -1,0 +1,22 @@
+{
+  "player_id": 1447,
+  "full_name": "Ignacio Monreal Eraso",
+  "nationality": "Spain",
+  "birth_date": "1986-02-26",
+  "birth_place": "Pamplona",
+  "career_transfers": [
+    {
+      "date": "2019-08-31",
+      "type": "€ 250K",
+      "team_out": "Arsenal",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Osasuna B",
+    "Club Atlético Osasuna",
+    "Málaga CF",
+    "Arsenal F.C.",
+    "Real Sociedad"
+  ]
+}

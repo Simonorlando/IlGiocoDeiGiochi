@@ -1,0 +1,31 @@
+{
+  "player_id": 19420,
+  "full_name": "Evandro Goebel",
+  "nationality": "Brazil",
+  "birth_date": "1986-08-23",
+  "birth_place": "Blumenau",
+  "career_transfers": [
+    {
+      "date": "2017-01-13",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Hull City"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ N/A",
+      "team_out": "Estoril",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "Sociedade Esportiva Palmeiras",
+    "Goiás Esporte Clube",
+    "Clube Atlético Mineiro",
+    "E.C. Vitória",
+    "FK Crvena zvezda",
+    "G.D. Estoril Praia",
+    "FC Porto"
+  ]
+}

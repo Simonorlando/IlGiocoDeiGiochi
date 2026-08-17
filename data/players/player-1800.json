@@ -1,0 +1,52 @@
+{
+  "player_id": 1800,
+  "full_name": "Kevin Christian Trapp",
+  "nationality": "Germany",
+  "birth_date": "1990-07-08",
+  "birth_place": "Merzig",
+  "career_transfers": [
+    {
+      "date": "2019-08-07",
+      "type": "&pound; 7M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2018-08-31",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2015-07-08",
+      "type": "€ 9.5M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 1.5M",
+      "team_out": "1. FC Kaiserslautern",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Transfer",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Paris FC"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Kaiserslautern",
+    "Eintracht Frankfurt",
+    "Paris Saint-Germain FC",
+    "Eintracht Frankfurt",
+    "Paris FC"
+  ]
+}

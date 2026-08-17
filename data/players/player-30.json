@@ -1,0 +1,58 @@
+{
+  "player_id": 30,
+  "full_name": "Santiago Arias Naranjo",
+  "nationality": "Colombia",
+  "birth_date": "1992-01-13",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2023-02-09",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "FC Cincinnati"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2018-07-31",
+      "type": "€ 11M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "La Equidad",
+    "Sporting CP",
+    "Sporting CP B",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "Atlético Madrid",
+    "Bayer 04 Leverkusen",
+    "Granada CF",
+    "FC Cincinnati",
+    "Esporte Clube Bahia",
+    "Club Atlético Independiente"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 70100,
+  "full_name": "Joshua Orobosa Zirkzee",
+  "nationality": "Netherlands",
+  "birth_date": "2001-05-22",
+  "birth_place": "Schiedam",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Parma Calcio 1913",
+    "R.S.C. Anderlecht",
+    "Bologna F.C. 1909",
+    "Manchester United F.C."
+  ]
+}

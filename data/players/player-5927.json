@@ -1,0 +1,29 @@
+{
+  "player_id": 5927,
+  "full_name": "Lisandro López",
+  "nationality": "Argentina",
+  "birth_date": "1983-03-02",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2009-08-03",
+      "type": "€ 24M",
+      "team_out": "FC Porto",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "€ 6.8M",
+      "team_out": "Racing Club",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "FC Porto",
+    "Olympique Lyonnais",
+    "Al-Gharafa SC",
+    "S.C. Internacional",
+    "Racing Club"
+  ]
+}

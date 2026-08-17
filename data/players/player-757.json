@@ -1,0 +1,47 @@
+{
+  "player_id": 757,
+  "full_name": "Lucas Vázquez Iglesias",
+  "nationality": "Spain",
+  "birth_date": "1991-07-01",
+  "birth_place": "Curtis",
+  "career_transfers": [
+    {
+      "date": "2015-07-02",
+      "type": "€ 1M",
+      "team_out": "Espanyol",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 2M",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2014-08-20",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2025-07-12",
+      "type": "Free agent",
+      "team_out": "Real Madrid",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Free Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol",
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "RCD Espanyol de Barcelona",
+    "Real Madrid Club de Fútbol",
+    "Bayer 04 Leverkusen"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 30524,
+  "full_name": "Paolo Mauricio Lemos Merladett",
+  "nationality": "Uruguay",
+  "birth_date": "1995-12-28",
+  "birth_place": "Rivera",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Las Palmas"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Loan",
+      "team_out": "Las Palmas",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2018-01-23",
+      "type": "Loan",
+      "team_out": "Las Palmas",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "Rubin Kazan",
+    "UD Las Palmas"
+  ]
+}

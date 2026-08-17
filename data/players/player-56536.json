@@ -1,0 +1,40 @@
+{
+  "player_id": 56536,
+  "full_name": "Pablo Mariano Granoche Louro",
+  "nationality": "Uruguay",
+  "birth_date": "1983-09-05",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2018-08-31",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "Modena",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Tacuarembó F.C.",
+    "Club Atlético River Plate",
+    "Tacuarembó F.C.",
+    "Miramar Misiones",
+    "Toluca FC",
+    "Tiburones Rojos de Veracruz",
+    "Tiburones Rojos de Veracruz Premier",
+    "US Triestina Calcio 1918",
+    "AC ChievoVerona",
+    "Novara Calcio",
+    "Varese Calcio",
+    "Novara Calcio",
+    "Calcio Padova",
+    "Varese Calcio",
+    "AC Cesena",
+    "Modena F.C.",
+    "Spezia Calcio"
+  ]
+}

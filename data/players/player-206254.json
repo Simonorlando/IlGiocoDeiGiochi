@@ -1,0 +1,22 @@
+{
+  "player_id": 206254,
+  "full_name": "Miloš Kerkez",
+  "nationality": "Hungary",
+  "birth_date": "2003-11-07",
+  "birth_place": "Vrbas",
+  "career_transfers": [
+    {
+      "date": "2021-07-16",
+      "type": "N/A",
+      "team_out": "Gyori ETO FC",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Győri ETO FC",
+    "AC Milan",
+    "AZ Alkmaar",
+    "AFC Bournemouth",
+    "Liverpool F.C."
+  ]
+}

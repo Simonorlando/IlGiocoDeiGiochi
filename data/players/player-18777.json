@@ -1,0 +1,33 @@
+{
+  "player_id": 18777,
+  "full_name": "Marc Kevin Albrighton",
+  "nationality": "England",
+  "birth_date": "1989-11-18",
+  "birth_place": "Tamworth",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Aston Villa",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2013-11-27",
+      "type": "N/A",
+      "team_out": "Wigan",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2013-10-30",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Wigan"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Wigan Athletic F.C.",
+    "Leicester City F.C.",
+    "West Bromwich Albion F.C."
+  ]
+}

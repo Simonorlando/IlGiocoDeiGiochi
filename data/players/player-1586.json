@@ -1,0 +1,53 @@
+{
+  "player_id": 1586,
+  "full_name": "Cristian Tello Herrera",
+  "nationality": "Spain",
+  "birth_date": "1991-08-11",
+  "birth_place": "Sabadell",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 4M",
+      "team_out": "Barcelona",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2017-06-30",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2016-08-16",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2016-01-22",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2014-07-16",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "FC Porto",
+    "ACF Fiorentina",
+    "Real Betis Balompié",
+    "RCD Espanyol de Barcelona"
+  ]
+}

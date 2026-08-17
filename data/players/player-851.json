@@ -1,0 +1,22 @@
+{
+  "player_id": 851,
+  "full_name": "Wojciech Tomasz Szczęsny",
+  "nationality": "Poland",
+  "birth_date": "1990-04-18",
+  "birth_place": "Warszawa",
+  "career_transfers": [
+    {
+      "date": "2015-07-29",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Brentford F.C.",
+    "AS Roma",
+    "Juventus FC",
+    "FC Barcelona"
+  ]
+}

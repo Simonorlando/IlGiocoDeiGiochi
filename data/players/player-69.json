@@ -1,0 +1,24 @@
+{
+  "player_id": 69,
+  "full_name": "Brandon Mechele",
+  "nationality": "Belgium",
+  "birth_date": "1993-01-28",
+  "birth_place": "Bredene",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "St. Truiden",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2017-01-05",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "St. Truiden"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V."
+  ]
+}

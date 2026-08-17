@@ -1,0 +1,42 @@
+{
+  "player_id": 11444,
+  "full_name": "Carlos Javier Matheu",
+  "nationality": "Argentina",
+  "birth_date": "1985-05-13",
+  "birth_place": "Bernal",
+  "career_transfers": [
+    {
+      "date": "2014-08-15",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Defensa Y Justicia"
+    },
+    {
+      "date": "2013-08-21",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Robur Siena"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Independiente",
+    "Cagliari Calcio",
+    "Club Atlético Independiente",
+    "Atalanta BC",
+    "Siena FC",
+    "Defensa y Justicia",
+    "Club Atlético Banfield"
+  ]
+}

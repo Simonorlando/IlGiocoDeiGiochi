@@ -1,0 +1,39 @@
+{
+  "player_id": 91608,
+  "full_name": "Marco Marchionni",
+  "nationality": "Italy",
+  "birth_date": "1980-07-22",
+  "birth_place": "Monterodondo",
+  "career_transfers": [
+    {
+      "date": "2014-08-27",
+      "type": "Swap",
+      "team_out": "Parma",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2012-09-17",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Pol. Monterotondo Lupa",
+    "Empoli FC",
+    "Parma Calcio 1913",
+    "Piacenza Calcio",
+    "Juventus FC",
+    "ACF Fiorentina",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "Latina Calcio 1932",
+    "Carrarese Calcio"
+  ]
+}

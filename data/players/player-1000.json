@@ -1,0 +1,29 @@
+{
+  "player_id": 1000,
+  "full_name": "Joel Untersee",
+  "nationality": "Switzerland",
+  "birth_date": "1994-02-11",
+  "birth_place": "Johannesburg",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "FC Vaduz",
+    "Juventus FC",
+    "FC Vaduz",
+    "Brescia Calcio",
+    "Empoli FC"
+  ]
+}

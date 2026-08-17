@@ -1,0 +1,29 @@
+{
+  "player_id": 18792,
+  "full_name": "Miguel Ángel Britos Cabrera",
+  "nationality": "Uruguay",
+  "birth_date": "1985-07-17",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2011-07-12",
+      "type": "€ 9M",
+      "team_out": "Bologna",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 4M",
+      "team_out": "Wanderers",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Centro Atlético Fénix",
+    "Juventud de Las Piedras",
+    "Montevideo Wanderers Fútbol Club",
+    "Bologna F.C. 1909",
+    "SSC Napoli",
+    "Watford F.C."
+  ]
+}

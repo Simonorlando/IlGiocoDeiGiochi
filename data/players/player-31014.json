@@ -1,0 +1,30 @@
+{
+  "player_id": 31014,
+  "full_name": "Simone Iacoponi",
+  "nationality": "Italy",
+  "birth_date": "1987-04-30",
+  "birth_place": "Pontedera",
+  "career_transfers": [
+    {
+      "date": "2022-02-11",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Teramo"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "AC Monza",
+    "Cuoiovaldarno R.F.C.",
+    "Foligno Calcio",
+    "F.C. Südtirol",
+    "Virtus Entella",
+    "Parma Calcio 1913"
+  ]
+}

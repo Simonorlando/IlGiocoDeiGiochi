@@ -1,0 +1,32 @@
+{
+  "player_id": 2097,
+  "full_name": "Jean-François Gillet",
+  "nationality": "Belgium",
+  "birth_date": "1979-05-31",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2015-07-13",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "KV Mechelen"
+    },
+    {
+      "date": "2015-01-30",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "AC Monza",
+    "SSC Bari",
+    "Treviso F.B.C. 1993",
+    "Bologna F.C. 1909",
+    "Torino FC",
+    "Catania FC",
+    "KV Mechelen",
+    "Standard Liège"
+  ]
+}

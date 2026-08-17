@@ -1,0 +1,24 @@
+{
+  "player_id": 15905,
+  "full_name": "Magnus Kofod Andersen",
+  "nationality": "Denmark",
+  "birth_date": "1999-05-10",
+  "birth_place": "Hundested",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-01-26",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Sparta Praha"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland"
+  ]
+}

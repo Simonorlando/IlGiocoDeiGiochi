@@ -1,0 +1,30 @@
+{
+  "player_id": 2279,
+  "full_name": "Ethan Kwame Colm Raymond Ampadu",
+  "nationality": "Wales",
+  "birth_date": "2000-09-14",
+  "birth_place": "Exeter",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Exeter City F.C.",
+    "Chelsea F.C.",
+    "RB Leipzig",
+    "Sheffield United F.C.",
+    "Venezia F.C.",
+    "Spezia Calcio",
+    "Leeds United F.C."
+  ]
+}

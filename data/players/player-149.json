@@ -1,0 +1,42 @@
+{
+  "player_id": 149,
+  "full_name": "Ivan Rakitić",
+  "nationality": "Croatia",
+  "birth_date": "1988-03-10",
+  "birth_place": "Rheinfelden",
+  "career_transfers": [
+    {
+      "date": "2024-01-30",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Al Shabab"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 1.5M",
+      "team_out": "Barcelona",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 18M",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2011-01-28",
+      "type": "€ 2.5M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Schalke 04",
+    "Sevilla FC",
+    "FC Barcelona",
+    "Sevilla FC",
+    "Al-Shabab Football Club",
+    "HNK Hajduk Split"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 312985,
+  "full_name": "Samuele Vignato",
+  "nationality": "Italy",
+  "birth_date": "2004-02-24",
+  "birth_place": "Fumane",
+  "career_transfers": [
+    {
+      "date": "2021-08-11",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "HNK Rijeka"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "HNK Rijeka"
+    }
+  ],
+  "career_clubs": [
+    "ChievoVerona",
+    "Monza",
+    "Rijeka"
+  ]
+}

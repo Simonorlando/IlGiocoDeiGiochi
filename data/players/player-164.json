@@ -1,0 +1,19 @@
+{
+  "player_id": 164,
+  "full_name": "Benjamin Thomas Davies",
+  "nationality": "Wales",
+  "birth_date": "1993-04-24",
+  "birth_place": "Neath",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "N/A",
+      "team_out": "Swansea",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Swansea City A.F.C.",
+    "Tottenham Hotspur F.C."
+  ]
+}

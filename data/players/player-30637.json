@@ -1,0 +1,24 @@
+{
+  "player_id": 30637,
+  "full_name": "Roberto Insigne",
+  "nationality": "Italy",
+  "birth_date": "1994-05-11",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2017-07-24",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "A.C. Perugia Calcio",
+    "AS Reggina 1914",
+    "U.S. Avellino 1912",
+    "Benevento Calcio",
+    "Frosinone Calcio",
+    "Parma Calcio 1913"
+  ]
+}

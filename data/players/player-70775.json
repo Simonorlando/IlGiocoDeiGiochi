@@ -1,0 +1,53 @@
+{
+  "player_id": 70775,
+  "full_name": "Roque Luis Santa Cruz Cantero",
+  "nationality": "Paraguay",
+  "birth_date": "1981-08-16",
+  "birth_place": "Asunción",
+  "career_transfers": [
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "Cruz Azul"
+    },
+    {
+      "date": "2015-08-26",
+      "type": "Loan",
+      "team_out": "Cruz Azul",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2015-01-02",
+      "type": "€ 2M",
+      "team_out": "Malaga",
+      "team_in": "Cruz Azul"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Club Olimpia",
+    "FC Bayern Munich",
+    "Blackburn Rovers F.C.",
+    "Manchester City F.C.",
+    "Blackburn Rovers F.C.",
+    "Real Betis Balompié",
+    "Málaga CF",
+    "Cruz Azul",
+    "Málaga CF",
+    "Club Olimpia",
+    "Club Libertad",
+    "Club Nacional"
+  ]
+}

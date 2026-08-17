@@ -1,0 +1,21 @@
+{
+  "player_id": 330437,
+  "full_name": "Alejandro Jiménez Sánchez",
+  "nationality": "Spain",
+  "birth_date": "2005-05-08",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2026-07-12",
+      "type": "Loan",
+      "team_out": "Bournemouth",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "AC Milan",
+    "Bournemouth",
+    "Fiorentina"
+  ]
+}

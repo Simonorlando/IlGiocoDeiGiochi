@@ -1,0 +1,36 @@
+{
+  "player_id": 40405,
+  "full_name": "Sandro Kulenović",
+  "nationality": "Croatia",
+  "birth_date": "1999-12-04",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2026-01-30",
+      "type": "Loan",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Torino",
+      "team_in": "Dinamo Zagreb"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Legia Warsaw"
+  ]
+}

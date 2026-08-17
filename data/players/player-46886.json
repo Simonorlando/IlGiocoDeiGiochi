@@ -1,0 +1,28 @@
+{
+  "player_id": 46886,
+  "full_name": "Isaac Cofie",
+  "nationality": "Ghana",
+  "birth_date": "1991-09-20",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2010-08-21",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Torino FC",
+    "Piacenza Calcio",
+    "US Sassuolo Calcio",
+    "AC ChievoVerona",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "A.C. Carpi",
+    "Genoa CFC",
+    "Sporting de Gijón",
+    "Sivasspor"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 336573,
+  "full_name": "Emirhan İlkhan",
+  "nationality": "Türkiye",
+  "birth_date": "2004-06-01",
+  "birth_place": "İstanbul",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-08-30",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2022-08-10",
+      "type": "€ 4.5M",
+      "team_out": "Besiktas",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Beşiktaş J.K. (Football)",
+    "Torino FC",
+    "U.C. Sampdoria",
+    "İstanbul Başakşehir F.K."
+  ]
+}

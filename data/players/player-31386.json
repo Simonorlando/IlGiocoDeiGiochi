@@ -1,0 +1,56 @@
+{
+  "player_id": 31386,
+  "full_name": "Jawad El Yamiq",
+  "nationality": "Morocco",
+  "birth_date": "1992-02-29",
+  "birth_place": "Khouribga",
+  "career_transfers": [
+    {
+      "date": "2020-09-24",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Zaragoza",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-01-29",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "N/A",
+      "team_out": "Raja Casablanca",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "OC Khouribga",
+    "Raja Club Athletic",
+    "Genoa CFC",
+    "A.C. Perugia Calcio",
+    "Real Zaragoza",
+    "Real Valladolid",
+    "Al Wehda FC",
+    "Al-Najma",
+    "Real Zaragoza"
+  ]
+}

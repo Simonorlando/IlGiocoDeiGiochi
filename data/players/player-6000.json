@@ -1,0 +1,25 @@
+{
+  "player_id": 6000,
+  "full_name": "Lucas Martínez Quarta",
+  "nationality": "Argentina",
+  "birth_date": "1996-05-10",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "€ 6M",
+      "team_out": "River Plate",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-01-15",
+      "type": "Transfer",
+      "team_out": "Fiorentina",
+      "team_in": "River Plate"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "ACF Fiorentina"
+  ]
+}

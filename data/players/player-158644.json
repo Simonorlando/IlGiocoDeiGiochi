@@ -1,0 +1,20 @@
+{
+  "player_id": 158644,
+  "full_name": "Maximilian Beier",
+  "nationality": "Germany",
+  "birth_date": "2002-10-17",
+  "birth_place": "Brandenburg an der Havel",
+  "career_transfers": [
+    {
+      "date": "2024-08-12",
+      "type": "€ 29.5M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim",
+    "Hannover 96",
+    "Borussia Dortmund"
+  ]
+}

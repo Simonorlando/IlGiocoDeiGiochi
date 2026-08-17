@@ -1,0 +1,26 @@
+{
+  "player_id": 1845,
+  "full_name": "Bartolomeu Jacinto Quissanga",
+  "nationality": "Angola",
+  "birth_date": "1991-03-27",
+  "birth_place": "Luanda",
+  "career_transfers": [
+    {
+      "date": "2020-10-22",
+      "type": "€ 500K",
+      "team_out": "Lazio",
+      "team_in": "Al-Ain"
+    },
+    {
+      "date": "2016-08-17",
+      "type": "€ 5M",
+      "team_out": "FC Rostov",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Petróleos Luanda",
+    "FC Rostov",
+    "SS Lazio"
+  ]
+}

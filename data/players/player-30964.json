@@ -1,0 +1,27 @@
+{
+  "player_id": 30964,
+  "full_name": "Aniello Salzano",
+  "nationality": "Italy",
+  "birth_date": "1991-07-20",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2017-01-23",
+      "type": "Free",
+      "team_out": "Crotone",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Tuttocuoio",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C.",
+    "Calcio Portogruaro Summaga",
+    "AC Tuttocuoio 1957 San Miniato SSD",
+    "F.C. Crotone"
+  ]
+}

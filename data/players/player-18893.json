@@ -1,0 +1,39 @@
+{
+  "player_id": 18893,
+  "full_name": "Federico Fernández",
+  "nationality": "Argentina",
+  "birth_date": "1989-02-21",
+  "birth_place": "Tres Algarrobos",
+  "career_transfers": [
+    {
+      "date": "2014-08-20",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-02-01",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 3.3M",
+      "team_out": "Estudiantes L.P.",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "SSC Napoli",
+    "Getafe CF",
+    "Swansea City A.F.C."
+  ]
+}

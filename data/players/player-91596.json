@@ -1,0 +1,39 @@
+{
+  "player_id": 91596,
+  "full_name": "Armin Bačinović",
+  "nationality": "Slovenia",
+  "birth_date": "1989-10-24",
+  "birth_place": "Maribor",
+  "career_transfers": [
+    {
+      "date": "2014-08-21",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": null
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2012-07-10",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2010-09-01",
+      "type": "1.2M €",
+      "team_out": "Maribor",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "NK Maribor",
+    "Palermo F.C.",
+    "Hellas Verona FC",
+    "Lanciano Calcio 1920"
+  ]
+}

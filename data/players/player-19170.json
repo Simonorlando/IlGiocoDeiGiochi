@@ -1,0 +1,37 @@
+{
+  "player_id": 19170,
+  "full_name": "Morgan Elliot Rogers",
+  "nationality": "England",
+  "birth_date": "2002-07-26",
+  "birth_place": "Halesowen",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "€ 9.4M",
+      "team_out": "Middlesbrough",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "Transfer",
+      "team_out": "Aston Villa",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2026-07-20",
+      "type": "Transfer",
+      "team_out": "Aston Villa",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "West Bromwich Albion F.C.",
+    "Manchester City F.C.",
+    "Lincoln City F.C.",
+    "AFC Bournemouth",
+    "Blackpool F.C.",
+    "Middlesbrough F.C.",
+    "Aston Villa F.C.",
+    "Chelsea F.C."
+  ]
+}

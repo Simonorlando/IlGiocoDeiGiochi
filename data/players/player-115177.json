@@ -1,0 +1,30 @@
+{
+  "player_id": 115177,
+  "full_name": "Daniele Galloppa",
+  "nationality": "Italy",
+  "birth_date": "1985-05-15",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2009-07-01",
+      "type": "2M €",
+      "team_out": "Robur Siena",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2007-01-02",
+      "type": "4M €",
+      "team_out": "AS Roma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Triestina Calcio 1918",
+    "Ascoli Calcio 1898 FC",
+    "Siena FC",
+    "Parma Calcio 1913",
+    "Modena F.C.",
+    "US Livorno 1915"
+  ]
+}

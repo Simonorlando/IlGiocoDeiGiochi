@@ -1,0 +1,26 @@
+{
+  "player_id": 30404,
+  "full_name": "Bryan Boulaye Kevin Dabo",
+  "nationality": "Burkina Faso",
+  "birth_date": "1992-02-18",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2021-07-19",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Rizespor"
+    },
+    {
+      "date": "2020-09-15",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Montpellier Hérault Sport Club",
+    "Blackburn Rovers F.C.",
+    "ACF Fiorentina"
+  ]
+}

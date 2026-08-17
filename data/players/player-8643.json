@@ -1,0 +1,31 @@
+{
+  "player_id": 8643,
+  "full_name": "Konan Ignace Jocelyn N’Dri",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2000-10-27",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-02-02",
+      "type": "Transfer",
+      "team_out": "OH Leuven",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Transfer",
+      "team_out": "OH Leuven",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-06-02",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Ndri Konan"
+    }
+  ],
+  "career_clubs": [
+    "Oud-Heverlee Leuven",
+    "K.A.S. Eupen"
+  ]
+}

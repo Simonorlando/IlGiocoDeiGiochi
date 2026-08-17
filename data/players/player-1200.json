@@ -1,0 +1,29 @@
+{
+  "player_id": 1200,
+  "full_name": "Branislav Ivanović",
+  "nationality": "Serbia",
+  "birth_date": "1984-02-22",
+  "birth_place": "Sremska Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2020-09-15",
+      "type": "Free",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2017-02-01",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FK Srem",
+    "OFK Beograd",
+    "FC Lokomotiv Moscow",
+    "Chelsea F.C.",
+    "FC Zenit Saint Petersburg",
+    "West Bromwich Albion F.C."
+  ]
+}

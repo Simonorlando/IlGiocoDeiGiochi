@@ -1,0 +1,30 @@
+{
+  "player_id": 80747,
+  "full_name": "Evaeverson Lemos da Silva Brandão",
+  "nationality": "Brazil",
+  "birth_date": "1980-06-16",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2009-01-13",
+      "type": "6M €",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Adap Galo Maringá Football Club",
+    "União Bandeirante Futebol Clube",
+    "Iraty Sport Club",
+    "Associação Desportiva São Caetano",
+    "FC Shakhtar Donetsk",
+    "Olympique de Marseille",
+    "Cruzeiro E.C.",
+    "Grêmio FBPA",
+    "AS Saint-Étienne",
+    "SC Bastia",
+    "Londrina E.C.",
+    "Clube Atlético Tricordiano",
+    "Levadiakos F.C."
+  ]
+}

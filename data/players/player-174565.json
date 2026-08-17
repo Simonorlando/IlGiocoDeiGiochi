@@ -1,0 +1,40 @@
+{
+  "player_id": 174565,
+  "full_name": "Hugo Ekitike",
+  "nationality": "France",
+  "birth_date": "2002-06-20",
+  "birth_place": "Reims",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 16.5M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2025-07-23",
+      "type": "Transfer",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-07-21",
+      "type": "Transfer",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Stade de Reims",
+    "Vejle Boldklub",
+    "Paris Saint-Germain FC",
+    "Eintracht Frankfurt",
+    "Liverpool F.C."
+  ]
+}

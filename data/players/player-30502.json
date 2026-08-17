@@ -1,0 +1,34 @@
+{
+  "player_id": 30502,
+  "full_name": "Emiliano Moretti",
+  "nationality": "Italy",
+  "birth_date": "1981-06-11",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2009-07-01",
+      "type": "3.7M €",
+      "team_out": "Valencia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Atletico Roma F.C.",
+    "A.S. Lodigiani",
+    "Atletico Roma F.C.",
+    "Juventus FC",
+    "Parma Calcio 1913",
+    "Modena F.C.",
+    "Bologna F.C. 1909",
+    "Valencia CF",
+    "Genoa CFC",
+    "Torino FC"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 41150,
+  "full_name": "Edmond Fayçal Tapsoba",
+  "nationality": "Burkina Faso",
+  "birth_date": "1999-02-02",
+  "birth_place": "Ouagadougou",
+  "career_transfers": [
+    {
+      "date": "2020-01-31",
+      "type": "€ 18M",
+      "team_out": "Guimaraes",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "US Ouagadougou",
+    "Leixões S.C.",
+    "Vitória S.C.",
+    "Bayer 04 Leverkusen"
+  ]
+}

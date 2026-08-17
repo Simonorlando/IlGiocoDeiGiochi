@@ -1,0 +1,27 @@
+{
+  "player_id": 1835,
+  "full_name": "Thomas Strakosha",
+  "nationality": "Albania",
+  "birth_date": "1995-03-19",
+  "birth_place": "Athina",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2015-07-17",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "U.S. Salernitana 1919",
+    "Brentford F.C.",
+    "AEK Athens F.C."
+  ]
+}

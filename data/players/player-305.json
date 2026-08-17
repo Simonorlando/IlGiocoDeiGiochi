@@ -1,0 +1,37 @@
+{
+  "player_id": 305,
+  "full_name": "Divock Okoth Origi",
+  "nationality": "Belgium",
+  "birth_date": "1995-04-18",
+  "birth_place": "Oostende",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Nottingham Forest",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2022-07-05",
+      "type": "Free",
+      "team_out": "Liverpool",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Zuid-West-Vlaanderen",
+    "K.R.C. Genk",
+    "Lille OSC",
+    "Liverpool F.C.",
+    "Lille OSC",
+    "VfL Wolfsburg",
+    "AC Milan",
+    "Nottingham Forest F.C."
+  ]
+}

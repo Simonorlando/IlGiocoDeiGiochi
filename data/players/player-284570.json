@@ -1,0 +1,35 @@
+{
+  "player_id": 284570,
+  "full_name": "Brooke Dion Nelson Norton-Cuffy",
+  "nationality": "England",
+  "birth_date": "2004-01-12",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-01-06",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Coventry"
+    },
+    {
+      "date": "2023-01-05",
+      "type": "N/A",
+      "team_out": "Rotherham",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2022-06-01",
+      "type": "N/A",
+      "team_out": "Lincoln",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Lincoln City F.C.",
+    "Rotherham United F.C.",
+    "Coventry City F.C.",
+    "Millwall F.C.",
+    "Genoa CFC"
+  ]
+}

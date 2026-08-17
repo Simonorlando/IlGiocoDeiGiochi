@@ -1,0 +1,22 @@
+{
+  "player_id": 265826,
+  "full_name": "Antonín Kinský",
+  "nationality": "Czechia",
+  "birth_date": "2003-03-13",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2025-01-05",
+      "type": "Transfer",
+      "team_out": "Slavia Praha",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "FK Dukla Prague",
+    "SK Slavia Prague",
+    "MFK Vyškov",
+    "FK Pardubice",
+    "Tottenham Hotspur F.C."
+  ]
+}

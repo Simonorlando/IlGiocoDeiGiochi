@@ -1,0 +1,20 @@
+{
+  "player_id": 1271,
+  "full_name": "Aurélien Djani Tchouaméni",
+  "nationality": "France",
+  "birth_date": "2000-01-27",
+  "birth_place": "Rouen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 80M",
+      "team_out": "Monaco",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Girondins de Bordeaux",
+    "AS Monaco FC",
+    "Real Madrid Club de Fútbol"
+  ]
+}

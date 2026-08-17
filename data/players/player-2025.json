@@ -1,0 +1,55 @@
+{
+  "player_id": 2025,
+  "full_name": "Matti Lund Nielsen",
+  "nationality": "Denmark",
+  "birth_date": "1988-05-08",
+  "birth_place": "Odense",
+  "career_transfers": [
+    {
+      "date": "2015-09-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Odense"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2015-01-28",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "N/A",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Odense Boldklub",
+    "Lyngby Boldklub",
+    "FC Nordsjælland",
+    "Delfino Pescara 1936",
+    "Hellas Verona FC",
+    "A.C. Perugia Calcio",
+    "Odense Boldklub",
+    "Sarpsborg 08 FF"
+  ]
+}

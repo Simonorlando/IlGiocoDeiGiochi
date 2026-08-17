@@ -1,0 +1,23 @@
+{
+  "player_id": 2299,
+  "full_name": "Pedro Eliezer Rodríguez Ledesma",
+  "nationality": "Spain",
+  "birth_date": "1987-07-28",
+  "birth_place": "Santa Cruz de Tenerife",
+  "career_transfers": [
+    {
+      "date": "2015-08-20",
+      "type": "€ 30M",
+      "team_out": "Barcelona",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona C",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Chelsea F.C.",
+    "AS Roma",
+    "SS Lazio"
+  ]
+}

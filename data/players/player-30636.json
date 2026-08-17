@@ -1,0 +1,25 @@
+{
+  "player_id": 30636,
+  "full_name": "Riccardo Improta",
+  "nationality": "Italy",
+  "birth_date": "1993-12-19",
+  "birth_place": "Pozzuoli",
+  "career_transfers": [
+    {
+      "date": "2016-08-19",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Lanciano Calcio 1920",
+    "Genoa CFC",
+    "S.S. Juve Stabia",
+    "Italy under-21 Serie B representative team",
+    "AC ChievoVerona",
+    "Calcio Padova",
+    "Bologna F.C. 1909",
+    "AC Cesena"
+  ]
+}

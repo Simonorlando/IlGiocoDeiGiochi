@@ -1,0 +1,37 @@
+{
+  "player_id": 41577,
+  "full_name": "Nuno Albertino Varela Tavares",
+  "nationality": "Portugal",
+  "birth_date": "2000-01-26",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2024-07-15",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Lazio",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Arsenal",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica",
+    "Arsenal F.C."
+  ]
+}

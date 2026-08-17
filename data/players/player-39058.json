@@ -1,0 +1,24 @@
+{
+  "player_id": 39058,
+  "full_name": "Fredrik André Bjørkan",
+  "nationality": "Norway",
+  "birth_date": "1998-08-21",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-01-08",
+      "type": "N/A",
+      "team_out": "Hertha BSC",
+      "team_in": "Bodo/Glimt"
+    },
+    {
+      "date": "2022-01-01",
+      "type": "Free",
+      "team_out": "Bodo/Glimt",
+      "team_in": "Hertha BSC"
+    }
+  ],
+  "career_clubs": [
+    "FK Bodø/Glimt"
+  ]
+}

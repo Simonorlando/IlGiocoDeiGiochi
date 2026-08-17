@@ -1,0 +1,24 @@
+{
+  "player_id": 443779,
+  "full_name": "Nils Erik Ulf Zätterström",
+  "nationality": "Sweden",
+  "birth_date": "2005-03-29",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-22",
+      "type": "Loan",
+      "team_out": "Sheffield Utd",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "Sheffield Utd"
+    }
+  ],
+  "career_clubs": [
+    "Malmö FF"
+  ]
+}

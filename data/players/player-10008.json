@@ -1,0 +1,19 @@
+{
+  "player_id": 10008,
+  "full_name": "Kaio Jorge Pinto Ramos",
+  "nationality": "Brazil",
+  "birth_date": "2002-01-24",
+  "birth_place": "Olinda",
+  "career_transfers": [
+    {
+      "date": "2023-08-29",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Santos F.C.",
+    "Juventus FC"
+  ]
+}

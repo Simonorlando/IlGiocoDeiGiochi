@@ -1,0 +1,19 @@
+{
+  "player_id": 384543,
+  "full_name": "Jan Ziółkowski",
+  "nationality": "Poland",
+  "birth_date": "2005-06-05",
+  "birth_place": "Warszawa",
+  "career_transfers": [
+    {
+      "date": "2025-08-29",
+      "type": "Transfer",
+      "team_out": "Legia Warszawa",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Legia Warsaw",
+    "Roma"
+  ]
+}

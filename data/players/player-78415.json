@@ -1,0 +1,50 @@
+{
+  "player_id": 78415,
+  "full_name": "Dominique Malonga",
+  "nationality": "Congo",
+  "birth_date": "1989-01-08",
+  "birth_place": "Chatenay-Malabry",
+  "career_transfers": [
+    {
+      "date": "2014-09-05",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Hibernian"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Cesena",
+      "team_in": "Real Murcia"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Cesena",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2009-09-21",
+      "type": "€ 750K",
+      "team_out": "Torino",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Calcio Foggia 1920",
+    "AC Cesena",
+    "Vicenza Calcio",
+    "Real Murcia",
+    "Hibernian F.C.",
+    "F.C. Pro Vercelli 1892",
+    "AS Monaco FC",
+    "Elche CF"
+  ]
+}

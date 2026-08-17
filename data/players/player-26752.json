@@ -1,0 +1,28 @@
+{
+  "player_id": 26752,
+  "full_name": "Anthony Mounier",
+  "nationality": "France",
+  "birth_date": "1987-09-27",
+  "birth_place": "Aubenas",
+  "career_transfers": [
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2015-08-29",
+      "type": "€ 1.5M",
+      "team_out": "Montpellier",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "OGC Nice",
+    "Montpellier Hérault Sport Club",
+    "Bologna F.C. 1909",
+    "Atalanta BC"
+  ]
+}

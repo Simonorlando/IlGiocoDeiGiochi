@@ -1,0 +1,28 @@
+{
+  "player_id": 46781,
+  "full_name": "Vincenzo Renato Rennella",
+  "nationality": "Italy",
+  "birth_date": "1988-10-08",
+  "birth_place": "Saint-Paul",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "AS Cannes",
+    "FC Lugano",
+    "Genoa CFC",
+    "FC Lugano",
+    "Grasshopper Club Zürich",
+    "AC Cesena",
+    "Córdoba CF",
+    "Real Betis Balompié",
+    "Club Deportivo Lugo",
+    "Real Betis Balompié",
+    "Real Valladolid"
+  ]
+}

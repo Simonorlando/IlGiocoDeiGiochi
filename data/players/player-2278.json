@@ -1,0 +1,25 @@
+{
+  "player_id": 2278,
+  "full_name": "Marcos Alonso Mendoza",
+  "nationality": "Spain",
+  "birth_date": "1990-12-28",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2010-07-28",
+      "type": "€ 2.4M",
+      "team_out": "Real Madrid",
+      "team_in": "Bolton"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Bolton Wanderers F.C.",
+    "Real Madrid Club de Fútbol",
+    "ACF Fiorentina",
+    "Sunderland A.F.C.",
+    "Chelsea F.C.",
+    "FC Barcelona",
+    "RC Celta de Vigo"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 12692,
+  "full_name": "Oscar dos Santos Emboaba Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1991-09-09",
+  "birth_place": "Americana",
+  "career_transfers": [
+    {
+      "date": "2017-01-01",
+      "type": "€ 61M",
+      "team_out": "Chelsea",
+      "team_in": "SHANGHAI SIPG"
+    },
+    {
+      "date": "2012-07-26",
+      "type": "€ 32M",
+      "team_out": "Internacional",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "S.C. Internacional",
+    "Chelsea F.C.",
+    "Shanghai Port F.C.",
+    "São Paulo FC"
+  ]
+}

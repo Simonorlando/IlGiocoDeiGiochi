@@ -1,0 +1,33 @@
+{
+  "player_id": 91384,
+  "full_name": "Cristian Raimondi",
+  "nationality": "Italy",
+  "birth_date": "1981-04-30",
+  "birth_place": "San Giovanni Bianco",
+  "career_transfers": [
+    {
+      "date": "2005-08-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "N/A",
+      "team_out": "Albinoleffe",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "U.C. AlbinoLeffe",
+    "Atalanta BC",
+    "U.C. AlbinoLeffe",
+    "F.C. Pro Vercelli 1892",
+    "Palermo F.C.",
+    "S.S. Arezzo",
+    "Vicenza Calcio",
+    "US Livorno 1915",
+    "Atalanta BC",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 158698,
+  "full_name": "Jarell Amorin Quansah",
+  "nationality": "England",
+  "birth_date": "2003-01-29",
+  "birth_place": "Warrignton",
+  "career_transfers": [
+    {
+      "date": "2025-07-02",
+      "type": "Transfer",
+      "team_out": "Liverpool",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "Bristol Rovers F.C.",
+    "Bayer 04 Leverkusen"
+  ]
+}

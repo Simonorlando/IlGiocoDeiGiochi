@@ -1,0 +1,43 @@
+{
+  "player_id": 31362,
+  "full_name": "Marco Modolo",
+  "nationality": "Italy",
+  "birth_date": "1989-03-23",
+  "birth_place": "San Donà di Piave",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2013-10-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Gorica"
+    },
+    {
+      "date": "2013-08-30",
+      "type": "Free",
+      "team_out": "PRO Vercelli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Sanvitese",
+    "Venezia F.C.",
+    "F.C. Pro Vercelli 1892",
+    "ND Gorica",
+    "Parma Calcio 1913",
+    "A.C. Carpi",
+    "Venezia F.C.",
+    "Inter Milan"
+  ]
+}

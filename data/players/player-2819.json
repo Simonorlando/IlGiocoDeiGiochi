@@ -1,0 +1,46 @@
+{
+  "player_id": 2819,
+  "full_name": "Stefan Mitrović",
+  "nationality": "Serbia",
+  "birth_date": "1990-05-22",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 1.5M",
+      "team_out": "SC Freiburg",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2015-08-17",
+      "type": "Loan",
+      "team_out": "SC Freiburg",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Free agent",
+      "team_out": "Gent",
+      "team_in": "FK Partizan"
+    }
+  ],
+  "career_clubs": [
+    "FC Petržalka",
+    "FC Zbrojovka Brno",
+    "FC Petržalka",
+    "FK Metalac Gornji Milanovac",
+    "FC Zbrojovka Brno",
+    "K.V. Kortrijk",
+    "S.L. Benfica",
+    "S.L. Benfica B",
+    "Real Valladolid",
+    "SC Freiburg",
+    "KAA Gent"
+  ]
+}

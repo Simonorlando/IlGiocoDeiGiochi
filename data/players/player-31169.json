@@ -1,0 +1,40 @@
+{
+  "player_id": 31169,
+  "full_name": "Federico Casarini",
+  "nationality": "Italy",
+  "birth_date": "1989-09-07",
+  "birth_place": "Carpi",
+  "career_transfers": [
+    {
+      "date": "2019-08-26",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Novara",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2015-09-16",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Novara"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Cagliari Calcio",
+    "Lanciano Calcio 1920",
+    "Novara Calcio",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

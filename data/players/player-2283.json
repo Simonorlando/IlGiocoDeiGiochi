@@ -1,0 +1,39 @@
+{
+  "player_id": 2283,
+  "full_name": "David Luiz Moreira Marinho",
+  "nationality": "Brazil",
+  "birth_date": "1987-04-22",
+  "birth_place": "Diadema",
+  "career_transfers": [
+    {
+      "date": "2011-02-01",
+      "type": "€ 30M",
+      "team_out": "Benfica",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2007-08-12",
+      "type": "€ 500K",
+      "team_out": "Vitoria",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "Loan",
+      "team_out": "Vitoria",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "E.C. Vitória",
+    "S.L. Benfica",
+    "Chelsea F.C.",
+    "Paris Saint-Germain FC",
+    "Chelsea F.C.",
+    "Arsenal F.C.",
+    "Clube de Regatas do Flamengo",
+    "Fortaleza E.C.",
+    "Pafos FC"
+  ]
+}

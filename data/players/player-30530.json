@@ -1,0 +1,24 @@
+{
+  "player_id": 30530,
+  "full_name": "Leonardo Sernicola",
+  "nationality": "Italy",
+  "birth_date": "1997-07-30",
+  "birth_place": "Civita Castellana",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Pisa",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-01-23",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Ternana Calcio"
+  ]
+}

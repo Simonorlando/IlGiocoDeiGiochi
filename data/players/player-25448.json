@@ -1,0 +1,25 @@
+{
+  "player_id": 25448,
+  "full_name": "Kaan Ayhan",
+  "nationality": "Türkiye",
+  "birth_date": "1994-11-10",
+  "birth_place": "Gelsenkirchen",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 2.8M",
+      "team_out": "Sassuolo",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Eintracht Frankfurt"
+  ]
+}

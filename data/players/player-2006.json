@@ -1,0 +1,35 @@
+{
+  "player_id": 2006,
+  "full_name": "Burak Yılmaz",
+  "nationality": "Türkiye",
+  "birth_date": "1985-07-15",
+  "birth_place": "Antalya",
+  "career_transfers": [
+    {
+      "date": "2016-02-15",
+      "type": "€ 8M",
+      "team_out": "Galatasaray",
+      "team_in": "Beijing Guoan"
+    },
+    {
+      "date": "2012-07-19",
+      "type": "€ 5M",
+      "team_out": "Trabzonspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Antalyaspor",
+    "Beşiktaş J.K. (Football)",
+    "Manisaspor",
+    "Fenerbahçe Istanbul",
+    "Eskişehirspor",
+    "Trabzonspor",
+    "Galatasaray S.K.",
+    "Beijing Guoan F.C.",
+    "Trabzonspor",
+    "Beşiktaş J.K. (Football)",
+    "Lille OSC",
+    "Fortuna Sittard"
+  ]
+}

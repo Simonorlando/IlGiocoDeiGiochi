@@ -1,0 +1,30 @@
+{
+  "player_id": 50206,
+  "full_name": "Moussa Saib Koné",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1990-02-12",
+  "birth_place": "Anyama",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 600K",
+      "team_out": "Pescara",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2011-08-19",
+      "type": "Free",
+      "team_out": "Foggia",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Calcio Foggia 1920",
+    "Delfino Pescara 1936",
+    "Varese Calcio",
+    "U.S. Avellino 1912",
+    "AC Cesena",
+    "FC Kyzylzhar"
+  ]
+}

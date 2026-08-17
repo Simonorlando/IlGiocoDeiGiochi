@@ -1,0 +1,41 @@
+{
+  "player_id": 91225,
+  "full_name": "Panagiotis Giorgios Kone",
+  "nationality": "Greece",
+  "birth_date": "1987-07-26",
+  "birth_place": "Tirana",
+  "career_transfers": [
+    {
+      "date": "2012-08-31",
+      "type": "€ 2.7M",
+      "team_out": "Brescia",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 800K",
+      "team_out": "Iraklis",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AEK Athens F.C.",
+    "G.S. Iraklis Thessalonikis (men's association football)",
+    "Brescia Calcio",
+    "Bologna F.C. 1909",
+    "Udinese Calcio",
+    "ACF Fiorentina"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 50785,
+  "full_name": "Bacary Sagna",
+  "nationality": "France",
+  "birth_date": "1983-02-14",
+  "birth_place": "Sens",
+  "career_transfers": [
+    {
+      "date": "2018-08-08",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "Montreal Impact"
+    }
+  ],
+  "career_clubs": [
+    "AJ Auxerre",
+    "Arsenal F.C.",
+    "Manchester City F.C.",
+    "Benevento Calcio",
+    "CF Montréal"
+  ]
+}

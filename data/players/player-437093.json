@@ -1,0 +1,25 @@
+{
+  "player_id": 437093,
+  "full_name": "Niccolò Fortini",
+  "nationality": "Italy",
+  "birth_date": "2006-02-13",
+  "birth_place": "Camaiore",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Juve Stabia",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Juve Stabia"
+  ]
+}

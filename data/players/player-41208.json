@@ -1,0 +1,26 @@
+{
+  "player_id": 41208,
+  "full_name": "Fábio Rafael Rodrigues Cardoso",
+  "nationality": "Portugal",
+  "birth_date": "1994-04-19",
+  "birth_place": "Águeda",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "FC Porto",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "F.C. Paços de Ferreira",
+    "Rangers F.C."
+  ]
+}

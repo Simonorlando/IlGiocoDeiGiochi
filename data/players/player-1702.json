@@ -1,0 +1,56 @@
+{
+  "player_id": 1702,
+  "full_name": "Alfonso Pedraza Sag",
+  "nationality": "Spain",
+  "birth_date": "1996-04-09",
+  "birth_place": "San Sebastián de los Ballesteros",
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Real Betis",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2019-07-16",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Alaves",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Lugo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Villarreal",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Villarreal",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF",
+    "Villarreal CF C",
+    "Villarreal CF B"
+  ]
+}

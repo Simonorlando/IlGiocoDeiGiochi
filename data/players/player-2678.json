@@ -1,0 +1,34 @@
+{
+  "player_id": 2678,
+  "full_name": "Diogo José Teixeira da Silva",
+  "nationality": "Portugal",
+  "birth_date": "1996-12-04",
+  "birth_place": "Massarelos",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2016-08-26",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2016-07-06",
+      "type": "€ 7.2M",
+      "team_out": "Pacos Ferreira",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Paços de Ferreira",
+    "Atlético Madrid",
+    "FC Porto",
+    "Wolverhampton Wanderers F.C.",
+    "Liverpool F.C."
+  ]
+}

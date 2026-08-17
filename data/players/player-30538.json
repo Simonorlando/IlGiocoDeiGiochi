@@ -1,0 +1,18 @@
+{
+  "player_id": 30538,
+  "full_name": "Enrico Brignola",
+  "nationality": "Italy",
+  "birth_date": "1999-07-08",
+  "birth_place": "Caserta",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

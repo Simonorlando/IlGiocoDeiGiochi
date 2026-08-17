@@ -1,0 +1,32 @@
+{
+  "player_id": 1438,
+  "full_name": "Bernd Leno",
+  "nationality": "Germany",
+  "birth_date": "1992-03-04",
+  "birth_place": "Bietigheim-Bissingen",
+  "career_transfers": [
+    {
+      "date": "2018-06-19",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "€ 7.5M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2011-08-10",
+      "type": "Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "Arsenal F.C.",
+    "Fulham F.C."
+  ]
+}

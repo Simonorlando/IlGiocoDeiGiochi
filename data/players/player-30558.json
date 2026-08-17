@@ -1,0 +1,26 @@
+{
+  "player_id": 30558,
+  "full_name": "Nicolò Barella",
+  "nationality": "Italy",
+  "birth_date": "1997-02-07",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2016-01-05",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "Como 1907",
+    "Inter Milan"
+  ]
+}

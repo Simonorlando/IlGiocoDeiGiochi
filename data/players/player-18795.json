@@ -1,0 +1,35 @@
+{
+  "player_id": 18795,
+  "full_name": "José Holebas",
+  "nationality": "Greece",
+  "birth_date": "1984-06-27",
+  "birth_place": "Aschaffenburg",
+  "career_transfers": [
+    {
+      "date": "2020-08-18",
+      "type": "Free",
+      "team_out": "Watford",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2014-08-30",
+      "type": "€ 1M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 900K",
+      "team_out": "TSV 1860 Munich",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "Olympiacos F.C.",
+    "AS Roma",
+    "Watford F.C.",
+    "Olympiacos F.C.",
+    "FC Bayern Alzenau"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "player_id": 663,
+  "full_name": "Martin Albert Frédéric Terrier",
+  "nationality": "France",
+  "birth_date": "1997-03-04",
+  "birth_place": "Armentières",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "€ 20M",
+      "team_out": "Rennes",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Olympique Lyonnais"
+  ]
+}

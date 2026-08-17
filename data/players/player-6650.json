@@ -1,0 +1,46 @@
+{
+  "player_id": 6650,
+  "full_name": "Marcelo Alejandro Estigarribia Balmori",
+  "nationality": "Paraguay",
+  "birth_date": "1987-09-21",
+  "birth_place": "Fernando de la Mora",
+  "career_transfers": [
+    {
+      "date": "2016-02-05",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cerro Porteno"
+    },
+    {
+      "date": "2014-07-29",
+      "type": "Loan",
+      "team_out": "Deportivo Maldonado",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Deportivo Maldonado"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Club Sport Colombia",
+    "Cerro Porteño",
+    "Club Guaraní",
+    "Le Mans F.C.",
+    "Newell's Old Boys",
+    "Juventus FC",
+    "Deportivo Maldonado",
+    "U.C. Sampdoria",
+    "AC ChievoVerona",
+    "Atalanta BC",
+    "Cerro Porteño"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 624,
+  "full_name": "Nicolás Hernán Gonzalo Otamendi",
+  "nationality": "Argentina",
+  "birth_date": "1988-02-12",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2015-08-20",
+      "type": "€ 48M",
+      "team_out": "Valencia",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Atletico-MG",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2014-02-07",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "€ 12M",
+      "team_out": "FC Porto",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "FC Porto",
+    "Valencia CF",
+    "Clube Atlético Mineiro",
+    "Manchester City F.C.",
+    "S.L. Benfica",
+    "Club Atlético River Plate"
+  ]
+}

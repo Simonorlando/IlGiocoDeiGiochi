@@ -1,0 +1,31 @@
+{
+  "player_id": 105,
+  "full_name": "Fodé Ballo-Touré",
+  "nationality": "Senegal",
+  "birth_date": "1997-01-03",
+  "birth_place": "Conflans-Sainte-Honorine",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Fulham",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2021-07-18",
+      "type": "Free",
+      "team_out": "Monaco",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "AS Monaco FC"
+  ]
+}

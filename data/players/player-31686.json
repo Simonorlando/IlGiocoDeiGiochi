@@ -1,0 +1,41 @@
+{
+  "player_id": 31686,
+  "full_name": "Emanuele Calaiò",
+  "nationality": "Italy",
+  "birth_date": "1982-01-08",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 1.3M",
+      "team_out": "Robur Siena",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-01-14",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 3.6M",
+      "team_out": "Napoli",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Ternana Calcio",
+    "A.C.R. Messina",
+    "Ternana Calcio",
+    "Delfino Pescara 1936",
+    "SSC Napoli",
+    "Siena FC",
+    "Genoa CFC",
+    "SSC Napoli",
+    "Catania FC",
+    "Spezia Calcio",
+    "Parma Calcio 1913"
+  ]
+}

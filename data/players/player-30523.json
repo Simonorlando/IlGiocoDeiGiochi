@@ -1,0 +1,28 @@
+{
+  "player_id": 30523,
+  "full_name": "Gian Marco Ferrari",
+  "nationality": "Italy",
+  "birth_date": "1992-05-15",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2013-07-03",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Gubbio"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Renate",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Crociati Noceto",
+    "Parma Calcio 1913",
+    "A.S. Gubbio 1910",
+    "F.C. Crotone",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 2920,
+  "full_name": "Timothy Castagne",
+  "nationality": "Belgium",
+  "birth_date": "1995-12-05",
+  "birth_place": "Arlon",
+  "career_transfers": [
+    {
+      "date": "2020-09-03",
+      "type": "€ 22.5M",
+      "team_out": "Atalanta",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-07-07",
+      "type": "€ 6M",
+      "team_out": "Genk",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "Atalanta BC",
+    "Leicester City F.C.",
+    "Fulham F.C."
+  ]
+}

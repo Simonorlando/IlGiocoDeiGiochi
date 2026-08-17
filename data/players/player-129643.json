@@ -1,0 +1,25 @@
+{
+  "player_id": 129643,
+  "full_name": "Evan Joe Ferguson",
+  "nationality": "Republic of Ireland",
+  "birth_date": "2004-10-19",
+  "birth_place": "Bettystown",
+  "career_transfers": [
+    {
+      "date": "2025-07-23",
+      "type": "Loan",
+      "team_out": "Brighton",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "Bohemian F.C.",
+    "Brighton & Hove Albion F.C."
+  ]
+}

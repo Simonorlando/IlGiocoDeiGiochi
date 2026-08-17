@@ -1,0 +1,31 @@
+{
+  "player_id": 1793,
+  "full_name": "Luiz Adriano de Souza da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1987-04-12",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2017-01-25",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2015-07-02",
+      "type": "€ 8M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "FC Shakhtar Donetsk",
+    "AC Milan",
+    "Spartak Moscow",
+    "Sociedade Esportiva Palmeiras",
+    "Antalyaspor",
+    "S.C. Internacional",
+    "E.C. Vitória"
+  ]
+}

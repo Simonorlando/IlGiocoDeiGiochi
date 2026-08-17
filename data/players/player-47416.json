@@ -1,0 +1,18 @@
+{
+  "player_id": 47416,
+  "full_name": "Óscar Rodríguez Arnaiz",
+  "nationality": "Spain",
+  "birth_date": "1998-06-28",
+  "birth_place": "Talavera de la Reina",
+  "career_transfers": [
+    {
+      "date": "2018-08-13",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Leganes"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol"
+  ]
+}

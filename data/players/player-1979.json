@@ -1,0 +1,32 @@
+{
+  "player_id": 1979,
+  "full_name": "Gökhan Gönül",
+  "nationality": "Türkiye",
+  "birth_date": "1985-01-04",
+  "birth_place": "Samsun",
+  "career_transfers": [
+    {
+      "date": "2020-08-06",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2016-07-29",
+      "type": "Free",
+      "team_out": "Fenerbahce",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Hacettepe S.K.",
+    "Gençlerbirliği S.K.",
+    "Hacettepe S.K.",
+    "Gençlerbirliği S.K.",
+    "Hacettepe S.K.",
+    "Fenerbahçe Istanbul",
+    "Hacettepe S.K.",
+    "Beşiktaş J.K. (Football)",
+    "Fenerbahçe Istanbul"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 327897,
+  "full_name": "Arijon Ibrahimović",
+  "nationality": "Germany",
+  "birth_date": "2005-12-11",
+  "birth_place": "Nürnberg",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich"
+  ]
+}

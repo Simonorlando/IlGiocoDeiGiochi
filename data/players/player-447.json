@@ -1,0 +1,30 @@
+{
+  "player_id": 447,
+  "full_name": "Sofiane Feghouli",
+  "nationality": "Algeria",
+  "birth_date": "1989-12-26",
+  "birth_place": "Levallois-Perret",
+  "career_transfers": [
+    {
+      "date": "2022-12-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2017-08-17",
+      "type": "€ 4.3M",
+      "team_out": "West Ham",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Grenoble Foot 38",
+    "Valencia CF",
+    "Unión Deportiva Almería",
+    "West Ham United F.C.",
+    "Galatasaray S.K.",
+    "Fatih Karagümrük S.K.",
+    "Baghdad FC"
+  ]
+}

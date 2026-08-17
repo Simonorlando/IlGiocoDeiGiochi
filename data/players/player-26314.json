@@ -1,0 +1,23 @@
+{
+  "player_id": 26314,
+  "full_name": "Mario Gómez García",
+  "nationality": "Germany",
+  "birth_date": "1985-07-10",
+  "birth_place": "Riedlingen",
+  "career_transfers": [
+    {
+      "date": "2015-07-30",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "FC Bayern Munich",
+    "ACF Fiorentina",
+    "Beşiktaş J.K. (Football)",
+    "VfL Wolfsburg",
+    "VfB Stuttgart"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 49938,
+  "full_name": "Joel Chukwuma Obi",
+  "nationality": "Nigeria",
+  "birth_date": "1991-05-22",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Parma Calcio 1913",
+    "Torino FC",
+    "AC ChievoVerona",
+    "Alanyaspor",
+    "U.S. Salernitana 1919",
+    "AS Reggina 1914",
+    "Vis Pesaro dal 1898"
+  ]
+}

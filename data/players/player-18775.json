@@ -1,0 +1,25 @@
+{
+  "player_id": 18775,
+  "full_name": "Danny Simpson",
+  "nationality": "England",
+  "birth_date": "1987-01-04",
+  "birth_place": "Salford",
+  "career_transfers": [
+    {
+      "date": "2019-09-27",
+      "type": "Free",
+      "team_out": "Leicester",
+      "team_in": "Huddersfield"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Royal Antwerp F.C.",
+    "Sunderland A.F.C.",
+    "Ipswich Town F.C.",
+    "Blackburn Rovers F.C.",
+    "Newcastle United F.C.",
+    "Queens Park Rangers F.C.",
+    "Leicester City F.C."
+  ]
+}

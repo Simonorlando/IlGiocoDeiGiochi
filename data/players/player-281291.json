@@ -1,0 +1,42 @@
+{
+  "player_id": 281291,
+  "full_name": "Edoardo Iannoni",
+  "nationality": "Italy",
+  "birth_date": "2001-04-11",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2022-07-08",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2021-07-20",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Ancona"
+    },
+    {
+      "date": "2021-01-29",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Juve Stabia"
+    }
+  ],
+  "career_clubs": [
+    "Savio",
+    "Trastevere",
+    "Salernitana",
+    "Juve Stabia",
+    "Ancona",
+    "Perugia",
+    "Sassuolo"
+  ]
+}

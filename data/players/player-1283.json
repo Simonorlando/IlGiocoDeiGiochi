@@ -1,0 +1,30 @@
+{
+  "player_id": 1283,
+  "full_name": "Peter Svarrer Ankersen",
+  "nationality": "Denmark",
+  "birth_date": "1990-09-22",
+  "birth_place": "Esbjerg",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Esbjerg",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Esbjerg fB",
+    "Vejle Boldklub",
+    "Esbjerg fB",
+    "Rosenborg BK",
+    "Esbjerg fB",
+    "FC Red Bull Salzburg",
+    "F.C. Copenhagen"
+  ]
+}

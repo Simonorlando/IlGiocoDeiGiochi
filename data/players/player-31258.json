@@ -1,0 +1,24 @@
+{
+  "player_id": 31258,
+  "full_name": "Petko Rosenov Hristov",
+  "nationality": "Bulgaria",
+  "birth_date": "1999-03-01",
+  "birth_place": "Sofia",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-01-26",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina"
+  ]
+}

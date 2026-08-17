@@ -1,0 +1,28 @@
+{
+  "player_id": 49840,
+  "full_name": "Gaël Dimitri Clichy",
+  "nationality": "France",
+  "birth_date": "1985-07-26",
+  "birth_place": "Toulouse",
+  "career_transfers": [
+    {
+      "date": "2017-07-07",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2011-07-05",
+      "type": "€ 7.8M",
+      "team_out": "Arsenal",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "AS Cannes",
+    "Arsenal F.C.",
+    "Manchester City F.C.",
+    "İstanbul Başakşehir F.K.",
+    "Servette FC"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 30889,
+  "full_name": "Andrea Esposito",
+  "nationality": "Italy",
+  "birth_date": "1986-05-17",
+  "birth_place": "Galatina",
+  "career_transfers": [
+    {
+      "date": "2020-09-23",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2018-08-18",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "S.S. Sambenedettese Calcio",
+    "Genoa CFC",
+    "US Livorno 1915",
+    "Bologna F.C. 1909",
+    "US Lecce",
+    "Latina Calcio 1932",
+    "AC Cesena"
+  ]
+}

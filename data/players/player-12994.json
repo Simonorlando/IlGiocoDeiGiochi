@@ -1,0 +1,29 @@
+{
+  "player_id": 12994,
+  "full_name": "Marek Hamšík",
+  "nationality": "Slovakia",
+  "birth_date": "1987-07-27",
+  "birth_place": "Banská Bystrica",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "€ 5.5M",
+      "team_out": "Brescia",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "€ 60K",
+      "team_out": "Slovan Bratislava",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "ŠK Slovan Bratislava",
+    "Brescia Calcio",
+    "SSC Napoli",
+    "Dalian Professional F.C.",
+    "IFK Göteborg",
+    "Trabzonspor"
+  ]
+}

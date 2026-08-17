@@ -1,0 +1,48 @@
+{
+  "player_id": 50084,
+  "full_name": "Paul Papp",
+  "nationality": "Romania",
+  "birth_date": "1989-11-11",
+  "birth_place": "Dej",
+  "career_transfers": [
+    {
+      "date": "2014-08-30",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "FCSB"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "FC Astra Giurgiu",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2014-01-28",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "FC Astra Giurgiu"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Vaslui",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "FC Unirea Dej",
+    "FC Botoșani",
+    "FC Vaslui",
+    "SSC Farul Constanța",
+    "AC ChievoVerona",
+    "FCSB",
+    "FC Astra Giurgiu",
+    "FCSB",
+    "FC Wil 1900",
+    "Kardemir Karabükspor",
+    "Sivasspor",
+    "CS Universitatea Craiova",
+    "FC Petrolul Ploiești"
+  ]
+}

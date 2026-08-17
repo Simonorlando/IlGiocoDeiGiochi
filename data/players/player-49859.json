@@ -1,0 +1,41 @@
+{
+  "player_id": 49859,
+  "full_name": "Arda Turan",
+  "nationality": "Turkey",
+  "birth_date": "1987-01-30",
+  "birth_place": "İstanbul",
+  "career_transfers": [
+    {
+      "date": "2020-08-05",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2011-08-10",
+      "type": "€ 13M",
+      "team_out": "Galatasaray",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2006-06-30",
+      "type": "End of Loan",
+      "team_out": "Manisaspor",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Manisaspor"
+    }
+  ],
+  "career_clubs": [
+    "Galatasaray S.K.",
+    "Manisaspor",
+    "Atlético Madrid",
+    "FC Barcelona",
+    "İstanbul Başakşehir F.K.",
+    "Galatasaray S.K."
+  ]
+}

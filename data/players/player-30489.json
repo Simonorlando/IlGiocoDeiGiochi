@@ -1,0 +1,24 @@
+{
+  "player_id": 30489,
+  "full_name": "Rodrigo Sebastián Palacio Alcalde",
+  "nationality": "Argentina",
+  "birth_date": "1982-02-05",
+  "birth_place": "Bahía Blanca",
+  "career_transfers": [
+    {
+      "date": "2021-08-18",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Huracán de Tres Arroyos",
+    "Club Atlético Banfield",
+    "Boca Juniors",
+    "Genoa CFC",
+    "Inter Milan",
+    "Bologna F.C. 1909",
+    "Brescia Calcio"
+  ]
+}

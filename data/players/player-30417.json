@@ -1,0 +1,36 @@
+{
+  "player_id": 30417,
+  "full_name": "Marco Carnesecchi",
+  "nationality": "Italy",
+  "birth_date": "2000-07-01",
+  "birth_place": "Rimini",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2021-01-05",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena"
+  ]
+}

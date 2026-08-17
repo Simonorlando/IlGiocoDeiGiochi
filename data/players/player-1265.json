@@ -1,0 +1,25 @@
+{
+  "player_id": 1265,
+  "full_name": "Yacine Zinedine Adli",
+  "nationality": "France",
+  "birth_date": "2000-07-29",
+  "birth_place": "Vitry-sur-Seine",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Fiorentina",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "FC Girondins de Bordeaux"
+  ]
+}

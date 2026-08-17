@@ -1,0 +1,33 @@
+{
+  "player_id": 45,
+  "full_name": "Thomas Benoît Lemar",
+  "nationality": "France",
+  "birth_date": "1995-11-12",
+  "birth_place": "Baie-Mahault",
+  "career_transfers": [
+    {
+      "date": "2018-07-30",
+      "type": "€ 70M",
+      "team_out": "Monaco",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Girona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Girona",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "AS Monaco FC",
+    "Atlético Madrid",
+    "Girona FC"
+  ]
+}

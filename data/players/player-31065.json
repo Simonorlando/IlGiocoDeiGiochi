@@ -1,0 +1,44 @@
+{
+  "player_id": 31065,
+  "full_name": "Francesco Bardi",
+  "nationality": "Italy",
+  "birth_date": "1992-01-18",
+  "birth_place": "Livorno",
+  "career_transfers": [
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Reggiana",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Mantova"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Palermo",
+      "team_in": "Mantova"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Palermo",
+      "team_in": "Mantova"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "Inter Milan",
+    "US Livorno 1915",
+    "Novara Calcio",
+    "US Livorno 1915",
+    "AC ChievoVerona",
+    "RCD Espanyol de Barcelona",
+    "Frosinone Calcio",
+    "AC Cesena"
+  ]
+}

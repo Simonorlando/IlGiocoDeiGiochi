@@ -1,0 +1,25 @@
+{
+  "player_id": 36916,
+  "full_name": "Kingsley Osezele Ehizibue",
+  "nationality": "Netherlands",
+  "birth_date": "1995-05-25",
+  "birth_place": "München",
+  "career_transfers": [
+    {
+      "date": "2022-08-30",
+      "type": "N/A",
+      "team_out": "1.FC Köln",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Udinese",
+      "team_in": "Ehizibue Kingsley"
+    }
+  ],
+  "career_clubs": [
+    "PEC Zwolle",
+    "1. FC Köln"
+  ]
+}

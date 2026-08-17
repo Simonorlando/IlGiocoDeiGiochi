@@ -1,0 +1,36 @@
+{
+  "player_id": 1477,
+  "full_name": "Sebastián Coates Nión",
+  "nationality": "Uruguay",
+  "birth_date": "1990-10-07",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2024-07-31",
+      "type": "Free",
+      "team_out": "Sporting CP",
+      "team_in": "Club Nacional"
+    },
+    {
+      "date": "2017-02-02",
+      "type": "€ 5M",
+      "team_out": "Sunderland",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2016-01-28",
+      "type": "Loan",
+      "team_out": "Sunderland",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "Liverpool F.C.",
+    "Sunderland A.F.C.",
+    "Club Nacional de Football",
+    "Sunderland A.F.C.",
+    "Sporting CP",
+    "Club Nacional de Football"
+  ]
+}

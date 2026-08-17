@@ -1,0 +1,25 @@
+{
+  "player_id": 115186,
+  "full_name": "Tiberio Guarente",
+  "nationality": "Italy",
+  "birth_date": "1985-11-01",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2013-08-30",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Hellas Verona FC",
+    "Atalanta BC",
+    "Sevilla FC",
+    "Bologna F.C. 1909",
+    "Catania FC",
+    "AC ChievoVerona",
+    "Empoli FC"
+  ]
+}

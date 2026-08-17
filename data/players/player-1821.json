@@ -1,0 +1,49 @@
+{
+  "player_id": 1821,
+  "full_name": "Filip Kostić",
+  "nationality": "Serbia",
+  "birth_date": "1992-11-01",
+  "birth_place": "Kragujevac",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Fenerbahce",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2024-09-09",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2022-08-11",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-06-03",
+      "type": "Back from Loan",
+      "team_out": "Fenerbahce",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Juventus",
+      "team_in": "Kostic Filip"
+    }
+  ],
+  "career_clubs": [
+    "FK Radnički 1923",
+    "FC Groningen",
+    "VfB Stuttgart",
+    "Hamburger SV",
+    "Eintracht Frankfurt",
+    "Juventus FC",
+    "Fenerbahçe Istanbul",
+    "PSV Eindhoven"
+  ]
+}

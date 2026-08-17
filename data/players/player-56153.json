@@ -1,0 +1,33 @@
+{
+  "player_id": 56153,
+  "full_name": "Alberto Pelagotti",
+  "nationality": "Italy",
+  "birth_date": "1989-03-09",
+  "birth_place": "Empoli",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2014-07-15",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Empoli U20",
+    "Empoli",
+    "Manfredonia",
+    "Empoli",
+    "Pisa",
+    "Empoli",
+    "Brescia",
+    "Arezzo",
+    "Palermo",
+    "Novara"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 127011,
+  "full_name": "Andrea Cambiaso",
+  "nationality": "Italy",
+  "birth_date": "2000-02-20",
+  "birth_place": "Genoa",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-09-21",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "US Alessandria Calcio 1912"
+  ]
+}

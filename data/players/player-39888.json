@@ -1,0 +1,36 @@
+{
+  "player_id": 39888,
+  "full_name": "Germán Gustavo Denis",
+  "nationality": "Argentina",
+  "birth_date": "1981-09-10",
+  "birth_place": "Remedios de Escalada",
+  "career_transfers": [
+    {
+      "date": "2003-08-01",
+      "type": "€ 50K",
+      "team_out": "Cesena",
+      "team_in": "Arsenal Sarandi"
+    },
+    {
+      "date": "2002-01-01",
+      "type": "N/A",
+      "team_out": "Los Andes",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Talleres de Remedios de Escalada",
+    "Club Atlético Los Andes",
+    "Quilmes Atlético Club",
+    "AC Cesena",
+    "Arsenal Fútbol Club",
+    "Club Atlético Colón",
+    "Club Atlético Independiente",
+    "SSC Napoli",
+    "Udinese Calcio",
+    "Atalanta BC",
+    "Club Atlético Independiente",
+    "Racing Club",
+    "Club Universitario de Deportes"
+  ]
+}

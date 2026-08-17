@@ -1,0 +1,24 @@
+{
+  "player_id": 44871,
+  "full_name": "Aaron Buchanan Hickey",
+  "nationality": "Scotland",
+  "birth_date": "2002-06-10",
+  "birth_place": "Glasgow",
+  "career_transfers": [
+    {
+      "date": "2022-07-09",
+      "type": "€ 22M",
+      "team_out": "Bologna",
+      "team_in": "Brentford"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "€ 2M",
+      "team_out": "Heart Of Midlothian",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Heart of Midlothian F.C."
+  ]
+}

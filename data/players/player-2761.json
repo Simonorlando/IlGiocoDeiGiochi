@@ -1,0 +1,37 @@
+{
+  "player_id": 2761,
+  "full_name": "Filip Bradarić",
+  "nationality": "Croatia",
+  "birth_date": "1992-01-11",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2020-01-24",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Celta Vigo"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "HNK Hajduk Split"
+    },
+    {
+      "date": "2018-08-03",
+      "type": "N/A",
+      "team_out": "HNK Rijeka",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "NK Primorac 1929",
+    "HNK Rijeka",
+    "Cagliari Calcio",
+    "HNK Hajduk Split",
+    "RC Celta de Vigo",
+    "Al-Ain FC",
+    "Al Ahli FC"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 1916,
+  "full_name": "Kevin Johannes Willem Strootman",
+  "nationality": "Netherlands",
+  "birth_date": "1990-02-13",
+  "birth_place": "Ridderkerk",
+  "career_transfers": [
+    {
+      "date": "2018-08-28",
+      "type": "€ 25M",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2013-07-16",
+      "type": "€ 16M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Sparta Rotterdam",
+    "FC Utrecht",
+    "PSV Eindhoven",
+    "AS Roma",
+    "Olympique de Marseille",
+    "Genoa CFC",
+    "Cagliari Calcio",
+    "Genoa CFC"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 31012,
+  "full_name": "Marcello Gazzola",
+  "nationality": "Italy",
+  "birth_date": "1985-04-03",
+  "birth_place": "Borgotaro",
+  "career_transfers": [
+    {
+      "date": "2019-08-23",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2018-01-16",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Parma U20",
+    "Sambenedettese",
+    "Venezia",
+    "Torres",
+    "Catania",
+    "US Avellino 1912",
+    "Catania",
+    "Ascoli",
+    "Sassuolo",
+    "Parma",
+    "Empoli",
+    "Parma"
+  ]
+}

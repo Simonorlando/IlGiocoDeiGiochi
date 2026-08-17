@@ -1,0 +1,24 @@
+{
+  "player_id": 7600,
+  "full_name": "Igor Júlio dos Santos de Paulo",
+  "nationality": "Brazil",
+  "birth_date": "1998-02-07",
+  "birth_place": "Bom Sucesso",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Austria Vienna"
+    },
+    {
+      "date": "2018-01-07",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Wolfsberger AC"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg"
+  ]
+}

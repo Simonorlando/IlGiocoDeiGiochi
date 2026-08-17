@@ -1,0 +1,36 @@
+{
+  "player_id": 20638,
+  "full_name": "Enzo Jérémy Le Fée",
+  "nationality": "France",
+  "birth_date": "2000-02-03",
+  "birth_place": "Lorient",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Sunderland",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2024-07-10",
+      "type": "€ 23M",
+      "team_out": "Rennes",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-01-10",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Sunderland"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Lorient"
+  ]
+}

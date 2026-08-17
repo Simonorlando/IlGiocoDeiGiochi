@@ -1,0 +1,48 @@
+{
+  "player_id": 747,
+  "full_name": "Carlos Henrique Casimiro",
+  "nationality": "Brazil",
+  "birth_date": "1992-02-23",
+  "birth_place": "São José dos Campos",
+  "career_transfers": [
+    {
+      "date": "2022-08-22",
+      "type": "€ 70.7M",
+      "team_out": "Real Madrid",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2014-07-19",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 6M",
+      "team_out": "Sao Paulo",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2013-02-02",
+      "type": "Loan",
+      "team_out": "Sao Paulo",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "FC Porto",
+    "Manchester United F.C.",
+    "Inter Miami CF"
+  ]
+}

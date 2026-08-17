@@ -1,0 +1,27 @@
+{
+  "player_id": 80752,
+  "full_name": "Francis Tanner James Tessmann",
+  "nationality": "USA",
+  "birth_date": "2001-09-24",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "€ 6M",
+      "team_out": "Venezia",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2021-07-15",
+      "type": "€ 3.6M",
+      "team_out": "FC Dallas",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "North Texas SC",
+    "FC Dallas",
+    "Venezia F.C.",
+    "Olympique Lyonnais"
+  ]
+}

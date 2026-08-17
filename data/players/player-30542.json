@@ -1,0 +1,18 @@
+{
+  "player_id": 30542,
+  "full_name": "Jens Odgaard",
+  "nationality": "Denmark",
+  "birth_date": "1999-03-31",
+  "birth_place": "Hillerød",
+  "career_transfers": [
+    {
+      "date": "2021-01-22",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

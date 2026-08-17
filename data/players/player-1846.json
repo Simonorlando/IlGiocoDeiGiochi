@@ -1,0 +1,19 @@
+{
+  "player_id": 1846,
+  "full_name": "Ştefan Daniel Radu",
+  "nationality": "Romania",
+  "birth_date": "1986-10-22",
+  "birth_place": "București",
+  "career_transfers": [
+    {
+      "date": "2008-01-01",
+      "type": "€ 1M",
+      "team_out": "Dinamo Bucuresti",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Bucharest",
+    "SS Lazio"
+  ]
+}

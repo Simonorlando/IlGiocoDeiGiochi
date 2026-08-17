@@ -1,0 +1,28 @@
+{
+  "player_id": 30980,
+  "full_name": "Vladimir Golemić",
+  "nationality": "Serbia",
+  "birth_date": "1991-06-28",
+  "birth_place": "Kruševac",
+  "career_transfers": [
+    {
+      "date": "2025-06-29",
+      "type": "Free agent",
+      "team_out": "Mladost Lucani",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-08-16",
+      "type": "Free Transfer",
+      "team_out": "Mladost Lucani",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "NK Šampion",
+    "FC Energie Cottbus",
+    "NK Šampion",
+    "FK Mladost Lučani",
+    "FC Chiasso"
+  ]
+}

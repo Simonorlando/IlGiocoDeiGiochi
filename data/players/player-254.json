@@ -1,0 +1,28 @@
+{
+  "player_id": 254,
+  "full_name": "Gianluigi Buffon",
+  "nationality": "Italy",
+  "birth_date": "1978-01-28",
+  "birth_place": "Carrara",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2001-07-01",
+      "type": "€ 49.2M",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Juventus FC",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "Parma Calcio 1913"
+  ]
+}

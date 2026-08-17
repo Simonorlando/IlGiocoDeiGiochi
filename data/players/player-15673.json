@@ -1,0 +1,33 @@
+{
+  "player_id": 15673,
+  "full_name": "Ylber Ramadani",
+  "nationality": "Albania",
+  "birth_date": "1996-04-12",
+  "birth_place": "Ferizaj",
+  "career_transfers": [
+    {
+      "date": "2023-08-04",
+      "type": "€ 1.2M",
+      "team_out": "Aberdeen",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Çorum FK"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Çorum FK"
+    }
+  ],
+  "career_clubs": [
+    "FC Ferizaj",
+    "FC Prishtina",
+    "KF Drita",
+    "Partizani Tirana"
+  ]
+}

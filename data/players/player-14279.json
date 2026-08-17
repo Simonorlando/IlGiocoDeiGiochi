@@ -1,0 +1,35 @@
+{
+  "player_id": 14279,
+  "full_name": "Dario Župarić",
+  "nationality": "Croatia",
+  "birth_date": "1992-05-03",
+  "birth_place": "Županja",
+  "career_transfers": [
+    {
+      "date": "2018-06-16",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "HNK Rijeka"
+    },
+    {
+      "date": "2017-01-18",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "HNK Rijeka"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 700K",
+      "team_out": "HNK Cibalia",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Cibalia",
+    "Pescara",
+    "Rijeka",
+    "Portland Timbers",
+    "Portland Timbers 2",
+    "Hapoel Haifa"
+  ]
+}

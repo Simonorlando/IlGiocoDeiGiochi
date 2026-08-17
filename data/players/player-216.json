@@ -1,0 +1,33 @@
+{
+  "player_id": 216,
+  "full_name": "Mauro Emanuel Icardi Rivero",
+  "nationality": "Argentina",
+  "birth_date": "1993-02-19",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2023-07-28",
+      "type": "€ 10M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2022-09-08",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Galatasaray",
+      "team_in": "Icardi Mauro"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "Inter Milan",
+    "Paris Saint-Germain FC",
+    "Galatasaray S.K."
+  ]
+}

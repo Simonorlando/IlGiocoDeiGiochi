@@ -1,0 +1,29 @@
+{
+  "player_id": 31521,
+  "full_name": "Alessandro Vogliacco",
+  "nationality": "Italy",
+  "birth_date": "1998-09-14",
+  "birth_place": "Acquaviva delle Fonti",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Parma",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-01-14",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Juventus FC",
+    "Pordenone FC",
+    "Genoa CFC",
+    "PAOK FC",
+    "US Cremonese"
+  ]
+}

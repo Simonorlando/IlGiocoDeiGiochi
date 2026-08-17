@@ -1,0 +1,39 @@
+{
+  "player_id": 127,
+  "full_name": "Marc-André ter Stegen",
+  "nationality": "Germany",
+  "birth_date": "1992-04-30",
+  "birth_place": "Mönchengladbach",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 12M",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2026-01-19",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Girona"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Girona",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "FC Barcelona",
+    "Girona FC",
+    "AFC Ajax"
+  ]
+}

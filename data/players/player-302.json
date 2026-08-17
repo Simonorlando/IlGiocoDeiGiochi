@@ -1,0 +1,28 @@
+{
+  "player_id": 302,
+  "full_name": "Roberto Firmino Barbosa de Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "1991-10-02",
+  "birth_place": "Maceió",
+  "career_transfers": [
+    {
+      "date": "2023-07-04",
+      "type": "Free",
+      "team_out": "Liverpool",
+      "team_in": "Al-Ahli Jeddah"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 41M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Figueirense Futebol Clube",
+    "TSG 1899 Hoffenheim",
+    "Liverpool F.C.",
+    "Al Ahli FC",
+    "Al Sadd Sports Club"
+  ]
+}

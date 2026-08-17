@@ -1,0 +1,19 @@
+{
+  "player_id": 161702,
+  "full_name": "Danilo Filipe Melo Veiga",
+  "nationality": "Portugal",
+  "birth_date": "2002-09-25",
+  "birth_place": "Gondomar",
+  "career_transfers": [
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Estrela",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Estrela",
+    "Lecce"
+  ]
+}

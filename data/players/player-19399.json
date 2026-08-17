@@ -1,0 +1,27 @@
+{
+  "player_id": 19399,
+  "full_name": "Fernando Martín Forestieri",
+  "nationality": "Italy",
+  "birth_date": "1990-01-15",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2011-01-12",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Siena FC",
+    "Málaga CF",
+    "Vicenza Calcio",
+    "Udinese Calcio",
+    "Empoli FC",
+    "SSC Bari",
+    "Watford F.C.",
+    "Sheffield Wednesday F.C.",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

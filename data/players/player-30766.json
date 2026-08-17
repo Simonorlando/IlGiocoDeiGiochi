@@ -1,0 +1,24 @@
+{
+  "player_id": 30766,
+  "full_name": "Alessandro Russo",
+  "nationality": "Italy",
+  "birth_date": "2001-03-31",
+  "birth_place": "Reggio Calabria",
+  "career_transfers": [
+    {
+      "date": "2019-07-26",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Sassuolo U19"
+    }
+  ],
+  "career_clubs": [
+    "Sassuolo",
+    "Virtus Entella",
+    "Alessandria",
+    "Sint-Truiden",
+    "Trento",
+    "Giugliano",
+    "Cerignola"
+  ]
+}

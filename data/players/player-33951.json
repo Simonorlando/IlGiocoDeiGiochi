@@ -1,0 +1,60 @@
+{
+  "player_id": 33951,
+  "full_name": "Takayuki Morimoto",
+  "nationality": "Japan",
+  "birth_date": "1988-05-07",
+  "birth_place": "Kawasaki",
+  "career_transfers": [
+    {
+      "date": "2013-08-13",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "JEF United Chiba"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Al Nasr",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-01-11",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Al Nasr"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Novara",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2011-07-12",
+      "type": "€ 2.5M",
+      "team_out": "Catania",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "N/A",
+      "team_out": "Tokyo Verdy",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "Loan",
+      "team_out": "Tokyo Verdy",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Tokyo Verdy",
+    "Catania FC",
+    "Novara Calcio",
+    "Catania FC",
+    "Alshariqa",
+    "JEF United Chiba",
+    "Kawasaki Frontale"
+  ]
+}

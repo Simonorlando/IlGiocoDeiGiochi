@@ -1,0 +1,43 @@
+{
+  "player_id": 31727,
+  "full_name": "Biagio Meccariello",
+  "nationality": "Italy",
+  "birth_date": "1991-03-27",
+  "birth_place": "Benevento",
+  "career_transfers": [
+    {
+      "date": "2022-01-06",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 100K",
+      "team_out": "Brescia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D.C. Pomigliano",
+    "ASD Viribus Unitis",
+    "Fidelis Andria 2018",
+    "Italy Lega Pro representative teams",
+    "Ternana Calcio",
+    "Italy under-21 Serie B representative team",
+    "US Lecce",
+    "Brescia Calcio"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 51052,
+  "full_name": "Rolf Günther Feltscher Martínez",
+  "nationality": "Venezuela",
+  "birth_date": "1990-10-06",
+  "birth_place": "Bülach",
+  "career_transfers": [
+    {
+      "date": "2013-01-25",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Grasshoppers",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "Parma Calcio 1913",
+    "Calcio Padova",
+    "U.S. Grosseto 1912",
+    "FC Lausanne-Sport",
+    "MSV Duisburg"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 2860,
+  "full_name": "Kenneth Nlata Sema",
+  "nationality": "Sweden",
+  "birth_date": "1993-09-30",
+  "birth_place": "Norrköping",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2019-08-22",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "IFK Norrköping FK",
+    "IF Sylvia",
+    "Ljungskile SK",
+    "Östersunds FK",
+    "Watford F.C.",
+    "Udinese Calcio",
+    "Pafos FC"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 2864,
+  "full_name": "Alexander Isak",
+  "nationality": "Sweden",
+  "birth_date": "1999-09-21",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2022-08-26",
+      "type": "€ 70M",
+      "team_out": "Real Sociedad",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "AIK Fotboll",
+    "Borussia Dortmund",
+    "Real Sociedad",
+    "Newcastle United F.C.",
+    "Liverpool F.C."
+  ]
+}

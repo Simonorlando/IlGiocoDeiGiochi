@@ -1,0 +1,31 @@
+{
+  "player_id": 925,
+  "full_name": "Gonçalo Manuel Ganchinho Guedes",
+  "nationality": "Portugal",
+  "birth_date": "1996-11-29",
+  "birth_place": "Benavente",
+  "career_transfers": [
+    {
+      "date": "2025-08-04",
+      "type": "Transfer",
+      "team_out": "Wolves",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-08-03",
+      "type": "Transfer",
+      "team_out": "Wolves",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Paris Saint-Germain FC",
+    "Valencia CF",
+    "Wolverhampton Wanderers F.C.",
+    "S.L. Benfica",
+    "Villarreal CF",
+    "Real Sociedad"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 47302,
+  "full_name": "Diego Javier Llorente Ríos",
+  "nationality": "Spain",
+  "birth_date": "1993-08-16",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2020-09-24",
+      "type": "€ 19.7M",
+      "team_out": "Real Sociedad",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 6M",
+      "team_out": "Real Madrid",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "Rayo Vallecano",
+    "Málaga CF",
+    "Real Sociedad",
+    "Leeds United F.C."
+  ]
+}

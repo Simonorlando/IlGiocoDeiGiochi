@@ -1,0 +1,22 @@
+{
+  "player_id": 175,
+  "full_name": "Eric Jeremy Edgar Dier",
+  "nationality": "England",
+  "birth_date": "1994-01-15",
+  "birth_place": "Cheltenham",
+  "career_transfers": [
+    {
+      "date": "2014-08-02",
+      "type": "€ 5M",
+      "team_out": "Sporting CP",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "Sporting CP",
+    "Tottenham Hotspur F.C.",
+    "FC Bayern Munich",
+    "AS Monaco FC"
+  ]
+}

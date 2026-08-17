@@ -1,0 +1,35 @@
+{
+  "player_id": 76082,
+  "full_name": "Pablo Domingo Cáceres Rodríguez",
+  "nationality": "Uruguay",
+  "birth_date": "1985-04-22",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2012-08-08",
+      "type": "Loan",
+      "team_out": "Mallorca",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "MSV Duisburg",
+    "FC Twente",
+    "AC Omonia",
+    "Club Atlético Tigre",
+    "Danubio F.C.",
+    "RCD Mallorca",
+    "Torino FC",
+    "Club Social de Deportes Rangers",
+    "Club Atlético Tigre",
+    "Atlético Tucumán",
+    "Club Atlético Tigre"
+  ]
+}

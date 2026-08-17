@@ -1,0 +1,31 @@
+{
+  "player_id": 2762,
+  "full_name": "Josip Brekalo",
+  "nationality": "Croatia",
+  "birth_date": "1998-06-23",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "VfL Wolfsburg",
+    "VfB Stuttgart",
+    "ACF Fiorentina",
+    "HNK Hajduk Split",
+    "Kasımpaşa S.K.",
+    "Real Oviedo",
+    "Hertha BSC"
+  ]
+}

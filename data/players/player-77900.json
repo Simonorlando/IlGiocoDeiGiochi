@@ -1,0 +1,37 @@
+{
+  "player_id": 77900,
+  "full_name": "Gustavo Franchin Schiavolin",
+  "nationality": "Brazil",
+  "birth_date": "1982-02-19",
+  "birth_place": "Campinas",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Loan",
+      "team_out": "Desportivo Brasil",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Guarani Futebol Clube",
+    "PFC Levski Sofia",
+    "Goiás Esporte Clube",
+    "FC Dinamo Moscow",
+    "Associação Atlética Ponte Preta",
+    "Clube de Regatas Brasil",
+    "Associação Atlética Coruripe",
+    "Paraná Clube",
+    "Sociedade Esportiva Palmeiras",
+    "Desportivo Brasil",
+    "Schalke 04",
+    "Cruzeiro E.C.",
+    "CR Vasco da Gama",
+    "US Lecce",
+    "Botafogo F.R.",
+    "Associação Portuguesa de Desportos",
+    "Qingdao Hainiu F.C.",
+    "Paraná Clube",
+    "Club Athletico Paranaense",
+    "Esporte Clube Bahia"
+  ]
+}

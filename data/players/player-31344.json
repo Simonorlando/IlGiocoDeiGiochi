@@ -1,0 +1,30 @@
+{
+  "player_id": 31344,
+  "full_name": "Jaime Báez Stábile",
+  "nationality": "Uruguay",
+  "birth_date": "1995-04-25",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2023-01-13",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2021-01-29",
+      "type": "N/A",
+      "team_out": "Cosenza",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Juventud de Las Piedras",
+    "ACF Fiorentina",
+    "Defensor Sporting Club",
+    "Juventud de Las Piedras",
+    "US Livorno 1915",
+    "Spezia Calcio",
+    "Delfino Pescara 1936"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 1836,
+  "full_name": "Francesco Acerbi",
+  "nationality": "Italy",
+  "birth_date": "1988-02-10",
+  "birth_place": "Vizzolo Predabissi",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 4M",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Inter",
+      "team_in": "Acerbi Francesco"
+    }
+  ],
+  "career_clubs": [
+    "AC Pavia 1911",
+    "Spezia Calcio",
+    "A.C. Renate",
+    "US Triestina Calcio 1918",
+    "AS Reggina 1914",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "AC Milan",
+    "AC ChievoVerona",
+    "US Sassuolo Calcio",
+    "Genoa CFC",
+    "SS Lazio",
+    "Inter Milan"
+  ]
+}

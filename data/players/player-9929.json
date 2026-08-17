@@ -1,0 +1,35 @@
+{
+  "player_id": 9929,
+  "full_name": "Felipe Melo de Carvalho",
+  "nationality": "Brazil",
+  "birth_date": "1983-06-26",
+  "birth_place": "Volta Redonda",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2011-07-22",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Cruzeiro E.C.",
+    "Grêmio FBPA",
+    "Racing de Santander",
+    "RCD Mallorca",
+    "Unión Deportiva Almería",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "Galatasaray S.K.",
+    "Inter Milan",
+    "Sociedade Esportiva Palmeiras",
+    "Fluminense F.C."
+  ]
+}

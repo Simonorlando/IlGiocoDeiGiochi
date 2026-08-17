@@ -1,0 +1,31 @@
+{
+  "player_id": 25353,
+  "full_name": "Valentino Lando Lazaro",
+  "nationality": "Austria",
+  "birth_date": "1996-03-24",
+  "birth_place": "Graz",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Hertha BSC"
+    },
+    {
+      "date": "2017-08-03",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Hertha BSC"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg",
+    "FC Liefering",
+    "Hertha BSC",
+    "Inter Milan",
+    "Newcastle United F.C.",
+    "Borussia Mönchengladbach",
+    "S.L. Benfica",
+    "Torino FC"
+  ]
+}

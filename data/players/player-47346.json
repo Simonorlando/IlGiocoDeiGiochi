@@ -1,0 +1,42 @@
+{
+  "player_id": 47346,
+  "full_name": "Facundo Ferreyra",
+  "nationality": "Argentina",
+  "birth_date": "1991-03-14",
+  "birth_place": "Lomas de Zamora",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Newcastle",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2014-08-03",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2013-07-09",
+      "type": "€ 9M",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Banfield",
+    "Club Atlético Vélez Sarsfield",
+    "FC Shakhtar Donetsk",
+    "Newcastle United F.C.",
+    "S.L. Benfica",
+    "RCD Espanyol de Barcelona",
+    "RC Celta de Vigo"
+  ]
+}

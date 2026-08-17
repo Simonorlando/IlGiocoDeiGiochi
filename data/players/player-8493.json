@@ -1,0 +1,44 @@
+{
+  "player_id": 8493,
+  "full_name": "Roman Yaremchuk",
+  "nationality": "Ukraine",
+  "birth_date": "1995-11-27",
+  "birth_place": "Lviv",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "€ 3.5M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2022-08-30",
+      "type": "€ 16M",
+      "team_out": "Benfica",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "FC Dynamo Kyiv",
+    "FC Dynamo-2 Kyiv",
+    "FC Oleksandriya",
+    "KAA Gent",
+    "S.L. Benfica",
+    "Club Brugge K.V.",
+    "Valencia CF",
+    "Olympiacos F.C.",
+    "Olympique Lyonnais"
+  ]
+}

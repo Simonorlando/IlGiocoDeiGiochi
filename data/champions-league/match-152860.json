@@ -1,0 +1,178 @@
+{
+  "fixture_id": 152860,
+  "competition": "champions_league",
+  "season": 2016,
+  "teams": [
+    {
+      "team_name": "Manchester City",
+      "team_id": 50,
+      "formation": "4-1-4-1",
+      "lineup": [
+        {
+          "player_id": 2275,
+          "shirt_number": 13,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 50785,
+          "shirt_number": 3,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 624,
+          "shirt_number": 30,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 626,
+          "shirt_number": 24,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 634,
+          "shirt_number": 21,
+          "position": "M",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 90493,
+          "shirt_number": 42,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 640,
+          "shirt_number": 25,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 629,
+          "shirt_number": 17,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 645,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 644,
+          "shirt_number": 19,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 642,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    },
+    {
+      "team_name": "Monaco",
+      "team_id": 91,
+      "formation": "4-4-2",
+      "lineup": [
+        {
+          "player_id": 92,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 100,
+          "shirt_number": 24,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 97,
+          "shirt_number": 25,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 102,
+          "shirt_number": 19,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 623,
+          "shirt_number": 23,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 299,
+          "shirt_number": 2,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1635,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 45,
+          "shirt_number": 27,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 636,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 2,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 119,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 278,
+          "shirt_number": 29,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 5,
+  "away_score": 3
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 30933,
+  "full_name": "Karim Laribi",
+  "nationality": "Tunisia",
+  "birth_date": "1991-04-20",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 100K",
+      "team_out": "Palermo",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2011-07-04",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Calcio Foggia 1920",
+    "US Sassuolo Calcio",
+    "Italy under-21 Serie B representative team",
+    "Bologna F.C. 1909",
+    "Latina Calcio 1932",
+    "Inter Milan",
+    "Fulham F.C.",
+    "Hellas Verona FC",
+    "AC Cesena"
+  ]
+}

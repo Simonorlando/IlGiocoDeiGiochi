@@ -1,0 +1,30 @@
+{
+  "player_id": 124,
+  "full_name": "Jasper Cillessen",
+  "nationality": "Netherlands",
+  "birth_date": "1989-04-22",
+  "birth_place": "Groesbeek",
+  "career_transfers": [
+    {
+      "date": "2022-08-08",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "NEC Nijmegen"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 35M",
+      "team_out": "Barcelona",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "N.E.C.",
+    "AFC Ajax",
+    "FC Barcelona",
+    "Valencia CF",
+    "N.E.C.",
+    "UD Las Palmas",
+    "N.E.C."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 290536,
+  "full_name": "Daniel Fila",
+  "nationality": "Czechia",
+  "birth_date": "2002-08-21",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Slavia Praha",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Empoli",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-07-20",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Avellino"
+    }
+  ],
+  "career_clubs": [
+    "Zbrojovka Brno",
+    "Mladá Boleslav",
+    "Slavia Prague",
+    "Teplice",
+    "Venezia",
+    "Empoli",
+    "Avellino"
+  ]
+}

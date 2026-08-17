@@ -1,0 +1,41 @@
+{
+  "player_id": 51128,
+  "full_name": "Reto Pirmin Ziegler",
+  "nationality": "Switzerland",
+  "birth_date": "1986-01-16",
+  "birth_place": "Genève",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 2M",
+      "team_out": "Tottenham",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2007-01-31",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "Tottenham Hotspur F.C.",
+    "Hamburger SV",
+    "Wigan Athletic F.C.",
+    "U.C. Sampdoria",
+    "Juventus FC",
+    "Fenerbahçe Istanbul",
+    "FC Lokomotiv Moscow",
+    "Fenerbahçe Istanbul",
+    "US Sassuolo Calcio",
+    "FC Sion",
+    "US Terre Sainte"
+  ]
+}

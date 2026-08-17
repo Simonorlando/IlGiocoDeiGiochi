@@ -1,0 +1,29 @@
+{
+  "player_id": 50023,
+  "full_name": "Samir Ujkani",
+  "nationality": "Kosovo",
+  "birth_date": "1988-07-05",
+  "birth_place": "Resnik",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2016-07-11",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Novara Calcio",
+    "AC ChievoVerona",
+    "Genoa CFC",
+    "Latina Calcio 1932",
+    "Empoli FC"
+  ]
+}

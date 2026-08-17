@@ -1,0 +1,24 @@
+{
+  "player_id": 188,
+  "full_name": "Samir Handanovič",
+  "nationality": "Slovenia",
+  "birth_date": "1984-07-14",
+  "birth_place": "Ljubljana",
+  "career_transfers": [
+    {
+      "date": "2012-07-10",
+      "type": "€ 6M",
+      "team_out": "Udinese",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "NK Domžale",
+    "NK Zagorje",
+    "Udinese Calcio",
+    "Treviso F.B.C. 1993",
+    "SS Lazio",
+    "Rimini FC",
+    "Inter Milan"
+  ]
+}

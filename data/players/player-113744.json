@@ -1,0 +1,22 @@
+{
+  "player_id": 113744,
+  "full_name": "Anthony Réveillère",
+  "nationality": "France",
+  "birth_date": "1979-11-10",
+  "birth_place": "Doué-la-Fontaine",
+  "career_transfers": [
+    {
+      "date": "2003-01-01",
+      "type": "Loan",
+      "team_out": "Rennes",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Valencia CF",
+    "Olympique Lyonnais",
+    "SSC Napoli",
+    "Sunderland A.F.C."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 786,
+  "full_name": "Nicolò Zaniolo",
+  "nationality": "Italy",
+  "birth_date": "1999-07-02",
+  "birth_place": "Massa",
+  "career_transfers": [
+    {
+      "date": "2024-07-05",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2023-08-18",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2023-02-08",
+      "type": "€ 15M",
+      "team_out": "AS Roma",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Galatasaray",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Udinese",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Galatasaray",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Inter Milan"
+  ]
+}

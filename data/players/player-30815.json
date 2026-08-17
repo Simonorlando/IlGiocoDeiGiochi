@@ -1,0 +1,57 @@
+{
+  "player_id": 30815,
+  "full_name": "Kevin Lasagna",
+  "nationality": "Italy",
+  "birth_date": "1992-08-10",
+  "birth_place": "Suzzara",
+  "career_transfers": [
+    {
+      "date": "2024-07-19",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Fatih Karagümrük",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-08-15",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2021-01-26",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Bari",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Transfer",
+      "team_out": "Hellas Verona",
+      "team_in": "Padova"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Cerea 1912",
+    "A.C. Este",
+    "A.C. Carpi",
+    "Udinese Calcio"
+  ]
+}

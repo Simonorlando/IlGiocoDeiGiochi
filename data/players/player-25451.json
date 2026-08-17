@@ -1,0 +1,19 @@
+{
+  "player_id": 25451,
+  "full_name": "Diego Armando Valentin Contento",
+  "nationality": "Germany",
+  "birth_date": "1990-05-01",
+  "birth_place": "München",
+  "career_transfers": [
+    {
+      "date": "2014-08-09",
+      "type": "€ 1M",
+      "team_out": "Bayern Munich",
+      "team_in": "Bordeaux"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "FC Girondins de Bordeaux"
+  ]
+}

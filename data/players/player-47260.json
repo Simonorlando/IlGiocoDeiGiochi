@@ -1,0 +1,32 @@
+{
+  "player_id": 47260,
+  "full_name": "Sebastián Carlos Cristóforo Pepe",
+  "nationality": "Uruguay",
+  "birth_date": "1993-08-23",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 3M",
+      "team_out": "Sevilla",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2016-08-27",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2013-08-10",
+      "type": "€ 2.3M",
+      "team_out": "Penarol",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Sevilla FC",
+    "ACF Fiorentina"
+  ]
+}

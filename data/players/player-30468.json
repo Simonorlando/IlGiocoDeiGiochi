@@ -1,0 +1,32 @@
+{
+  "player_id": 30468,
+  "full_name": "Antonio Santurro Bueno",
+  "nationality": "Dominican Republic",
+  "birth_date": "1992-02-29",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2014-07-16",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Savoia"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Renate",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-04",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Renate"
+    }
+  ],
+  "career_clubs": [
+    "Savoia 1908 FC",
+    "Bologna F.C. 1909",
+    "Parma Calcio 1913"
+  ]
+}

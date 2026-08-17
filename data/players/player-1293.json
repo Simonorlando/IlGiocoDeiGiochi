@@ -1,0 +1,25 @@
+{
+  "player_id": 1293,
+  "full_name": "Rasmus Falk Jensen",
+  "nationality": "Denmark",
+  "birth_date": "1992-01-15",
+  "birth_place": "Middelfart",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Odense",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "FC Copenhagen",
+      "team_in": "Odense"
+    }
+  ],
+  "career_clubs": [
+    "Odense Boldklub",
+    "F.C. Copenhagen"
+  ]
+}

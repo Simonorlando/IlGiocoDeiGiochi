@@ -1,0 +1,22 @@
+{
+  "player_id": 44,
+  "full_name": "Rodrigo Hernández Cascante",
+  "nationality": "Spain",
+  "birth_date": "1996-06-22",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "€ 20M",
+      "team_out": "Villarreal",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF B",
+    "Villarreal CF",
+    "Atlético Madrid",
+    "Manchester City F.C.",
+    "FC Barcelona"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 18812,
+  "full_name": "Adrián San Miguel del Castillo",
+  "nationality": "Spain",
+  "birth_date": "1987-01-03",
+  "birth_place": "Sevilla",
+  "career_transfers": [
+    {
+      "date": "2024-07-08",
+      "type": "Free",
+      "team_out": "Liverpool",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2019-08-05",
+      "type": "Free",
+      "team_out": "West Ham",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Real Betis B",
+    "CD Alcalá",
+    "CD Utrera",
+    "Real Betis Balompié",
+    "West Ham United F.C.",
+    "Andalusia autonomous football team",
+    "Liverpool F.C.",
+    "Real Betis Balompié"
+  ]
+}

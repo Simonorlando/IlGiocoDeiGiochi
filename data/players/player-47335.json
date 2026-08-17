@@ -1,0 +1,31 @@
+{
+  "player_id": 47335,
+  "full_name": "Dídac Vilá Rosselló",
+  "nationality": "Spain",
+  "birth_date": "1989-06-09",
+  "birth_place": "Mataró",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2011-01-28",
+      "type": "€ 4M",
+      "team_out": "Espanyol",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "AC Milan",
+    "RCD Espanyol de Barcelona",
+    "Real Betis Balompié",
+    "SD Eibar",
+    "AEK Athens F.C.",
+    "RCD Espanyol de Barcelona"
+  ]
+}

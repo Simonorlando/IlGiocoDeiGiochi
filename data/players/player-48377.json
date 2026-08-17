@@ -1,0 +1,40 @@
+{
+  "player_id": 48377,
+  "full_name": "Marek Suchý",
+  "nationality": "Czechia",
+  "birth_date": "1988-03-29",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2019-07-08",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2014-07-02",
+      "type": "N/A",
+      "team_out": "Spartak Moscow",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2014-01-28",
+      "type": "Loan",
+      "team_out": "Spartak Moscow",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "SK Slavia Prague",
+    "Spartak Moscow",
+    "FC Basel",
+    "FC Augsburg",
+    "FK Mladá Boleslav"
+  ]
+}

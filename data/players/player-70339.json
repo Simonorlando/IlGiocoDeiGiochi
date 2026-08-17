@@ -1,0 +1,30 @@
+{
+  "player_id": 70339,
+  "full_name": "Shon Zalman Weissman",
+  "nationality": "Israel",
+  "birth_date": "1996-02-14",
+  "birth_place": "Kiryat Bialik",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Haifa F.C.",
+    "Hapoel Acre F.C.",
+    "Maccabi Netanya F.C.",
+    "Ironi Kiryat Shmona F.C.",
+    "Wolfsberger AC",
+    "Real Valladolid",
+    "Granada CF"
+  ]
+}

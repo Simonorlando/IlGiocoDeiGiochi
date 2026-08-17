@@ -1,0 +1,29 @@
+{
+  "player_id": 66090,
+  "full_name": "Michal Kadlec",
+  "nationality": "Czechia",
+  "birth_date": "1984-12-13",
+  "birth_place": "Vyškov",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Sparta Praha",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Slovácko",
+    "AC Sparta Prague",
+    "Bayer 04 Leverkusen",
+    "Fenerbahçe Istanbul",
+    "AC Sparta Prague",
+    "1. FC Slovácko"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 104851,
+  "full_name": "Guilherme Magdalena Siqueira",
+  "nationality": "Brazil",
+  "birth_date": "1986-04-28",
+  "birth_place": "Florianópolis",
+  "career_transfers": [
+    {
+      "date": "2017-06-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2016-01-31",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "SS Lazio",
+    "SSC Ancona",
+    "Granada CF",
+    "S.L. Benfica",
+    "Atlético Madrid",
+    "Valencia CF",
+    "Inter Milan"
+  ]
+}

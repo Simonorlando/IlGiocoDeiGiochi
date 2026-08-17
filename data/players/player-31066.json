@@ -1,0 +1,37 @@
+{
+  "player_id": 31066,
+  "full_name": "Alessandro Iacobucci",
+  "nationality": "Italy",
+  "birth_date": "1991-06-03",
+  "birth_place": "Pescara",
+  "career_transfers": [
+    {
+      "date": "2013-01-31",
+      "type": "€ 3.4M",
+      "team_out": "Robur Siena",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2011-07-14",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Sudtirol"
+    }
+  ],
+  "career_clubs": [
+    "Mantova 1911",
+    "Siena FC",
+    "F.C. Südtirol",
+    "Italy under-21 Serie B representative team",
+    "Spezia Calcio",
+    "Parma Calcio 1913",
+    "Latina Calcio 1932",
+    "Virtus Entella"
+  ]
+}

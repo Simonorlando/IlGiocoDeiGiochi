@@ -1,0 +1,36 @@
+{
+  "player_id": 2807,
+  "full_name": "Remo Marco Freuler",
+  "nationality": "Switzerland",
+  "birth_date": "1992-04-15",
+  "birth_place": "Ennenda",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 1.9M",
+      "team_out": "Nottingham Forest",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Nottingham Forest",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Bologna",
+      "team_in": "Freuler Remo"
+    }
+  ],
+  "career_clubs": [
+    "FC Winterthur",
+    "Grasshopper Club Zürich",
+    "FC Winterthur",
+    "FC Luzern",
+    "Atalanta BC",
+    "Nottingham Forest F.C.",
+    "Bologna F.C. 1909"
+  ]
+}

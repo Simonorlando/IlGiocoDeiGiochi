@@ -1,0 +1,25 @@
+{
+  "player_id": 30699,
+  "full_name": "Pablo Andrés González",
+  "nationality": "Argentina",
+  "birth_date": "1985-05-28",
+  "birth_place": "Tandil",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "FC Locarno",
+    "Grupo Universitario de Tandil",
+    "Novara Calcio",
+    "Palermo F.C.",
+    "Siena FC",
+    "Novara Calcio",
+    "US Alessandria Calcio 1912"
+  ]
+}

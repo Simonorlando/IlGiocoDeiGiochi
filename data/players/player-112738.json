@@ -1,0 +1,35 @@
+{
+  "player_id": 112738,
+  "full_name": "Souleymane Diamoutèné",
+  "nationality": "Mali",
+  "birth_date": "1983-01-30",
+  "birth_place": "Sikasso",
+  "career_transfers": [
+    {
+      "date": "2012-02-10",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Levski Sofia"
+    },
+    {
+      "date": "2011-01-20",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Lucchese 1905",
+    "A.C. Perugia Calcio",
+    "US Lecce",
+    "AS Roma",
+    "SSC Bari",
+    "Delfino Pescara 1936",
+    "PFC Levski Sofia",
+    "Lupa Roma F.C.",
+    "Fidelis Andria 2018",
+    "Delfino Pescara 1936",
+    "Gżira United F.C.",
+    "A.S.D. Igea Virtus Barcellona"
+  ]
+}

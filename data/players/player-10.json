@@ -1,0 +1,21 @@
+{
+  "player_id": 10,
+  "full_name": "Łukasz Piszczek",
+  "nationality": "Poland",
+  "birth_date": "1985-06-03",
+  "birth_place": "Czechowice-Dziedzice",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Hertha Berlin",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Hertha BSC",
+    "Zagłębie Lubin",
+    "Borussia Dortmund",
+    "ŁKS Goczałkowice-Zdrój"
+  ]
+}

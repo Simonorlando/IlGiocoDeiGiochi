@@ -1,0 +1,29 @@
+{
+  "player_id": 9010,
+  "full_name": "Mato Jajalo",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1988-05-25",
+  "birth_place": "Jajce",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2015-01-28",
+      "type": "N/A",
+      "team_out": "HNK Rijeka",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "NK Slaven Belupo",
+    "Siena FC",
+    "1. FC Köln",
+    "FK Sarajevo",
+    "HNK Rijeka",
+    "Palermo F.C."
+  ]
+}

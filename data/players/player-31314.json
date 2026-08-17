@@ -1,0 +1,30 @@
+{
+  "player_id": 31314,
+  "full_name": "Francesco Fedato",
+  "nationality": "Italy",
+  "birth_date": "1992-10-15",
+  "birth_place": "Mirano",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C.",
+    "Lucchese 1905",
+    "SSC Bari",
+    "Catania FC",
+    "U.C. Sampdoria",
+    "Modena F.C.",
+    "US Livorno 1915"
+  ]
+}

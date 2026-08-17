@@ -1,0 +1,28 @@
+{
+  "player_id": 2503,
+  "full_name": "Iván Rodrigo Piris Leguizamón",
+  "nationality": "Paraguay",
+  "birth_date": "1989-03-10",
+  "birth_place": "Itauguá",
+  "career_transfers": [
+    {
+      "date": "2012-08-01",
+      "type": "Loan",
+      "team_out": "Deportivo Maldonado",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Cerro Porteño",
+    "São Paulo FC",
+    "Deportivo Maldonado",
+    "AS Roma",
+    "Sporting CP",
+    "Udinese Calcio",
+    "Club de Fútbol Monterrey",
+    "Club León",
+    "Newell's Old Boys",
+    "Club Libertad",
+    "Deportivo Recoleta"
+  ]
+}

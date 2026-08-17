@@ -1,0 +1,26 @@
+{
+  "player_id": 114783,
+  "full_name": "Andrea Dossena",
+  "nationality": "Italy",
+  "birth_date": "1981-09-11",
+  "birth_place": "Lodi",
+  "career_transfers": [
+    {
+      "date": "2013-01-11",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "Treviso F.B.C. 1993",
+    "Udinese Calcio",
+    "Liverpool F.C.",
+    "SSC Napoli",
+    "Palermo F.C.",
+    "Sunderland A.F.C.",
+    "Leyton Orient F.C.",
+    "FC Chiasso"
+  ]
+}

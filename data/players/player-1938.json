@@ -1,0 +1,38 @@
+{
+  "player_id": 1938,
+  "full_name": "Ruslan Malinovskyi",
+  "nationality": "Ukraine",
+  "birth_date": "1993-05-04",
+  "birth_place": "Zhytomyr",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 10M",
+      "team_out": "Atalanta",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2023-01-09",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2019-07-16",
+      "type": "€ 13.7M",
+      "team_out": "Genk",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar-3 Donetsk",
+    "FC Sevastopol",
+    "FC Sevastopol-2",
+    "FC Zorya Luhansk",
+    "K.R.C. Genk",
+    "Atalanta BC",
+    "Olympique de Marseille",
+    "Genoa CFC",
+    "Trabzonspor"
+  ]
+}

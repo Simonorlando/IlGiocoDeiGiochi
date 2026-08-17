@@ -1,0 +1,33 @@
+{
+  "player_id": 19465,
+  "full_name": "David Raya Martin",
+  "nationality": "Spain",
+  "birth_date": "1995-09-15",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2024-07-04",
+      "type": "€ 31.9M",
+      "team_out": "Brentford",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Arsenal",
+      "team_in": "Brentford"
+    },
+    {
+      "date": "2023-08-15",
+      "type": "Loan",
+      "team_out": "Brentford",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Blackburn Rovers F.C.",
+    "Southport F.C.",
+    "Brentford F.C.",
+    "Arsenal F.C."
+  ]
+}

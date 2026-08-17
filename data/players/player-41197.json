@@ -1,0 +1,55 @@
+{
+  "player_id": 41197,
+  "full_name": "Wenderson Rodrigues do Nascimento Galeno",
+  "nationality": "Brazil",
+  "birth_date": "1997-10-22",
+  "birth_place": "Barra do Corda",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "N/A",
+      "team_out": "SC Braga",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2019-07-02",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Rio Ave",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2018-07-11",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Rio Ave"
+    },
+    {
+      "date": "2018-01-23",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Portimonense"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Trindade",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Al-Ahli Jeddah"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga",
+    "FC Porto"
+  ]
+}

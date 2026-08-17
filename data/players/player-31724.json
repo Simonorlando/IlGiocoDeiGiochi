@@ -1,0 +1,33 @@
+{
+  "player_id": 31724,
+  "full_name": "Riccardo Fiamozzi",
+  "nationality": "Italy",
+  "birth_date": "1993-05-18",
+  "birth_place": "Trento",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 500K",
+      "team_out": "Lecce",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2020-01-09",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Varese Calcio",
+    "Delfino Pescara 1936",
+    "Genoa CFC",
+    "US Lecce"
+  ]
+}

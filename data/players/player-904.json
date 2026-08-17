@@ -1,0 +1,40 @@
+{
+  "player_id": 904,
+  "full_name": "Paul Labile Pogba",
+  "nationality": "France",
+  "birth_date": "1993-03-15",
+  "birth_place": "Lagny-sur-Marne",
+  "career_transfers": [
+    {
+      "date": "2022-07-11",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "€ 105M",
+      "team_out": "Juventus",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2012-07-30",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Free agent",
+      "team_out": "Juventus",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Juventus FC",
+    "Manchester United F.C.",
+    "Juventus FC",
+    "AS Monaco FC"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "player_id": 18811,
+  "full_name": "Adalberto Peñaranda Maestre",
+  "nationality": "Venezuela",
+  "birth_date": "1997-05-31",
+  "birth_place": "San Cristóbal",
+  "career_transfers": [
+    {
+      "date": "2016-07-11",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2015-07-02",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 700K",
+      "team_out": "Real Esppor Club",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo La Guaira F.C.",
+    "Granada CF",
+    "Udinese Calcio",
+    "Club Recreativo Granada",
+    "Watford F.C.",
+    "Udinese Calcio",
+    "Málaga CF",
+    "Pumas UNAM"
+  ]
+}

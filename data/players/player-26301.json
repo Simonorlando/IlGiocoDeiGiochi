@@ -1,0 +1,20 @@
+{
+  "player_id": 26301,
+  "full_name": "Marc Oliver Kempf",
+  "nationality": "Germany",
+  "birth_date": "1995-01-28",
+  "birth_place": "Lich",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "N/A",
+      "team_out": "Hertha BSC",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Eintracht Frankfurt",
+    "SC Freiburg",
+    "VfB Stuttgart"
+  ]
+}

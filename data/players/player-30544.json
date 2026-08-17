@@ -1,0 +1,25 @@
+{
+  "player_id": 30544,
+  "full_name": "Gianluca Scamacca",
+  "nationality": "Italy",
+  "birth_date": "1999-01-01",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "US Sassuolo Calcio",
+    "US Cremonese",
+    "PEC Zwolle",
+    "Ascoli Calcio 1898 FC",
+    "Genoa CFC",
+    "West Ham United F.C.",
+    "Atalanta BC"
+  ]
+}

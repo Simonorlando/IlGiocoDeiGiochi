@@ -1,0 +1,21 @@
+{
+  "player_id": 31240,
+  "full_name": "Lorenzo Pasciuti",
+  "nationality": "Italy",
+  "birth_date": "1989-09-24",
+  "birth_place": "Carrara",
+  "career_transfers": [
+    {
+      "date": "2019-07-13",
+      "type": "Free",
+      "team_out": "Carpi",
+      "team_in": "Carrarese"
+    }
+  ],
+  "career_clubs": [
+    "S.S.D. Massese",
+    "A.S.D. Biellese 1902",
+    "A.C. Carpi",
+    "Pisa SC"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 31093,
+  "full_name": "Federico Dionisi",
+  "nationality": "Italy",
+  "birth_date": "1987-06-16",
+  "birth_place": "Rieti",
+  "career_transfers": [
+    {
+      "date": "2021-01-29",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2014-07-28",
+      "type": "N/A",
+      "team_out": "Olhanense",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Pol. Monterotondo Lupa",
+    "A.C.R. Messina",
+    "Atletico Roma F.C.",
+    "Celano F.C. Marsica",
+    "U.S. Salernitana 1919",
+    "US Livorno 1915",
+    "S.C. Olhanense",
+    "Frosinone Calcio"
+  ]
+}

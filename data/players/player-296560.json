@@ -1,0 +1,32 @@
+{
+  "player_id": 296560,
+  "full_name": "Jackson Tchatchoua",
+  "nationality": "Cameroon",
+  "birth_date": "2001-09-14",
+  "birth_place": "Ixelles",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Charleroi",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Charleroi",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Transfer",
+      "team_out": "Hellas Verona",
+      "team_in": "Wolves"
+    }
+  ],
+  "career_clubs": [
+    "Charleroi",
+    "Hellas Verona",
+    "Wolverhampton Wanderers"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 31637,
+  "full_name": "Michele Camporese",
+  "nationality": "Italy",
+  "birth_date": "1992-05-19",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2026-01-27",
+      "type": "Free agent",
+      "team_out": "Milan II",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "AC Cesena",
+    "Italy under-21 Serie B representative team",
+    "SSC Bari",
+    "Empoli FC"
+  ]
+}

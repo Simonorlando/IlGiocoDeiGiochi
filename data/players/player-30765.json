@@ -1,0 +1,33 @@
+{
+  "player_id": 30765,
+  "full_name": "Ionuț Andrei Radu",
+  "nationality": "Romania",
+  "birth_date": "1997-05-28",
+  "birth_place": "București",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Pergolettese 1932",
+    "Inter Milan",
+    "U.S. Avellino 1912",
+    "Genoa CFC",
+    "Parma Calcio 1913",
+    "US Cremonese",
+    "AJ Auxerre",
+    "AFC Bournemouth",
+    "Venezia F.C.",
+    "RC Celta de Vigo"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 91422,
+  "full_name": "Raoul Bellanova",
+  "nationality": "Italy",
+  "birth_date": "2000-05-17",
+  "birth_place": "Rho",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Bordeaux"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "Loan",
+      "team_out": "Bordeaux",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "FC Girondins de Bordeaux",
+    "Atalanta BC",
+    "Delfino Pescara 1936",
+    "Cagliari Calcio",
+    "Inter Milan",
+    "Torino FC",
+    "Atalanta BC",
+    "AC Milan"
+  ]
+}

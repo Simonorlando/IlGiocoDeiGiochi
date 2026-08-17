@@ -1,0 +1,19 @@
+{
+  "player_id": 59421,
+  "full_name": "Daniel Fernando Mosquera Bonilla",
+  "nationality": "Colombia",
+  "birth_date": "1999-10-20",
+  "birth_place": "Itsmina",
+  "career_transfers": [
+    {
+      "date": "2024-07-04",
+      "type": "N/A",
+      "team_out": "America de Cali",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "America de Cali",
+    "Verona"
+  ]
+}

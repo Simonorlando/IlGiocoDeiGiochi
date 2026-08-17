@@ -1,0 +1,24 @@
+{
+  "player_id": 182560,
+  "full_name": "Oier Zarraga Egaña",
+  "nationality": "Spain",
+  "birth_date": "1999-01-04",
+  "birth_place": "Getxo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Athletic Club",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Athletic Club",
+    "Udinese Calcio",
+    "Basque Country regional football team",
+    "Arenas Club de Getxo"
+  ]
+}

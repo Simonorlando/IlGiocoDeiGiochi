@@ -1,0 +1,31 @@
+{
+  "player_id": 115251,
+  "full_name": "Antonio Baltasar Doblas Santana",
+  "nationality": "Spain",
+  "birth_date": "1980-08-05",
+  "birth_place": "Dos Hermanas",
+  "career_transfers": [
+    {
+      "date": "2014-02-27",
+      "type": "N/A",
+      "team_out": "Khazar Lankaran",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Real Betis B",
+    "Xerez C.D.",
+    "Real Betis Balompié",
+    "Real Zaragoza",
+    "Sociedad Deportiva Huesca",
+    "Real Zaragoza",
+    "Xerez C.D.",
+    "Khazar Lankaran FC",
+    "SSC Napoli",
+    "Helsingin Jalkapalloklubi",
+    "UE Cornellá",
+    "Odisha FC",
+    "CD Toledo",
+    "Extremadura UD"
+  ]
+}

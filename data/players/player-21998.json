@@ -1,0 +1,29 @@
+{
+  "player_id": 21998,
+  "full_name": "Axel Wilson Arthur Disasi Mhakinis Belho",
+  "nationality": "France",
+  "birth_date": "1998-03-11",
+  "birth_place": "Gonesse",
+  "career_transfers": [
+    {
+      "date": "2023-08-04",
+      "type": "€ 45M",
+      "team_out": "Monaco",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2020-08-07",
+      "type": "€ 13.5M",
+      "team_out": "Reims",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Paris FC",
+    "Stade de Reims",
+    "AS Monaco FC",
+    "Chelsea F.C.",
+    "Aston Villa F.C.",
+    "West Ham United F.C."
+  ]
+}

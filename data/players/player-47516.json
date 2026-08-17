@@ -1,0 +1,27 @@
+{
+  "player_id": 47516,
+  "full_name": "Aleix García Serrano",
+  "nationality": "Spain",
+  "birth_date": "1997-06-28",
+  "birth_place": "Ulldecona",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 18M",
+      "team_out": "Girona",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF B",
+    "Villarreal CF C",
+    "Villarreal CF",
+    "Manchester City F.C.",
+    "Girona FC",
+    "Royal Excel Mouscron",
+    "FC Dinamo Bucharest",
+    "SD Eibar",
+    "Girona FC",
+    "Bayer 04 Leverkusen"
+  ]
+}

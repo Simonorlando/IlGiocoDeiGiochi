@@ -1,0 +1,33 @@
+{
+  "player_id": 115310,
+  "full_name": "Alexandros Tzorvas",
+  "nationality": "Greece",
+  "birth_date": "1982-08-12",
+  "birth_place": "Athina",
+  "career_transfers": [
+    {
+      "date": "2012-08-21",
+      "type": "Swap",
+      "team_out": "Palermo",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2011-08-29",
+      "type": "€ 700K",
+      "team_out": "Panathinaikos",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Panathinaikos F.C.",
+    "Agios Nikolaos F.C.",
+    "G.S. Marko",
+    "Thrasyvoulos F.C.",
+    "OFI Crete F.C.",
+    "Panathinaikos F.C.",
+    "Palermo F.C.",
+    "Genoa CFC",
+    "Apollon Smyrnis F.C.",
+    "NorthEast United FC"
+  ]
+}

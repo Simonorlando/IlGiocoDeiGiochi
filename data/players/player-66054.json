@@ -1,0 +1,31 @@
+{
+  "player_id": 66054,
+  "full_name": "Libor Kozák",
+  "nationality": "Czechia",
+  "birth_date": "1989-05-30",
+  "birth_place": "Brumov-Bylnice",
+  "career_transfers": [
+    {
+      "date": "2019-01-23",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Slovan Liberec"
+    },
+    {
+      "date": "2018-07-16",
+      "type": "Free",
+      "team_out": "Bari",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "SFC Opava",
+    "SS Lazio",
+    "Brescia Calcio",
+    "Aston Villa F.C.",
+    "SSC Bari",
+    "US Livorno 1915",
+    "FC Slovan Liberec",
+    "AC Sparta Prague"
+  ]
+}

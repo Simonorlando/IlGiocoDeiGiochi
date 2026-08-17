@@ -1,0 +1,29 @@
+{
+  "player_id": 37178,
+  "full_name": "Urby Vitorrio Diego Emanuelson",
+  "nationality": "Netherlands",
+  "birth_date": "1986-06-16",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2016-09-06",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Sheffield Wednesday"
+    },
+    {
+      "date": "2016-01-03",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "AC Milan",
+    "Fulham F.C.",
+    "AS Roma",
+    "Atalanta BC",
+    "Hellas Verona FC"
+  ]
+}

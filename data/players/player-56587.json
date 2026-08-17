@@ -1,0 +1,36 @@
+{
+  "player_id": 56587,
+  "full_name": "Manuel Giandonato",
+  "nationality": "Italy",
+  "birth_date": "1991-10-10",
+  "birth_place": "Casoli",
+  "career_transfers": [
+    {
+      "date": "2018-08-23",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Fermana"
+    },
+    {
+      "date": "2016-08-20",
+      "type": "N/A",
+      "team_out": "Padova",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "US Lecce",
+    "Vicenza Calcio",
+    "Italy under-21 Serie B representative team",
+    "AC Cesena",
+    "Parma Calcio 1913",
+    "S.S. Juve Stabia",
+    "U.S. Salernitana 1919",
+    "Unione Sportiva Catanzaro",
+    "Lanciano Calcio 1920",
+    "Calcio Padova",
+    "US Livorno 1915",
+    "Delfino Pescara 1936"
+  ]
+}

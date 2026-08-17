@@ -1,0 +1,28 @@
+{
+  "player_id": 738,
+  "full_name": "Sergio Ramos García",
+  "nationality": "Spain",
+  "birth_date": "1986-03-30",
+  "birth_place": "Camas",
+  "career_transfers": [
+    {
+      "date": "2021-07-08",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2005-09-01",
+      "type": "€ 27M",
+      "team_out": "Sevilla",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla FC",
+    "Real Madrid Club de Fútbol",
+    "Paris Saint-Germain FC",
+    "Sevilla FC",
+    "Club de Fútbol Monterrey"
+  ]
+}

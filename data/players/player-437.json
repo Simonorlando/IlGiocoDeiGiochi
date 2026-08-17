@@ -1,0 +1,38 @@
+{
+  "player_id": 437,
+  "full_name": "Semih Kaya",
+  "nationality": "Turkey",
+  "birth_date": "1991-02-24",
+  "birth_place": "Izmir",
+  "career_transfers": [
+    {
+      "date": "2022-02-03",
+      "type": "Free",
+      "team_out": "Yeni Malatyaspor",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Sparta Praha"
+    },
+    {
+      "date": "2019-01-21",
+      "type": "Loan",
+      "team_out": "Sparta Praha",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2017-07-14",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Sparta Praha"
+    }
+  ],
+  "career_clubs": [
+    "Galatasaray S.K.",
+    "Gaziantepspor",
+    "Kartal S.K."
+  ]
+}

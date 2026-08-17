@@ -1,0 +1,40 @@
+{
+  "player_id": 1470,
+  "full_name": "Luís Manuel Arantes Maximiano",
+  "nationality": "Portugal",
+  "birth_date": "1999-01-05",
+  "birth_place": "Braga",
+  "career_transfers": [
+    {
+      "date": "2024-07-02",
+      "type": "8.1M",
+      "team_out": "Lazio",
+      "team_in": "Almeria"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Almeria",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-08-16",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Almeria"
+    },
+    {
+      "date": "2022-07-13",
+      "type": "€ 11.2M",
+      "team_out": "Granada CF",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga",
+    "Sporting CP",
+    "Sporting CP B",
+    "Sporting CP",
+    "Granada CF"
+  ]
+}

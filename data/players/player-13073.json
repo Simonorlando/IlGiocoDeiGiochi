@@ -1,0 +1,30 @@
+{
+  "player_id": 13073,
+  "full_name": "Javier Alejandro Mascherano",
+  "nationality": "Argentina",
+  "birth_date": "1984-06-08",
+  "birth_place": "San Lorenzo",
+  "career_transfers": [
+    {
+      "date": "2018-01-24",
+      "type": "€ 5.5M",
+      "team_out": "Barcelona",
+      "team_in": "Hebei Zhongji"
+    },
+    {
+      "date": "2010-08-29",
+      "type": "€ 20M",
+      "team_out": "Liverpool",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "S.C. Corinthians Paulista",
+    "West Ham United F.C.",
+    "Liverpool F.C.",
+    "FC Barcelona",
+    "Hebei F.C.",
+    "Estudiantes de La Plata"
+  ]
+}

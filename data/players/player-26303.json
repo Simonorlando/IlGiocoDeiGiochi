@@ -1,0 +1,34 @@
+{
+  "player_id": 26303,
+  "full_name": "Borna Sosa",
+  "nationality": "Croatia",
+  "birth_date": "1998-01-21",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2024-08-17",
+      "type": "Loan",
+      "team_out": "Ajax",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Torino",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Torino",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "VfB Stuttgart",
+    "AFC Ajax",
+    "Torino FC",
+    "Crystal Palace F.C."
+  ]
+}

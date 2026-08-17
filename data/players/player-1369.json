@@ -1,0 +1,30 @@
+{
+  "player_id": 1369,
+  "full_name": "Miha Zajc",
+  "nationality": "Slovenia",
+  "birth_date": "1994-07-01",
+  "birth_place": "Šempeter pri Gorici",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "€ 6M",
+      "team_out": "Empoli",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2017-01-25",
+      "type": "N/A",
+      "team_out": "Olimpija Ljubljana",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "NK Interblock",
+    "NK Olimpija Ljubljana",
+    "NK Celje",
+    "NK Olimpija Ljubljana",
+    "Empoli FC",
+    "Fenerbahçe Istanbul",
+    "Genoa CFC"
+  ]
+}

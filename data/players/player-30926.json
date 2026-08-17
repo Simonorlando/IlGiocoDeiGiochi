@@ -1,0 +1,30 @@
+{
+  "player_id": 30926,
+  "full_name": "Luigi Vitale",
+  "nationality": "Italy",
+  "birth_date": "1987-10-05",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2009-08-01",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Lanciano Calcio 1920",
+    "US Livorno 1915",
+    "Bologna F.C. 1909",
+    "Ternana Calcio",
+    "S.S. Juve Stabia",
+    "Ternana Calcio"
+  ]
+}

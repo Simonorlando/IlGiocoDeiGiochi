@@ -1,0 +1,27 @@
+{
+  "player_id": 1930,
+  "full_name": "Joakim Mæhle Pedersen",
+  "nationality": "Denmark",
+  "birth_date": "1997-05-20",
+  "birth_place": "Østervrå",
+  "career_transfers": [
+    {
+      "date": "2023-08-12",
+      "type": "€ 13M",
+      "team_out": "Atalanta",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2021-01-04",
+      "type": "N/A",
+      "team_out": "Genk",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "AaB",
+    "Genk",
+    "Atalanta",
+    "VfL Wolfsburg"
+  ]
+}

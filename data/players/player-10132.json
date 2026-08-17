@@ -1,0 +1,27 @@
+{
+  "player_id": 10132,
+  "full_name": "Marco Antônio de Mattos Filho",
+  "nationality": "Brazil",
+  "birth_date": "1986-07-03",
+  "birth_place": "Passo Fundo",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "Botafogo F.R.",
+    "Sociedade Esportiva Palmeiras",
+    "Figueirense Futebol Clube",
+    "Fluminense F.C.",
+    "AS Roma",
+    "Hellas Verona FC",
+    "Al Ittihad FC",
+    "Udinese Calcio",
+    "Al Ahli FC"
+  ]
+}

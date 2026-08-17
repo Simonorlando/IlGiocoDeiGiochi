@@ -1,0 +1,34 @@
+{
+  "player_id": 1347,
+  "full_name": "Victor Moses",
+  "nationality": "Nigeria",
+  "birth_date": "1990-12-12",
+  "birth_place": "Kaduna",
+  "career_transfers": [
+    {
+      "date": "2020-08-31",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2020-01-23",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Crystal Palace F.C.",
+    "Wigan Athletic F.C.",
+    "Chelsea F.C.",
+    "Liverpool F.C.",
+    "Stoke City F.C.",
+    "West Ham United F.C.",
+    "Fenerbahçe Istanbul",
+    "Inter Milan",
+    "Spartak Moscow",
+    "Luton Town F.C.",
+    "FC Kaisar"
+  ]
+}

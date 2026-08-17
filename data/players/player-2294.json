@@ -1,0 +1,33 @@
+{
+  "player_id": 2294,
+  "full_name": "Willian Borges da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1988-08-09",
+  "birth_place": "Ribeirão Pires",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "Free",
+      "team_out": "Fulham",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2025-02-05",
+      "type": "Free agent",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Fulham"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "FC Shakhtar Donetsk",
+    "FC Anzhi Makhachkala",
+    "Chelsea F.C.",
+    "Arsenal F.C.",
+    "S.C. Corinthians Paulista",
+    "Fulham F.C.",
+    "Olympiacos F.C.",
+    "Fulham F.C.",
+    "Grêmio FBPA"
+  ]
+}

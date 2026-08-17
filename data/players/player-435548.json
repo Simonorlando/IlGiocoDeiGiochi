@@ -1,0 +1,38 @@
+{
+  "player_id": 435548,
+  "full_name": "Mateus Henrique Vanelli Lusuardi",
+  "nationality": "Brazil",
+  "birth_date": "2004-01-08",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Reggiana",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Frosinone",
+    "Pisa",
+    "Reggiana"
+  ]
+}

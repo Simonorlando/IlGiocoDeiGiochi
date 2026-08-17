@@ -1,0 +1,27 @@
+{
+  "player_id": 975,
+  "full_name": "Julian Baumgartlinger",
+  "nationality": "Austria",
+  "birth_date": "1988-01-02",
+  "birth_place": "Salzburg",
+  "career_transfers": [
+    {
+      "date": "2022-08-16",
+      "type": "Free",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 6M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "FK Austria Wien",
+    "1. FSV Mainz 05",
+    "Bayer 04 Leverkusen"
+  ]
+}

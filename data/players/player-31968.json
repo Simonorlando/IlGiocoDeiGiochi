@@ -1,0 +1,29 @@
+{
+  "player_id": 31968,
+  "full_name": "Achille Coser",
+  "nationality": "Italy",
+  "birth_date": "1982-07-14",
+  "birth_place": "Gazzaniga",
+  "career_transfers": [
+    {
+      "date": "2015-01-20",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Virtus Entella"
+    }
+  ],
+  "career_clubs": [
+    "U.C. AlbinoLeffe",
+    "Atalanta BC",
+    "A.S.D. Biellese 1902",
+    "U.S. Pergolettese 1932",
+    "F.C. Pro Vercelli 1892",
+    "Ascoli Calcio 1898 FC",
+    "Associazione Sportiva Pro Belvedere Vercelli",
+    "Novara Calcio",
+    "Vicenza Calcio",
+    "AC Cesena",
+    "US Livorno 1915",
+    "Virtus Entella"
+  ]
+}

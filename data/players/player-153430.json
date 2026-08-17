@@ -1,0 +1,26 @@
+{
+  "player_id": 153430,
+  "full_name": "Anthony David Junior Elanga",
+  "nationality": "Sweden",
+  "birth_date": "2002-04-27",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2025-07-11",
+      "type": "Transfer",
+      "team_out": "Ashington AFC",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2025-07-11",
+      "type": "Transfer",
+      "team_out": "Nottingham Forest",
+      "team_in": "Newcastle"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Nottingham Forest F.C.",
+    "Newcastle United F.C."
+  ]
+}

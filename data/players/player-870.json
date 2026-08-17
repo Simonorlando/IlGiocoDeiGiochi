@@ -1,0 +1,37 @@
+{
+  "player_id": 870,
+  "full_name": "Simone Muratore",
+  "nationality": "Italy",
+  "birth_date": "1998-05-30",
+  "birth_place": "Cuneo",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Tondela",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Tondela"
+    },
+    {
+      "date": "2020-09-03",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 7M",
+      "team_out": "Juventus U23",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen",
+    "Juventus FC"
+  ]
+}

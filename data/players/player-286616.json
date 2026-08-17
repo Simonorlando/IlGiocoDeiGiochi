@@ -1,0 +1,20 @@
+{
+  "player_id": 286616,
+  "full_name": "Filip Jörgensen",
+  "nationality": "Denmark",
+  "birth_date": "2002-04-16",
+  "birth_place": "Lomma",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "€ 24.5M",
+      "team_out": "Villarreal",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF B",
+    "Villarreal CF",
+    "Chelsea F.C."
+  ]
+}

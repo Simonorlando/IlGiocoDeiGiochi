@@ -1,0 +1,29 @@
+{
+  "player_id": 286639,
+  "full_name": "Bryan Zaragoza Martínez",
+  "nationality": "Spain",
+  "birth_date": "2001-04-25",
+  "birth_place": "Málaga",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "El Ejido",
+    "Granada",
+    "Bayern Munich",
+    "Osasuna",
+    "Celta",
+    "Roma"
+  ]
+}

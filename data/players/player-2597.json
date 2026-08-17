@@ -1,0 +1,29 @@
+{
+  "player_id": 2597,
+  "full_name": "Takehiro Tomiyasu",
+  "nationality": "Japan",
+  "birth_date": "1998-11-05",
+  "birth_place": "Fukuoka",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2019-07-09",
+      "type": "€ 7M",
+      "team_out": "St. Truiden",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Avispa Fukuoka",
+    "Sint-Truidense V.V.",
+    "Bologna F.C. 1909",
+    "Arsenal F.C.",
+    "AFC Ajax",
+    "Crystal Palace F.C."
+  ]
+}

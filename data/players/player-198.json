@@ -1,0 +1,29 @@
+{
+  "player_id": 198,
+  "full_name": "Milan Škriniar",
+  "nationality": "Slovakia",
+  "birth_date": "1995-02-11",
+  "birth_place": "Žiar nad Hronom",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2017-07-07",
+      "type": "€ 23M",
+      "team_out": "Sampdoria",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "MŠK Žilina",
+    "FC Zlaté Moravce",
+    "U.C. Sampdoria",
+    "Inter Milan",
+    "Paris Saint-Germain FC",
+    "Fenerbahçe Istanbul"
+  ]
+}

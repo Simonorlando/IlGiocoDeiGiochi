@@ -1,0 +1,36 @@
+{
+  "player_id": 844,
+  "full_name": "Abel Mathías Hernández Platero",
+  "nationality": "Uruguay",
+  "birth_date": "1990-08-08",
+  "birth_place": "Pando",
+  "career_transfers": [
+    {
+      "date": "2019-07-27",
+      "type": "N/A",
+      "team_out": "CSKA Moscow",
+      "team_in": "Al Ahli Doha"
+    },
+    {
+      "date": "2018-08-01",
+      "type": "Free",
+      "team_out": "Hull City",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "Central Español",
+    "Club Atlético Peñarol",
+    "Palermo F.C.",
+    "Hull City A.F.C.",
+    "PFC CSKA Moscow",
+    "Al Ahli SC",
+    "S.C. Internacional",
+    "Fluminense F.C.",
+    "Atletico de San Luis",
+    "Club Atlético Peñarol",
+    "Club Atlético Rosario Central",
+    "Liverpool F.C. (Montevideo)",
+    "Club Atlético Peñarol"
+  ]
+}

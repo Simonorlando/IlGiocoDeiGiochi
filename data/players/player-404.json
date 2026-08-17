@@ -1,0 +1,30 @@
+{
+  "player_id": 404,
+  "full_name": "Bastian Oczipka",
+  "nationality": "Germany",
+  "birth_date": "1989-01-12",
+  "birth_place": "Bergisch Gladbach",
+  "career_transfers": [
+    {
+      "date": "2021-08-30",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Union Berlin"
+    },
+    {
+      "date": "2017-07-15",
+      "type": "€ 4.5M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "F.C. Hansa Rostock",
+    "FC St. Pauli",
+    "Eintracht Frankfurt",
+    "Schalke 04",
+    "1. FC Union Berlin",
+    "Arminia Bielefeld"
+  ]
+}

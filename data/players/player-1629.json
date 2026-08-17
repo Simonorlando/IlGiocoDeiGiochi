@@ -1,0 +1,32 @@
+{
+  "player_id": 1629,
+  "full_name": "Andrea Conti",
+  "nationality": "Italy",
+  "birth_date": "1994-03-02",
+  "birth_place": "Lecco",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2021-01-21",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta U20",
+    "Perugia",
+    "Atalanta",
+    "Lanciano FC",
+    "Atalanta",
+    "AC Milan",
+    "Parma",
+    "AC Milan",
+    "Sampdoria"
+  ]
+}

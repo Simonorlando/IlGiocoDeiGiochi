@@ -1,0 +1,37 @@
+{
+  "player_id": 48528,
+  "full_name": "Alexandre Dimitri Song-Billong",
+  "nationality": "Cameroon",
+  "birth_date": "1987-09-09",
+  "birth_place": "Douala",
+  "career_transfers": [
+    {
+      "date": "2015-09-01",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2014-08-30",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2012-08-20",
+      "type": "€ 19M",
+      "team_out": "Arsenal",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "SC Bastia",
+    "Arsenal F.C.",
+    "Charlton Athletic F.C.",
+    "FC Barcelona",
+    "West Ham United F.C.",
+    "Rubin Kazan",
+    "FC Sion",
+    "Arta/Solar7"
+  ]
+}

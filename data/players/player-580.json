@@ -1,0 +1,29 @@
+{
+  "player_id": 580,
+  "full_name": "Jonas Gonçalves Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "1984-04-01",
+  "birth_place": "Bebedouro",
+  "career_transfers": [
+    {
+      "date": "2014-09-12",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2011-01-24",
+      "type": "1.3M €",
+      "team_out": "Gremio",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Guarani Futebol Clube",
+    "Santos F.C.",
+    "Grêmio FBPA",
+    "Associação Portuguesa de Desportos",
+    "Valencia CF",
+    "S.L. Benfica"
+  ]
+}

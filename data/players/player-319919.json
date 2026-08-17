@@ -1,0 +1,31 @@
+{
+  "player_id": 319919,
+  "full_name": "Oussama El Azzouzi",
+  "nationality": "Morocco",
+  "birth_date": "2001-05-29",
+  "birth_place": "Veenendaal",
+  "career_transfers": [
+    {
+      "date": "2023-07-20",
+      "type": "€ 2M",
+      "team_out": "Union St. Gilloise",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-08-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Auxerre"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Auxerre",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Royale Union Saint-Gilloise",
+    "Bologna F.C. 1909"
+  ]
+}

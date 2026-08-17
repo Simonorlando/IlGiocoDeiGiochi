@@ -1,0 +1,23 @@
+{
+  "player_id": 172,
+  "full_name": "Bamidele Jermaine Alli",
+  "nationality": "England",
+  "birth_date": "1996-04-11",
+  "birth_place": "Milton Keynes",
+  "career_transfers": [
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "Como",
+      "team_in": "Alli Dele"
+    }
+  ],
+  "career_clubs": [
+    "Milton Keynes Dons F.C.",
+    "Tottenham Hotspur F.C.",
+    "Milton Keynes Dons F.C.",
+    "Everton F.C.",
+    "Beşiktaş J.K. (Football)",
+    "Como 1907"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 1146,
+  "full_name": "Nordi Mukiele Mulere",
+  "nationality": "France",
+  "birth_date": "1997-11-01",
+  "birth_place": "Montreuil",
+  "career_transfers": [
+    {
+      "date": "2022-07-26",
+      "type": "€ 12M",
+      "team_out": "RB Leipzig",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 16M",
+      "team_out": "Montpellier",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Stade Lavallois",
+    "Montpellier Hérault Sport Club",
+    "RB Leipzig",
+    "Paris Saint-Germain FC",
+    "Bayer 04 Leverkusen",
+    "Sunderland A.F.C."
+  ]
+}

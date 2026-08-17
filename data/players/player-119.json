@@ -1,0 +1,33 @@
+{
+  "player_id": 119,
+  "full_name": "Radamel Falcao García Zárate",
+  "nationality": "Colombia",
+  "birth_date": "1986-02-10",
+  "birth_place": "Santa Marta",
+  "career_transfers": [
+    {
+      "date": "2021-09-04",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Rayo Vallecano"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "N/A",
+      "team_out": "Monaco",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Gimnasia de la plata",
+    "Club Atlético River Plate",
+    "FC Porto",
+    "Atlético Madrid",
+    "AS Monaco FC",
+    "Manchester United F.C.",
+    "Chelsea F.C.",
+    "Galatasaray S.K.",
+    "Rayo Vallecano",
+    "Millonarios"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1018,
+  "full_name": "Assan Torrez Ceesay",
+  "nationality": "Gambia",
+  "birth_date": "1994-03-17",
+  "birth_place": "Banjul",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Damac"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "FC Zurich",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FC Lugano"
+  ]
+}

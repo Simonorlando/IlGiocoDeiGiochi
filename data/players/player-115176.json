@@ -1,0 +1,29 @@
+{
+  "player_id": 115176,
+  "full_name": "Stefano Lucchini",
+  "nationality": "Italy",
+  "birth_date": "1980-10-02",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2016-07-08",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2000-08-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Ternana"
+    }
+  ],
+  "career_clubs": [
+    "US Cremonese",
+    "Ternana Calcio",
+    "Empoli FC",
+    "U.C. Sampdoria",
+    "Atalanta BC",
+    "AC Cesena"
+  ]
+}

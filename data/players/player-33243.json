@@ -1,0 +1,21 @@
+{
+  "player_id": 33243,
+  "full_name": "Andrés Iniesta Luján",
+  "nationality": "Spain",
+  "birth_date": "1984-05-11",
+  "birth_place": "Fuentealbilla",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Vissel Kobe"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Vissel Kobe",
+    "Emirates Club"
+  ]
+}

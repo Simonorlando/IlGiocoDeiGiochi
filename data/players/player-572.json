@@ -1,0 +1,40 @@
+{
+  "player_id": 572,
+  "full_name": "Luís Miguel Afonso Fernandes",
+  "nationality": "Portugal",
+  "birth_date": "1989-10-06",
+  "birth_place": "Bragança",
+  "career_transfers": [
+    {
+      "date": "2013-07-26",
+      "type": "€ 6M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2011-08-25",
+      "type": "N/A",
+      "team_out": "SC Braga",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "GD Bragança",
+    "S.C. Braga",
+    "G.D. Ribeirão",
+    "S.C. Covilhã",
+    "F.C. Paços de Ferreira",
+    "Atlético Madrid",
+    "Deportivo de A Coruña",
+    "Atlético Madrid",
+    "S.L. Benfica",
+    "RCD Espanyol de Barcelona",
+    "Udinese Calcio"
+  ]
+}

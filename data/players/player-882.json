@@ -1,0 +1,22 @@
+{
+  "player_id": 882,
+  "full_name": "David de Gea Quintana",
+  "nationality": "Spain",
+  "birth_date": "1990-11-07",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 20M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid Juvenil",
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Manchester United F.C.",
+    "ACF Fiorentina"
+  ]
+}

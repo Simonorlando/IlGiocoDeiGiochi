@@ -1,0 +1,27 @@
+{
+  "player_id": 2370,
+  "full_name": "Maurício José da Silveira Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1988-10-21",
+  "birth_place": "São José dos Campos",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "Free",
+      "team_out": "Zenit",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2016-01-17",
+      "type": "Free",
+      "team_out": "Akhmat",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "FC Akhmat Grozny",
+    "FC Zenit Saint Petersburg",
+    "Panathinaikos F.C."
+  ]
+}

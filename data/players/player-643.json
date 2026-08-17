@@ -1,0 +1,26 @@
+{
+  "player_id": 643,
+  "full_name": "Gabriel Fernando de Jesus",
+  "nationality": "Brazil",
+  "birth_date": "1997-04-03",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2022-07-04",
+      "type": "€ 52.2M",
+      "team_out": "Manchester City",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2017-01-19",
+      "type": "€ 32M",
+      "team_out": "Palmeiras",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "Manchester City F.C.",
+    "Arsenal F.C."
+  ]
+}

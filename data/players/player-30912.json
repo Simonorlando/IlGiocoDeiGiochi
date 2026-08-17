@@ -1,0 +1,25 @@
+{
+  "player_id": 30912,
+  "full_name": "Alessandro Berardi",
+  "nationality": "Italy",
+  "birth_date": "1991-01-16",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2018-12-14",
+      "type": "Free",
+      "team_out": "Bari",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "SS Lazio"
+  ]
+}

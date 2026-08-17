@@ -1,0 +1,26 @@
+{
+  "player_id": 262,
+  "full_name": "Presnel Kimpembe",
+  "nationality": "France",
+  "birth_date": "1995-08-13",
+  "birth_place": "Beaumont-sur-Oise",
+  "career_transfers": [
+    {
+      "date": "2025-09-05",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Qatar SC"
+    },
+    {
+      "date": "2025-09-06",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Qatar SC"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Qatar SC",
+    "Al Kharaitiyat SC"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 48473,
+  "full_name": "Dejan Stojanovic",
+  "nationality": "Austria",
+  "birth_date": "1993-07-19",
+  "birth_place": "Feldkirch",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-01-21",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Lustenau",
+    "Bologna",
+    "FC Crotone",
+    "Bologna",
+    "FC St. Gallen 1879",
+    "Middlesbrough",
+    "FC St. Pauli",
+    "Middlesbrough",
+    "FC Ingolstadt 04",
+    "Middlesbrough",
+    "SSV Jahn Regensburg",
+    "SCR Altach"
+  ]
+}

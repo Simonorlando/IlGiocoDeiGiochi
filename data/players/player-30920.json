@@ -1,0 +1,43 @@
+{
+  "player_id": 30920,
+  "full_name": "Alessandro Crescenzi",
+  "nationality": "Italy",
+  "birth_date": "1991-09-25",
+  "birth_place": "Marino",
+  "career_transfers": [
+    {
+      "date": "2023-07-29",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Monterosi"
+    },
+    {
+      "date": "2022-09-29",
+      "type": "Free",
+      "team_out": "Cremonese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-07-13",
+      "type": "€ 250K",
+      "team_out": "Pescara",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "U.S. Grosseto 1912",
+    "F.C. Crotone",
+    "SSC Bari",
+    "Delfino Pescara 1936",
+    "Novara Calcio",
+    "A.C. Ajaccio",
+    "Novara Calcio",
+    "A.C. Perugia Calcio",
+    "Delfino Pescara 1936",
+    "Hellas Verona FC",
+    "US Cremonese",
+    "Delfino Pescara 1936",
+    "Monterosi Tuscia FC"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 1561,
+  "full_name": "Marc Bartra Aregall",
+  "nationality": "Spain",
+  "birth_date": "1991-01-15",
+  "birth_place": "Sant Jaume dels Domenys",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 8M",
+      "team_out": "Barcelona",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol de Barcelona",
+    "FC Barcelona",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Borussia Dortmund",
+    "Real Betis Balompié",
+    "Trabzonspor",
+    "Real Betis Balompié"
+  ]
+}

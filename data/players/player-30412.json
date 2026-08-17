@@ -1,0 +1,27 @@
+{
+  "player_id": 30412,
+  "full_name": "Kevin Antonio Joel Gislain Mirallas y Castillo",
+  "nationality": "Belgium",
+  "birth_date": "1987-10-05",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2008-08-31",
+      "type": "€ 3.5M",
+      "team_out": "Lille",
+      "team_in": "Saint Etienne"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "AS Saint-Étienne",
+    "Olympiacos F.C.",
+    "Everton F.C.",
+    "Olympiacos F.C.",
+    "ACF Fiorentina",
+    "Royal Antwerp F.C.",
+    "Gaziantep F.K.",
+    "Moreirense F.C.",
+    "AEL Limassol FC"
+  ]
+}

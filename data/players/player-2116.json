@@ -1,0 +1,26 @@
+{
+  "player_id": 2116,
+  "full_name": "Maxime Christophe Lestienne",
+  "nationality": "Belgium",
+  "birth_date": "1992-06-17",
+  "birth_place": "Mouscron",
+  "career_transfers": [
+    {
+      "date": "2014-08-31",
+      "type": "N/A",
+      "team_out": "Club Brugge KV",
+      "team_in": "Al-Arabi SC"
+    }
+  ],
+  "career_clubs": [
+    "Royal Excelsior Mouscron",
+    "Club Brugge K.V.",
+    "Genoa CFC",
+    "Al-Arabi SC",
+    "PSV Eindhoven",
+    "Genoa CFC",
+    "PSV Eindhoven",
+    "Rubin Kazan",
+    "Málaga CF"
+  ]
+}

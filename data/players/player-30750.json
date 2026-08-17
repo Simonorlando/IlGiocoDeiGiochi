@@ -1,0 +1,34 @@
+{
+  "player_id": 30750,
+  "full_name": "Përparim Hetemaj",
+  "nationality": "Finland",
+  "birth_date": "1986-12-12",
+  "birth_place": "Skënderaj",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 2M",
+      "team_out": "Brescia",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2010-02-01",
+      "type": "N/A",
+      "team_out": "Twente",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Helsingin Jalkapalloklubi",
+    "Klubi-04",
+    "AEK Athens F.C.",
+    "A.E.K.",
+    "M.G.S. Apollon Kalamarias (association football)",
+    "FC Twente",
+    "Brescia Calcio",
+    "AC ChievoVerona",
+    "Benevento Calcio",
+    "AS Reggina 1914",
+    "Helsingin Jalkapalloklubi"
+  ]
+}

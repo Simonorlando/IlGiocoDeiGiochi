@@ -1,0 +1,45 @@
+{
+  "player_id": 59,
+  "full_name": "Álvaro Borja Morata Martín",
+  "nationality": "Spain",
+  "birth_date": "1992-10-23",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2025-08-12",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "Juventus FC",
+    "Real Madrid Club de Fútbol",
+    "Chelsea F.C.",
+    "Atlético Madrid",
+    "Juventus FC",
+    "AC Milan",
+    "Galatasaray S.K.",
+    "Como 1907"
+  ]
+}

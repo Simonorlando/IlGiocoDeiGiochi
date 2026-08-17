@@ -1,0 +1,36 @@
+{
+  "player_id": 57087,
+  "full_name": "Paolo Hernán Dellafiore",
+  "nationality": "Italy",
+  "birth_date": "1985-02-02",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Padova",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Spezia Calcio",
+    "Treviso F.B.C. 1993",
+    "Palermo F.C.",
+    "Torino FC",
+    "Parma Calcio 1913",
+    "Torino FC",
+    "Novara Calcio",
+    "AC Cesena",
+    "Siena FC",
+    "Calcio Padova",
+    "Latina Calcio 1932",
+    "A.C. Perugia Calcio"
+  ]
+}

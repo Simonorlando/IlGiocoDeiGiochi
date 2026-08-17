@@ -1,0 +1,33 @@
+{
+  "player_id": 736,
+  "full_name": "Francisco José García Torres",
+  "nationality": "Spain",
+  "birth_date": "1999-08-14",
+  "birth_place": "Bolaños de Calatrava",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 5M",
+      "team_out": "Rayo Vallecano",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2026-07-07",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2026-07-06",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Real Betis"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Rayo Vallecano",
+    "Real Madrid Club de Fútbol",
+    "Real Betis Balompié"
+  ]
+}

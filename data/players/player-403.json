@@ -1,0 +1,43 @@
+{
+  "player_id": 403,
+  "full_name": "Matija Nastasić",
+  "nationality": "Serbia",
+  "birth_date": "1993-03-28",
+  "birth_place": "Valjevo",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2021-08-22",
+      "type": "€ 500K",
+      "team_out": "FC Schalke 04",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "€ 15.2M",
+      "team_out": "Fiorentina",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 2.5M",
+      "team_out": "FK Partizan",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "FK Teleoptik",
+    "ACF Fiorentina",
+    "Manchester City F.C.",
+    "Schalke 04",
+    "ACF Fiorentina",
+    "RCD Mallorca",
+    "CD Leganés"
+  ]
+}

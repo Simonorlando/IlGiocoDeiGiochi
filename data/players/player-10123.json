@@ -1,0 +1,22 @@
+{
+  "player_id": 10123,
+  "full_name": "Jonathan Cícero Moreira",
+  "nationality": "Brazil",
+  "birth_date": "1986-02-27",
+  "birth_place": "Conselheiro Lafaiete",
+  "career_transfers": [
+    {
+      "date": "2012-01-18",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "Santos F.C.",
+    "Inter Milan",
+    "Parma Calcio 1913",
+    "Fluminense F.C."
+  ]
+}

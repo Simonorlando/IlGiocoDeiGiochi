@@ -1,0 +1,27 @@
+{
+  "player_id": 8,
+  "full_name": "Raphaël Adelino José Guerreiro",
+  "nationality": "Portugal",
+  "birth_date": "1993-12-22",
+  "birth_place": "Le Blanc-Mesnil",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 12M",
+      "team_out": "Lorient",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "F.C. Lorient",
+    "Borussia Dortmund",
+    "FC Bayern Munich"
+  ]
+}

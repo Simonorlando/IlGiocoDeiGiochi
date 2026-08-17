@@ -1,0 +1,63 @@
+{
+  "player_id": 47356,
+  "full_name": "Rodrigo Ely",
+  "nationality": "Brazil",
+  "birth_date": "1993-11-03",
+  "birth_place": "Lajeado",
+  "career_transfers": [
+    {
+      "date": "2017-08-01",
+      "type": "€ 3M",
+      "team_out": "AC Milan",
+      "team_in": "Alaves"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Alaves",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2017-01-30",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Alaves"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Avellino",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2014-07-21",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Varese",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2013-07-12",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Varese"
+    },
+    {
+      "date": "2012-07-24",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Reggina"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "AC Milan",
+    "Varese Calcio",
+    "U.S. Avellino 1912"
+  ]
+}

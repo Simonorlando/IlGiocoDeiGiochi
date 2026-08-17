@@ -1,0 +1,30 @@
+{
+  "player_id": 85706,
+  "full_name": "Issa Cissokho",
+  "nationality": "Senegal",
+  "birth_date": "1985-02-23",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2016-01-27",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "CS Louhans-Cuiseaux",
+    "US Orléans",
+    "Blois Football 41",
+    "USJA Carquefou",
+    "FC Nantes",
+    "Genoa CFC",
+    "SSC Bari"
+  ]
+}

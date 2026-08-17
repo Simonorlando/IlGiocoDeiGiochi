@@ -1,0 +1,54 @@
+{
+  "player_id": 41130,
+  "full_name": "Francisco Leonel Lima Silva Machado",
+  "nationality": "Portugal",
+  "birth_date": "1995-07-19",
+  "birth_place": "Santo Tirso",
+  "career_transfers": [
+    {
+      "date": "2024-01-20",
+      "type": "€ 1M",
+      "team_out": "Benfica",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Giresunspor",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2022-02-07",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Giresunspor"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 5.3M",
+      "team_out": "Moreirense",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2018-07-24",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "Moreirense"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "€ 600K",
+      "team_out": "Academica",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "NK Lokomotiva"
+  ]
+}

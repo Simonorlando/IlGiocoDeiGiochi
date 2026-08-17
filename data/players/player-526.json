@@ -1,0 +1,28 @@
+{
+  "player_id": 526,
+  "full_name": "André Onana Onana",
+  "nationality": "Cameroon",
+  "birth_date": "1996-04-02",
+  "birth_place": "Nkol Ngok",
+  "career_transfers": [
+    {
+      "date": "2023-07-20",
+      "type": "€ 52.5M",
+      "team_out": "Inter",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "Inter Milan",
+    "Manchester United F.C.",
+    "Trabzonspor"
+  ]
+}

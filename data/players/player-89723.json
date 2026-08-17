@@ -1,0 +1,54 @@
+{
+  "player_id": 89723,
+  "full_name": "Andri Fannar Baldursson",
+  "nationality": "Iceland",
+  "birth_date": "2002-01-10",
+  "birth_place": "Kópavogur",
+  "career_transfers": [
+    {
+      "date": "2025-01-01",
+      "type": "N/A",
+      "team_out": "IF Elfsborg",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2023-08-10",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "IF Elfsborg"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "NEC Nijmegen",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2022-07-06",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "NEC Nijmegen"
+    },
+    {
+      "date": "2021-08-23",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2019-10-26",
+      "type": "N/A",
+      "team_out": "Breidablik U19",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Transfer",
+      "team_out": "Bologna",
+      "team_in": "Kasımpaşa"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909"
+  ]
+}

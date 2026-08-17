@@ -1,0 +1,32 @@
+{
+  "player_id": 1695,
+  "full_name": "Santiago Cazorla González",
+  "nationality": "Spain",
+  "birth_date": "1984-12-13",
+  "birth_place": "Lugo de Llanera",
+  "career_transfers": [
+    {
+      "date": "2012-08-07",
+      "type": "€ 19M",
+      "team_out": "Malaga",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2011-07-27",
+      "type": "€ 21M",
+      "team_out": "Villarreal",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF",
+    "Villarreal CF B",
+    "Recreativo de Huelva",
+    "Villarreal CF",
+    "Málaga CF",
+    "Arsenal F.C.",
+    "Villarreal CF",
+    "Al Sadd Sports Club",
+    "Real Oviedo"
+  ]
+}

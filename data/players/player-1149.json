@@ -1,0 +1,21 @@
+{
+  "player_id": 1149,
+  "full_name": "Dayotchanculle Oswald Upamecano",
+  "nationality": "France",
+  "birth_date": "1998-10-27",
+  "birth_place": "Evreux",
+  "career_transfers": [
+    {
+      "date": "2017-01-13",
+      "type": "€ 7M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "RB Leipzig",
+    "FC Bayern Munich"
+  ]
+}

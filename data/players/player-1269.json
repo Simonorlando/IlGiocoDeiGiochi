@@ -1,0 +1,29 @@
+{
+  "player_id": 1269,
+  "full_name": "Jaroslav Plašil",
+  "nationality": "Czech Republic",
+  "birth_date": "1982-01-05",
+  "birth_place": "Opočno",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Bordeaux"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Bordeaux",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "FC Hradec Králové",
+    "AS Monaco FC",
+    "US Créteil-Lusitanos",
+    "Club Atlético Osasuna",
+    "FC Girondins de Bordeaux",
+    "Catania FC"
+  ]
+}

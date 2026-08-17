@@ -1,0 +1,34 @@
+{
+  "player_id": 44439,
+  "full_name": "Nicolae Claudiu Stanciu",
+  "nationality": "Romania",
+  "birth_date": "1993-05-07",
+  "birth_place": "Cricău",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Damac",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Free agent",
+      "team_out": "Genoa",
+      "team_in": "Dalian Zhixing"
+    }
+  ],
+  "career_clubs": [
+    "CSM Unirea Alba Iulia",
+    "FC Vaslui",
+    "FCSB",
+    "R.S.C. Anderlecht",
+    "AC Sparta Prague",
+    "Al Ahli FC",
+    "SK Slavia Prague",
+    "Wuhan Three Towns F.C.",
+    "Damac Club",
+    "Genoa CFC",
+    "Dalian Yingbo F.C."
+  ]
+}

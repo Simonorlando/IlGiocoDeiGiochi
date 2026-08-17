@@ -1,0 +1,25 @@
+{
+  "player_id": 31601,
+  "full_name": "Boris Radunović",
+  "nationality": "Serbia",
+  "birth_date": "1996-05-26",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2026-01-03",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Spezia",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "FK Rad",
+    "Atalanta BC"
+  ]
+}

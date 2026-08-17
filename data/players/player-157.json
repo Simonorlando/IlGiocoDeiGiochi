@@ -1,0 +1,32 @@
+{
+  "player_id": 157,
+  "full_name": "Luis Alberto Suárez Díaz",
+  "nationality": "Uruguay",
+  "birth_date": "1987-01-24",
+  "birth_place": "Salto",
+  "career_transfers": [
+    {
+      "date": "2022-07-27",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Club Nacional"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "FC Groningen",
+    "AFC Ajax",
+    "Liverpool F.C.",
+    "FC Barcelona",
+    "Atlético Madrid",
+    "Club Nacional de Football",
+    "Grêmio FBPA",
+    "Inter Miami CF"
+  ]
+}

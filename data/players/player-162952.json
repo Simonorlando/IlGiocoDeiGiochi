@@ -1,0 +1,21 @@
+{
+  "player_id": 162952,
+  "full_name": "Mario Gila Fuentes",
+  "nationality": "Spain",
+  "birth_date": "2000-08-29",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2022-07-12",
+      "type": "€ 6.4M",
+      "team_out": "Real Madrid",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "SS Lazio",
+    "AC Milan"
+  ]
+}

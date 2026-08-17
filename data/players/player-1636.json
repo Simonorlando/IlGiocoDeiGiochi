@@ -1,0 +1,21 @@
+{
+  "player_id": 1636,
+  "full_name": "Andrea Bertolacci",
+  "nationality": "Italy",
+  "birth_date": "1991-01-11",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2010-02-20",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Lecce",
+    "Genoa CFC",
+    "AC Milan"
+  ]
+}

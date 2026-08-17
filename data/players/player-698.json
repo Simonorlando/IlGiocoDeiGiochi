@@ -1,0 +1,26 @@
+{
+  "player_id": 698,
+  "full_name": "Taras Stepanenko",
+  "nationality": "Ukraine",
+  "birth_date": "1989-08-08",
+  "birth_place": "Velyka Novosilka",
+  "career_transfers": [
+    {
+      "date": "2010-07-02",
+      "type": "N/A",
+      "team_out": "Metalurh Zaporizhya",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Free Transfer",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Eyüpspor"
+    }
+  ],
+  "career_clubs": [
+    "FC Metalurh-2 Zaporizhzhia",
+    "FC Metalurh Zaporizhzhia",
+    "FC Shakhtar Donetsk"
+  ]
+}

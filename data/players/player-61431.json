@@ -1,0 +1,28 @@
+{
+  "player_id": 61431,
+  "full_name": "Jakub Piotr Kiwior",
+  "nationality": "Poland",
+  "birth_date": "2000-02-15",
+  "birth_place": "Tychy",
+  "career_transfers": [
+    {
+      "date": "2023-01-23",
+      "type": "€ 25M",
+      "team_out": "Spezia",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "€ 1.5M",
+      "team_out": "Žilina",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "ŽP Šport Podbrezová",
+    "MŠK Žilina",
+    "Spezia Calcio",
+    "Arsenal F.C.",
+    "FC Porto"
+  ]
+}

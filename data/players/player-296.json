@@ -1,0 +1,42 @@
+{
+  "player_id": 296,
+  "full_name": "James Philip Milner",
+  "nationality": "England",
+  "birth_date": "1986-01-04",
+  "birth_place": "Leeds",
+  "career_transfers": [
+    {
+      "date": "2010-08-17",
+      "type": "€ 22M",
+      "team_out": "Aston Villa",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2008-08-31",
+      "type": "€ 15M",
+      "team_out": "Newcastle",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "N/A",
+      "team_out": "Aston Villa",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2005-08-31",
+      "type": "Loan",
+      "team_out": "Newcastle",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Leeds United F.C.",
+    "Swindon Town F.C.",
+    "Newcastle United F.C.",
+    "Aston Villa F.C.",
+    "Manchester City F.C.",
+    "Liverpool F.C.",
+    "Brighton & Hove Albion F.C."
+  ]
+}

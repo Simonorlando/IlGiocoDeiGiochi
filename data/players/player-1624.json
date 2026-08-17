@@ -1,0 +1,30 @@
+{
+  "player_id": 1624,
+  "full_name": "José Manuel Reina Páez",
+  "nationality": "Spain",
+  "birth_date": "1982-08-31",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona C",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Villarreal CF",
+    "Liverpool F.C.",
+    "SSC Napoli",
+    "FC Bayern Munich",
+    "SSC Napoli",
+    "AC Milan",
+    "Aston Villa F.C.",
+    "SS Lazio",
+    "Villarreal CF",
+    "Como 1907"
+  ]
+}

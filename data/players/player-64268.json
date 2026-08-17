@@ -1,0 +1,41 @@
+{
+  "player_id": 64268,
+  "full_name": "Johan Andrés Mojica Palacio",
+  "nationality": "Colombia",
+  "birth_date": "1992-08-21",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2024-07-23",
+      "type": "€ 1.5M",
+      "team_out": "Villarreal",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Osasuna",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2023-07-26",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "€ 5.5M",
+      "team_out": "Elche",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "FC Academia Cali",
+    "Llaneros",
+    "Deportivo Cali",
+    "Rayo Vallecano",
+    "Real Valladolid",
+    "Rayo Vallecano"
+  ]
+}

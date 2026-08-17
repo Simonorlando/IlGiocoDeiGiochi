@@ -1,0 +1,27 @@
+{
+  "player_id": 30931,
+  "full_name": "Samuel Gustafson",
+  "nationality": "Sweden",
+  "birth_date": "1995-01-11",
+  "birth_place": "Mölndal",
+  "career_transfers": [
+    {
+      "date": "2021-07-15",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "BK Hacken"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "BK Häcken",
+    "Hellas Verona FC",
+    "A.C. Perugia Calcio",
+    "Fässbergs IF"
+  ]
+}

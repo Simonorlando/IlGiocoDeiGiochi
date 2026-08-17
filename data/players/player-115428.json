@@ -1,0 +1,30 @@
+{
+  "player_id": 115428,
+  "full_name": "Simone Dallamano",
+  "nationality": "Italy",
+  "birth_date": "1983-11-25",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Lumezzane"
+    },
+    {
+      "date": "2003-01-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Prato"
+    }
+  ],
+  "career_clubs": [
+    "Mantova 1911",
+    "Brescia Calcio",
+    "A.C. Prato",
+    "A.C. Lumezzane",
+    "AC Cesena",
+    "L'Aquila Calcio 1927",
+    "F.C. Castiglione"
+  ]
+}

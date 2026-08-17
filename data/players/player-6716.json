@@ -1,0 +1,22 @@
+{
+  "player_id": 6716,
+  "full_name": "Alexis Mac Allister",
+  "nationality": "Argentina",
+  "birth_date": "1998-12-24",
+  "birth_place": "La Pampa",
+  "career_transfers": [
+    {
+      "date": "2023-06-14",
+      "type": "€ 42M",
+      "team_out": "Brighton",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Argentinos Juniors",
+    "Brighton & Hove Albion F.C.",
+    "Argentinos Juniors",
+    "Boca Juniors",
+    "Liverpool F.C."
+  ]
+}

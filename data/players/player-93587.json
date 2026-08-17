@@ -1,0 +1,22 @@
+{
+  "player_id": 93587,
+  "full_name": "Marco van Ginkel",
+  "nationality": "Netherlands",
+  "birth_date": "1992-12-01",
+  "birth_place": "Amersfoort",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "SBV Vitesse",
+    "Chelsea F.C.",
+    "AC Milan",
+    "Stoke City F.C.",
+    "PSV Eindhoven"
+  ]
+}

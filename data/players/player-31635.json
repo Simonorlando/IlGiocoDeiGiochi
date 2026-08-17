@@ -1,0 +1,29 @@
+{
+  "player_id": 31635,
+  "full_name": "Jean-Claude Billong",
+  "nationality": "Cameroon",
+  "birth_date": "1993-12-28",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2019-07-15",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "FC Mantes",
+    "Leixões S.C.",
+    "NK Rudar Velenje",
+    "NK Maribor",
+    "Benevento Calcio",
+    "Calcio Foggia 1920",
+    "U.S. Salernitana 1919",
+    "Hatayspor",
+    "Clermont Foot 63",
+    "CFR Cluj",
+    "Muangthong United F.C.",
+    "US Créteil-Lusitanos"
+  ]
+}

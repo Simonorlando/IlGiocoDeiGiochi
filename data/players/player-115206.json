@@ -1,0 +1,24 @@
+{
+  "player_id": 115206,
+  "full_name": "Federico Balzaretti",
+  "nationality": "Italy",
+  "birth_date": "1981-12-06",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2001-08-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "Varese Calcio",
+    "Siena FC",
+    "Juventus FC",
+    "ACF Fiorentina",
+    "Palermo F.C.",
+    "AS Roma"
+  ]
+}

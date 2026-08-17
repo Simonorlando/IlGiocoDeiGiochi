@@ -1,0 +1,50 @@
+{
+  "player_id": 1374,
+  "full_name": "Islam Slimani",
+  "nationality": "Algeria",
+  "birth_date": "1988-06-18",
+  "birth_place": "Alger",
+  "career_transfers": [
+    {
+      "date": "2022-08-24",
+      "type": "Free",
+      "team_out": "Sporting CP",
+      "team_in": "Stade Brestois 29"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Free",
+      "team_out": "Lyon",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "€ 30M",
+      "team_out": "Sporting CP",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2013-08-07",
+      "type": "Free",
+      "team_out": "CR Belouizdad",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "JSM Chéraga",
+    "CR Belouizdad",
+    "Sporting CP",
+    "Leicester City F.C.",
+    "Newcastle United F.C.",
+    "Fenerbahçe Istanbul",
+    "AS Monaco FC",
+    "Olympique Lyonnais",
+    "Stade Brestois 29",
+    "R.S.C. Anderlecht",
+    "Coritiba F.C.",
+    "KV Mechelen",
+    "CR Belouizdad",
+    "K.V.C. Westerlo",
+    "CFR Cluj"
+  ]
+}

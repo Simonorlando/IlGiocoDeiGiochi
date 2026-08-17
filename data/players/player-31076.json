@@ -1,0 +1,31 @@
+{
+  "player_id": 31076,
+  "full_name": "Bartosz Salamon",
+  "nationality": "Poland",
+  "birth_date": "1991-05-01",
+  "birth_place": "Poznán",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Lech Poznań",
+    "Calcio Foggia 1920",
+    "U.C. Sampdoria",
+    "AC Milan",
+    "Delfino Pescara 1936",
+    "Cagliari Calcio",
+    "SPAL"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 70351,
+  "full_name": "Marcel Büchel",
+  "nationality": "Liechtenstein",
+  "birth_date": "1991-03-18",
+  "birth_place": "Feldkirch",
+  "career_transfers": [
+    {
+      "date": "2017-07-24",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Siena FC",
+    "A.S. Gubbio 1910",
+    "US Cremonese",
+    "Lanciano Calcio 1920",
+    "Juventus FC",
+    "Bologna F.C. 1909",
+    "Empoli FC",
+    "FC St. Gallen",
+    "Hellas Verona FC",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 31148,
+  "full_name": "Mattia Viviani",
+  "nationality": "Italy",
+  "birth_date": "2000-09-04",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio"
+  ]
+}

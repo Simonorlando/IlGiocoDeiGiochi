@@ -1,0 +1,34 @@
+{
+  "player_id": 15862,
+  "full_name": "Casper Mørup Nielsen",
+  "nationality": "Denmark",
+  "birth_date": "1994-04-29",
+  "birth_place": "Esbjerg",
+  "career_transfers": [
+    {
+      "date": "2022-07-17",
+      "type": "N/A",
+      "team_out": "Union St. Gilloise",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2025-07-02",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Standard Liege"
+    }
+  ],
+  "career_clubs": [
+    "Esbjerg fB",
+    "Odense Boldklub",
+    "Royale Union Saint-Gilloise",
+    "Club Brugge K.V.",
+    "Standard Liège"
+  ]
+}

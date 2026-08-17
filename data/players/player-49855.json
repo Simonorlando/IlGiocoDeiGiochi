@@ -1,0 +1,33 @@
+{
+  "player_id": 49855,
+  "full_name": "Miloš Jojić",
+  "nationality": "Serbia",
+  "birth_date": "1992-03-19",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2015-07-05",
+      "type": "€ 2.5M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "1.FC Köln"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "€ 2M",
+      "team_out": "FK Partizan",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "FK Teleoptik",
+    "FK Partizan",
+    "Borussia Dortmund",
+    "1. FC Köln",
+    "İstanbul Başakşehir F.K.",
+    "Wolfsberger AC",
+    "FK Partizan",
+    "Riga FC",
+    "CD Castellón",
+    "FK Borac Banja Luka"
+  ]
+}

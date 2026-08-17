@@ -1,0 +1,30 @@
+{
+  "player_id": 19022,
+  "full_name": "Denis Frimpong Odoi",
+  "nationality": "Ghana",
+  "birth_date": "1988-05-27",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2024-06-25",
+      "type": "Free",
+      "team_out": "Club Brugge KV",
+      "team_in": "Antwerp"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "N/A",
+      "team_out": "Fulham",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Oud-Heverlee Leuven",
+    "Sint-Truidense V.V.",
+    "R.S.C. Anderlecht",
+    "K.S.C. Lokeren Oost-Vlaanderen",
+    "Fulham F.C.",
+    "Club Brugge K.V.",
+    "Royal Antwerp F.C."
+  ]
+}

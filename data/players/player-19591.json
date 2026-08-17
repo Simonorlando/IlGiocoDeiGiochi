@@ -1,0 +1,40 @@
+{
+  "player_id": 19591,
+  "full_name": "Paweł Marek Wszołek",
+  "nationality": "Poland",
+  "birth_date": "1992-04-30",
+  "birth_place": "Tczew",
+  "career_transfers": [
+    {
+      "date": "2017-01-31",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Polonia Warsaw",
+    "U.C. Sampdoria",
+    "Hellas Verona FC",
+    "Queens Park Rangers F.C.",
+    "Legia Warsaw"
+  ]
+}

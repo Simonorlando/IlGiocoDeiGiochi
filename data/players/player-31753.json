@@ -1,0 +1,26 @@
+{
+  "player_id": 31753,
+  "full_name": "Michele Canini",
+  "nationality": "Italy",
+  "birth_date": "1985-06-05",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2016-08-12",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "S.S. Sambenedettese Calcio",
+    "Cagliari Calcio",
+    "Genoa CFC",
+    "Atalanta BC",
+    "AC ChievoVerona",
+    "FC Tokyo",
+    "Ascoli Calcio 1898 FC",
+    "Parma Calcio 1913"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "player_id": 35834,
+  "full_name": "Nicolás Pareja",
+  "nationality": "Argentina",
+  "birth_date": "1984-01-19",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2018-08-27",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Atletico Atlas"
+    },
+    {
+      "date": "2013-07-04",
+      "type": "Loan",
+      "team_out": "Spartak Moscow",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2010-08-16",
+      "type": "10M €",
+      "team_out": "Espanyol",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "5M €",
+      "team_out": "Anderlecht",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "2M €",
+      "team_out": "Argentinos JRS",
+      "team_in": "Anderlecht"
+    }
+  ],
+  "career_clubs": [
+    "Argentinos Juniors",
+    "R.S.C. Anderlecht",
+    "RCD Espanyol de Barcelona",
+    "Spartak Moscow",
+    "Sevilla FC"
+  ]
+}

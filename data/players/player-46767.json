@@ -1,0 +1,86 @@
+{
+  "player_id": 46767,
+  "full_name": "Sergio Sánchez",
+  "nationality": "Spain",
+  "birth_date": "1986-04-03",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Albacete",
+      "team_in": "Cadiz"
+    },
+    {
+      "date": "2018-09-21",
+      "type": "Free",
+      "team_out": "Espanyol",
+      "team_in": "Cadiz"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "Free",
+      "team_out": "Rubin",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2017-09-01",
+      "type": "Loan",
+      "team_out": "Rubin",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Panathinaikos",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2015-07-07",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 2.8M",
+      "team_out": "Sevilla",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 3M",
+      "team_out": "Espanyol",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Espanyol",
+      "team_in": "Racing Santander"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "Loan",
+      "team_out": "Espanyol",
+      "team_in": "Real Madrid II"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Cadiz",
+      "team_in": "Albacete"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "Racing de Santander",
+    "Real Madrid Castilla",
+    "Sevilla FC",
+    "Málaga CF",
+    "Panathinaikos F.C.",
+    "Rubin Kazan",
+    "Real Madrid Club de Fútbol"
+  ]
+}

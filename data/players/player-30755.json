@@ -1,0 +1,60 @@
+{
+  "player_id": 30755,
+  "full_name": "Emanuel Vignato",
+  "nationality": "Italy",
+  "birth_date": "2000-08-24",
+  "birth_place": "Negrar",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-09-08",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Larisa"
+    },
+    {
+      "date": "2025-09-07",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Larisa"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Return from loan",
+      "team_out": "Larisa",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-01-30",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Akritas"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Akritas",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona"
+  ]
+}

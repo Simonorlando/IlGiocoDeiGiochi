@@ -1,0 +1,19 @@
+{
+  "player_id": 977,
+  "full_name": "Lars Bender",
+  "nationality": "Germany",
+  "birth_date": "1989-04-27",
+  "birth_place": "Rosenheim",
+  "career_transfers": [
+    {
+      "date": "2009-08-18",
+      "type": "€ 2.5M",
+      "team_out": "TSV 1860 Munich",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "Bayer 04 Leverkusen"
+  ]
+}

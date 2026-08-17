@@ -1,0 +1,28 @@
+{
+  "player_id": 210,
+  "full_name": "Borja Valero Iglesias",
+  "nationality": "Spain",
+  "birth_date": "1985-01-12",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Mallorca"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "RCD Mallorca",
+    "West Bromwich Albion F.C.",
+    "RCD Mallorca",
+    "Villarreal CF",
+    "ACF Fiorentina",
+    "Inter Milan",
+    "ACF Fiorentina",
+    "Centro Histórico de Lebowski"
+  ]
+}

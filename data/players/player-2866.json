@@ -1,0 +1,27 @@
+{
+  "player_id": 2866,
+  "full_name": "Robin Kwamina Quaison",
+  "nationality": "Sweden",
+  "birth_date": "1993-10-09",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2017-01-31",
+      "type": "€ 2.5M",
+      "team_out": "Palermo",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2014-07-18",
+      "type": "€ 2M",
+      "team_out": "AIK Stockholm",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "AFC Eskilstuna",
+    "AIK Fotboll",
+    "Palermo F.C.",
+    "FC Väsby United"
+  ]
+}

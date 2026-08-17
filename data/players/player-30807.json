@@ -1,0 +1,27 @@
+{
+  "player_id": 30807,
+  "full_name": "Seko Mohamed Fofana",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1995-05-07",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2020-08-18",
+      "type": "€ 10M",
+      "team_out": "Udinese",
+      "team_in": "Lens"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Manchester City",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Fulham F.C.",
+    "SC Bastia",
+    "Udinese Calcio"
+  ]
+}

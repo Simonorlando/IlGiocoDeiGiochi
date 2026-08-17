@@ -1,0 +1,35 @@
+{
+  "player_id": 31211,
+  "full_name": "Jari Vandeputte",
+  "nationality": "Belgium",
+  "birth_date": "1996-02-14",
+  "birth_place": "Gent",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Catanzaro"
+    },
+    {
+      "date": "2024-07-04",
+      "type": "Loan",
+      "team_out": "Catanzaro",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Catanzaro",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "K.S.V. Roeselare",
+    "FC Eindhoven",
+    "U.S. Viterbese 1908",
+    "Vicenza Calcio",
+    "Unione Sportiva Catanzaro"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1978,
+  "full_name": "Caner Erkin",
+  "nationality": "Türkiye",
+  "birth_date": "1988-10-04",
+  "birth_place": "Balıkesir",
+  "career_transfers": [
+    {
+      "date": "2009-09-01",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Manisaspor",
+    "PFC CSKA Moscow",
+    "Galatasaray S.K.",
+    "Fenerbahçe Istanbul",
+    "Inter Milan",
+    "Beşiktaş J.K. (Football)",
+    "Fenerbahçe Istanbul"
+  ]
+}

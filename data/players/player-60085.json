@@ -1,0 +1,53 @@
+{
+  "player_id": 60085,
+  "full_name": "Emiliano Alfaro Toscano",
+  "nationality": "Uruguay",
+  "birth_date": "1988-04-28",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2015-08-18",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Buriram United"
+    },
+    {
+      "date": "2014-08-28",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Liverpool Montevideo"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Al-Wasl FC",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2012-09-12",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Al-Wasl FC"
+    },
+    {
+      "date": "2012-01-09",
+      "type": "€ 3.2M",
+      "team_out": "Liverpool Montevideo",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C. (Montevideo)",
+    "San Lorenzo de Almagro",
+    "Liverpool F.C. (Montevideo)",
+    "SS Lazio",
+    "Al Wasl FC",
+    "Liverpool F.C. (Montevideo)",
+    "Buriram United F.C.",
+    "NorthEast United FC",
+    "Al-Fujairah FC",
+    "FC Pune City",
+    "ATK",
+    "Liverpool F.C. (Montevideo)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "player_id": 87328,
+  "full_name": "Philipp Wollscheid",
+  "nationality": "Germany",
+  "birth_date": "1989-03-06",
+  "birth_place": "Wadern",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "3.8M €",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2015-01-07",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "7M €",
+      "team_out": "FC Nurnberg",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Rot-Weiss Hasborn-Dautweiler",
+    "1. FC Saarbrücken",
+    "1. FC Nürnberg",
+    "Bayer 04 Leverkusen",
+    "1. FSV Mainz 05",
+    "Stoke City F.C.",
+    "VfL Wolfsburg",
+    "FC Metz"
+  ]
+}

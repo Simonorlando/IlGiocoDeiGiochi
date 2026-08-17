@@ -1,0 +1,19 @@
+{
+  "player_id": 343558,
+  "full_name": "Lennon Lee Miller",
+  "nationality": "Scotland",
+  "birth_date": "2006-08-25",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-08-12",
+      "type": "Transfer",
+      "team_out": "Motherwell",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Motherwell",
+    "Udinese"
+  ]
+}

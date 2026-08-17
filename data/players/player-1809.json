@@ -1,0 +1,44 @@
+{
+  "player_id": 1809,
+  "full_name": "Lucas Silva Melo",
+  "nationality": "Brazil",
+  "birth_date": "1999-07-04",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Kortrijk",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2019-08-06",
+      "type": "Loan",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Kortrijk"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "N/A",
+      "team_out": "Sao Paulo",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2025-08-04",
+      "type": "Transfer",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Al-Duhail SC"
+    },
+    {
+      "date": "2025-08-02",
+      "type": "Transfer",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Al-Duhail SC"
+    }
+  ],
+  "career_clubs": [
+    "Eintracht Frankfurt",
+    "K.V. Kortrijk",
+    "São Paulo FC"
+  ]
+}

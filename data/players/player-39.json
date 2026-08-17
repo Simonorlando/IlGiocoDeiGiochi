@@ -1,0 +1,29 @@
+{
+  "player_id": 39,
+  "full_name": "Stefan Savić",
+  "nationality": "Montenegro",
+  "birth_date": "1991-01-08",
+  "birth_place": "Mojkovac",
+  "career_transfers": [
+    {
+      "date": "2024-07-24",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Trabzonspor"
+    },
+    {
+      "date": "2015-07-20",
+      "type": "€ 12M",
+      "team_out": "Fiorentina",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FK BSK Borča",
+    "FK Partizan",
+    "Manchester City F.C.",
+    "ACF Fiorentina",
+    "Atlético Madrid",
+    "Trabzonspor"
+  ]
+}

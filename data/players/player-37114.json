@@ -1,0 +1,28 @@
+{
+  "player_id": 37114,
+  "full_name": "Alexander Büttner",
+  "nationality": "Netherlands",
+  "birth_date": "1989-02-11",
+  "birth_place": "Doetinchem",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 5.5M",
+      "team_out": "Manchester United",
+      "team_in": "Dynamo"
+    },
+    {
+      "date": "2012-08-21",
+      "type": "€ 3.3M",
+      "team_out": "Vitesse",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "SBV Vitesse",
+    "Manchester United F.C.",
+    "FC Dinamo Moscow",
+    "R.S.C. Anderlecht",
+    "AFC Ajax"
+  ]
+}

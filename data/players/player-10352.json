@@ -1,0 +1,30 @@
+{
+  "player_id": 10352,
+  "full_name": "Leonardo de Souza Sena",
+  "nationality": "Brazil",
+  "birth_date": "1995-12-31",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2022-08-25",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Goias"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 2M",
+      "team_out": "Atletico-MG",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2020-10-01",
+      "type": "Loan",
+      "team_out": "Atletico-MG",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Goiás Esporte Clube"
+  ]
+}

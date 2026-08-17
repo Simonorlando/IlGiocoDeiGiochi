@@ -1,0 +1,19 @@
+{
+  "player_id": 340700,
+  "full_name": "Jacopo Fazzini",
+  "nationality": "Italy",
+  "birth_date": "2003-03-16",
+  "birth_place": "Massa",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Empoli",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "ACF Fiorentina"
+  ]
+}

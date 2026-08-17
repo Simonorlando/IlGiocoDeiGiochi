@@ -1,0 +1,39 @@
+{
+  "player_id": 335,
+  "full_name": "Amin Younes",
+  "nationality": "Germany",
+  "birth_date": "1993-08-06",
+  "birth_place": "Düsseldorf",
+  "career_transfers": [
+    {
+      "date": "2022-01-23",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Al-Ettifaq"
+    },
+    {
+      "date": "2022-01-19",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "1. FC Kaiserslautern",
+    "Jong Ajax",
+    "SSC Napoli"
+  ]
+}

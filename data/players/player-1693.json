@@ -1,0 +1,29 @@
+{
+  "player_id": 1693,
+  "full_name": "Víctor Ruíz Torre",
+  "nationality": "Spain",
+  "birth_date": "1989-01-25",
+  "birth_place": "Esplugues de Llobregat",
+  "career_transfers": [
+    {
+      "date": "2020-08-31",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2019-08-07",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "SSC Napoli",
+    "Valencia CF",
+    "Villarreal CF",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

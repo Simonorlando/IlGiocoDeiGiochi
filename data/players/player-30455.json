@@ -1,0 +1,29 @@
+{
+  "player_id": 30455,
+  "full_name": "Gastón Exequiel Ramírez Pereyra",
+  "nationality": "Uruguay",
+  "birth_date": "1990-12-02",
+  "birth_place": "Fray Bentos",
+  "career_transfers": [
+    {
+      "date": "2022-10-22",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "Virtus Entella"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Bologna F.C. 1909",
+    "Southampton F.C.",
+    "Hull City A.F.C.",
+    "Middlesbrough F.C.",
+    "U.C. Sampdoria",
+    "AC Monza",
+    "Virtus Entella",
+    "San Lorenzo de Almagro",
+    "Club Atlético Peñarol",
+    "Miramar Misiones",
+    "Boston River"
+  ]
+}

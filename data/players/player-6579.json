@@ -1,0 +1,20 @@
+{
+  "player_id": 6579,
+  "full_name": "Juan Francisco Brunetta",
+  "nationality": "Argentina",
+  "birth_date": "1997-05-12",
+  "birth_place": "Laboulaye",
+  "career_transfers": [
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Godoy Cruz",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal Fútbol Club",
+    "Club Atlético Belgrano",
+    "Godoy Cruz Antonio Tomba"
+  ]
+}

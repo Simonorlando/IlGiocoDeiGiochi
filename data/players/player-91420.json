@@ -1,0 +1,26 @@
+{
+  "player_id": 91420,
+  "full_name": "Maurizio Pugliesi",
+  "nationality": "Italy",
+  "birth_date": "1976-12-27",
+  "birth_place": "Capannoli",
+  "career_transfers": [
+    {
+      "date": "2014-09-09",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Città di Pontedera S.S.D.",
+    "Montevarchi Calcio Aquila 1902",
+    "U.S. Poggibonsi",
+    "Delfino Pescara 1936",
+    "U.S. Grosseto 1912",
+    "Delfino Pescara 1936",
+    "Rimini FC",
+    "Pisa SC",
+    "Empoli FC"
+  ]
+}

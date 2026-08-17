@@ -1,0 +1,33 @@
+{
+  "player_id": 1864,
+  "full_name": "Pedro Lomba Neto",
+  "nationality": "Portugal",
+  "birth_date": "2000-03-09",
+  "birth_place": "Viana do Castelo",
+  "career_transfers": [
+    {
+      "date": "2019-08-02",
+      "type": "€ 18.3M",
+      "team_out": "Lazio",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 5M",
+      "team_out": "SC Braga",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "SC Braga",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga",
+    "SS Lazio",
+    "Wolverhampton Wanderers F.C.",
+    "Chelsea F.C."
+  ]
+}

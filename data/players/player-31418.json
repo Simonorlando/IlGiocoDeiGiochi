@@ -1,0 +1,67 @@
+{
+  "player_id": 31418,
+  "full_name": "Matteo Lovato",
+  "nationality": "Italy",
+  "birth_date": "2000-02-14",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-07",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2022-07-06",
+      "type": "€ 7M",
+      "team_out": "Atalanta",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Empoli",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Free agent",
+      "team_out": "Salernitana",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "Free agent",
+      "team_out": "Salernitana",
+      "team_in": "Padova"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Hellas Verona FC"
+  ]
+}

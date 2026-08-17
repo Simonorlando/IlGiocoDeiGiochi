@@ -1,0 +1,28 @@
+{
+  "player_id": 48231,
+  "full_name": "Moestafa El Kabir",
+  "nationality": "Morocco",
+  "birth_date": "1988-10-05",
+  "birth_place": "Targuist",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Mjallby AIF",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "N.E.C.",
+    "Mjällby AIF",
+    "Cagliari Calcio",
+    "BK Häcken",
+    "Al Ahli FC",
+    "Gençlerbirliği S.K.",
+    "AFC Ajax",
+    "Hammarby Talang FF",
+    "Nordic United FC",
+    "Örgryte IS Fotboll",
+    "Kalmar FF"
+  ]
+}

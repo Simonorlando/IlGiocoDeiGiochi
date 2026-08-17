@@ -1,0 +1,32 @@
+{
+  "player_id": 2858,
+  "full_name": "Albin Ekdal",
+  "nationality": "Sweden",
+  "birth_date": "1989-07-28",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Djurgardens IF"
+    },
+    {
+      "date": "2022-07-13",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "IF Brommapojkarna",
+    "Juventus FC",
+    "Siena FC",
+    "Bologna F.C. 1909",
+    "Cagliari Calcio",
+    "Hamburger SV",
+    "U.C. Sampdoria",
+    "Spezia Calcio",
+    "Djurgårdens IF Fotboll"
+  ]
+}

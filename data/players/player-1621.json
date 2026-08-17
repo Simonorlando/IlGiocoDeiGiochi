@@ -1,0 +1,23 @@
+{
+  "player_id": 1621,
+  "full_name": "Antonio Donnarumma",
+  "nationality": "Italy",
+  "birth_date": "1990-07-07",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Piacenza Calcio",
+    "A.S. Gubbio 1910",
+    "Genoa CFC",
+    "SSC Bari",
+    "Genoa CFC"
+  ]
+}

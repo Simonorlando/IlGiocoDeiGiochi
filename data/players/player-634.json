@@ -1,0 +1,23 @@
+{
+  "player_id": 634,
+  "full_name": "David Josué Jiménez Silva",
+  "nationality": "Spain",
+  "birth_date": "1986-01-08",
+  "birth_place": "Arguineguín",
+  "career_transfers": [
+    {
+      "date": "2020-08-17",
+      "type": "N/A",
+      "team_out": "Manchester City",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "SD Eibar",
+    "RC Celta de Vigo",
+    "Manchester City F.C.",
+    "Real Sociedad"
+  ]
+}

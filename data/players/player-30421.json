@@ -1,0 +1,25 @@
+{
+  "player_id": 30421,
+  "full_name": "Berat Djimsiti",
+  "nationality": "Albania",
+  "birth_date": "1993-02-19",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2017-07-13",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "Atalanta BC"
+  ]
+}

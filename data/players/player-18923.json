@@ -1,0 +1,30 @@
+{
+  "player_id": 18923,
+  "full_name": "Steven Arnold Defour",
+  "nationality": "Belgium",
+  "birth_date": "1988-04-15",
+  "birth_place": "Mechelen",
+  "career_transfers": [
+    {
+      "date": "2014-08-13",
+      "type": "€ 6M",
+      "team_out": "FC Porto",
+      "team_in": "Anderlecht"
+    },
+    {
+      "date": "2011-08-14",
+      "type": "€ 6M",
+      "team_out": "Standard Liege",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "Standard Liège",
+    "FC Porto",
+    "R.S.C. Anderlecht",
+    "Burnley F.C.",
+    "Royal Antwerp F.C.",
+    "KV Mechelen"
+  ]
+}

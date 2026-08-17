@@ -1,0 +1,53 @@
+{
+  "player_id": 47400,
+  "full_name": "Andriy Lunin",
+  "nationality": "Ukraine",
+  "birth_date": "1999-02-11",
+  "birth_place": "Krasnohrad",
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Oviedo",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2020-01-15",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Oviedo"
+    },
+    {
+      "date": "2019-08-13",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Leganes",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2018-08-27",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Leganes"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "€ 8.5M",
+      "team_out": "Zorya Luhansk",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Dnipro",
+    "FC Zorya Luhansk",
+    "Real Madrid Club de Fútbol",
+    "CD Leganés",
+    "Real Valladolid",
+    "Real Oviedo"
+  ]
+}

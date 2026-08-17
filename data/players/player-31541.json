@@ -1,0 +1,27 @@
+{
+  "player_id": 31541,
+  "full_name": "Haitam Aleesami",
+  "nationality": "Norway",
+  "birth_date": "1991-07-31",
+  "birth_place": "Oslo",
+  "career_transfers": [
+    {
+      "date": "2019-07-08",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2016-08-05",
+      "type": "N/A",
+      "team_out": "IFK Goteborg",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Skeid Fotball",
+    "Fredrikstad FK",
+    "IFK Göteborg",
+    "Palermo F.C."
+  ]
+}

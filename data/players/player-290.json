@@ -1,0 +1,21 @@
+{
+  "player_id": 290,
+  "full_name": "Virgil van Dijk",
+  "nationality": "Netherlands",
+  "birth_date": "1991-07-08",
+  "birth_place": "Breda",
+  "career_transfers": [
+    {
+      "date": "2018-01-01",
+      "type": "€ 84.5M",
+      "team_out": "Southampton",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "FC Groningen",
+    "Celtic F.C.",
+    "Southampton F.C.",
+    "Liverpool F.C."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 2493,
+  "full_name": "Luis Fernando Muriel Fruto",
+  "nationality": "Colombia",
+  "birth_date": "1991-04-16",
+  "birth_place": "Santo Tomás",
+  "career_transfers": [
+    {
+      "date": "2011-08-24",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Cali",
+    "Granada CF",
+    "Udinese Calcio",
+    "US Lecce",
+    "U.C. Sampdoria",
+    "Sevilla FC",
+    "ACF Fiorentina",
+    "Atalanta BC",
+    "Orlando City SC"
+  ]
+}

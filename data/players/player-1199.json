@@ -1,0 +1,28 @@
+{
+  "player_id": 1199,
+  "full_name": "Aleksandr Anyukov",
+  "nationality": "Russia",
+  "birth_date": "1982-09-28",
+  "birth_place": "Samara",
+  "career_transfers": [
+    {
+      "date": "2019-07-13",
+      "type": "Free",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Krylya Sovetov"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "€ 3M",
+      "team_out": "Krylya Sovetov",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Krylia Sovetov-2 Samara",
+    "FC Krylia Sovetov Samara",
+    "FC Zenit Saint Petersburg",
+    "FC Zenit-2",
+    "FC Krylia Sovetov Samara"
+  ]
+}

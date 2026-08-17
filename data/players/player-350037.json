@@ -1,0 +1,20 @@
+{
+  "player_id": 350037,
+  "full_name": "Nicolás Paz Martínez",
+  "nationality": "Argentina",
+  "birth_date": "2004-09-08",
+  "birth_place": "Santa Cruz de Tenerife",
+  "career_transfers": [
+    {
+      "date": "2024-08-25",
+      "type": "€ 6M",
+      "team_out": "Real Madrid II",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "Como 1907"
+  ]
+}

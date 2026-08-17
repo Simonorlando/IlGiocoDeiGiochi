@@ -1,0 +1,30 @@
+{
+  "player_id": 41098,
+  "full_name": "Diogo José Rosário Gomes Figueiras",
+  "nationality": "Portugal",
+  "birth_date": "1991-07-01",
+  "birth_place": "Castanheira do Ribatejo",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "€ 1.2M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Sevilla",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "C.D. Pinhalnovense",
+    "F.C. Paços de Ferreira",
+    "Moreirense F.C.",
+    "Sevilla FC",
+    "Genoa CFC",
+    "Sevilla FC",
+    "Olympiacos F.C."
+  ]
+}

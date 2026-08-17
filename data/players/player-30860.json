@@ -1,0 +1,30 @@
+{
+  "player_id": 30860,
+  "full_name": "Vasco Regini",
+  "nationality": "Italy",
+  "birth_date": "1990-09-09",
+  "birth_place": "Cesena",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "U.C. Sampdoria",
+    "Calcio Foggia 1920",
+    "Empoli FC",
+    "Italy under-21 Serie B representative team",
+    "U.C. Sampdoria",
+    "SSC Napoli"
+  ]
+}

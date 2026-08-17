@@ -1,0 +1,24 @@
+{
+  "player_id": 7343,
+  "full_name": "David Schnegg",
+  "nationality": "Austria",
+  "birth_date": "1998-09-29",
+  "birth_place": "Mils bei Imst",
+  "career_transfers": [
+    {
+      "date": "2022-01-15",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 250K",
+      "team_out": "Lask Linz",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering"
+  ]
+}

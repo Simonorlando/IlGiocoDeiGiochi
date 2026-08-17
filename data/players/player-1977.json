@@ -1,0 +1,29 @@
+{
+  "player_id": 1977,
+  "full_name": "Adriano Correia Claro",
+  "nationality": "Brazil",
+  "birth_date": "1984-10-26",
+  "birth_place": "Curitiba",
+  "career_transfers": [
+    {
+      "date": "2019-07-30",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Atletico Paranaense"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "€ 600K",
+      "team_out": "Barcelona",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C.",
+    "Sevilla FC",
+    "FC Barcelona",
+    "Beşiktaş J.K. (Football)",
+    "Club Athletico Paranaense",
+    "K.A.S. Eupen"
+  ]
+}

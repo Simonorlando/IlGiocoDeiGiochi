@@ -1,0 +1,27 @@
+{
+  "player_id": 115223,
+  "full_name": "Thomas Manfredini",
+  "nationality": "Italy",
+  "birth_date": "1980-05-27",
+  "birth_place": "Ferrara",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "SPAL",
+    "Udinese Calcio",
+    "ACF Fiorentina",
+    "Catania FC",
+    "Atalanta BC",
+    "Rimini FC",
+    "Bologna F.C. 1909",
+    "Genoa CFC",
+    "US Sassuolo Calcio",
+    "Vicenza Calcio"
+  ]
+}

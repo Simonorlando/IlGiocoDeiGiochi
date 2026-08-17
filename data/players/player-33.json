@@ -1,0 +1,21 @@
+{
+  "player_id": 33,
+  "full_name": "Lucas François Bernard Hernández",
+  "nationality": "France",
+  "birth_date": "1996-02-14",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 80M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid",
+    "Boca Juniors",
+    "FC Bayern Munich",
+    "Paris Saint-Germain FC"
+  ]
+}

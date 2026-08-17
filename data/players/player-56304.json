@@ -1,0 +1,24 @@
+{
+  "player_id": 56304,
+  "full_name": "Luca Zanimacchia",
+  "nationality": "Italy",
+  "birth_date": "1998-07-19",
+  "birth_place": "Desio",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC"
+  ]
+}

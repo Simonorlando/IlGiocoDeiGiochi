@@ -1,0 +1,19 @@
+{
+  "player_id": 364810,
+  "full_name": "Loubadhe Abakar Sylla",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2002-12-25",
+  "birth_place": "Yamoussoukro",
+  "career_transfers": [
+    {
+      "date": "2023-07-15",
+      "type": "€ 20M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Strasbourg"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge KV",
+    "Strasbourg"
+  ]
+}

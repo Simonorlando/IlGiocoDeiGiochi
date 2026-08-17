@@ -1,0 +1,30 @@
+{
+  "player_id": 18767,
+  "full_name": "Ademola Lookman Olajade Alade Aylola Lookman",
+  "nationality": "Nigeria",
+  "birth_date": "1997-10-20",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Charlton Athletic F.C.",
+    "Everton F.C.",
+    "RB Leipzig",
+    "Fulham F.C.",
+    "Leicester City F.C.",
+    "Atalanta BC",
+    "Atlético Madrid"
+  ]
+}

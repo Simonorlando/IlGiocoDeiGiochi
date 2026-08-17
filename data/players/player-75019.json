@@ -1,0 +1,35 @@
+{
+  "player_id": 75019,
+  "full_name": "Nicolás Alexis Bianchi Arce",
+  "nationality": "Argentina",
+  "birth_date": "1987-01-29",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2013-07-29",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Banfield"
+    },
+    {
+      "date": "2013-01-01",
+      "type": "€ 250K",
+      "team_out": "San Lorenzo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo",
+    "AEK Athens",
+    "San Lorenzo",
+    "Olimpo",
+    "San Lorenzo",
+    "Pescara",
+    "Banfield",
+    "Pescara",
+    "Banfield",
+    "Deportivo Cali",
+    "Sarmiento",
+    "Atlanta"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "player_id": 22240,
+  "full_name": "Loïc Alex Teliére Hubert Rémy",
+  "nationality": "France",
+  "birth_date": "1987-01-02",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2013-01-16",
+      "type": "€ 10.5M",
+      "team_out": "Marseille",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2010-08-24",
+      "type": "€ 15.5M",
+      "team_out": "Nice",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "R.C. Lens",
+    "OGC Nice",
+    "Olympique de Marseille",
+    "Newcastle United F.C.",
+    "Queens Park Rangers F.C.",
+    "Chelsea F.C.",
+    "Crystal Palace F.C.",
+    "UD Las Palmas",
+    "Getafe CF",
+    "Lille OSC",
+    "Çaykur Rizespor",
+    "Adana Demirspor",
+    "Stade Brestois 29"
+  ]
+}

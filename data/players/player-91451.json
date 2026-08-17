@@ -1,0 +1,33 @@
+{
+  "player_id": 91451,
+  "full_name": "Alberto Aquilani",
+  "nationality": "Italy",
+  "birth_date": "1984-07-07",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2017-01-03",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2016-08-25",
+      "type": "N/A",
+      "team_out": "Sporting CP",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Triestina Calcio 1918",
+    "Liverpool F.C.",
+    "Juventus FC",
+    "AC Milan",
+    "ACF Fiorentina",
+    "Sporting CP",
+    "Delfino Pescara 1936",
+    "US Sassuolo Calcio",
+    "UD Las Palmas"
+  ]
+}

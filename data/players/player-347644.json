@@ -1,0 +1,26 @@
+{
+  "player_id": 347644,
+  "full_name": "Arthur Atta",
+  "nationality": "France",
+  "birth_date": "2003-01-14",
+  "birth_place": "Rennes",
+  "career_transfers": [
+    {
+      "date": "2026-07-10",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2026-07-09",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Metz",
+    "Udinese",
+    "Fiorentina"
+  ]
+}

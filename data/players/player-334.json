@@ -1,0 +1,49 @@
+{
+  "player_id": 334,
+  "full_name": "Simone Verdi",
+  "nationality": "Italy",
+  "birth_date": "1992-07-12",
+  "birth_place": "Broni",
+  "career_transfers": [
+    {
+      "date": "2023-08-25",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Free agent",
+      "team_out": "Como",
+      "team_in": "Sudtirol"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Free agent",
+      "team_out": "Como",
+      "team_in": "Sudtirol"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Torino FC",
+    "S.S. Juve Stabia",
+    "Empoli FC",
+    "AC Milan",
+    "SD Eibar",
+    "A.C. Carpi",
+    "SSC Napoli"
+  ]
+}

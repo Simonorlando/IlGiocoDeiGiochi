@@ -1,0 +1,39 @@
+{
+  "player_id": 311071,
+  "full_name": "Nicolás Valentini",
+  "nationality": "Argentina",
+  "birth_date": "2001-04-06",
+  "birth_place": "Junín",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-22",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Verona",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Club Atlético Aldosivi",
+    "ACF Fiorentina",
+    "Hellas Verona FC"
+  ]
+}

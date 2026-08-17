@@ -1,0 +1,43 @@
+{
+  "player_id": 649,
+  "full_name": "Jason Grégory Marianne Denayer",
+  "nationality": "Belgium",
+  "birth_date": "1995-06-28",
+  "birth_place": "Jette",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Celtic F.C.",
+    "Manchester City F.C.",
+    "Galatasaray S.K.",
+    "Sunderland A.F.C.",
+    "Galatasaray S.K.",
+    "Olympique Lyonnais",
+    "Shabab AlAhli Dubai Club",
+    "Al Fateh SC"
+  ]
+}

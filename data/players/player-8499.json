@@ -1,0 +1,27 @@
+{
+  "player_id": 8499,
+  "full_name": "Jorge Filipe Avelino Teixeira",
+  "nationality": "Portugal",
+  "birth_date": "1986-08-27",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "FC Zurich",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Casa Pia A.C.",
+    "Odivelas F.C.",
+    "C.D. Fátima",
+    "Atromitos Yeroskipou",
+    "AEP Paphos F.C.",
+    "Maccabi Haifa F.C.",
+    "FC Zürich",
+    "Siena FC",
+    "Standard Liège",
+    "Charlton Athletic F.C."
+  ]
+}

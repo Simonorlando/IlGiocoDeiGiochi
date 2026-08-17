@@ -1,0 +1,20 @@
+{
+  "player_id": 22094,
+  "full_name": "Wesley Tidjan Fofana",
+  "nationality": "France",
+  "birth_date": "2000-12-17",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2022-08-31",
+      "type": "€ 82.5M",
+      "team_out": "Leicester",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Leicester City F.C.",
+    "Chelsea F.C."
+  ]
+}

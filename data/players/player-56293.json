@@ -1,0 +1,19 @@
+{
+  "player_id": 56293,
+  "full_name": "Idrissa Touré",
+  "nationality": "Germany",
+  "birth_date": "1998-04-29",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2021-07-15",
+      "type": "€ 900K",
+      "team_out": "Juventus U23",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "RB Leipzig",
+    "Juventus FC"
+  ]
+}

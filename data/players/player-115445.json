@@ -1,0 +1,32 @@
+{
+  "player_id": 115445,
+  "full_name": "Gianluca Galasso",
+  "nationality": "Italy",
+  "birth_date": "1984-01-18",
+  "birth_place": "Latina",
+  "career_transfers": [
+    {
+      "date": "2009-07-01",
+      "type": "Loan",
+      "team_out": "Bari",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "U.S. Salernitana 1919",
+    "Ternana Calcio",
+    "Frosinone Calcio",
+    "SSC Bari",
+    "U.S. Salernitana 1919",
+    "US Triestina Calcio 1918",
+    "Anzio Calcio 1924",
+    "S.S. Racing Club Fondi"
+  ]
+}

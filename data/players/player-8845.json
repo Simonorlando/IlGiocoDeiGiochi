@@ -1,0 +1,30 @@
+{
+  "player_id": 8845,
+  "full_name": "Daan Heymans",
+  "nationality": "Belgium",
+  "birth_date": "1999-06-15",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2022-07-03",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Charleroi"
+    },
+    {
+      "date": "2022-01-27",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Charleroi"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Waasland-beveren",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "K.V.C. Westerlo"
+  ]
+}

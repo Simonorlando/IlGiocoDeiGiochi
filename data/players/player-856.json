@@ -1,0 +1,29 @@
+{
+  "player_id": 856,
+  "full_name": "Giorgio Chiellini",
+  "nationality": "Italy",
+  "birth_date": "1984-08-14",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2005-08-01",
+      "type": "€ 4.3M",
+      "team_out": "Fiorentina",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "€ 3.5M",
+      "team_out": "Juventus",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "AS Roma",
+    "US Livorno 1915",
+    "Juventus FC",
+    "ACF Fiorentina",
+    "Los Angeles FC"
+  ]
+}

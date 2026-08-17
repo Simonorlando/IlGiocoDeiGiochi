@@ -1,0 +1,47 @@
+{
+  "player_id": 31503,
+  "full_name": "Leonardo Mancuso",
+  "nationality": "Italy",
+  "birth_date": "1992-05-26",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-07-12",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Mantova"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-07-06",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2022-07-26",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Como"
+    },
+    {
+      "date": "2022-01-20",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Pizzighettone",
+    "Carrarese Calcio",
+    "Italy Lega Pro representative teams",
+    "Associazione Sportiva Cittadella",
+    "Delfino Pescara 1936",
+    "Juventus FC"
+  ]
+}

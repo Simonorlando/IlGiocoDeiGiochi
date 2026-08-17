@@ -1,0 +1,29 @@
+{
+  "player_id": 114927,
+  "full_name": "Marius Stankevičius",
+  "nationality": "Lithuania",
+  "birth_date": "1981-07-15",
+  "birth_place": "Kaunas",
+  "career_transfers": [
+    {
+      "date": "2016-08-09",
+      "type": "Free",
+      "team_out": "Cordoba",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "FK Ekranas",
+    "Brescia Calcio",
+    "Cosenza Calcio 1914",
+    "Cosenza Calcio",
+    "U.C. Sampdoria",
+    "Valencia CF",
+    "Sevilla FC",
+    "SS Lazio",
+    "Gaziantepspor",
+    "Hannover 96",
+    "Córdoba CF",
+    "Siena FC"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 56473,
+  "full_name": "Matteo Gabbia",
+  "nationality": "Italy",
+  "birth_date": "1999-10-21",
+  "birth_place": "Busto Arsizio",
+  "career_transfers": [
+    {
+      "date": "2024-01-04",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2023-07-26",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Villareal"
+  ]
+}

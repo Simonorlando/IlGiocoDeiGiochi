@@ -1,0 +1,20 @@
+{
+  "player_id": 26305,
+  "full_name": "Santiago Lionel Ascacíbar",
+  "nationality": "Argentina",
+  "birth_date": "1997-02-25",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2022-07-23",
+      "type": "Loan",
+      "team_out": "Hertha BSC",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "VfB Stuttgart",
+    "Hertha BSC"
+  ]
+}

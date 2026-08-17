@@ -1,0 +1,19 @@
+{
+  "player_id": 31062,
+  "full_name": "Antonino La Gumina",
+  "nationality": "Italy",
+  "birth_date": "1996-03-06",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2021-08-18",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Empoli FC"
+  ]
+}

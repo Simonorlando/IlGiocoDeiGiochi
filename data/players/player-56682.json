@@ -1,0 +1,29 @@
+{
+  "player_id": 56682,
+  "full_name": "Dávid Ivan",
+  "nationality": "Slovakia",
+  "birth_date": "1995-02-26",
+  "birth_place": "Bratislava",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2016-08-25",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "SSC Bari",
+    "F.C. Pro Vercelli 1892",
+    "Vis Pesaro dal 1898",
+    "AC ChievoVerona",
+    "FC Dynamo Brest"
+  ]
+}

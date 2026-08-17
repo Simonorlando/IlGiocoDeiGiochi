@@ -1,0 +1,28 @@
+{
+  "player_id": 35605,
+  "full_name": "Jérémy Ménez",
+  "nationality": "France",
+  "birth_date": "1987-05-07",
+  "birth_place": "Longjumeau",
+  "career_transfers": [
+    {
+      "date": "2023-07-19",
+      "type": "Free",
+      "team_out": "Reggina",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "FC Sochaux-Montbéliard",
+    "AS Monaco FC",
+    "AS Roma",
+    "Paris Saint-Germain FC",
+    "AC Milan",
+    "FC Girondins de Bordeaux",
+    "Antalyaspor",
+    "Club América",
+    "Paris FC",
+    "AS Reggina 1914",
+    "SSC Bari"
+  ]
+}

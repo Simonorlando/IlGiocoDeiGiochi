@@ -1,0 +1,30 @@
+{
+  "player_id": 2495,
+  "full_name": "Duván Esteban Zapata Banguero",
+  "nationality": "Colombia",
+  "birth_date": "1991-04-01",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 8.6M",
+      "team_out": "Atalanta",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "América de Cali",
+    "Estudiantes de La Plata",
+    "SSC Napoli",
+    "Udinese Calcio",
+    "U.C. Sampdoria",
+    "Atalanta BC",
+    "Torino FC"
+  ]
+}

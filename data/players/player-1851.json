@@ -1,0 +1,32 @@
+{
+  "player_id": 1851,
+  "full_name": "Valon Berisha",
+  "nationality": "Kosovo",
+  "birth_date": "1993-02-07",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2018-07-03",
+      "type": "€ 7.5M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2012-07-28",
+      "type": "€ 2.8M",
+      "team_out": "Viking",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Egersunds IK",
+    "Viking FK",
+    "FC Red Bull Salzburg",
+    "SS Lazio",
+    "Fortuna Düsseldorf",
+    "Stade de Reims",
+    "Melbourne City FC",
+    "LASK Linz",
+    "FC Zürich"
+  ]
+}

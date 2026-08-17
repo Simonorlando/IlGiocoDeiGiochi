@@ -1,0 +1,18 @@
+{
+  "player_id": 10500,
+  "full_name": "Eduardo Gabriel Aquino Cossa",
+  "nationality": "Brazil",
+  "birth_date": "1997-02-24",
+  "birth_place": "Foz do Iguaçu",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 15M",
+      "team_out": "Gremio",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA"
+  ]
+}

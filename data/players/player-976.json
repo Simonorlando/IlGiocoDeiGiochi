@@ -1,0 +1,27 @@
+{
+  "player_id": 976,
+  "full_name": "Karim Bellarabi",
+  "nationality": "Germany",
+  "birth_date": "1990-04-08",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Braunschweig",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2013-08-22",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Eintracht Braunschweig"
+    }
+  ],
+  "career_clubs": [
+    "FC Oberneuland",
+    "Eintracht Braunschweig",
+    "Bayer 04 Leverkusen",
+    "Eintracht Braunschweig"
+  ]
+}

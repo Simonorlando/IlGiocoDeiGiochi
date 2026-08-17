@@ -1,0 +1,28 @@
+{
+  "player_id": 15704,
+  "full_name": "Kasper Waarts Thenza Høgh",
+  "nationality": "Denmark",
+  "birth_date": "2000-12-06",
+  "birth_place": "Randers",
+  "career_transfers": [
+    {
+      "date": "2026-07-26",
+      "type": "Transfer",
+      "team_out": "Bodo/Glimt",
+      "team_in": "Celtic"
+    },
+    {
+      "date": "2026-07-27",
+      "type": "Transfer",
+      "team_out": "Bodo/Glimt",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Randers FC",
+    "Hobro IK",
+    "AaB Fodbold",
+    "FK Bodø/Glimt",
+    "Celtic F.C."
+  ]
+}

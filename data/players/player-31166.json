@@ -1,0 +1,27 @@
+{
+  "player_id": 31166,
+  "full_name": "Nahuel Valentini",
+  "nationality": "Argentina",
+  "birth_date": "1988-09-19",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2014-08-12",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2013-07-27",
+      "type": "Free",
+      "team_out": "Rosario Central",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "US Livorno 1915",
+    "Spezia Calcio",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

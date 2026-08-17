@@ -1,0 +1,41 @@
+{
+  "player_id": 12719,
+  "full_name": "José Paulo Bezzera Maciel Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1988-07-25",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2019-01-02",
+      "type": "N/A",
+      "team_out": "Barcelona",
+      "team_in": "Guangzhou Evergrande FC"
+    },
+    {
+      "date": "2018-07-08",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Guangzhou Evergrande FC"
+    },
+    {
+      "date": "2017-08-14",
+      "type": "€ 40M",
+      "team_out": "Guangzhou Evergrande FC",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Audax São Paulo Esporte Clube",
+    "FC Vilnius",
+    "Audax São Paulo Esporte Clube",
+    "ŁKS Łódź",
+    "Red Bull Bragantino",
+    "S.C. Corinthians Paulista",
+    "Tottenham Hotspur F.C.",
+    "Guangzhou F.C.",
+    "FC Barcelona",
+    "Guangzhou F.C.",
+    "Al Ahli FC",
+    "S.C. Corinthians Paulista"
+  ]
+}

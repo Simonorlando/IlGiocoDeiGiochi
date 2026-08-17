@@ -1,0 +1,27 @@
+{
+  "player_id": 11406,
+  "full_name": "Marcelo Alejandro Larrondo Páez",
+  "nationality": "Chile",
+  "birth_date": "1988-08-16",
+  "birth_place": "Tunuyán",
+  "career_transfers": [
+    {
+      "date": "2013-01-21",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Club Sportivo Desamparados",
+    "Club Atlético River Plate",
+    "C.A. Progreso",
+    "Siena FC",
+    "ACF Fiorentina",
+    "Torino FC",
+    "Club Atlético Tigre",
+    "Club Atlético Rosario Central",
+    "Club Atlético Tigre",
+    "Club Atlético River Plate"
+  ]
+}

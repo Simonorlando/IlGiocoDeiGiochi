@@ -1,0 +1,42 @@
+{
+  "player_id": 1566,
+  "full_name": "Emerson Aparecido Leite de Souza Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1999-01-14",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "€ 25M",
+      "team_out": "Barcelona",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Real Betis",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2019-07-02",
+      "type": "€ 6M",
+      "team_out": "Barcelona",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 12M",
+      "team_out": "Atletico-MG",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Associação Atlética Ponte Preta",
+    "Clube Atlético Mineiro",
+    "Real Betis Balompié",
+    "FC Barcelona",
+    "Real Betis Balompié",
+    "Tottenham Hotspur F.C.",
+    "AC Milan"
+  ]
+}

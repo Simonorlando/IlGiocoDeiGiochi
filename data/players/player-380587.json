@@ -1,0 +1,25 @@
+{
+  "player_id": 380587,
+  "full_name": "Ibrahim Maza",
+  "nationality": "Germany",
+  "birth_date": "2005-11-24",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2025-06-01",
+      "type": "Transfer",
+      "team_out": "Hertha BSC",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Transfer",
+      "team_out": "Hertha BSC",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Hertha BSC",
+    "Bayer Leverkusen"
+  ]
+}

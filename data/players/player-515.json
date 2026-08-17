@@ -1,0 +1,32 @@
+{
+  "player_id": 515,
+  "full_name": "Franck Henry Pierre Bilal Ribéry",
+  "nationality": "France",
+  "birth_date": "1983-04-07",
+  "birth_place": "Boulogne-sur-Mer",
+  "career_transfers": [
+    {
+      "date": "2005-07-01",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "€ 2.5M",
+      "team_out": "Metz",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "US Boulogne",
+    "Olympique Alès",
+    "Stade Brestois 29",
+    "FC Metz",
+    "Olympique de Marseille",
+    "Galatasaray S.K.",
+    "FC Bayern Munich",
+    "ACF Fiorentina",
+    "U.S. Salernitana 1919"
+  ]
+}

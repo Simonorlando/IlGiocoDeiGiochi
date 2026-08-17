@@ -1,0 +1,34 @@
+{
+  "player_id": 429,
+  "full_name": "Néstor Fernando Muslera Micol",
+  "nationality": "Uruguay",
+  "birth_date": "1986-06-16",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2011-07-05",
+      "type": "€ 6.8M",
+      "team_out": "Lazio",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Free Transfer",
+      "team_out": "Galatasaray",
+      "team_in": "Estudiantes L.P."
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Free agent",
+      "team_out": "Galatasaray",
+      "team_in": "Estudiantes L.P."
+    }
+  ],
+  "career_clubs": [
+    "Montevideo Wanderers Fútbol Club",
+    "Club Nacional de Football",
+    "SS Lazio",
+    "Galatasaray S.K.",
+    "Estudiantes de La Plata"
+  ]
+}

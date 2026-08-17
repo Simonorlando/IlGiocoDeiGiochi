@@ -1,0 +1,36 @@
+{
+  "player_id": 3418,
+  "full_name": "Nicholas Opoku",
+  "nationality": "Ghana",
+  "birth_date": "1997-08-11",
+  "birth_place": "Kumasi",
+  "career_transfers": [
+    {
+      "date": "2021-08-20",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Amiens",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2020-01-28",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2018-07-13",
+      "type": "€ 1.5M",
+      "team_out": "Club Africain",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 7712,
+  "full_name": "Morten Blom Due Hjulmand",
+  "nationality": "Denmark",
+  "birth_date": "1999-06-25",
+  "birth_place": "Kastrup",
+  "career_transfers": [
+    {
+      "date": "2023-08-13",
+      "type": "€ 18M",
+      "team_out": "Lecce",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2021-01-18",
+      "type": "N/A",
+      "team_out": "Admira Wacker",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Admira Wacker",
+    "US Lecce",
+    "Sporting CP",
+    "Atlético Madrid"
+  ]
+}

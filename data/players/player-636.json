@@ -1,0 +1,28 @@
+{
+  "player_id": 636,
+  "full_name": "Bernardo Mota Veiga de Carvalho e Silva",
+  "nationality": "Portugal",
+  "birth_date": "1994-08-10",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Manchester City",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Manchester City",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "AS Monaco FC",
+    "Manchester City F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

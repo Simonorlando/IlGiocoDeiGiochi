@@ -1,0 +1,19 @@
+{
+  "player_id": 10009,
+  "full_name": "Rodrygo Silva de Goes",
+  "nationality": "Brazil",
+  "birth_date": "2001-01-09",
+  "birth_place": "Osasco",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 45M",
+      "team_out": "Santos",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Santos F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

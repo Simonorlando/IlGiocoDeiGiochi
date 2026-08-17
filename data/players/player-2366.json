@@ -1,0 +1,59 @@
+{
+  "player_id": 2366,
+  "full_name": "Alin Dorinel Toșca",
+  "nationality": "Romania",
+  "birth_date": "1992-03-14",
+  "birth_place": "Alexandria",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Al Riyadh",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2023-07-20",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Al Riyadh"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "N/A",
+      "team_out": "Gazişehir Gaziantep",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "PAOK",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Benevento",
+      "team_in": "Universitatea Cluj"
+    },
+    {
+      "date": "2025-07-31",
+      "type": "Free agent",
+      "team_out": "Benevento",
+      "team_in": "Universitatea Cluj"
+    }
+  ],
+  "career_clubs": [
+    "FCSB",
+    "FC Unirea Urziceni",
+    "AFC Săgeata Năvodari",
+    "FC Viitorul Constanța",
+    "FCSB",
+    "Real Betis Balompié",
+    "Benevento Calcio",
+    "PAOK FC",
+    "Gaziantep F.K.",
+    "Benevento Calcio",
+    "Al-Riyadh SC",
+    "FC Universitatea Cluj"
+  ]
+}

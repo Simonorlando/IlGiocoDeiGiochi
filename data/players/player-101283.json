@@ -1,0 +1,30 @@
+{
+  "player_id": 101283,
+  "full_name": "Juan Manuel Vargas Risco",
+  "nationality": "Peru",
+  "birth_date": "1983-10-05",
+  "birth_place": "Lima",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "12M €",
+      "team_out": "Catania",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "Free",
+      "team_out": "Colon Santa Fe",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Universitario de Deportes",
+    "Club Atlético Colón",
+    "Catania FC",
+    "ACF Fiorentina",
+    "Genoa CFC",
+    "Real Betis Balompié",
+    "Club Universitario de Deportes"
+  ]
+}

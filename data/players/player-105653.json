@@ -1,0 +1,34 @@
+{
+  "player_id": 105653,
+  "full_name": "Joan Capdevila Méndez",
+  "nationality": "Spain",
+  "birth_date": "1978-02-03",
+  "birth_place": "Tàrrega",
+  "career_transfers": [
+    {
+      "date": "2011-07-20",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Free",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "UE Tàrrega",
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "Atlético Madrid",
+    "Deportivo de A Coruña",
+    "Villarreal CF",
+    "S.L. Benfica",
+    "RCD Espanyol de Barcelona",
+    "NorthEast United FC",
+    "Lierse S.K.",
+    "FC Santa Coloma"
+  ]
+}

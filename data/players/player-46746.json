@@ -1,0 +1,55 @@
+{
+  "player_id": 46746,
+  "full_name": "Ante Budimir",
+  "nationality": "Croatia",
+  "birth_date": "1991-07-22",
+  "birth_place": "Zenica",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 2.2M",
+      "team_out": "Crotone",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2019-01-15",
+      "type": "Loan",
+      "team_out": "Crotone",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 2M",
+      "team_out": "Sampdoria",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2017-07-05",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2016-07-05",
+      "type": "€ 1.8M",
+      "team_out": "Crotone",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "€ 1M",
+      "team_out": "FC St. Pauli",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "NK Inter Zaprešić",
+    "NK Lokomotiva",
+    "FC St. Pauli",
+    "F.C. Crotone",
+    "U.C. Sampdoria",
+    "F.C. Crotone",
+    "RCD Mallorca",
+    "Club Atlético Osasuna"
+  ]
+}

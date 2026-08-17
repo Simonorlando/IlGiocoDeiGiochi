@@ -1,0 +1,31 @@
+{
+  "player_id": 22007,
+  "full_name": "Hassane Kamara",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1994-03-05",
+  "birth_place": "Saint Denis",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2022-08-23",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2022-08-22",
+      "type": "€ 19M",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "LB Châteauroux",
+    "Stade de Reims"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 115357,
+  "full_name": "Alex Pinardi",
+  "nationality": "Italy",
+  "birth_date": "1980-09-05",
+  "birth_place": "Chiari",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "US Lecce",
+    "Modena F.C.",
+    "Cagliari Calcio",
+    "Novara Calcio",
+    "Vicenza Calcio",
+    "US Cremonese",
+    "Feralpisalò"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 48113,
+  "full_name": "Gianluca Curci",
+  "nationality": "Italy",
+  "birth_date": "1985-07-12",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2010-07-02",
+      "type": "€ 2.5M",
+      "team_out": "Robur Siena",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 1.8M",
+      "team_out": "AS Roma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Siena FC",
+    "U.C. Sampdoria",
+    "AS Roma",
+    "Bologna F.C. 1909",
+    "1. FSV Mainz 05",
+    "AFC Eskilstuna",
+    "Hammarby Fotboll"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "player_id": 32960,
+  "full_name": "Hidemasa Morita",
+  "nationality": "Japan",
+  "birth_date": "1995-05-10",
+  "birth_place": "Osaka",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Santa Clara",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Sporting CP",
+      "team_in": "Morita Hidemasa"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Free agent",
+      "team_out": "Sporting CP",
+      "team_in": "Hull City"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "Free agent",
+      "team_out": "Sporting CP",
+      "team_in": "Hull City"
+    }
+  ],
+  "career_clubs": [
+    "Kawasaki Frontale",
+    "C.D. Santa Clara",
+    "Sporting CP",
+    "Hull City A.F.C."
+  ]
+}

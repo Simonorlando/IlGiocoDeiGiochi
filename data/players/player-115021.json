@@ -1,0 +1,27 @@
+{
+  "player_id": 115021,
+  "full_name": "Hasan Salihamidžić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1977-01-01",
+  "birth_place": "Jablanica",
+  "career_transfers": [
+    {
+      "date": "2011-07-05",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Free",
+      "team_out": "Bayern Munich",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Hamburger SV",
+    "FC Bayern Munich",
+    "Juventus FC",
+    "VfL Wolfsburg"
+  ]
+}

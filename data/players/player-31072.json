@@ -1,0 +1,26 @@
+{
+  "player_id": 31072,
+  "full_name": "Marco Capuano",
+  "nationality": "Italy",
+  "birth_date": "1991-10-14",
+  "birth_place": "Pescara",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 1M",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2014-08-06",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Cagliari Calcio",
+    "Torino FC"
+  ]
+}

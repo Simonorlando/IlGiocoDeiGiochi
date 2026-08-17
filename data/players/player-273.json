@@ -1,0 +1,21 @@
+{
+  "player_id": 273,
+  "full_name": "Marco Verratti",
+  "nationality": "Italy",
+  "birth_date": "1992-11-05",
+  "birth_place": "Pescara",
+  "career_transfers": [
+    {
+      "date": "2012-07-18",
+      "type": "€ 12M",
+      "team_out": "Pescara",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Paris Saint-Germain FC",
+    "Al-Arabi SC",
+    "Al-Duhail SC"
+  ]
+}

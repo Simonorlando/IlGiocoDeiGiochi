@@ -1,0 +1,56 @@
+{
+  "player_id": 40392,
+  "full_name": "Mateusz Wieteska",
+  "nationality": "Poland",
+  "birth_date": "1997-02-11",
+  "birth_place": "Warszawa",
+  "career_transfers": [
+    {
+      "date": "2023-08-29",
+      "type": "€ 5M",
+      "team_out": "Clermont Foot",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "PAOK",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Kocaelispor"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Kocaelispor",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Transfer",
+      "team_out": "Cagliari",
+      "team_in": "Wieczysta Kraków"
+    }
+  ],
+  "career_clubs": [
+    "Legia Warsaw",
+    "Dolcan Ząbki",
+    "Chrobry Głogów",
+    "Górnik Zabrze",
+    "Legia Warsaw",
+    "Clermont Foot 63",
+    "Cagliari Calcio",
+    "PAOK FC",
+    "Kocaelispor"
+  ]
+}

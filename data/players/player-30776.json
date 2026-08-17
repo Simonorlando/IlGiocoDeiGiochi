@@ -1,0 +1,43 @@
+{
+  "player_id": 30776,
+  "full_name": "Cristian Gabriel Romero",
+  "nationality": "Argentina",
+  "birth_date": "1998-04-27",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2022-08-30",
+      "type": "€ 50M",
+      "team_out": "Atalanta",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2021-08-06",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2021-08-06",
+      "type": "€ 16M",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2020-09-05",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "Genoa CFC",
+    "Juventus FC",
+    "Atalanta BC",
+    "Tottenham Hotspur F.C.",
+    "Atalanta BC",
+    "Tottenham Hotspur F.C.",
+    "Atlético Madrid"
+  ]
+}

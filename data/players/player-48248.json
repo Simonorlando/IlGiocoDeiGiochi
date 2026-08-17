@@ -1,0 +1,32 @@
+{
+  "player_id": 48248,
+  "full_name": "Alexander Farnerud",
+  "nationality": "Sweden",
+  "birth_date": "1984-05-01",
+  "birth_place": "Helsingborg",
+  "career_transfers": [
+    {
+      "date": "2016-08-09",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "BK Hacken"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 2M",
+      "team_out": "BSC Young Boys",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Landskrona BoIS",
+    "RC Strasbourg Alsace",
+    "VfB Stuttgart",
+    "Brøndby IF",
+    "BSC Young Boys",
+    "Torino FC",
+    "IFK Göteborg",
+    "Helsingborgs IF",
+    "BK Häcken"
+  ]
+}

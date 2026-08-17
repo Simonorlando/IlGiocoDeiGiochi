@@ -1,0 +1,21 @@
+{
+  "player_id": 542,
+  "full_name": "Ryan Jiro Gravenberch",
+  "nationality": "Netherlands",
+  "birth_date": "2002-05-16",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 18.5M",
+      "team_out": "Ajax",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "FC Bayern Munich",
+    "Liverpool F.C."
+  ]
+}

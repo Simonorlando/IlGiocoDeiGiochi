@@ -1,0 +1,26 @@
+{
+  "player_id": 24802,
+  "full_name": "Marco Höger",
+  "nationality": "Germany",
+  "birth_date": "1989-09-16",
+  "birth_place": "Köln",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "1.FC Köln"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Alemannia Aachen",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Alemannia Aachen",
+    "Schalke 04",
+    "1. FC Köln"
+  ]
+}

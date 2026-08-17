@@ -1,0 +1,22 @@
+{
+  "player_id": 280431,
+  "full_name": "Sadik Fofana",
+  "nationality": "Togo",
+  "birth_date": "2003-05-16",
+  "birth_place": "Aachen",
+  "career_transfers": [
+    {
+      "date": "2026-01-14",
+      "type": "Transfer",
+      "team_out": "Grazer AK",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Bayer Leverkusen",
+    "1. FC Nürnberg",
+    "Fortuna Sittard",
+    "Grazer AK",
+    "Lecce"
+  ]
+}

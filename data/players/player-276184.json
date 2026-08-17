@@ -1,0 +1,32 @@
+{
+  "player_id": 276184,
+  "full_name": "Mamadou Sarr",
+  "nationality": "France",
+  "birth_date": "2005-08-29",
+  "birth_place": "Martigues",
+  "career_transfers": [
+    {
+      "date": "2024-08-22",
+      "type": "€ 10M",
+      "team_out": "Lyon",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "RWDM",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2024-01-18",
+      "type": "Loan",
+      "team_out": "Lyon",
+      "team_in": "RWDM"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "RWDM Brussels",
+    "RC Strasbourg Alsace"
+  ]
+}

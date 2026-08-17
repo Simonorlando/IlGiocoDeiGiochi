@@ -1,0 +1,33 @@
+{
+  "player_id": 30629,
+  "full_name": "Benito Nicolas Viola",
+  "nationality": "Italy",
+  "birth_date": "1989-10-12",
+  "birth_place": "Oppido Mamertina",
+  "career_transfers": [
+    {
+      "date": "2015-08-02",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2013-08-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Reggina",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "Palermo F.C.",
+    "Ternana Calcio",
+    "Novara Calcio"
+  ]
+}

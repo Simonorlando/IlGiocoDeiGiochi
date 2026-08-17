@@ -1,0 +1,34 @@
+{
+  "player_id": 31538,
+  "full_name": "Alberto Brignoli",
+  "nationality": "Italy",
+  "birth_date": "1991-08-19",
+  "birth_place": "Trescore Balneario",
+  "career_transfers": [
+    {
+      "date": "2019-07-24",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Football Club Atletico Montichiari",
+    "A.C. Lumezzane",
+    "Ternana Calcio",
+    "Italy under-21 Serie B representative team",
+    "Juventus FC",
+    "U.C. Sampdoria",
+    "CD Leganés",
+    "A.C. Perugia Calcio",
+    "Benevento Calcio",
+    "Palermo F.C.",
+    "Empoli FC"
+  ]
+}

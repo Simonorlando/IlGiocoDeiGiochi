@@ -1,0 +1,32 @@
+{
+  "player_id": 83,
+  "full_name": "Arnaut Danjuma Adam Groeneveld",
+  "nationality": "Netherlands",
+  "birth_date": "1997-01-31",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2019-08-01",
+      "type": "€ 15M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2018-06-15",
+      "type": "€ 1M",
+      "team_out": "NEC Nijmegen",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "N.E.C.",
+    "Club Brugge K.V.",
+    "AFC Bournemouth",
+    "Villarreal CF",
+    "Tottenham Hotspur F.C.",
+    "Everton F.C.",
+    "Girona FC",
+    "Valencia CF"
+  ]
+}

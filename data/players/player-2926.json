@@ -1,0 +1,40 @@
+{
+  "player_id": 2926,
+  "full_name": "Youri Marion A. Tielemans",
+  "nationality": "Belgium",
+  "birth_date": "1997-05-07",
+  "birth_place": "Ukkel",
+  "career_transfers": [
+    {
+      "date": "2019-07-08",
+      "type": "€ 45M",
+      "team_out": "Monaco",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Leicester",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-06-09",
+      "type": "€ 25M",
+      "team_out": "Anderlecht",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "AS Monaco FC",
+    "Leicester City F.C.",
+    "Aston Villa F.C.",
+    "Manchester United F.C."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 12666,
+  "full_name": "Renato Soares de Oliveira Augusto",
+  "nationality": "Brazil",
+  "birth_date": "1988-02-08",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2013-01-01",
+      "type": "€ 3.5M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 6M",
+      "team_out": "Flamengo",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Bayer 04 Leverkusen",
+    "S.C. Corinthians Paulista",
+    "Beijing Guoan F.C.",
+    "S.C. Corinthians Paulista",
+    "Fluminense F.C."
+  ]
+}

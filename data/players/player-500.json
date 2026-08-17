@@ -1,0 +1,28 @@
+{
+  "player_id": 500,
+  "full_name": "Márcio Rafael Ferreira de Souza",
+  "nationality": "Brazil",
+  "birth_date": "1985-09-07",
+  "birth_place": "Londrina",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 5.5M",
+      "team_out": "Genoa",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2010-08-04",
+      "type": "€ 9M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C.",
+    "Schalke 04",
+    "Genoa CFC",
+    "FC Bayern Munich",
+    "Clube de Regatas do Flamengo"
+  ]
+}

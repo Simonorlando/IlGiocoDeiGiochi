@@ -1,0 +1,19 @@
+{
+  "player_id": 19738,
+  "full_name": "Corrie Richard Ndaba",
+  "nationality": "Republic of Ireland",
+  "birth_date": "1999-12-25",
+  "birth_place": "Dublin",
+  "career_transfers": [
+    {
+      "date": "2025-07-28",
+      "type": "Transfer",
+      "team_out": "Kilmarnock",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Kilmarnock",
+    "Lecce"
+  ]
+}

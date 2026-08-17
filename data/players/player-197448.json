@@ -1,0 +1,36 @@
+{
+  "player_id": 197448,
+  "full_name": "Yan Bueno Couto",
+  "nationality": "Brazil",
+  "birth_date": "2002-06-03",
+  "birth_place": "Curitiba",
+  "career_transfers": [
+    {
+      "date": "2024-08-03",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C."
+  ]
+}

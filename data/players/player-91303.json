@@ -1,0 +1,27 @@
+{
+  "player_id": 91303,
+  "full_name": "Johan Danon Djourou-Gbadjere",
+  "nationality": "Switzerland",
+  "birth_date": "1987-01-18",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2018-07-21",
+      "type": "Free",
+      "team_out": "Antalyaspor",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "Étoile Carouge FC",
+    "Arsenal F.C.",
+    "Birmingham City F.C.",
+    "Hannover 96",
+    "Hamburger SV",
+    "Antalyaspor",
+    "SPAL",
+    "FC Sion",
+    "Neuchâtel Xamax FCS",
+    "FC Nordsjælland"
+  ]
+}

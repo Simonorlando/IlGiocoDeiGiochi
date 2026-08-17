@@ -1,0 +1,37 @@
+{
+  "player_id": 15452,
+  "full_name": "Urko Rafael Pardo Goas",
+  "nationality": "Cyprus",
+  "birth_date": "1983-01-28",
+  "birth_place": "Brussel",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Alki Oroklini"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona C",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "FC Cartagena",
+    "Centre d'Esports Sabadell Futbol Club",
+    "G.S. Iraklis Thessalonikis (men's association football)",
+    "G.S. Iraklis Thessalonikis",
+    "FC Rapid București",
+    "Olympiacos F.C.",
+    "UD Salamanca",
+    "APOEL F.C.",
+    "Alki Oroklini FC",
+    "Ermis Aradippou FC",
+    "Olympias Lympion"
+  ]
+}

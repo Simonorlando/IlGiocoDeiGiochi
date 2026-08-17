@@ -1,0 +1,29 @@
+{
+  "player_id": 877,
+  "full_name": "Moise Bioty Kean",
+  "nationality": "Italy",
+  "birth_date": "2000-02-28",
+  "birth_place": "Vercelli",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Hellas Verona FC",
+    "Everton F.C.",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "ACF Fiorentina"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 264513,
+  "full_name": "Martin Njøten Palumbo",
+  "nationality": "Norway",
+  "birth_date": "2002-03-05",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-21",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Avellino"
+    }
+  ],
+  "career_clubs": [
+    "Udinese",
+    "Juventus",
+    "Juventus Next Gen",
+    "Avellino"
+  ]
+}

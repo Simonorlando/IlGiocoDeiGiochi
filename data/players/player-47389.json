@@ -1,0 +1,39 @@
+{
+  "player_id": 47389,
+  "full_name": "Joan Jordán Moreno",
+  "nationality": "Spain",
+  "birth_date": "1994-07-06",
+  "birth_place": "Gerona",
+  "career_transfers": [
+    {
+      "date": "2024-08-29",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Alaves"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 14M",
+      "team_out": "Eibar",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Alaves",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Alaves",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol de Barcelona",
+    "Sevilla FC",
+    "Real Valladolid",
+    "SD Eibar"
+  ]
+}

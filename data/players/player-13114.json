@@ -1,0 +1,29 @@
+{
+  "player_id": 13114,
+  "full_name": "Augusto Matías Fernández",
+  "nationality": "Argentina",
+  "birth_date": "1986-04-10",
+  "birth_place": "Pergamino",
+  "career_transfers": [
+    {
+      "date": "2018-02-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Beijing Renhe"
+    },
+    {
+      "date": "2016-01-04",
+      "type": "€ 6.5M",
+      "team_out": "Celta Vigo",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "AS Saint-Étienne",
+    "Club Atlético Vélez Sarsfield",
+    "RC Celta de Vigo",
+    "Atlético Madrid",
+    "Valencia CF"
+  ]
+}

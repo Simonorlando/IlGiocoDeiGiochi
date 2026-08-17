@@ -1,0 +1,47 @@
+{
+  "player_id": 30754,
+  "full_name": "Nicola Rigoni",
+  "nationality": "Italy",
+  "birth_date": "1990-11-12",
+  "birth_place": "Schio",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-01-27",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2019-07-24",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Vicenza Calcio",
+    "Palermo F.C.",
+    "Vicenza Calcio",
+    "AC ChievoVerona",
+    "AS Reggina 1914",
+    "Associazione Sportiva Cittadella"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 323935,
+  "full_name": "Giuliano Simeone Baldini",
+  "nationality": "Argentina",
+  "birth_date": "2002-12-18",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Alaves",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2023-07-21",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Alaves"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid",
+    "Atlético Madrid B",
+    "Real Zaragoza",
+    "Deportivo Alavés"
+  ]
+}

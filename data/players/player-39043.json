@@ -1,0 +1,19 @@
+{
+  "player_id": 39043,
+  "full_name": "Fredrik Aursnes",
+  "nationality": "Norway",
+  "birth_date": "1995-12-10",
+  "birth_place": "Hareid",
+  "career_transfers": [
+    {
+      "date": "2022-08-24",
+      "type": "€ 13M",
+      "team_out": "Feyenoord",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "IL Hødd",
+    "Molde FK"
+  ]
+}

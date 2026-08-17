@@ -1,0 +1,43 @@
+{
+  "player_id": 31086,
+  "full_name": "Raffaele Maiello",
+  "nationality": "Italy",
+  "birth_date": "1991-07-10",
+  "birth_place": "Acerra",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2022-01-29",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2017-07-11",
+      "type": "€ 1.2M",
+      "team_out": "Napoli",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2017-01-19",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "F.C. Crotone",
+    "Italy under-21 Serie B representative team",
+    "Ternana Calcio",
+    "F.C. Crotone",
+    "Empoli FC",
+    "F.C. Crotone",
+    "SSC Napoli"
+  ]
+}

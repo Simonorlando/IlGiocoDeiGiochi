@@ -1,0 +1,36 @@
+{
+  "player_id": 26759,
+  "full_name": "Federico Macheda",
+  "nationality": "Italy",
+  "birth_date": "1991-08-22",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Ankaragucu"
+    },
+    {
+      "date": "2023-01-25",
+      "type": "Loan",
+      "team_out": "Ankaragucu",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "U.C. Sampdoria",
+    "Queens Park Rangers F.C.",
+    "VfB Stuttgart",
+    "Doncaster Rovers F.C.",
+    "Birmingham City F.C.",
+    "Cardiff City F.C.",
+    "Novara Calcio",
+    "Nottingham Forest F.C.",
+    "Panathinaikos F.C.",
+    "MKE Ankaragücü",
+    "APOEL F.C.",
+    "Asteras Tripoli F.C."
+  ]
+}

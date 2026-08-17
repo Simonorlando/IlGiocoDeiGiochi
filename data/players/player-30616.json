@@ -1,0 +1,36 @@
+{
+  "player_id": 30616,
+  "full_name": "Andrea Costa",
+  "nationality": "Italy",
+  "birth_date": "1986-02-01",
+  "birth_place": "Reggio Emilia",
+  "career_transfers": [
+    {
+      "date": "2015-07-22",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2014-08-27",
+      "type": "Swap",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Reggiana U20",
+    "Reggiana",
+    "Bologna",
+    "Reggina 1914",
+    "Bologna",
+    "Reggina 1914",
+    "Sampdoria",
+    "Reggina 1914",
+    "Sampdoria",
+    "Parma",
+    "Empoli",
+    "Benevento",
+    "Reggiana"
+  ]
+}

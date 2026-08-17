@@ -1,0 +1,43 @@
+{
+  "player_id": 370,
+  "full_name": "Fabiano Ribeiro de Freitas",
+  "nationality": "Brazil",
+  "birth_date": "1988-02-29",
+  "birth_place": "Santo Antônio de Jesus",
+  "career_transfers": [
+    {
+      "date": "2019-10-17",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Omonia Nicosia"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Fenerbahce",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2015-07-02",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 1.2M",
+      "team_out": "Olhanense",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Toledo Colônia Work",
+    "América Futebol Clube",
+    "Esporte Clube Santo André",
+    "S.C. Olhanense",
+    "Grêmio Barueri Futebol",
+    "FC Porto",
+    "Fenerbahçe Istanbul"
+  ]
+}

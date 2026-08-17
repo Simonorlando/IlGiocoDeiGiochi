@@ -1,0 +1,27 @@
+{
+  "player_id": 105800,
+  "full_name": "Tomáš Rosický",
+  "nationality": "Czech Republic",
+  "birth_date": "1980-10-04",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 10M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2001-01-01",
+      "type": "€ 14.5M",
+      "team_out": "Sparta Praha",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "AC Sparta Prague",
+    "Borussia Dortmund",
+    "Arsenal F.C.",
+    "AC Sparta Prague"
+  ]
+}

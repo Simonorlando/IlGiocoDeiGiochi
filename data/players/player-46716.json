@@ -1,0 +1,34 @@
+{
+  "player_id": 46716,
+  "full_name": "Sulley Ali Muntari",
+  "nationality": "Ghana",
+  "birth_date": "1984-08-27",
+  "birth_place": "Konongo",
+  "career_transfers": [
+    {
+      "date": "2018-02-22",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Deportivo La Coruna"
+    },
+    {
+      "date": "2017-01-23",
+      "type": "N/A",
+      "team_out": "Al-Ittihad FC",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Portsmouth F.C.",
+    "Inter Milan",
+    "Sunderland A.F.C.",
+    "AC Milan",
+    "Al Ittihad FC",
+    "Delfino Pescara 1936",
+    "Deportivo de A Coruña",
+    "Albacete Balompié",
+    "Accra Hearts of Oak SC",
+    "Liberty Professionals F.C."
+  ]
+}

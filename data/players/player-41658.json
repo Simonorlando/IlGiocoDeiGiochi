@@ -1,0 +1,36 @@
+{
+  "player_id": 41658,
+  "full_name": "Hugo Miguel Pereira de Almeida",
+  "nationality": "Portugal",
+  "birth_date": "1984-05-23",
+  "birth_place": "Figueira da Foz",
+  "career_transfers": [
+    {
+      "date": "2014-10-06",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "€ 2M",
+      "team_out": "Werder Bremen",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "U.D. Leiria",
+    "Boavista F.C.",
+    "SV Werder Bremen",
+    "Beşiktaş J.K. (Football)",
+    "AC Cesena",
+    "FC Kuban Krasnodar",
+    "FC Anzhi Makhachkala",
+    "Hannover 96",
+    "AEK Athens F.C.",
+    "HNK Hajduk Split",
+    "Associação Académica de Coimbra – O.A.F."
+  ]
+}

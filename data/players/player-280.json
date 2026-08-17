@@ -1,0 +1,26 @@
+{
+  "player_id": 280,
+  "full_name": "Alisson Ramsés Becker",
+  "nationality": "Brazil",
+  "birth_date": "1992-10-02",
+  "birth_place": "Novo Hamburgo",
+  "career_transfers": [
+    {
+      "date": "2018-07-19",
+      "type": "€ 62.5M",
+      "team_out": "AS Roma",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2016-07-06",
+      "type": "€ 8M",
+      "team_out": "Internacional",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "AS Roma",
+    "Liverpool F.C."
+  ]
+}

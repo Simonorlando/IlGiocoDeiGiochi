@@ -1,0 +1,94 @@
+{
+  "player_id": 18902,
+  "full_name": "Robert Kenedy Nunes do Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1996-02-08",
+  "birth_place": "Santa Rita do Sapucaí",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Chelsea",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2022-01-12",
+      "type": "N/A",
+      "team_out": "Flamengo",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2021-08-18",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Flamengo"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2020-09-08",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Newcastle",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2018-01-23",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2017-01-01",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2016-08-30",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2015-08-22",
+      "type": "€ 8.6M",
+      "team_out": "Fluminense",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Loan",
+      "team_out": "Fluminense",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Chelsea F.C.",
+    "Watford F.C.",
+    "Newcastle United F.C.",
+    "C.F. Pachuca"
+  ]
+}

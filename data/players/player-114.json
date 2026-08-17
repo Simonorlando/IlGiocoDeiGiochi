@@ -1,0 +1,32 @@
+{
+  "player_id": 114,
+  "full_name": "Adrien Sébastien Perruchet da Silva",
+  "nationality": "Portugal",
+  "birth_date": "1989-03-15",
+  "birth_place": "Angoulême",
+  "career_transfers": [
+    {
+      "date": "2022-01-04",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Al Wahda FC"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "N/A",
+      "team_out": "Leicester",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Maccabi Haifa F.C.",
+    "Associação Académica de Coimbra – O.A.F.",
+    "Leicester City F.C.",
+    "AS Monaco FC",
+    "U.C. Sampdoria",
+    "Al-Wahda S.C.C.",
+    "Rio Ave F.C.",
+    "United Football Club"
+  ]
+}

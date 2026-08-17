@@ -1,0 +1,28 @@
+{
+  "player_id": 88799,
+  "full_name": "Christian Udubuesi Obodo",
+  "nationality": "Nigeria",
+  "birth_date": "1984-05-11",
+  "birth_place": "Warri",
+  "career_transfers": [
+    {
+      "date": "2010-08-12",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Perugia Calcio",
+    "ACF Fiorentina",
+    "Udinese Calcio",
+    "Torino FC",
+    "US Lecce",
+    "FC Dinamo Minsk",
+    "S.C. Olhanense",
+    "Xanthi F.C.",
+    "CS Concordia Chiajna",
+    "CS Pandurii Târgu Jiu",
+    "Apollon Smyrnis F.C."
+  ]
+}

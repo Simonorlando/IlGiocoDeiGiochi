@@ -1,0 +1,28 @@
+{
+  "player_id": 56877,
+  "full_name": "Nicola Bellomo",
+  "nationality": "Italy",
+  "birth_date": "1991-02-18",
+  "birth_place": "Bari",
+  "career_transfers": [
+    {
+      "date": "2014-01-29",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "Lucchese 1905",
+    "A.S.D. Barletta 1922",
+    "Italy under-21 Serie B representative team",
+    "Torino FC",
+    "Spezia Calcio",
+    "AC ChievoVerona",
+    "SSC Bari",
+    "Ascoli Calcio 1898 FC",
+    "Vicenza Calcio",
+    "US Alessandria Calcio 1912"
+  ]
+}

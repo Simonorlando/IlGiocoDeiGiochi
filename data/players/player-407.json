@@ -1,0 +1,26 @@
+{
+  "player_id": 407,
+  "full_name": "Benjamin Fernand Lucien François Stambouli",
+  "nationality": "France",
+  "birth_date": "1990-08-13",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2021-07-26",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Adana Demirspor"
+    },
+    {
+      "date": "2016-08-26",
+      "type": "€ 8.5M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Montpellier Hérault Sport Club",
+    "Tottenham Hotspur F.C.",
+    "Paris Saint-Germain FC"
+  ]
+}

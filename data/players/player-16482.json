@@ -1,0 +1,30 @@
+{
+  "player_id": 16482,
+  "full_name": "Rodrigo Sebastián Aguirre Soto",
+  "nationality": "Uruguay",
+  "birth_date": "1994-10-01",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2015-01-17",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2014-07-04",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C. (Montevideo)",
+    "Empoli FC",
+    "Udinese Calcio",
+    "A.C. Perugia Calcio",
+    "Independiente del Valle",
+    "Club Atlético Peñarol",
+    "Tigres UANL"
+  ]
+}

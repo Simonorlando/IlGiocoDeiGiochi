@@ -1,0 +1,27 @@
+{
+  "player_id": 1856,
+  "full_name": "Sergej Milinković-Savić",
+  "nationality": "Serbia",
+  "birth_date": "1995-02-27",
+  "birth_place": "Lleida",
+  "career_transfers": [
+    {
+      "date": "2023-07-11",
+      "type": "€ 40M",
+      "team_out": "Lazio",
+      "team_in": "Al-Hilal Saudi FC"
+    },
+    {
+      "date": "2015-08-06",
+      "type": "€ 9M",
+      "team_out": "Genk",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FK Vojvodina",
+    "K.R.C. Genk",
+    "SS Lazio",
+    "Al Hilal SFC"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "fixture_id": 816244,
+  "competition": "champions_league",
+  "season": 2021,
+  "teams": [
+    {
+      "team_name": "Red Bull Salzburg",
+      "team_id": 571,
+      "formation": "4-3-1-2",
+      "lineup": [
+        {
+          "player_id": 7313,
+          "shirt_number": 18,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1087,
+          "shirt_number": 17,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 2048,
+          "shirt_number": 39,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 533,
+          "shirt_number": 43,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 656,
+          "shirt_number": 22,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 48389,
+          "shirt_number": 77,
+          "position": "F",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 50739,
+          "shirt_number": 11,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 7328,
+          "shirt_number": 13,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 7754,
+          "shirt_number": 19,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 5973,
+          "shirt_number": 7,
+          "position": "M",
+          "line_index": 4,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 7334,
+          "shirt_number": 27,
+          "position": "F",
+          "line_index": 4,
+          "slot_in_line": 1
+        }
+      ]
+    },
+    {
+      "team_name": "Bayern Munich",
+      "team_id": 157,
+      "formation": "3-2-4-1",
+      "lineup": [
+        {
+          "player_id": 498,
+          "shirt_number": 26,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 506,
+          "shirt_number": 4,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 33,
+          "shirt_number": 21,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2725,
+          "shirt_number": 5,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 510,
+          "shirt_number": 7,
+          "position": "F",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 519,
+          "shirt_number": 24,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 502,
+          "shirt_number": 6,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 522,
+          "shirt_number": 25,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 521,
+          "shirt_number": 9,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 508,
+          "shirt_number": 11,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 644,
+          "shirt_number": 10,
+          "position": "M",
+          "line_index": 4,
+          "slot_in_line": 0
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 1,
+  "away_score": 1
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 122734,
+  "full_name": "Ferran Jutglà Blanch",
+  "nationality": "Spain",
+  "birth_date": "1999-02-01",
+  "birth_place": "Sant Julià de Vilatorta",
+  "career_transfers": [
+    {
+      "date": "2022-06-15",
+      "type": "€ 5M",
+      "team_out": "Barcelona",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Celta Vigo"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "UE Sant Andreu",
+    "Valencia CF",
+    "UE Sant Andreu",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Club Brugge K.V."
+  ]
+}

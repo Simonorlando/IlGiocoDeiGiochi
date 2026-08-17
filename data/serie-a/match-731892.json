@@ -1,0 +1,178 @@
+{
+  "fixture_id": 731892,
+  "competition": "serie_a",
+  "season": 2021,
+  "teams": [
+    {
+      "team_name": "Spezia",
+      "team_id": 515,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 31037,
+          "shirt_number": 94,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 31045,
+          "shirt_number": 43,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 30687,
+          "shirt_number": 20,
+          "position": "M",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 22134,
+          "shirt_number": 27,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30827,
+          "shirt_number": 28,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 61431,
+          "shirt_number": 14,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 3010,
+          "shirt_number": 13,
+          "position": "D",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 690,
+          "shirt_number": 8,
+          "position": "F",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 30836,
+          "shirt_number": 25,
+          "position": "M",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 13246,
+          "shirt_number": 33,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30845,
+          "shirt_number": 11,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    },
+    {
+      "team_name": "Venezia",
+      "team_id": 517,
+      "formation": "4-3-3",
+      "lineup": [
+        {
+          "player_id": 19256,
+          "shirt_number": 1,
+          "position": "G",
+          "line_index": 0,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 37144,
+          "shirt_number": 55,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 1628,
+          "shirt_number": 31,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 31415,
+          "shirt_number": 32,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 561,
+          "shirt_number": 22,
+          "position": "D",
+          "line_index": 1,
+          "slot_in_line": 3
+        },
+        {
+          "player_id": 31799,
+          "shirt_number": 5,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 25634,
+          "shirt_number": 21,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 2279,
+          "shirt_number": 44,
+          "position": "M",
+          "line_index": 2,
+          "slot_in_line": 2
+        },
+        {
+          "player_id": 32196,
+          "shirt_number": 10,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 0
+        },
+        {
+          "player_id": 36986,
+          "shirt_number": 17,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 1
+        },
+        {
+          "player_id": 30848,
+          "shirt_number": 77,
+          "position": "F",
+          "line_index": 3,
+          "slot_in_line": 2
+        }
+      ]
+    }
+  ],
+  "positions_available": true,
+  "home_score": 1,
+  "away_score": 0
+}

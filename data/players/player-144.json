@@ -1,0 +1,23 @@
+{
+  "player_id": 144,
+  "full_name": "Sergio Busquets Burgos",
+  "nationality": "Spain",
+  "birth_date": "1988-07-16",
+  "birth_place": "Sabadell",
+  "career_transfers": [
+    {
+      "date": "2023-07-16",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Inter Miami"
+    }
+  ],
+  "career_clubs": [
+    "UE Lleida",
+    "FC Barcelona",
+    "UFB Jàbac i Terrassa",
+    "FC Barcelona C",
+    "FC Barcelona Atlètic",
+    "Inter Miami CF"
+  ]
+}

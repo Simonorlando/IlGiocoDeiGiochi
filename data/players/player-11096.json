@@ -1,0 +1,23 @@
+{
+  "player_id": 11096,
+  "full_name": "Aleksandar Tonev",
+  "nationality": "Bulgaria",
+  "birth_date": "1990-02-03",
+  "birth_place": "Elin Pelin",
+  "career_transfers": [
+    {
+      "date": "2016-07-16",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "PFC CSKA Sofia",
+    "OFC Sliven 2000",
+    "Lech Poznań",
+    "Aston Villa F.C.",
+    "Celtic F.C.",
+    "Frosinone Calcio"
+  ]
+}

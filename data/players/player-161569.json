@@ -1,0 +1,21 @@
+{
+  "player_id": 161569,
+  "full_name": "Oliver Sørensen Jensen",
+  "nationality": "Denmark",
+  "birth_date": "2002-03-10",
+  "birth_place": "Nørre Aaby",
+  "career_transfers": [
+    {
+      "date": "2025-08-12",
+      "type": "Transfer",
+      "team_out": "FC Midtjylland",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Midtjylland",
+    "Fredericia",
+    "HamKam",
+    "Parma"
+  ]
+}

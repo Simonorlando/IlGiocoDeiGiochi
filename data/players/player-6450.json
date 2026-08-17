@@ -1,0 +1,43 @@
+{
+  "player_id": 6450,
+  "full_name": "Santiago Martín Silva Olivera",
+  "nationality": "Uruguay",
+  "birth_date": "1980-12-09",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2012-01-12",
+      "type": "€ 1.3M",
+      "team_out": "Fiorentina",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2011-08-24",
+      "type": "€ 1.7M",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Central Español",
+    "Club Atlético River Plate",
+    "Defensor Sporting Club",
+    "AC ChievoVerona",
+    "Club Nacional de Football",
+    "S.C. Corinthians Paulista",
+    "FC Energie Cottbus",
+    "Club Atlético River Plate",
+    "S.C. Beira-Mar",
+    "Newell's Old Boys",
+    "Club de Gimnasia y Esgrima La Plata",
+    "Central Español",
+    "Club Atlético Vélez Sarsfield",
+    "Club Atlético Banfield",
+    "ACF Fiorentina",
+    "Boca Juniors",
+    "Club Atlético Lanús",
+    "Arsenal Fútbol Club",
+    "Club Atlético Banfield",
+    "Millonarios"
+  ]
+}

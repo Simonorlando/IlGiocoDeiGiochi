@@ -1,0 +1,18 @@
+{
+  "player_id": 1696,
+  "full_name": "Samuel Chimerenka Chukwueze",
+  "nationality": "Nigeria",
+  "birth_date": "1999-05-22",
+  "birth_place": "Umahaia",
+  "career_transfers": [
+    {
+      "date": "2023-07-27",
+      "type": "€ 20M",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan"
+  ]
+}

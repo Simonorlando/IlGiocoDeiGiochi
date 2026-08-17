@@ -1,0 +1,36 @@
+{
+  "player_id": 31405,
+  "full_name": "Federico Melchiorri",
+  "nationality": "Italy",
+  "birth_date": "1987-01-06",
+  "birth_place": "Treia",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2014-07-24",
+      "type": "Free",
+      "team_out": "Padova",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Tolentino",
+    "A.S.D. Riccione 1929",
+    "Siena FC",
+    "S.S. Sambenedettese Calcio",
+    "Giulianova Calcio",
+    "U.S. Poggibonsi",
+    "Giulianova Calcio",
+    "U.S. Tolentino",
+    "S.S. Maceratese 1922",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "Cagliari Calcio",
+    "A.C. Perugia Calcio"
+  ]
+}

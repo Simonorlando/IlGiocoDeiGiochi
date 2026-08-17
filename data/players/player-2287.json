@@ -1,0 +1,37 @@
+{
+  "player_id": 2287,
+  "full_name": "Ross Barkley",
+  "nationality": "England",
+  "birth_date": "1993-12-05",
+  "birth_place": "Liverpool",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 5.9M",
+      "team_out": "Luton",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2021-07-03",
+      "type": "N/A",
+      "team_out": "Aston Villa",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2020-09-30",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Everton F.C.",
+    "Sheffield Wednesday F.C.",
+    "Leeds United F.C.",
+    "Chelsea F.C.",
+    "Aston Villa F.C.",
+    "OGC Nice",
+    "Luton Town F.C.",
+    "Aston Villa F.C."
+  ]
+}

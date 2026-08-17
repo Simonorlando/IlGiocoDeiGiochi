@@ -1,0 +1,24 @@
+{
+  "player_id": 90507,
+  "full_name": "Joleon Lescott",
+  "nationality": "England",
+  "birth_date": "1982-08-16",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2016-08-29",
+      "type": "Free",
+      "team_out": "Aston Villa",
+      "team_in": "AEK Larnaca"
+    }
+  ],
+  "career_clubs": [
+    "Wolverhampton Wanderers F.C.",
+    "Everton F.C.",
+    "Manchester City F.C.",
+    "West Bromwich Albion F.C.",
+    "Aston Villa F.C.",
+    "AEK Athens F.C.",
+    "Sunderland A.F.C."
+  ]
+}

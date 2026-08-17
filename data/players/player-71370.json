@@ -1,0 +1,39 @@
+{
+  "player_id": 71370,
+  "full_name": "Egídio Raúl Arévalo Ríos",
+  "nationality": "Uruguay",
+  "birth_date": "1982-01-01",
+  "birth_place": "Paysandú",
+  "career_transfers": [
+    {
+      "date": "2013-08-09",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Chicago Fire"
+    },
+    {
+      "date": "2012-07-24",
+      "type": "€ 2.8M",
+      "team_out": "Club Tijuana",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Paysandú Bella Vista",
+    "C.A. Bella Vista",
+    "Club Atlético Peñarol",
+    "Club de Fútbol Monterrey",
+    "Danubio F.C.",
+    "San Luis F.C.",
+    "Club Atlético Peñarol",
+    "Botafogo F.R.",
+    "Club Tijuana",
+    "Palermo F.C.",
+    "Chicago Fire FC",
+    "Tigres UANL",
+    "Club Atlético Morelia",
+    "Tigres UANL",
+    "Club Atlético Morelia",
+    "Atlas F.C."
+  ]
+}

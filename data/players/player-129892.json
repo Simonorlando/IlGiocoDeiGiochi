@@ -1,0 +1,42 @@
+{
+  "player_id": 129892,
+  "full_name": "Juan Manuel Cruz",
+  "nationality": "Argentina",
+  "birth_date": "1999-07-19",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2023-09-12",
+      "type": "Free",
+      "team_out": "Banfield",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Cosenza",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-08-05",
+      "type": "Loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Trento"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Trento",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC"
+  ]
+}

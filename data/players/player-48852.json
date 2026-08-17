@@ -1,0 +1,24 @@
+{
+  "player_id": 48852,
+  "full_name": "Gabriele Perico",
+  "nationality": "Italy",
+  "birth_date": "1984-03-11",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2006-01-01",
+      "type": "Loan",
+      "team_out": "Albinoleffe",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Prato",
+    "U.C. AlbinoLeffe",
+    "AC Monza",
+    "Cagliari Calcio",
+    "AC Cesena",
+    "Atalanta BC",
+    "US Livorno 1915"
+  ]
+}

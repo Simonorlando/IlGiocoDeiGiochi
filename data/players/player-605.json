@@ -1,0 +1,26 @@
+{
+  "player_id": 605,
+  "full_name": "Nenad Krstičić",
+  "nationality": "Serbia",
+  "birth_date": "1990-07-03",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "OFK Beograd",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909"
+  ]
+}

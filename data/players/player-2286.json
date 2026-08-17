@@ -1,0 +1,32 @@
+{
+  "player_id": 2286,
+  "full_name": "Davide Zappacosta",
+  "nationality": "Italy",
+  "birth_date": "1992-06-11",
+  "birth_place": "Sora",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "€ 27.1M",
+      "team_out": "Torino",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2015-07-10",
+      "type": "€ 5.5M",
+      "team_out": "Atalanta",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Isola Liri",
+    "U.S. Avellino 1912",
+    "Italy under-21 Serie B representative team",
+    "Atalanta BC",
+    "Torino FC",
+    "Chelsea F.C.",
+    "AS Roma",
+    "Genoa CFC",
+    "Atalanta BC"
+  ]
+}

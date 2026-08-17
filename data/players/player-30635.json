@@ -1,0 +1,35 @@
+{
+  "player_id": 30635,
+  "full_name": "Massimo Coda",
+  "nationality": "Italy",
+  "birth_date": "1988-11-10",
+  "birth_place": "Cava de' Tirreni",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Cavese 1919",
+    "AC Bellinzona",
+    "Atletico Roma F.C.",
+    "Treviso F.B.C. 1993",
+    "F.C. Crotone",
+    "US Cremonese",
+    "Bologna F.C. 1909",
+    "U.S. Siracusa",
+    "San Marino Calcio",
+    "Parma Calcio 1913",
+    "ND Gorica",
+    "U.S. Salernitana 1919"
+  ]
+}

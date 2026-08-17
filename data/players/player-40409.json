@@ -1,0 +1,25 @@
+{
+  "player_id": 40409,
+  "full_name": "Iuri José Picanço Medeiros",
+  "nationality": "Portugal",
+  "birth_date": "1994-07-10",
+  "birth_place": "Horta",
+  "career_transfers": [
+    {
+      "date": "2018-01-24",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "F.C. Arouca",
+    "Moreirense F.C.",
+    "Boavista F.C.",
+    "Genoa CFC",
+    "Legia Warsaw",
+    "1. FC Nürnberg",
+    "S.C. Braga"
+  ]
+}

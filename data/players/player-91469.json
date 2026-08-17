@@ -1,0 +1,27 @@
+{
+  "player_id": 91469,
+  "full_name": "Simone Pepe",
+  "nationality": "Italy",
+  "birth_date": "1983-08-30",
+  "birth_place": "Albano Laziale",
+  "career_transfers": [
+    {
+      "date": "2016-08-23",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "S.S. Teramo Calcio",
+    "Calcio Lecco 1912",
+    "Palermo F.C.",
+    "Piacenza Calcio",
+    "Cagliari Calcio",
+    "Udinese Calcio",
+    "Juventus FC",
+    "AC ChievoVerona",
+    "Delfino Pescara 1936"
+  ]
+}

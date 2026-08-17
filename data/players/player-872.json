@@ -1,0 +1,43 @@
+{
+  "player_id": 872,
+  "full_name": "Miralem Pjanić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1990-04-02",
+  "birth_place": "Tuzla",
+  "career_transfers": [
+    {
+      "date": "2022-09-07",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Sharjah FC"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2021-09-02",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 60M",
+      "team_out": "Juventus",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz",
+    "Olympique Lyonnais",
+    "AS Roma",
+    "Juventus FC",
+    "FC Barcelona",
+    "Beşiktaş J.K. (Football)",
+    "Sharjah FC",
+    "PFC CSKA Moscow"
+  ]
+}

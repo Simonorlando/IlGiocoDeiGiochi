@@ -1,0 +1,34 @@
+{
+  "player_id": 12795,
+  "full_name": "Éder Citadin Martins",
+  "nationality": "Italy",
+  "birth_date": "1986-11-15",
+  "birth_place": "Lauro Müller",
+  "career_transfers": [
+    {
+      "date": "2011-07-12",
+      "type": "€ 5M",
+      "team_out": "Brescia",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2010-08-16",
+      "type": "€ 4.2M",
+      "team_out": "Empoli",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Criciúma Esporte Clube",
+    "Empoli FC",
+    "Frosinone Calcio",
+    "Empoli FC",
+    "Brescia Calcio",
+    "AC Cesena",
+    "U.C. Sampdoria",
+    "Inter Milan",
+    "Jiangsu F.C.",
+    "São Paulo FC",
+    "Criciúma Esporte Clube"
+  ]
+}

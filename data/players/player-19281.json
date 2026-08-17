@@ -1,0 +1,29 @@
+{
+  "player_id": 19281,
+  "full_name": "Antoine Serlom Semenyo",
+  "nationality": "Ghana",
+  "birth_date": "2000-01-07",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2026-01-08",
+      "type": "Transfer",
+      "team_out": "Bournemouth",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Transfer",
+      "team_out": "Bournemouth",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Bristol City F.C.",
+    "Bath City F.C.",
+    "Newport County A.F.C.",
+    "Sunderland A.F.C.",
+    "AFC Bournemouth",
+    "Manchester City F.C."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 30539,
+  "full_name": "Federico Di Francesco",
+  "nationality": "Italy",
+  "birth_date": "1994-06-14",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2023-08-31",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2022-07-31",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Parma Calcio 1913",
+    "A.S. Gubbio 1910",
+    "US Cremonese",
+    "Delfino Pescara 1936",
+    "Lanciano Calcio 1920",
+    "SPAL"
+  ]
+}

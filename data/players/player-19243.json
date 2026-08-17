@@ -1,0 +1,30 @@
+{
+  "player_id": 19243,
+  "full_name": "Mikel John Obi",
+  "nationality": "Nigeria",
+  "birth_date": "1987-04-22",
+  "birth_place": "Jos",
+  "career_transfers": [
+    {
+      "date": "2017-01-06",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Tianjin Teda"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 23.6M",
+      "team_out": "Lyn",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Lyn 1896 FK",
+    "Chelsea F.C.",
+    "Tianjin Jinmen Tiger F.C.",
+    "Middlesbrough F.C.",
+    "Trabzonspor",
+    "Stoke City F.C.",
+    "Kuwait SC"
+  ]
+}

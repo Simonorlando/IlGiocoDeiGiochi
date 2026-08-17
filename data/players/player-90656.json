@@ -1,0 +1,19 @@
+{
+  "player_id": 90656,
+  "full_name": "Philipp Lahm",
+  "nationality": "Germany",
+  "birth_date": "1983-11-11",
+  "birth_place": "München",
+  "career_transfers": [
+    {
+      "date": "2003-07-01",
+      "type": "Loan",
+      "team_out": "Bayern Munich",
+      "team_in": "VfB Stuttgart"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "VfB Stuttgart"
+  ]
+}

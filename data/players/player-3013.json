@@ -1,0 +1,31 @@
+{
+  "player_id": 3013,
+  "full_name": "Dawid Igor Kownacki",
+  "nationality": "Poland",
+  "birth_date": "1997-03-14",
+  "birth_place": "Gorzów Wielkopolski",
+  "career_transfers": [
+    {
+      "date": "2020-01-01",
+      "type": "€ 7.5M",
+      "team_out": "Sampdoria",
+      "team_in": "Fortuna Düsseldorf"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Fortuna Düsseldorf"
+    },
+    {
+      "date": "2017-07-11",
+      "type": "€ 3.8M",
+      "team_out": "Lech Poznan",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Lech Poznań",
+    "U.C. Sampdoria"
+  ]
+}

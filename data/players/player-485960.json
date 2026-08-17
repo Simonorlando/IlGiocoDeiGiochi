@@ -1,0 +1,37 @@
+{
+  "player_id": 485960,
+  "full_name": "Daniel Denoon",
+  "nationality": "Switzerland",
+  "birth_date": "2004-01-28",
+  "birth_place": "Winterthur",
+  "career_transfers": [
+    {
+      "date": "2025-07-24",
+      "type": "Loan",
+      "team_out": "FC Zurich",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "FC Zurich",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pisa",
+      "team_in": "FC Zurich"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "FC Zurich",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Zürich",
+    "Pisa"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 30748,
+  "full_name": "Assane Dioussé El Hadji",
+  "nationality": "Senegal",
+  "birth_date": "1997-09-20",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Saint Etienne",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2017-08-01",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Saint Etienne"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC"
+  ]
+}

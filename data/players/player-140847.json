@@ -1,0 +1,25 @@
+{
+  "player_id": 140847,
+  "full_name": "Ebrima Colley",
+  "nationality": "Gambia",
+  "birth_date": "2000-02-01",
+  "birth_place": "Serekunda",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2021-08-07",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Hellas Verona FC"
+  ]
+}

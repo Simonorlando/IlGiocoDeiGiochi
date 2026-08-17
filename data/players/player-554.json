@@ -1,0 +1,31 @@
+{
+  "player_id": 554,
+  "full_name": "Dušan Tadić",
+  "nationality": "Serbia",
+  "birth_date": "1988-11-20",
+  "birth_place": "Bačka Topola",
+  "career_transfers": [
+    {
+      "date": "2023-07-16",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2018-07-03",
+      "type": "€ 11.4M",
+      "team_out": "Southampton",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "FK Vojvodina",
+    "FC Groningen",
+    "FC Twente",
+    "Southampton F.C.",
+    "AFC Ajax",
+    "Fenerbahçe Istanbul",
+    "Al-Wahda S.C.C.",
+    "N.E.C."
+  ]
+}

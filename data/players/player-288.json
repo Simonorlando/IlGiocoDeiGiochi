@@ -1,0 +1,28 @@
+{
+  "player_id": 288,
+  "full_name": "Alberto Moreno Pérez",
+  "nationality": "Spain",
+  "birth_date": "1992-07-05",
+  "birth_place": "Sevilla",
+  "career_transfers": [
+    {
+      "date": "2024-07-19",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Como",
+      "team_in": "Moreno Alberto"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Liverpool F.C.",
+    "Villarreal CF",
+    "Como 1907"
+  ]
+}

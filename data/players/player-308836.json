@@ -1,0 +1,19 @@
+{
+  "player_id": 308836,
+  "full_name": "Lamine Mandela Keita",
+  "nationality": "Belgium",
+  "birth_date": "2002-05-10",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 12M",
+      "team_out": "Antwerp",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Antwerp",
+    "Parma"
+  ]
+}

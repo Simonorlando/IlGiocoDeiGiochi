@@ -1,0 +1,47 @@
+{
+  "player_id": 48385,
+  "full_name": "Zdravko Kuzmanović",
+  "nationality": "Serbia",
+  "birth_date": "1987-09-22",
+  "birth_place": "Thun",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2016-07-07",
+      "type": "Loan",
+      "team_out": "FC Basel 1893",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2016-01-22",
+      "type": "Loan",
+      "team_out": "FC Basel 1893",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 2M",
+      "team_out": "Inter",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2007-01-30",
+      "type": "€ 3M",
+      "team_out": "FC Basel 1893",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "ACF Fiorentina",
+    "VfB Stuttgart",
+    "Inter Milan",
+    "FC Basel",
+    "Udinese Calcio"
+  ]
+}

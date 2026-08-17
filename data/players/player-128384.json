@@ -1,0 +1,33 @@
+{
+  "player_id": 128384,
+  "full_name": "Vítor Machado Ferreira",
+  "nationality": "Portugal",
+  "birth_date": "2000-02-13",
+  "birth_place": "Santo Tirso",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 41.5M",
+      "team_out": "FC Porto",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Wolves",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2020-09-09",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Wolves"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "Wolverhampton Wanderers F.C.",
+    "Paris Saint-Germain FC"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 90712,
+  "full_name": "Ivica Olić",
+  "nationality": "Croatia",
+  "birth_date": "1979-09-14",
+  "birth_place": "Davor",
+  "career_transfers": [
+    {
+      "date": "2015-01-30",
+      "type": "1.5M €",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Elazığ Belediyespor SK"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Bayern Munich",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "NK Marsonia",
+    "N.K. Zagreb",
+    "GNK Dinamo Zagreb",
+    "PFC CSKA Moscow",
+    "Hamburger SV",
+    "FC Bayern Munich",
+    "VfL Wolfsburg",
+    "Hamburger SV",
+    "TSV 1860 München"
+  ]
+}

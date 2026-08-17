@@ -1,0 +1,71 @@
+{
+  "player_id": 31156,
+  "full_name": "Vanja Milinković-Savić",
+  "nationality": "Serbia",
+  "birth_date": "1997-02-20",
+  "birth_place": "Ourense",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Standard Liege",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2018-07-06",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Lechia Gdansk",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-07-26",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Napoli",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "FK Vojvodina",
+    "KS Lechia Gdańsk",
+    "Standard Liège",
+    "SPAL",
+    "Torino FC"
+  ]
+}

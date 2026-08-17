@@ -1,0 +1,26 @@
+{
+  "player_id": 48388,
+  "full_name": "Luca Danilo Zuffi",
+  "nationality": "Switzerland",
+  "birth_date": "1990-03-27",
+  "birth_place": "Bern",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "FC Sion"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 600K",
+      "team_out": "FC Thun",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC Winterthur",
+    "FC Thun",
+    "FC Basel"
+  ]
+}

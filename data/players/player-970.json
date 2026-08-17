@@ -1,0 +1,34 @@
+{
+  "player_id": 970,
+  "full_name": "Wendell Nascimento Borges",
+  "nationality": "Brazil",
+  "birth_date": "1993-07-20",
+  "birth_place": "Fortaleza",
+  "career_transfers": [
+    {
+      "date": "2021-08-19",
+      "type": "€ 4M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-02-04",
+      "type": "Free Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Free agent",
+      "team_out": "FC Porto",
+      "team_in": "Sao Paulo"
+    }
+  ],
+  "career_clubs": [
+    "Iraty Sport Club",
+    "Londrina E.C.",
+    "Paraná Clube",
+    "Grêmio FBPA",
+    "Bayer 04 Leverkusen"
+  ]
+}

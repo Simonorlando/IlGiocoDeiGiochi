@@ -1,0 +1,27 @@
+{
+  "player_id": 14,
+  "full_name": "Mahmoud Dahoud",
+  "nationality": "Germany",
+  "birth_date": "1996-01-01",
+  "birth_place": "Amouda",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Free",
+      "team_out": "Brighton",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Dahoud Mahmoud"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "Borussia Dortmund",
+    "Brighton & Hove Albion F.C.",
+    "Eintracht Frankfurt"
+  ]
+}

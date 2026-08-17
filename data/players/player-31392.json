@@ -1,0 +1,35 @@
+{
+  "player_id": 31392,
+  "full_name": "Aleandro Rosi",
+  "nationality": "Italy",
+  "birth_date": "1987-05-17",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2014-01-21",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2012-08-07",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "AC ChievoVerona",
+    "US Livorno 1915",
+    "Siena FC",
+    "Parma Calcio 1913",
+    "Genoa CFC",
+    "US Sassuolo Calcio",
+    "ACF Fiorentina",
+    "Frosinone Calcio",
+    "F.C. Crotone",
+    "A.C. Perugia Calcio",
+    "SS Lazio"
+  ]
+}

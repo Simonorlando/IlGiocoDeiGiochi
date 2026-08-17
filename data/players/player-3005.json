@@ -1,0 +1,31 @@
+{
+  "player_id": 3005,
+  "full_name": "Thiago Rangel Cionek",
+  "nationality": "Poland",
+  "birth_date": "1986-04-21",
+  "birth_place": "Curitiba",
+  "career_transfers": [
+    {
+      "date": "2018-01-13",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2016-01-11",
+      "type": "€ 350K",
+      "team_out": "Modena",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Cuiabá Esporte Clube",
+    "GD Bragança",
+    "Clube de Regatas Brasil",
+    "Jagiellonia Białystok",
+    "Calcio Padova",
+    "Modena F.C.",
+    "Palermo F.C.",
+    "SPAL"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 39362,
+  "full_name": "Marcus Holmgren Pedersen",
+  "nationality": "Norway",
+  "birth_date": "2000-07-16",
+  "birth_place": "Hammerfest",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2024-08-22",
+      "type": "Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Tromsø IL"
+  ]
+}

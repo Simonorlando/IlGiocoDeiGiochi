@@ -1,0 +1,29 @@
+{
+  "player_id": 43030,
+  "full_name": "Adrian Marius Stoian",
+  "nationality": "Romania",
+  "birth_date": "1991-02-11",
+  "birth_place": "Craiova",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Delfino Pescara 1936",
+    "SSC Bari",
+    "AC ChievoVerona",
+    "Genoa CFC",
+    "SSC Bari",
+    "F.C. Crotone",
+    "FCSB",
+    "US Livorno 1915",
+    "FC Viitorul Constanța",
+    "Ascoli Calcio 1898 FC",
+    "AFC Chindia Târgoviște"
+  ]
+}

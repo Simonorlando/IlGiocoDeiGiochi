@@ -1,0 +1,23 @@
+{
+  "player_id": 56437,
+  "full_name": "Fabiano Santacroce",
+  "nationality": "Italy",
+  "birth_date": "1986-08-24",
+  "birth_place": "Camaçari",
+  "career_transfers": [
+    {
+      "date": "2005-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "Brescia Calcio",
+    "SSC Napoli",
+    "Parma Calcio 1913",
+    "Calcio Padova",
+    "Ternana Calcio"
+  ]
+}

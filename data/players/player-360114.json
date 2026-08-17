@@ -1,0 +1,20 @@
+{
+  "player_id": 360114,
+  "full_name": "Abduqodir Khusanov",
+  "nationality": "Uzbekistan",
+  "birth_date": "2004-02-29",
+  "birth_place": "Toshkent",
+  "career_transfers": [
+    {
+      "date": "2025-01-20",
+      "type": "Transfer",
+      "team_out": "Lens",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Energetik-BGU",
+    "Lens",
+    "Manchester City"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": 30687,
+  "full_name": "Simone Bastoni",
+  "nationality": "Italy",
+  "birth_date": "1996-11-05",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2024-07-26",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Trapani",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Trapani"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Carrarese",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Carrarese"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2015-07-20",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "Siena FC"
+  ]
+}

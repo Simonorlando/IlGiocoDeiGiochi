@@ -1,0 +1,30 @@
+{
+  "player_id": 48193,
+  "full_name": "Pontus Skule Erik Almqvist",
+  "nationality": "Sweden",
+  "birth_date": "1999-07-10",
+  "birth_place": "Nyköping",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "FC Rostov"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "Loan",
+      "team_out": "FC Rostov",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "IFK Norrköping",
+    "FC Rostov",
+    "FC Utrecht",
+    "IFK Norrköping FK",
+    "Norrby IF",
+    "Varbergs BoIS FC",
+    "IF Sylvia"
+  ]
+}

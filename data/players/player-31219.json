@@ -1,0 +1,25 @@
+{
+  "player_id": 31219,
+  "full_name": "Alessio Zerbin",
+  "nationality": "Italy",
+  "birth_date": "1999-03-03",
+  "birth_place": "Novara",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2024-01-25",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Frosinone Calcio"
+  ]
+}

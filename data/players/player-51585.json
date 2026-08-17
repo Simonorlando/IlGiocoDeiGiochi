@@ -1,0 +1,47 @@
+{
+  "player_id": 51585,
+  "full_name": "Gonzalo Rubén Bergessio",
+  "nationality": "Argentina",
+  "birth_date": "1984-07-20",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2014-08-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2011-08-22",
+      "type": "€ 1.9M",
+      "team_out": "Saint Etienne",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "Loan",
+      "team_out": "Saint Etienne",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Platense",
+    "Club Sport Emelec",
+    "Racing Club",
+    "S.L. Benfica",
+    "San Lorenzo de Almagro",
+    "AS Saint-Étienne",
+    "Real Madrid Club de Fútbol",
+    "Catania FC",
+    "U.C. Sampdoria",
+    "Atlas F.C.",
+    "Tigres UANL",
+    "Club Nacional de Football"
+  ]
+}

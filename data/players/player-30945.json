@@ -1,0 +1,43 @@
+{
+  "player_id": 30945,
+  "full_name": "Luca Crosta",
+  "nationality": "Italy",
+  "birth_date": "1998-02-23",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Renate"
+    },
+    {
+      "date": "2019-07-19",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Olbia"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2018-07-17",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Olbia"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Cagliari Calcio"
+  ]
+}

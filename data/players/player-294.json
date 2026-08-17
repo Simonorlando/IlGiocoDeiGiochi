@@ -1,0 +1,30 @@
+{
+  "player_id": 294,
+  "full_name": "Naby Laye Keïta",
+  "nationality": "Guinea",
+  "birth_date": "1995-02-10",
+  "birth_place": "Conakry",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 15M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Istres",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Horoya AC",
+    "FC Istres",
+    "FC Red Bull Salzburg",
+    "RB Leipzig",
+    "Liverpool F.C.",
+    "SV Werder Bremen",
+    "Ferencvárosi TC"
+  ]
+}

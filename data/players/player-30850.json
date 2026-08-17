@@ -1,0 +1,32 @@
+{
+  "player_id": 30850,
+  "full_name": "Andrea Fulignati",
+  "nationality": "Italy",
+  "birth_date": "1994-10-31",
+  "birth_place": "Empoli",
+  "career_transfers": [
+    {
+      "date": "2017-08-02",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Trapani",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2015-07-20",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Trapani"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Trapani 1905",
+    "AC Cesena",
+    "SPAL"
+  ]
+}

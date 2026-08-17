@@ -1,0 +1,34 @@
+{
+  "player_id": 50123,
+  "full_name": "Silvestre Manuel Gonçalves Varela",
+  "nationality": "Portugal",
+  "birth_date": "1985-02-02",
+  "birth_place": "Almada",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2015-01-20",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Casa Pia A.C.",
+    "Vitória F.C.",
+    "Recreativo de Huelva",
+    "C.F. Estrela da Amadora",
+    "FC Porto",
+    "West Bromwich Albion F.C.",
+    "Parma Calcio 1913",
+    "Kayserispor",
+    "C.F. Os Belenenses",
+    "FC Porto B"
+  ]
+}

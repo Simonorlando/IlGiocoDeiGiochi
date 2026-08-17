@@ -1,0 +1,18 @@
+{
+  "player_id": 341642,
+  "full_name": "Jorrel Hato",
+  "nationality": "Netherlands",
+  "birth_date": "2006-03-07",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2025-08-03",
+      "type": "Transfer",
+      "team_out": "Ajax",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C."
+  ]
+}

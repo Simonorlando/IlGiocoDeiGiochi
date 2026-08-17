@@ -1,0 +1,21 @@
+{
+  "player_id": 507,
+  "full_name": "Thiago Alcântara do Nascimento",
+  "nationality": "Spain",
+  "birth_date": "1991-04-11",
+  "birth_place": "San Pietro Vernotico",
+  "career_transfers": [
+    {
+      "date": "2013-07-15",
+      "type": "€ 25M",
+      "team_out": "Barcelona",
+      "team_in": "Bayern Munich"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "FC Bayern Munich",
+    "Liverpool F.C."
+  ]
+}

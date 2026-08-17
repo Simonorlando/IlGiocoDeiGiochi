@@ -1,0 +1,33 @@
+{
+  "player_id": 286474,
+  "full_name": "Matteo Cancellieri",
+  "nationality": "Italy",
+  "birth_date": "2002-02-12",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-14",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Parma",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Parma",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona",
+    "Lazio",
+    "Empoli",
+    "Parma"
+  ]
+}

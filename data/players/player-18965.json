@@ -1,0 +1,30 @@
+{
+  "player_id": 18965,
+  "full_name": "Martín Montoya Torralbo",
+  "nationality": "Spain",
+  "birth_date": "1991-04-14",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2018-08-09",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2016-08-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Inter Milan",
+    "Real Betis Balompié",
+    "Valencia CF",
+    "Real Betis Balompié",
+    "Brighton & Hove Albion F.C."
+  ]
+}

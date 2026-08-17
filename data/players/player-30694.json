@@ -1,0 +1,32 @@
+{
+  "player_id": 30694,
+  "full_name": "Ronaldo Pompeu da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1990-04-08",
+  "birth_place": "Caxambu do Sul",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-01-13",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Mantova 1911",
+    "Calcio Padova",
+    "U.S. Grosseto 1912",
+    "Unione Sportiva Catanzaro",
+    "Empoli FC",
+    "F.C. Pro Vercelli 1892",
+    "SS Lazio",
+    "U.S. Salernitana 1919",
+    "Novara Calcio"
+  ]
+}

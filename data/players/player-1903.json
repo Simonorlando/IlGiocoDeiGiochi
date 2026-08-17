@@ -1,0 +1,32 @@
+{
+  "player_id": 1903,
+  "full_name": "Tomáš Hubočan",
+  "nationality": "Slovakia",
+  "birth_date": "1985-09-17",
+  "birth_place": "Žilina",
+  "career_transfers": [
+    {
+      "date": "2014-08-29",
+      "type": "N/A",
+      "team_out": "Zenit",
+      "team_in": "Dynamo"
+    },
+    {
+      "date": "2008-02-11",
+      "type": "€ 3.2M",
+      "team_out": "Žilina",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "MŠK Žilina",
+    "FC Zlaté Moravce",
+    "FC Zenit Saint Petersburg",
+    "FC Dinamo Moscow",
+    "Olympique de Marseille",
+    "Trabzonspor",
+    "AC Omonia",
+    "Karmiotissa Pano Polemidion",
+    "MŠK Žilina"
+  ]
+}

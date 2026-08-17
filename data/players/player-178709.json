@@ -1,0 +1,45 @@
+{
+  "player_id": 178709,
+  "full_name": "Yannik Engelhardt",
+  "nationality": "Germany",
+  "birth_date": "2001-02-07",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-01",
+      "type": "€ 8M",
+      "team_out": "Fortuna Düsseldorf",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "SC Freiburg"
+    },
+    {
+      "date": "2026-07-16",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "SC Freiburg"
+    }
+  ],
+  "career_clubs": [
+    "Fortuna Düsseldorf",
+    "Como",
+    "Borussia Mönchengladbach",
+    "SC Freiburg"
+  ]
+}

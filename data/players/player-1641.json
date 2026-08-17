@@ -1,0 +1,30 @@
+{
+  "player_id": 1641,
+  "full_name": "Samuel Castillejo Azuaga",
+  "nationality": "Spain",
+  "birth_date": "1995-01-18",
+  "birth_place": "Málaga",
+  "career_transfers": [
+    {
+      "date": "2018-08-17",
+      "type": "€ 25M",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Malagueño",
+    "Cruz Azul",
+    "Villarreal CF",
+    "AC Milan",
+    "Valencia CF",
+    "US Sassuolo Calcio",
+    "Johor Darul Ta'zim F.C."
+  ]
+}

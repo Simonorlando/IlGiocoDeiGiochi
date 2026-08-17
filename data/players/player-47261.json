@@ -1,0 +1,29 @@
+{
+  "player_id": 47261,
+  "full_name": "Mathieu Flamini",
+  "nationality": "France",
+  "birth_date": "1984-03-07",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2013-08-29",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Free",
+      "team_out": "Arsenal",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille",
+    "Arsenal F.C.",
+    "AC Milan",
+    "Arsenal F.C.",
+    "Crystal Palace F.C.",
+    "Getafe CF"
+  ]
+}

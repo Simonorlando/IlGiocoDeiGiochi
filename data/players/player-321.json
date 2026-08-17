@@ -1,0 +1,29 @@
+{
+  "player_id": 321,
+  "full_name": "Kévin Malcuit",
+  "nationality": "France",
+  "birth_date": "1991-07-31",
+  "birth_place": "Chatenay-Malabry",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2021-01-28",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Vannes OC",
+    "Étoile Fréjus Saint-Raphaël",
+    "Chamois Niortais F.C.",
+    "AS Saint-Étienne",
+    "SSC Napoli"
+  ]
+}

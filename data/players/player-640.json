@@ -1,0 +1,27 @@
+{
+  "player_id": 640,
+  "full_name": "Fernando Luiz Roza",
+  "nationality": "Brazil",
+  "birth_date": "1985-05-04",
+  "birth_place": "Londrina",
+  "career_transfers": [
+    {
+      "date": "2022-06-28",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Atletico Paranaense"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 40M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "FC Shakhtar Donetsk",
+    "Manchester City F.C.",
+    "Club Athletico Paranaense"
+  ]
+}

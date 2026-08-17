@@ -1,0 +1,41 @@
+{
+  "player_id": 28345,
+  "full_name": "Davide Lanzafame",
+  "nationality": "Italy",
+  "birth_date": "1987-02-09",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2013-01-30",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Budapest Honved"
+    },
+    {
+      "date": "2012-09-10",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2011-08-09",
+      "type": "€ 1M",
+      "team_out": "Palermo",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "SSC Bari",
+    "Palermo F.C.",
+    "Parma Calcio 1913",
+    "SSC Bari",
+    "Juventus FC",
+    "Brescia Calcio",
+    "Catania FC",
+    "U.S. Grosseto 1912",
+    "Budapest Honvéd FC",
+    "A.C. Perugia Calcio",
+    "Novara Calcio"
+  ]
+}

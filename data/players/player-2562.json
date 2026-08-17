@@ -1,0 +1,65 @@
+{
+  "player_id": 2562,
+  "full_name": "Nicolás Ignacio Castillo Mora",
+  "nationality": "Chile",
+  "birth_date": "1993-02-14",
+  "birth_place": "Santiago de Chile",
+  "career_transfers": [
+    {
+      "date": "2017-01-01",
+      "type": "€ 3.6M",
+      "team_out": "Club Brugge KV",
+      "team_in": "U.N.A.M. - Pumas"
+    },
+    {
+      "date": "2016-08-01",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "U. Catolica"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "U. Catolica",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2016-01-01",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "U. Catolica"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2015-01-28",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "€ 3M",
+      "team_out": "U. Catolica",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V.",
+    "1. FSV Mainz 05",
+    "Frosinone Calcio",
+    "Cruz Azul",
+    "C.D. Guadalajara",
+    "Club América"
+  ]
+}

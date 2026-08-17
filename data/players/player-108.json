@@ -1,0 +1,38 @@
+{
+  "player_id": 108,
+  "full_name": "Francesc Fàbregas i Soler",
+  "nationality": "Spain",
+  "birth_date": "1987-05-04",
+  "birth_place": "Vilassar de Mar",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 33M",
+      "team_out": "Barcelona",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2011-08-15",
+      "type": "€ 34M",
+      "team_out": "Arsenal",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2003-08-16",
+      "type": "€ 3.2M",
+      "team_out": "Barcelona",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "CE Mataró",
+    "FC Barcelona",
+    "Arsenal F.C.",
+    "Arsenal F.C. Under-21s and Academy",
+    "FC Barcelona",
+    "Chelsea F.C.",
+    "AS Monaco FC",
+    "Como 1907",
+    "Arenys de Mar"
+  ]
+}

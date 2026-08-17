@@ -1,0 +1,37 @@
+{
+  "player_id": 14326,
+  "full_name": "Josip Posavec",
+  "nationality": "Croatia",
+  "birth_date": "1996-03-10",
+  "birth_place": "Varaždin",
+  "career_transfers": [
+    {
+      "date": "2019-07-03",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "HNK Hajduk Split"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2018-07-07",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "HNK Hajduk Split"
+    },
+    {
+      "date": "2016-01-26",
+      "type": "N/A",
+      "team_out": "Inter Zapresic",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "NK Inter Zaprešić",
+    "Palermo F.C."
+  ]
+}

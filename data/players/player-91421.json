@@ -1,0 +1,32 @@
+{
+  "player_id": 91421,
+  "full_name": "MacDonald Mariga Wanyama",
+  "nationality": "Kenya",
+  "birth_date": "1987-04-04",
+  "birth_place": "Nairobi",
+  "career_transfers": [
+    {
+      "date": "2011-08-18",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Enköpings SK",
+    "Helsingborgs IF",
+    "Parma",
+    "Helsingborgs IF",
+    "Parma",
+    "Inter",
+    "Real Sociedad",
+    "Inter",
+    "Parma",
+    "Inter",
+    "Parma",
+    "Inter",
+    "Parma",
+    "Latina",
+    "Real Oviedo"
+  ]
+}

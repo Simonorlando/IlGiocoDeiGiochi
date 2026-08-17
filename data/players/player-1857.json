@@ -1,0 +1,24 @@
+{
+  "player_id": 1857,
+  "full_name": "Marco Parolo",
+  "nationality": "Italy",
+  "birth_date": "1985-01-25",
+  "birth_place": "Gallarate",
+  "career_transfers": [
+    {
+      "date": "2005-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Pistoiese"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "Pistoiese FC",
+    "Foligno Calcio",
+    "Hellas Verona FC",
+    "AC Cesena",
+    "Parma Calcio 1913",
+    "SS Lazio"
+  ]
+}

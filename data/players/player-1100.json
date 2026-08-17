@@ -1,0 +1,28 @@
+{
+  "player_id": 1100,
+  "full_name": "Erling Braut Haaland",
+  "nationality": "Norway",
+  "birth_date": "2000-07-21",
+  "birth_place": "Leeds",
+  "career_transfers": [
+    {
+      "date": "2020-01-01",
+      "type": "€ 20M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2019-01-01",
+      "type": "€ 5M",
+      "team_out": "Molde",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Bryne FK",
+    "Molde FK",
+    "FC Red Bull Salzburg",
+    "Borussia Dortmund",
+    "Manchester City F.C."
+  ]
+}

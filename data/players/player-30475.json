@@ -1,0 +1,26 @@
+{
+  "player_id": 30475,
+  "full_name": "Nehuén Mario Paz",
+  "nationality": "Argentina",
+  "birth_date": "1993-04-28",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Bologna",
+    "Lecce",
+    "Bologna"
+  ]
+}

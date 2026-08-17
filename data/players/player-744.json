@@ -1,0 +1,32 @@
+{
+  "player_id": 744,
+  "full_name": "Brahim Abdelkader Díaz",
+  "nationality": "Morocco",
+  "birth_date": "1999-08-03",
+  "birth_place": "Málaga",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2020-09-04",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2019-01-07",
+      "type": "€ 15M",
+      "team_out": "Manchester City",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Real Madrid Club de Fútbol",
+    "AC Milan"
+  ]
+}

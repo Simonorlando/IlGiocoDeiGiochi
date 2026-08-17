@@ -1,0 +1,27 @@
+{
+  "player_id": 281826,
+  "full_name": "Alessandro Marcandalli",
+  "nationality": "Italy",
+  "birth_date": "2002-10-25",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Venezia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-01-29",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Giana Erminio",
+    "Genoa CFC",
+    "U.S. Città di Pontedera S.S.D.",
+    "A.C. Reggiana 1919"
+  ]
+}

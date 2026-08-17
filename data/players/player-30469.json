@@ -1,0 +1,27 @@
+{
+  "player_id": 30469,
+  "full_name": "Arturo Calabresi",
+  "nationality": "Italy",
+  "birth_date": "1996-03-17",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2022-08-11",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2021-07-29",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Livorno 1915",
+    "Brescia Calcio",
+    "Spezia Calcio"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 6079,
+  "full_name": "Guillermo Enio Burdisso",
+  "nationality": "Argentina",
+  "birth_date": "1988-09-26",
+  "birth_place": "Altos de Chipión",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2014-02-03",
+      "type": "Loan",
+      "team_out": "Boca Juniors",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Club El Porvenir",
+    "Club Atlético Los Andes",
+    "Club Atlético Rosario Central",
+    "Arsenal Fútbol Club",
+    "Boca Juniors",
+    "Galatasaray S.K.",
+    "Club León"
+  ]
+}

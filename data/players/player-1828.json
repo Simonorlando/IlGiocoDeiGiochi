@@ -1,0 +1,44 @@
+{
+  "player_id": 1828,
+  "full_name": "Luka Jović",
+  "nationality": "Serbia",
+  "birth_date": "1997-12-23",
+  "birth_place": "Bijeljina",
+  "career_transfers": [
+    {
+      "date": "2022-07-08",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2021-01-14",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 60M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Eintracht Frankfurt",
+    "Real Madrid Club de Fútbol",
+    "Eintracht Frankfurt",
+    "ACF Fiorentina",
+    "AC Milan",
+    "AEK Athens F.C."
+  ]
+}

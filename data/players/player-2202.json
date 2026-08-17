@@ -1,0 +1,29 @@
+{
+  "player_id": 2202,
+  "full_name": "Hamari Traoré",
+  "nationality": "Mali",
+  "birth_date": "1992-01-27",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Rennes",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Real Sociedad",
+      "team_in": "Paris FC"
+    }
+  ],
+  "career_clubs": [
+    "Paris FC",
+    "Lierse",
+    "Reims",
+    "Rennes",
+    "Real Sociedad",
+    "Paris FC"
+  ]
+}

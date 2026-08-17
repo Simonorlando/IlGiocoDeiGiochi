@@ -1,0 +1,38 @@
+{
+  "player_id": 627,
+  "full_name": "Kyle Andrew Walker",
+  "nationality": "England",
+  "birth_date": "1990-05-28",
+  "birth_place": "Sheffield",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "AC Milan",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2025-01-24",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "AC Milan",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Sheffield United F.C.",
+    "Northampton Town F.C.",
+    "Tottenham Hotspur F.C.",
+    "Sheffield United F.C.",
+    "Queens Park Rangers F.C.",
+    "Aston Villa F.C.",
+    "Manchester City F.C.",
+    "AC Milan",
+    "Burnley F.C."
+  ]
+}

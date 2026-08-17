@@ -1,0 +1,50 @@
+{
+  "player_id": 51612,
+  "full_name": "Cristian Gabriel Rodríguez Barrotti",
+  "nationality": "Uruguay",
+  "birth_date": "1985-09-30",
+  "birth_place": "Juan Lacaze",
+  "career_transfers": [
+    {
+      "date": "2015-07-24",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Independiente"
+    },
+    {
+      "date": "2015-03-10",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Gremio"
+    },
+    {
+      "date": "2015-03-09",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2015-01-20",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Paris Saint-Germain FC",
+    "FC Porto",
+    "Atlético Madrid",
+    "Parma Calcio 1913",
+    "Grêmio FBPA",
+    "Club Atlético Independiente",
+    "Club Atlético Peñarol",
+    "Plaza Colonia"
+  ]
+}

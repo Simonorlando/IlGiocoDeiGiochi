@@ -1,0 +1,35 @@
+{
+  "player_id": 115227,
+  "full_name": "Giuseppe Sculli",
+  "nationality": "Italy",
+  "birth_date": "1981-03-23",
+  "birth_place": "Locri",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "F.C. Crotone",
+    "Modena F.C.",
+    "AC ChievoVerona",
+    "Brescia Calcio",
+    "A.C.R. Messina",
+    "Juventus FC",
+    "Genoa CFC",
+    "SS Lazio",
+    "Genoa CFC",
+    "Delfino Pescara 1936",
+    "Genoa CFC"
+  ]
+}

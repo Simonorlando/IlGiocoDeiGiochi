@@ -1,0 +1,28 @@
+{
+  "player_id": 30742,
+  "full_name": "Luca Rossettini",
+  "nationality": "Italy",
+  "birth_date": "1985-05-09",
+  "birth_place": "Padova",
+  "career_transfers": [
+    {
+      "date": "2021-01-12",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2019-07-12",
+      "type": "€ 500K",
+      "team_out": "Genoa",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Siena FC",
+    "Cagliari Calcio",
+    "Bologna F.C. 1909",
+    "AC ChievoVerona"
+  ]
+}

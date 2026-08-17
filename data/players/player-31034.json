@@ -1,0 +1,49 @@
+{
+  "player_id": 31034,
+  "full_name": "Luca Siligardi",
+  "nationality": "Italy",
+  "birth_date": "1988-01-26",
+  "birth_place": "Correggio",
+  "career_transfers": [
+    {
+      "date": "2022-01-29",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Feralpisalo"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Reggiana",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-01-30",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2017-07-15",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "Inter Milan",
+    "US Triestina Calcio 1918",
+    "Piacenza Calcio",
+    "Bologna F.C. 1909",
+    "US Livorno 1915",
+    "Hellas Verona FC",
+    "Parma Calcio 1913"
+  ]
+}

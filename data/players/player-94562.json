@@ -1,0 +1,20 @@
+{
+  "player_id": 94562,
+  "full_name": "Santiago Tomás Giménez",
+  "nationality": "Mexico",
+  "birth_date": "2001-04-18",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Cruz Azul",
+    "Feyenoord Rotterdam",
+    "AC Milan"
+  ]
+}

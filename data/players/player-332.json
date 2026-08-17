@@ -1,0 +1,24 @@
+{
+  "player_id": 332,
+  "full_name": "Dries Mertens",
+  "nationality": "Belgium",
+  "birth_date": "1987-05-06",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2022-08-08",
+      "type": "Free",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "SC Eendracht Aalst",
+    "AGOVV Apeldoorn",
+    "FC Utrecht",
+    "PSV Eindhoven",
+    "SSC Napoli",
+    "Galatasaray S.K."
+  ]
+}

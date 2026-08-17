@@ -1,0 +1,39 @@
+{
+  "player_id": 195100,
+  "full_name": "Natan Bernardo de Souza",
+  "nationality": "Brazil",
+  "birth_date": "2001-02-06",
+  "birth_place": "Itapecerica da Serra",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Real Betis",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2024-08-15",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2023-08-07",
+      "type": "€ 10M",
+      "team_out": "RB Bragantino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2025-06-09",
+      "type": "Transfer",
+      "team_out": "Napoli",
+      "team_in": "Real Betis"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Red Bull Bragantino",
+    "SSC Napoli",
+    "Real Betis Balompié"
+  ]
+}

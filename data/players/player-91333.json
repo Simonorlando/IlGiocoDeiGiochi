@@ -1,0 +1,31 @@
+{
+  "player_id": 91333,
+  "full_name": "Emmanuel Cascione",
+  "nationality": "Italy",
+  "birth_date": "1983-09-22",
+  "birth_place": "Catanzaro",
+  "career_transfers": [
+    {
+      "date": "2013-08-25",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "West Ham United F.C.",
+    "Pistoiese FC",
+    "Rimini FC",
+    "AS Reggina 1914",
+    "Delfino Pescara 1936",
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "ACF Fiorentina"
+  ]
+}

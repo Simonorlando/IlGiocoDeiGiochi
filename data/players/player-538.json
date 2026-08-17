@@ -1,0 +1,20 @@
+{
+  "player_id": 538,
+  "full_name": "Frenkie de Jong",
+  "nationality": "Netherlands",
+  "birth_date": "1997-05-12",
+  "birth_place": "Arkel",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 75M",
+      "team_out": "Ajax",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "FC Barcelona"
+  ]
+}

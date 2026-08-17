@@ -1,0 +1,25 @@
+{
+  "player_id": 31037,
+  "full_name": "Ivan Provedel",
+  "nationality": "Italy",
+  "birth_date": "1994-03-17",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona",
+    "Pisa SC",
+    "AC ChievoVerona",
+    "A.C. Perugia Calcio",
+    "Modena F.C.",
+    "F.C. Pro Vercelli 1892",
+    "Udinese Calcio",
+    "Empoli FC"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 31050,
+  "full_name": "Frédéric Veseli",
+  "nationality": "Albania",
+  "birth_date": "1992-11-20",
+  "birth_place": "Renens",
+  "career_transfers": [
+    {
+      "date": "2022-08-26",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Manchester United F.C.",
+    "Ipswich Town F.C.",
+    "Bury F.C.",
+    "Port Vale F.C.",
+    "FC Lugano",
+    "Empoli FC",
+    "Le Mans F.C.",
+    "U.S. Salernitana 1919",
+    "Benevento Calcio"
+  ]
+}

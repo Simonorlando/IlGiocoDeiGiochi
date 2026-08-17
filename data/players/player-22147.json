@@ -1,0 +1,26 @@
+{
+  "player_id": 22147,
+  "full_name": "Kouadio Emmanuel Koné",
+  "nationality": "France",
+  "birth_date": "2001-05-17",
+  "birth_place": "Colombes",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-06-01",
+      "type": "Transfer",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC",
+    "Borussia Mönchengladbach",
+    "AS Roma"
+  ]
+}

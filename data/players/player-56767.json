@@ -1,0 +1,39 @@
+{
+  "player_id": 56767,
+  "full_name": "Andrea Lazzari",
+  "nationality": "Italy",
+  "birth_date": "1984-12-03",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2017-10-06",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "AJ Fano"
+    },
+    {
+      "date": "2016-10-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta U20",
+    "Atalanta",
+    "Cesena",
+    "Atalanta",
+    "Piacenza Calcio 1919",
+    "Atalanta",
+    "Grosseto",
+    "Atalanta",
+    "Cagliari",
+    "Fiorentina",
+    "Udinese",
+    "Fiorentina",
+    "Carpi",
+    "Bari",
+    "Pisa",
+    "Alma Juventus Fano"
+  ]
+}

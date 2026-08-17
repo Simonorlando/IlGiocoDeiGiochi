@@ -1,0 +1,27 @@
+{
+  "player_id": 151510,
+  "full_name": "Ole Didrik Blomberg",
+  "nationality": "Norway",
+  "birth_date": "2000-06-12",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-30",
+      "type": "Transfer",
+      "team_out": "Brann",
+      "team_in": "Bodo/Glimt"
+    },
+    {
+      "date": "2025-01-13",
+      "type": "Transfer",
+      "team_out": "Brann",
+      "team_in": "Bodo/Glimt"
+    }
+  ],
+  "career_clubs": [
+    "IL Gneist",
+    "Åsane Fotball",
+    "SK Brann",
+    "FK Bodø/Glimt"
+  ]
+}

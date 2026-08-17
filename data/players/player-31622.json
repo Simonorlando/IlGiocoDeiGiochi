@@ -1,0 +1,24 @@
+{
+  "player_id": 31622,
+  "full_name": "Danilo Soddimo",
+  "nationality": "Italy",
+  "birth_date": "1987-09-27",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2020-01-16",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "S.S. Sambenedettese Calcio",
+    "SSC Ancona",
+    "U.S. Salernitana 1919",
+    "Delfino Pescara 1936",
+    "U.S. Grosseto 1912",
+    "Frosinone Calcio"
+  ]
+}

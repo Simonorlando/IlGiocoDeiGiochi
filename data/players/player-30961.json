@@ -1,0 +1,29 @@
+{
+  "player_id": 30961,
+  "full_name": "Andrea Luci",
+  "nationality": "Italy",
+  "birth_date": "1985-03-30",
+  "birth_place": "Piombino",
+  "career_transfers": [
+    {
+      "date": "2020-09-24",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Carrarese"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "S.E.F. Torres 1903",
+    "Delfino Pescara 1936",
+    "Ascoli Calcio 1898 FC",
+    "US Livorno 1915",
+    "ACF Fiorentina"
+  ]
+}

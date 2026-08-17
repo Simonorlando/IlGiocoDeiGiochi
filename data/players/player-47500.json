@@ -1,0 +1,22 @@
+{
+  "player_id": 47500,
+  "full_name": "Daniele Verde",
+  "nationality": "Italy",
+  "birth_date": "1996-06-20",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2016-01-08",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Frosinone Calcio",
+    "Delfino Pescara 1936",
+    "Hellas Verona FC",
+    "Real Valladolid"
+  ]
+}

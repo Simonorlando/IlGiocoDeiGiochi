@@ -1,0 +1,21 @@
+{
+  "player_id": 1841,
+  "full_name": "Patricio Gabarrón Gil",
+  "nationality": "Spain",
+  "birth_date": "1993-04-17",
+  "birth_place": "Mula",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "SS Lazio",
+    "Real Murcia"
+  ]
+}

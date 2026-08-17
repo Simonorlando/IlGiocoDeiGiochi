@@ -1,0 +1,40 @@
+{
+  "player_id": 31053,
+  "full_name": "Leonardo Capezzi",
+  "nationality": "Italy",
+  "birth_date": "1995-03-28",
+  "birth_place": "Sangiovanni",
+  "career_transfers": [
+    {
+      "date": "2023-01-30",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2020-09-29",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Varese Calcio",
+    "F.C. Crotone",
+    "U.C. Sampdoria",
+    "Empoli FC"
+  ]
+}

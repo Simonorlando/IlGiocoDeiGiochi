@@ -1,0 +1,28 @@
+{
+  "player_id": 157052,
+  "full_name": "Riccardo Calafiori",
+  "nationality": "Italy",
+  "birth_date": "2002-05-19",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-07-29",
+      "type": "€ 45M",
+      "team_out": "Bologna",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Genoa CFC",
+    "FC Basel",
+    "Bologna F.C. 1909",
+    "Arsenal F.C."
+  ]
+}

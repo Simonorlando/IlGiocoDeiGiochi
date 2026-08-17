@@ -1,0 +1,41 @@
+{
+  "player_id": 19014,
+  "full_name": "Sergio Rico González",
+  "nationality": "Spain",
+  "birth_date": "1993-09-01",
+  "birth_place": "Sevilla",
+  "career_transfers": [
+    {
+      "date": "2020-09-05",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2019-09-01",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Fulham",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2018-08-09",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Fulham"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Fulham F.C.",
+    "Paris Saint-Germain FC",
+    "RCD Mallorca",
+    "Al-Gharafa SC"
+  ]
+}

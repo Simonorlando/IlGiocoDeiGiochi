@@ -1,0 +1,40 @@
+{
+  "player_id": 21099,
+  "full_name": "Rene Krhin",
+  "nationality": "Slovenia",
+  "birth_date": "1990-05-21",
+  "birth_place": "Maribor",
+  "career_transfers": [
+    {
+      "date": "2015-07-23",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2015-01-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cordoba"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 1.2M",
+      "team_out": "Bologna",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 2.7M",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Bologna F.C. 1909",
+    "Inter Milan",
+    "Córdoba CF",
+    "Granada CF"
+  ]
+}

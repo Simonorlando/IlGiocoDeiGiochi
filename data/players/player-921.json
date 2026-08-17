@@ -1,0 +1,22 @@
+{
+  "player_id": 921,
+  "full_name": "Cristiano Piccini",
+  "nationality": "Italy",
+  "birth_date": "1992-09-26",
+  "birth_place": "Firenze",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Carrarese Calcio",
+    "Spezia Calcio",
+    "US Livorno 1915",
+    "Real Betis Balompié"
+  ]
+}

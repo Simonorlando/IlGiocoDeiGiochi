@@ -1,0 +1,27 @@
+{
+  "player_id": 19040,
+  "full_name": "Erik Durm",
+  "nationality": "Germany",
+  "birth_date": "1992-05-12",
+  "birth_place": "Pirmasens",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Kaiserslautern"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "Free",
+      "team_out": "Huddersfield",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Huddersfield Town A.F.C.",
+    "Eintracht Frankfurt",
+    "1. FC Kaiserslautern"
+  ]
+}

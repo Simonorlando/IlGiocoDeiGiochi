@@ -1,0 +1,24 @@
+{
+  "player_id": 22160,
+  "full_name": "Olivier Maxime Boscagli",
+  "nationality": "France",
+  "birth_date": "1997-11-18",
+  "birth_place": "Monaco",
+  "career_transfers": [
+    {
+      "date": "2019-07-17",
+      "type": "€ 2M",
+      "team_out": "Nice",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-02",
+      "type": "Free Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "OGC Nice"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "player_id": 21636,
+  "full_name": "Frédéric Guilbert",
+  "nationality": "France",
+  "birth_date": "1994-12-24",
+  "birth_place": "Valognes",
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "Free",
+      "team_out": "Strasbourg",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Guilbert Frederic"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Free agent",
+      "team_out": "Lecce",
+      "team_in": "Nantes"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "AS Cherbourg Football",
+    "FC Girondins de Bordeaux"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "player_id": 56765,
+  "full_name": "Davide Vitturini",
+  "nationality": "Italy",
+  "birth_date": "1997-02-21",
+  "birth_place": "L'Aquila",
+  "career_transfers": [
+    {
+      "date": "2020-01-15",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Feralpisalo"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "AJ Fano",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "AJ Fano"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Carrarese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-01-25",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Carrarese"
+    },
+    {
+      "date": "2017-08-01",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2015-09-17",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Teramo"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936"
+  ]
+}

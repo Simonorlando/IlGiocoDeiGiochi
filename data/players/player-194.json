@@ -1,0 +1,27 @@
+{
+  "player_id": 194,
+  "full_name": "Stefan de Vrij",
+  "nationality": "Netherlands",
+  "birth_date": "1992-02-05",
+  "birth_place": "Ouderkerk aan den IJssel",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Inter",
+      "team_in": "Panathinaikos"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "SS Lazio",
+    "Inter Milan",
+    "Panathinaikos F.C."
+  ]
+}

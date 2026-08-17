@@ -1,0 +1,33 @@
+{
+  "player_id": 36108,
+  "full_name": "Adrián Ezequiel Cirigliano",
+  "nationality": "Argentina",
+  "birth_date": "1992-01-24",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "River Plate"
+    },
+    {
+      "date": "2013-07-12",
+      "type": "Loan",
+      "team_out": "River Plate",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Hellas Verona FC",
+    "FC Dallas",
+    "Club Atlético Tigre",
+    "Atlético Tucumán",
+    "CD Zacatepec",
+    "San Luis de Quillota",
+    "Godoy Cruz Antonio Tomba",
+    "A.S.D. Albalonga",
+    "Stallion–Laguna F.C."
+  ]
+}

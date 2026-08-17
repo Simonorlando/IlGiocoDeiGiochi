@@ -1,0 +1,23 @@
+{
+  "player_id": 30456,
+  "full_name": "Riccardo Saponara",
+  "nationality": "Italy",
+  "birth_date": "1991-12-21",
+  "birth_place": "Forlì",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Ravenna Sport",
+    "Empoli FC",
+    "AC Milan",
+    "Empoli FC",
+    "ACF Fiorentina",
+    "U.C. Sampdoria"
+  ]
+}

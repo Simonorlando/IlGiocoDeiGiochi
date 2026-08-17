@@ -1,0 +1,43 @@
+{
+  "player_id": 102851,
+  "full_name": "Richard Ledezma",
+  "nationality": "USA",
+  "birth_date": "2000-09-06",
+  "birth_place": "Phoenix",
+  "career_transfers": [
+    {
+      "date": "2024-01-01",
+      "type": "N/A",
+      "team_out": "New York City FC",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2023-03-23",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Real Salt Lake"
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Free Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Guadalajara"
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Free Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Guadalajara Chivas"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Free agent",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Guadalajara Chivas"
+    }
+  ],
+  "career_clubs": [
+    "Real Monarchs",
+    "Jong PSV"
+  ]
+}

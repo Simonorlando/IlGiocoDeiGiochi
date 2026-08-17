@@ -1,0 +1,32 @@
+{
+  "player_id": 974,
+  "full_name": "Charles Mariano Aránguiz Sandoval",
+  "nationality": "Chile",
+  "birth_date": "1989-04-17",
+  "birth_place": "Santiago de Chile",
+  "career_transfers": [
+    {
+      "date": "2014-01-10",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Internacional"
+    },
+    {
+      "date": "2014-01-01",
+      "type": "€ 1.5M",
+      "team_out": "Universidad de Chile",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Cobreloa",
+    "Cobresal",
+    "Club Social y Deportivo Colo Colo",
+    "Quilmes Atlético Club",
+    "Club Universidad de Chile",
+    "S.C. Internacional",
+    "Bayer 04 Leverkusen",
+    "S.C. Internacional",
+    "Club Universidad de Chile"
+  ]
+}

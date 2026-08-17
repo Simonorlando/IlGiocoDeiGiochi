@@ -1,0 +1,25 @@
+{
+  "player_id": 1719,
+  "full_name": "Mert Müldür",
+  "nationality": "Türkiye",
+  "birth_date": "1999-04-03",
+  "birth_place": "Wien",
+  "career_transfers": [
+    {
+      "date": "2023-08-02",
+      "type": "€ 2.8M",
+      "team_out": "Sassuolo",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2019-08-20",
+      "type": "4.5M",
+      "team_out": "Rapid Vienna",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "SK Rapid Wien",
+    "US Sassuolo Calcio"
+  ]
+}

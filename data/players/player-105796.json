@@ -1,0 +1,29 @@
+{
+  "player_id": 105796,
+  "full_name": "Lorik Cana",
+  "nationality": "Albania",
+  "birth_date": "1983-07-27",
+  "birth_place": "Gjakovë",
+  "career_transfers": [
+    {
+      "date": "2011-07-05",
+      "type": "€ 800K",
+      "team_out": "Galatasaray",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2010-07-08",
+      "type": "€ 4.5M",
+      "team_out": "Sunderland",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Olympique de Marseille",
+    "Sunderland A.F.C.",
+    "Galatasaray S.K.",
+    "SS Lazio",
+    "FC Nantes"
+  ]
+}

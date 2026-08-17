@@ -1,0 +1,26 @@
+{
+  "player_id": 127631,
+  "full_name": "Valentin André Stanislas Gendrey",
+  "nationality": "France",
+  "birth_date": "2000-06-21",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "€ 8.5M",
+      "team_out": "Lecce",
+      "team_in": "1899 Hoffenheim"
+    },
+    {
+      "date": "2021-07-29",
+      "type": "N/A",
+      "team_out": "Amiens",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Amiens SC",
+    "US Lecce",
+    "TSG 1899 Hoffenheim"
+  ]
+}

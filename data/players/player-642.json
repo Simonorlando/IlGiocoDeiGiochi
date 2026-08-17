@@ -1,0 +1,27 @@
+{
+  "player_id": 642,
+  "full_name": "Sergio Leonel Agüero del Castillo",
+  "nationality": "Argentina",
+  "birth_date": "1988-06-02",
+  "birth_place": "Quilmes",
+  "career_transfers": [
+    {
+      "date": "2011-07-27",
+      "type": "€ 45M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "€ 21.7M",
+      "team_out": "Independiente",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Independiente",
+    "Atlético Madrid",
+    "Manchester City F.C.",
+    "FC Barcelona"
+  ]
+}

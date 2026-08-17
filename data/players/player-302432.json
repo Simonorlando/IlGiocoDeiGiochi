@@ -1,0 +1,33 @@
+{
+  "player_id": 302432,
+  "full_name": "Alessandro Bianco",
+  "nationality": "Italy",
+  "birth_date": "2002-10-01",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Reggiana",
+    "Monza",
+    "PAOK"
+  ]
+}

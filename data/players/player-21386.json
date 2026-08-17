@@ -1,0 +1,19 @@
+{
+  "player_id": 21386,
+  "full_name": "Iron Gomis",
+  "nationality": "France",
+  "birth_date": "1999-11-08",
+  "birth_place": "Marseillle",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Kasimpasa",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Kasimpasa",
+    "Salernitana"
+  ]
+}

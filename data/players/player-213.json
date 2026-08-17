@@ -1,0 +1,23 @@
+{
+  "player_id": 213,
+  "full_name": "Keita Baldé Diao",
+  "nationality": "Senegal",
+  "birth_date": "1995-03-08",
+  "birth_place": "Arbúcies",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 300K",
+      "team_out": "Barcelona",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "AS Monaco FC",
+    "Inter Milan",
+    "U.C. Sampdoria",
+    "Cagliari Calcio",
+    "Spartak Moscow"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 86,
+  "full_name": "Ikoma-Loïs Openda",
+  "nationality": "Belgium",
+  "birth_date": "2000-02-16",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2022-07-06",
+      "type": "€ 9.8M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Lens"
+    },
+    {
+      "date": "2020-07-21",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Vitesse"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V.",
+    "SBV Vitesse",
+    "R.C. Lens",
+    "RB Leipzig",
+    "Juventus FC",
+    "Olympique Lyonnais"
+  ]
+}

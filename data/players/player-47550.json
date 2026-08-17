@@ -1,0 +1,29 @@
+{
+  "player_id": 47550,
+  "full_name": "Mario Suárez Mata",
+  "nationality": "Spain",
+  "birth_date": "1987-02-24",
+  "birth_place": "Alcobendas",
+  "career_transfers": [
+    {
+      "date": "2016-08-17",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid Juvenil",
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Real Valladolid",
+    "RC Celta de Vigo",
+    "RCD Mallorca",
+    "Atlético Madrid",
+    "ACF Fiorentina",
+    "Watford F.C.",
+    "Valencia CF",
+    "Guizhou F.C.",
+    "Rayo Vallecano"
+  ]
+}

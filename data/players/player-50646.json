@@ -1,0 +1,33 @@
+{
+  "player_id": 50646,
+  "full_name": "Cheick Tidiane Diabaté",
+  "nationality": "Mali",
+  "birth_date": "1988-04-25",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Ankaraspor"
+    },
+    {
+      "date": "2018-01-13",
+      "type": "Loan",
+      "team_out": "Ankaraspor",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Centre Salif Keita",
+    "FC Girondins de Bordeaux",
+    "A.C. Ajaccio",
+    "FC Girondins de Bordeaux",
+    "A.S. Nancy-Lorraine",
+    "Ankaraspor",
+    "FC Metz",
+    "Benevento Calcio",
+    "Emirates Club",
+    "Esteghlal F.C."
+  ]
+}

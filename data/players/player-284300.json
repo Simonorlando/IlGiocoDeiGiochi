@@ -1,0 +1,33 @@
+{
+  "player_id": 284300,
+  "full_name": "Álvaro Fernández Carreras",
+  "nationality": "Spain",
+  "birth_date": "2003-03-23",
+  "birth_place": "Ferrol",
+  "career_transfers": [
+    {
+      "date": "2025-07-14",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-07-13",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo de A Coruña",
+    "Real Madrid Club de Fútbol",
+    "Manchester United F.C.",
+    "Preston North End F.C.",
+    "Granada CF",
+    "S.L. Benfica",
+    "Real Madrid Club de Fútbol",
+    "SCDR Galicia de Caranza",
+    "Racing Club de Ferrol",
+    "Chelsea F.C."
+  ]
+}

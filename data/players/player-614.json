@@ -1,0 +1,28 @@
+{
+  "player_id": 614,
+  "full_name": "Claudio Andrés Bravo Muñoz",
+  "nationality": "Chile",
+  "birth_date": "1983-04-13",
+  "birth_place": "Buin",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 12M",
+      "team_out": "Real Sociedad",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "€ 1.2M",
+      "team_out": "Colo Colo",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Club Social y Deportivo Colo Colo",
+    "Real Sociedad",
+    "FC Barcelona",
+    "Manchester City F.C.",
+    "Real Betis Balompié"
+  ]
+}

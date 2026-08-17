@@ -1,0 +1,19 @@
+{
+  "player_id": 342035,
+  "full_name": "Cristian Volpato",
+  "nationality": "Italy",
+  "birth_date": "2003-11-15",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 7.5M",
+      "team_out": "AS Roma",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Sassuolo Calcio"
+  ]
+}

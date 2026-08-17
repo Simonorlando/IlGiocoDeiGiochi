@@ -1,0 +1,25 @@
+{
+  "player_id": 31469,
+  "full_name": "Raffaele Palladino",
+  "nationality": "Italy",
+  "birth_date": "1984-04-17",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2019-04-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Benevento Calcio",
+    "Juventus FC",
+    "U.S. Salernitana 1919",
+    "US Livorno 1915",
+    "Genoa CFC",
+    "Parma Calcio 1913",
+    "F.C. Crotone",
+    "Spezia Calcio"
+  ]
+}

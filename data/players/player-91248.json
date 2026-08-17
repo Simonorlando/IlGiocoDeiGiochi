@@ -1,0 +1,30 @@
+{
+  "player_id": 91248,
+  "full_name": "Sebastián Eduardo Leto",
+  "nationality": "Argentina",
+  "birth_date": "1986-08-30",
+  "birth_place": "Alejandro Korn",
+  "career_transfers": [
+    {
+      "date": "2015-01-31",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Lanus"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Panathinaikos",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Lanús",
+    "Liverpool F.C.",
+    "Olympiacos F.C.",
+    "Panathinaikos F.C.",
+    "Catania FC",
+    "Club Atlético Lanús",
+    "Panathinaikos F.C."
+  ]
+}

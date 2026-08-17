@@ -1,0 +1,21 @@
+{
+  "player_id": 1834,
+  "full_name": "Silvio Proto",
+  "nationality": "Belgium",
+  "birth_date": "1983-05-23",
+  "birth_place": "Charleroi",
+  "career_transfers": [
+    {
+      "date": "2018-07-04",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "R.A.A. Louviéroise",
+    "R.S.C. Anderlecht",
+    "Beerschot A.C.",
+    "SS Lazio"
+  ]
+}

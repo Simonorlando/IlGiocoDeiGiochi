@@ -1,0 +1,29 @@
+{
+  "player_id": 1113,
+  "full_name": "Carl Mikael Lustig",
+  "nationality": "Sweden",
+  "birth_date": "1986-12-13",
+  "birth_place": "Umeå",
+  "career_transfers": [
+    {
+      "date": "2020-08-25",
+      "type": "Free",
+      "team_out": "Gent",
+      "team_in": "AIK stockholm"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Celtic",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Umeå FC",
+    "GIF Sundsvall",
+    "Rosenborg BK",
+    "Celtic F.C.",
+    "KAA Gent",
+    "AIK Fotboll"
+  ]
+}

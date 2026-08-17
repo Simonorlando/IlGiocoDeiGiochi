@@ -1,0 +1,26 @@
+{
+  "player_id": 162453,
+  "full_name": "Lucas Chevalier",
+  "nationality": "France",
+  "birth_date": "2001-11-06",
+  "birth_place": "Calais",
+  "career_transfers": [
+    {
+      "date": "2025-08-09",
+      "type": "Transfer",
+      "team_out": "Lille",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Lille",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Valenciennes F.C.",
+    "Paris Saint-Germain FC"
+  ]
+}

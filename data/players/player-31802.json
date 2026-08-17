@@ -1,0 +1,27 @@
+{
+  "player_id": 31802,
+  "full_name": "Antonio Floro Flores",
+  "nationality": "Italy",
+  "birth_date": "1983-06-18",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2004-01-01",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "U.C. Sampdoria",
+    "A.C. Perugia Calcio",
+    "S.S. Arezzo",
+    "Udinese Calcio",
+    "Genoa CFC",
+    "Granada CF",
+    "Genoa CFC",
+    "US Sassuolo Calcio",
+    "AC ChievoVerona"
+  ]
+}

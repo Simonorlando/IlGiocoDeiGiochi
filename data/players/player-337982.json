@@ -1,0 +1,24 @@
+{
+  "player_id": 337982,
+  "full_name": "Stiven Shpendi",
+  "nationality": "Albania",
+  "birth_date": "2003-05-19",
+  "birth_place": "Ancona",
+  "career_transfers": [
+    {
+      "date": "2023-08-05",
+      "type": "Loan",
+      "team_out": "Cesena",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Cesena",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Cesena"
+  ]
+}

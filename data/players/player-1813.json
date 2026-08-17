@@ -1,0 +1,27 @@
+{
+  "player_id": 1813,
+  "full_name": "Jetro Danovich Sexer Willems",
+  "nationality": "Netherlands",
+  "birth_date": "1994-03-30",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2017-07-21",
+      "type": "€ 5M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 800K",
+      "team_out": "Sparta Rotterdam",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Sparta Rotterdam",
+    "PSV Eindhoven",
+    "Eintracht Frankfurt",
+    "Newcastle United F.C."
+  ]
+}

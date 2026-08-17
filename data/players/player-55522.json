@@ -1,0 +1,28 @@
+{
+  "player_id": 55522,
+  "full_name": "Taye Ismaila Taïwo",
+  "nationality": "Nigeria",
+  "birth_date": "1985-04-16",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2012-07-31",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Dynamo Kyiv"
+    }
+  ],
+  "career_clubs": [
+    "Lobi Stars F.C.",
+    "Olympique de Marseille",
+    "AC Milan",
+    "Queens Park Rangers F.C.",
+    "FC Dynamo Kyiv",
+    "Bursaspor",
+    "Helsingin Jalkapalloklubi",
+    "Ifeanyi Ubah F.C.",
+    "FC Lausanne-Sport",
+    "IFK Eskilstuna",
+    "AFC Eskilstuna"
+  ]
+}

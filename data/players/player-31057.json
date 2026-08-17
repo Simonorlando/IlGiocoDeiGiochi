@@ -1,0 +1,26 @@
+{
+  "player_id": 31057,
+  "full_name": "Hamed Junior Traorè",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2000-02-16",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 16M",
+      "team_out": "Empoli",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "AFC Bournemouth",
+    "Olympique de Marseille",
+    "Genoa CFC"
+  ]
+}

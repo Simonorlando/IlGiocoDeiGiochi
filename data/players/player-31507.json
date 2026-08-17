@@ -1,0 +1,25 @@
+{
+  "player_id": 31507,
+  "full_name": "Riccardo Sottil",
+  "nationality": "Italy",
+  "birth_date": "1999-06-03",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2025-08-10",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Lecce",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Delfino Pescara 1936"
+  ]
+}

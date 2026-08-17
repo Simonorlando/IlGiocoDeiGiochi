@@ -1,0 +1,19 @@
+{
+  "player_id": 340626,
+  "full_name": "Fermín López Martín",
+  "nationality": "Spain",
+  "birth_date": "2003-05-11",
+  "birth_place": "El Campillo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Linares Deportivo",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Linares",
+    "Barcelona"
+  ]
+}

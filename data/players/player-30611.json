@@ -1,0 +1,37 @@
+{
+  "player_id": 30611,
+  "full_name": "Lorenzo Montipò",
+  "nationality": "Italy",
+  "birth_date": "1996-02-20",
+  "birth_place": "Novara",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 1M",
+      "team_out": "Benevento",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2021-07-20",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2018-07-13",
+      "type": "Loan",
+      "team_out": "Novara",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio",
+    "Siena FC"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "player_id": 91316,
+  "full_name": "Paolo Cannavaro",
+  "nationality": "Italy",
+  "birth_date": "1981-06-26",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2001-08-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2000-01-01",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Parma Calcio 1913",
+    "Hellas Verona FC",
+    "SSC Napoli",
+    "US Sassuolo Calcio"
+  ]
+}

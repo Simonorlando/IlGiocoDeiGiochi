@@ -1,0 +1,27 @@
+{
+  "player_id": 25409,
+  "full_name": "Ignacio Camacho Barnola",
+  "nationality": "Spain",
+  "birth_date": "1990-05-04",
+  "birth_place": "Zaragoza",
+  "career_transfers": [
+    {
+      "date": "2017-07-08",
+      "type": "€ 15M",
+      "team_out": "Malaga",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "€ 1.5M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Málaga CF",
+    "VfL Wolfsburg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 2614,
+  "full_name": "Nahitan Michel Nández Acosta",
+  "nationality": "Uruguay",
+  "birth_date": "1995-12-28",
+  "birth_place": "Punta del Este",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Al-Qadisiyah FC"
+    },
+    {
+      "date": "2019-08-09",
+      "type": "€ 18M",
+      "team_out": "Boca Juniors",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Cagliari Calcio"
+  ]
+}

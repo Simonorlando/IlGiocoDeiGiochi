@@ -1,0 +1,24 @@
+{
+  "player_id": 91254,
+  "full_name": "Esteban Matías Cambiasso Delau",
+  "nationality": "Argentina",
+  "birth_date": "1980-08-18",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2015-08-07",
+      "type": "Free",
+      "team_out": "Leicester",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Club Atlético Independiente",
+    "Club Atlético River Plate",
+    "Real Madrid Club de Fútbol",
+    "Inter Milan",
+    "Leicester City F.C.",
+    "Olympiacos F.C."
+  ]
+}

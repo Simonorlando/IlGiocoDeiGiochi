@@ -1,0 +1,34 @@
+{
+  "player_id": 341974,
+  "full_name": "Tommaso Corazza",
+  "nationality": "Italy",
+  "birth_date": "2004-06-29",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2026-01-31",
+      "type": "Return from loan",
+      "team_out": "Pescara",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Return from loan",
+      "team_out": "Pescara",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Bologna",
+    "Salernitana",
+    "Pescara",
+    "Cesena",
+    "Vicenza"
+  ]
+}

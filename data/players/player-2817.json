@@ -1,0 +1,27 @@
+{
+  "player_id": 2817,
+  "full_name": "Nikola Milenković",
+  "nationality": "Serbia",
+  "birth_date": "1997-10-12",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "€ 12.3M",
+      "team_out": "Fiorentina",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 5.1M",
+      "team_out": "FK Partizan",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "FK Teleoptik",
+    "ACF Fiorentina",
+    "Nottingham Forest F.C."
+  ]
+}

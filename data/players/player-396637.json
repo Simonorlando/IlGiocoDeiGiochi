@@ -1,0 +1,19 @@
+{
+  "player_id": 396637,
+  "full_name": "Pietro Comuzzo",
+  "nationality": "Italy",
+  "birth_date": "2005-02-20",
+  "birth_place": "San Daniele del Friuli",
+  "career_transfers": [
+    {
+      "date": "2026-07-28",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Torino"
+  ]
+}

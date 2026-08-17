@@ -1,0 +1,26 @@
+{
+  "player_id": 30410,
+  "full_name": "Federico Chiesa",
+  "nationality": "Italy",
+  "birth_date": "1997-10-25",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 40M",
+      "team_out": "Fiorentina",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Juventus FC",
+    "Liverpool F.C."
+  ]
+}

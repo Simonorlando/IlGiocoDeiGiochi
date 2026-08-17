@@ -1,0 +1,30 @@
+{
+  "player_id": 30941,
+  "full_name": "Giampaolo Pazzini",
+  "nationality": "Italy",
+  "birth_date": "1984-08-02",
+  "birth_place": "Pescia",
+  "career_transfers": [
+    {
+      "date": "2012-08-22",
+      "type": "€ 12.5M",
+      "team_out": "Inter",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2011-01-28",
+      "type": "€ 19M",
+      "team_out": "Sampdoria",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "ACF Fiorentina",
+    "U.C. Sampdoria",
+    "Inter Milan",
+    "AC Milan",
+    "Hellas Verona FC",
+    "Levante UD"
+  ]
+}

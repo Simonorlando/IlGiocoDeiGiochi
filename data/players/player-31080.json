@@ -1,0 +1,90 @@
+{
+  "player_id": 31080,
+  "full_name": "Andrea Beghetto",
+  "nationality": "Italy",
+  "birth_date": "1994-10-11",
+  "birth_place": "Castelfranco Veneto",
+  "career_transfers": [
+    {
+      "date": "2024-07-25",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Lecco"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-01-26",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2022-08-31",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2022-06-30",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2021-08-05",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2021-07-02",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2021-01-31",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2025-08-27",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Vis Pesaro"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Vis Pesaro",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova"
+  ]
+}

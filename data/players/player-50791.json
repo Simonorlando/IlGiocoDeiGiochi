@@ -1,0 +1,32 @@
+{
+  "player_id": 50791,
+  "full_name": "Ignacio Piatti",
+  "nationality": "Argentina",
+  "birth_date": "1985-02-04",
+  "birth_place": "General Baldissera",
+  "career_transfers": [
+    {
+      "date": "2012-08-16",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "San Lorenzo"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 2.5M",
+      "team_out": "Union San Felipe",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Chacarita Juniors",
+    "AS Saint-Étienne",
+    "Club de Gimnasia y Esgrima La Plata",
+    "Club Atlético Independiente",
+    "US Lecce",
+    "San Lorenzo de Almagro",
+    "CF Montréal",
+    "San Lorenzo de Almagro",
+    "Racing Club"
+  ]
+}

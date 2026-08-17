@@ -1,0 +1,28 @@
+{
+  "player_id": 83263,
+  "full_name": "Kelvin Wilson",
+  "nationality": "England",
+  "birth_date": "1985-09-03",
+  "birth_place": "Nottingham",
+  "career_transfers": [
+    {
+      "date": "2013-08-09",
+      "type": "€ 2.9M",
+      "team_out": "Celtic",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "Nottingham Forest",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Notts County F.C.",
+    "Preston North End F.C.",
+    "Nottingham Forest F.C.",
+    "Celtic F.C.",
+    "Nottingham Forest F.C."
+  ]
+}

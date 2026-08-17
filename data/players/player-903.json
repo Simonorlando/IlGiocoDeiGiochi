@@ -1,0 +1,19 @@
+{
+  "player_id": 903,
+  "full_name": "Scott Francis McTominay",
+  "nationality": "Scotland",
+  "birth_date": "1996-12-08",
+  "birth_place": "Lancaster",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 30.5M",
+      "team_out": "Manchester United",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "SSC Napoli"
+  ]
+}

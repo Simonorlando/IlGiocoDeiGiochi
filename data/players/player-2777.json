@@ -1,0 +1,26 @@
+{
+  "player_id": 2777,
+  "full_name": "Isaac Success Ajayi",
+  "nationality": "Nigeria",
+  "birth_date": "1996-01-07",
+  "birth_place": "Benin City",
+  "career_transfers": [
+    {
+      "date": "2021-08-26",
+      "type": "€ 1.8M",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2024-10-21",
+      "type": null,
+      "team_out": "Udinese",
+      "team_in": "Al-Wasl FC"
+    }
+  ],
+  "career_clubs": [
+    "Granada CF",
+    "Watford F.C.",
+    "Udinese Calcio"
+  ]
+}

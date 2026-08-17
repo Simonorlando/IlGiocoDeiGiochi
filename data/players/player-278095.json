@@ -1,0 +1,20 @@
+{
+  "player_id": 278095,
+  "full_name": "Jonathan David Henry Rowe",
+  "nationality": "England",
+  "birth_date": "2003-04-30",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2025-08-24",
+      "type": "Transfer",
+      "team_out": "Marseille",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Norwich City",
+    "Marseille",
+    "Bologna"
+  ]
+}

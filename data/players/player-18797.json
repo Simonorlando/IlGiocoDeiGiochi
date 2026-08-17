@@ -1,0 +1,24 @@
+{
+  "player_id": 18797,
+  "full_name": "Christian Kabasele",
+  "nationality": "Belgium",
+  "birth_date": "1991-02-24",
+  "birth_place": "Lubumbashi",
+  "career_transfers": [
+    {
+      "date": "2023-07-25",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "K.A.S. Eupen",
+    "KV Mechelen",
+    "PFC Ludogorets 1945",
+    "K.A.S. Eupen",
+    "K.R.C. Genk",
+    "Watford F.C.",
+    "Udinese Calcio"
+  ]
+}

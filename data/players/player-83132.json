@@ -1,0 +1,20 @@
+{
+  "player_id": 83132,
+  "full_name": "Jesús Gámez Duarte",
+  "nationality": "Spain",
+  "birth_date": "1985-04-10",
+  "birth_place": "Fuengirola",
+  "career_transfers": [
+    {
+      "date": "2014-08-06",
+      "type": "2.5M €",
+      "team_out": "Malaga",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Malagueño",
+    "Málaga CF",
+    "Atlético Madrid"
+  ]
+}

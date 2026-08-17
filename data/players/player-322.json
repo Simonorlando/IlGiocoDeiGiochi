@@ -1,0 +1,31 @@
+{
+  "player_id": 322,
+  "full_name": "Mário Rui Silva Duarte",
+  "nationality": "Portugal",
+  "birth_date": "1991-05-27",
+  "birth_place": "Sines",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Gubbio",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica",
+    "C.D. Fátima",
+    "Parma Calcio 1913",
+    "A.S. Gubbio 1910",
+    "Spezia Calcio",
+    "Empoli FC",
+    "AS Roma",
+    "SSC Napoli"
+  ]
+}

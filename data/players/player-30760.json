@@ -1,0 +1,26 @@
+{
+  "player_id": 30760,
+  "full_name": "Manuel Pucciarelli",
+  "nationality": "Italy",
+  "birth_date": "1991-06-17",
+  "birth_place": "Prato",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "U.S. Gavorrano",
+    "AC ChievoVerona"
+  ]
+}

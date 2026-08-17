@@ -1,0 +1,32 @@
+{
+  "player_id": 18786,
+  "full_name": "Onyinye Wilfred Ndidi",
+  "nationality": "Nigeria",
+  "birth_date": "1996-12-16",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2017-01-05",
+      "type": "€ 17.6M",
+      "team_out": "Genk",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Leicester",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Transfer",
+      "team_out": "Leicester",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "Leicester City F.C.",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 6828,
+  "full_name": "Joshua Brillante",
+  "nationality": "Australia",
+  "birth_date": "1993-03-25",
+  "birth_place": "Bundaberg",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2015-08-28",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Gold Coast United FC",
+    "Newcastle Jets FC",
+    "ACF Fiorentina",
+    "Como 1907",
+    "Empoli FC"
+  ]
+}

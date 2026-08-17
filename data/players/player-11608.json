@@ -1,0 +1,43 @@
+{
+  "player_id": 11608,
+  "full_name": "Cristóbal Andrés Jorquera Torres",
+  "nationality": "Chile",
+  "birth_date": "1988-08-04",
+  "birth_place": "Santiago de Chile",
+  "career_transfers": [
+    {
+      "date": "2015-07-17",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Bursaspor"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Eskişehirspor",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-09-06",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Eskişehirspor"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Club Social y Deportivo Colo Colo",
+    "Club Deportivo Ñublense",
+    "Unión Española",
+    "O'Higgins F.C.",
+    "Genoa CFC",
+    "Eskişehirspor",
+    "Parma Calcio 1913",
+    "Bursaspor"
+  ]
+}

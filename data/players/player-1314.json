@@ -1,0 +1,42 @@
+{
+  "player_id": 1314,
+  "full_name": "Amir Rrahmani",
+  "nationality": "Kosovo",
+  "birth_date": "1994-02-24",
+  "birth_place": "Prishtinë",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2020-01-21",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2020-01-20",
+      "type": "€ 13M",
+      "team_out": "Verona",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 2.1M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "KF Drenica",
+    "Partizani Tirana",
+    "RNK Split",
+    "GNK Dinamo Zagreb",
+    "NK Lokomotiva",
+    "Hellas Verona FC",
+    "SSC Napoli"
+  ]
+}

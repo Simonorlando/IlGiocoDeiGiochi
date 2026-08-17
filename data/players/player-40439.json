@@ -1,0 +1,38 @@
+{
+  "player_id": 40439,
+  "full_name": "Błażej Szczepan Augustyn",
+  "nationality": "Poland",
+  "birth_date": "1988-01-26",
+  "birth_place": "Strzelin",
+  "career_transfers": [
+    {
+      "date": "2013-09-01",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Gornik Zabrze"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 500K",
+      "team_out": "Legia Warszawa",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Bolton Wanderers F.C.",
+    "Legia Warsaw",
+    "Rimini FC",
+    "Catania FC",
+    "Vicenza Calcio",
+    "Górnik Zabrze",
+    "Heart of Midlothian F.C.",
+    "Ascoli Calcio 1898 FC",
+    "KS Lechia Gdańsk"
+  ]
+}

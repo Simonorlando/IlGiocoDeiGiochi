@@ -1,0 +1,27 @@
+{
+  "player_id": 858,
+  "full_name": "Mattia De Sciglio",
+  "nationality": "Italy",
+  "birth_date": "1992-10-20",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-08-29",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Juventus FC",
+    "Olympique Lyonnais",
+    "Empoli FC"
+  ]
+}

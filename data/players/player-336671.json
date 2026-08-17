@@ -1,0 +1,22 @@
+{
+  "player_id": 336671,
+  "full_name": "Renato da Palma Veiga",
+  "nationality": "Portugal",
+  "birth_date": "2003-07-29",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2025-08-22",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "FC Augsburg",
+    "Basel",
+    "Chelsea",
+    "Juventus",
+    "Villarreal"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 115302,
+  "full_name": "Gianluca Grava",
+  "nationality": "Italy",
+  "birth_date": "1977-03-07",
+  "birth_place": "Caserta",
+  "career_transfers": [
+    {
+      "date": "2005-01-01",
+      "type": "€ 430K",
+      "team_out": "Ternana",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Casertana Calcio",
+    "SS Turris Calcio",
+    "Ternana Calcio",
+    "Unione Sportiva Catanzaro",
+    "SSC Napoli"
+  ]
+}

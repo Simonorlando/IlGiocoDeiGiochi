@@ -1,0 +1,27 @@
+{
+  "player_id": 138787,
+  "full_name": "Anthony Michael Gordon",
+  "nationality": "England",
+  "birth_date": "2001-02-24",
+  "birth_place": "Liverpool",
+  "career_transfers": [
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Newcastle",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Newcastle",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Everton F.C.",
+    "Preston North End F.C.",
+    "Newcastle United F.C.",
+    "FC Barcelona"
+  ]
+}

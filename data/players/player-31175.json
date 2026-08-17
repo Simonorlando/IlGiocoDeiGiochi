@@ -1,0 +1,22 @@
+{
+  "player_id": 31175,
+  "full_name": "Nikola Ninković",
+  "nationality": "Serbia",
+  "birth_date": "1994-12-19",
+  "birth_place": "Bogatić",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Free",
+      "team_out": "Ascoli",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "Ascoli Calcio 1898 FC",
+    "Empoli FC"
+  ]
+}

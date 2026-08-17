@@ -1,0 +1,28 @@
+{
+  "player_id": 49887,
+  "full_name": "José Ernesto Sosa",
+  "nationality": "Argentina",
+  "birth_date": "1985-06-19",
+  "birth_place": "Carcarañá",
+  "career_transfers": [
+    {
+      "date": "2014-01-02",
+      "type": "Loan",
+      "team_out": "Metalist",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "FC Bayern Munich",
+    "Estudiantes de La Plata",
+    "SSC Napoli",
+    "FC Metalist Kharkiv",
+    "Atlético Madrid",
+    "Beşiktaş J.K. (Football)",
+    "AC Milan",
+    "Trabzonspor",
+    "Fenerbahçe Istanbul",
+    "Estudiantes de La Plata"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 49866,
+  "full_name": "Uğurcan Çakır",
+  "nationality": "Türkiye",
+  "birth_date": "1996-04-05",
+  "birth_place": "Antalya",
+  "career_transfers": [
+    {
+      "date": "2025-09-02",
+      "type": "Transfer",
+      "team_out": "Trabzonspor",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Transfer",
+      "team_out": "Trabzonspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Trabzonspor",
+    "1461 Trabzon"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 70540,
+  "full_name": "Juan Pablo Carrizo",
+  "nationality": "Argentina",
+  "birth_date": "1984-05-06",
+  "birth_place": "Empalme Villa Constitución",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Monterrey"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "€ 250K",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "SS Lazio",
+    "Real Zaragoza",
+    "Club Atlético River Plate",
+    "Catania FC",
+    "Inter Milan",
+    "Cagliari Calcio"
+  ]
+}

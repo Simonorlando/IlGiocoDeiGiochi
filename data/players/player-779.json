@@ -1,0 +1,19 @@
+{
+  "player_id": 779,
+  "full_name": "Daniele De Rossi",
+  "nationality": "Italy",
+  "birth_date": "1983-07-24",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2019-07-26",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Boca Juniors"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Boca Juniors"
+  ]
+}

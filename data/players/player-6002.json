@@ -1,0 +1,19 @@
+{
+  "player_id": 6002,
+  "full_name": "Exequiel Alejandro Palacios",
+  "nationality": "Argentina",
+  "birth_date": "1998-10-05",
+  "birth_place": "Famaillá",
+  "career_transfers": [
+    {
+      "date": "2020-01-01",
+      "type": "€ 15M",
+      "team_out": "River Plate",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Bayer 04 Leverkusen"
+  ]
+}

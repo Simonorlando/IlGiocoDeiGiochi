@@ -1,0 +1,30 @@
+{
+  "player_id": 1861,
+  "full_name": "Felipe Salvador Caicedo Corozo",
+  "nationality": "Ecuador",
+  "birth_date": "1988-09-05",
+  "birth_place": "Guayaquil",
+  "career_transfers": [
+    {
+      "date": "2022-08-28",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Abha"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Manchester City F.C.",
+    "Sporting CP",
+    "Málaga CF",
+    "Levante UD",
+    "FC Lokomotiv Moscow",
+    "Al Jazira Club",
+    "RCD Espanyol de Barcelona",
+    "SS Lazio",
+    "Genoa CFC",
+    "Inter Milan",
+    "Abha",
+    "Barcelona S.C."
+  ]
+}

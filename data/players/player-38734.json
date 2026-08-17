@@ -1,0 +1,25 @@
+{
+  "player_id": 38734,
+  "full_name": "Sven Adriaan Botman",
+  "nationality": "Netherlands",
+  "birth_date": "2000-01-12",
+  "birth_place": "Badhoevedorp",
+  "career_transfers": [
+    {
+      "date": "2020-07-31",
+      "type": "€ 8M",
+      "team_out": "Ajax",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2019-07-27",
+      "type": "Loan",
+      "team_out": "Ajax",
+      "team_in": "Heerenveen"
+    }
+  ],
+  "career_clubs": [
+    "Newcastle United F.C.",
+    "Jong Ajax"
+  ]
+}

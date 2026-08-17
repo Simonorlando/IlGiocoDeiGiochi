@@ -1,0 +1,20 @@
+{
+  "player_id": 762,
+  "full_name": "Vinícius José Paixão de Oliveira Júnior",
+  "nationality": "Brazil",
+  "birth_date": "2000-07-12",
+  "birth_place": "São Gonçalo",
+  "career_transfers": [
+    {
+      "date": "2018-07-12",
+      "type": "€ 45M",
+      "team_out": "Flamengo",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla"
+  ]
+}

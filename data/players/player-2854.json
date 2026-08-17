@@ -1,0 +1,33 @@
+{
+  "player_id": 2854,
+  "full_name": "Filip Viktor Helander",
+  "nationality": "Sweden",
+  "birth_date": "1993-04-22",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-07-22",
+      "type": "N/A",
+      "team_out": "Malmo FF",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Malmö FF",
+    "Hellas Verona FC",
+    "Husie IF",
+    "BK Häcken"
+  ]
+}

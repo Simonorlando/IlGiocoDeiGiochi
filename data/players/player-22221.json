@@ -1,0 +1,19 @@
+{
+  "player_id": 22221,
+  "full_name": "Mike Peterson Maignan",
+  "nationality": "France",
+  "birth_date": "1995-07-03",
+  "birth_place": "Cayenne",
+  "career_transfers": [
+    {
+      "date": "2015-08-18",
+      "type": "€ 1M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "AC Milan"
+  ]
+}

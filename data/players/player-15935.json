@@ -1,0 +1,18 @@
+{
+  "player_id": 15935,
+  "full_name": "Magnus Elkjær Mattsson",
+  "nationality": "Denmark",
+  "birth_date": "1999-02-25",
+  "birth_place": "Marstal",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "N/A",
+      "team_out": "NEC Nijmegen",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "Silkeborg IF"
+  ]
+}

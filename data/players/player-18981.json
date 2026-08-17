@@ -1,0 +1,23 @@
+{
+  "player_id": 18981,
+  "full_name": "Jürgen Leonardo Locadia",
+  "nationality": "Curaçao",
+  "birth_date": "1993-11-07",
+  "birth_place": "Emmen",
+  "career_transfers": [
+    {
+      "date": "2018-01-19",
+      "type": "€ 17M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV Eindhoven",
+    "Brighton & Hove Albion F.C.",
+    "TSG 1899 Hoffenheim",
+    "FC Cincinnati",
+    "Persepolis F.C."
+  ]
+}

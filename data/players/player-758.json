@@ -1,0 +1,40 @@
+{
+  "player_id": 758,
+  "full_name": "Gareth Frank Bale",
+  "nationality": "Wales",
+  "birth_date": "1989-07-16",
+  "birth_place": "Cardiff",
+  "career_transfers": [
+    {
+      "date": "2022-07-07",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Los Angeles FC"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Tottenham",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2020-09-19",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2013-08-31",
+      "type": "€ 100.8M",
+      "team_out": "Tottenham",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Southampton F.C.",
+    "Tottenham Hotspur F.C.",
+    "Real Madrid Club de Fútbol",
+    "Tottenham Hotspur F.C.",
+    "Los Angeles FC"
+  ]
+}

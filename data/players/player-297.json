@@ -1,0 +1,28 @@
+{
+  "player_id": 297,
+  "full_name": "Alexander Mark David Oxlade-Chamberlain",
+  "nationality": "England",
+  "birth_date": "1993-08-15",
+  "birth_place": "Portsmouth",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "€ 38M",
+      "team_out": "Arsenal",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2011-08-08",
+      "type": "€ 13.8M",
+      "team_out": "Southampton",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Southampton F.C.",
+    "Arsenal F.C.",
+    "Liverpool F.C.",
+    "Beşiktaş J.K. (Football)",
+    "Celtic F.C."
+  ]
+}

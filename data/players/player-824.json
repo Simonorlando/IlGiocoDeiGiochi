@@ -1,0 +1,30 @@
+{
+  "player_id": 824,
+  "full_name": "Hörður Björgvin Magnússon",
+  "nationality": "Iceland",
+  "birth_date": "1993-02-11",
+  "birth_place": "Reykjavík",
+  "career_transfers": [
+    {
+      "date": "2022-07-08",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2018-06-20",
+      "type": "€ 2.8M",
+      "team_out": "Bristol City",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "Knattspyrnufélagið Fram",
+    "Spezia Calcio",
+    "Juventus FC",
+    "AC Cesena",
+    "Bristol City F.C.",
+    "PFC CSKA Moscow",
+    "Panathinaikos F.C."
+  ]
+}

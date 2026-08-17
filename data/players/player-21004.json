@@ -1,0 +1,30 @@
+{
+  "player_id": 21004,
+  "full_name": "Lucien Jefferson Agoumé",
+  "nationality": "France",
+  "birth_date": "2002-02-09",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2024-08-06",
+      "type": "€ 4M",
+      "team_out": "Inter",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2024-01-10",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

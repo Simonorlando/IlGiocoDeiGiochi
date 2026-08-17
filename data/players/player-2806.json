@@ -1,0 +1,28 @@
+{
+  "player_id": 2806,
+  "full_name": "Fabian Lukas Schär",
+  "nationality": "Switzerland",
+  "birth_date": "1991-12-20",
+  "birth_place": "Wil",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 4M",
+      "team_out": "FC Basel 1893",
+      "team_in": "1899 Hoffenheim"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "FC WIL 1900",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC Wil 1900",
+    "FC Basel",
+    "TSG 1899 Hoffenheim",
+    "Deportivo de A Coruña",
+    "Newcastle United F.C."
+  ]
+}

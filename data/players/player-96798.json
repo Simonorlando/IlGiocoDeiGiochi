@@ -1,0 +1,32 @@
+{
+  "player_id": 96798,
+  "full_name": "Seydou Kéita",
+  "nationality": "Mali",
+  "birth_date": "1980-01-16",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 14M",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 4M",
+      "team_out": "Lens",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille",
+    "F.C. Lorient",
+    "R.C. Lens",
+    "Sevilla FC",
+    "FC Barcelona",
+    "Dalian Professional F.C.",
+    "Valencia CF",
+    "AS Roma",
+    "El Jaish SC"
+  ]
+}

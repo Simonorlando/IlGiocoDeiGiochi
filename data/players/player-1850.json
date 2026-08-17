@@ -1,0 +1,36 @@
+{
+  "player_id": 1850,
+  "full_name": "Milan Badelj",
+  "nationality": "Croatia",
+  "birth_date": "1989-02-25",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2019-08-05",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2018-08-01",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "N/A",
+      "team_out": "Hamburger SV",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Lokomotiva",
+    "Hamburger SV",
+    "ACF Fiorentina",
+    "SS Lazio",
+    "ACF Fiorentina",
+    "Genoa CFC"
+  ]
+}

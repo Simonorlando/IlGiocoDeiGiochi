@@ -1,0 +1,21 @@
+{
+  "player_id": 311083,
+  "full_name": "Cher Ndour",
+  "nationality": "Italy",
+  "birth_date": "2004-07-27",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica",
+    "Paris Saint-Germain FC",
+    "S.C. Braga",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

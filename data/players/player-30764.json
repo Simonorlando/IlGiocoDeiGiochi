@@ -1,0 +1,29 @@
+{
+  "player_id": 30764,
+  "full_name": "Federico Marchetti",
+  "nationality": "Italy",
+  "birth_date": "1983-02-07",
+  "birth_place": "Bassano del Grappa",
+  "career_transfers": [
+    {
+      "date": "2023-07-04",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Hamrun Spartans"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Pro Vercelli 1892",
+    "Torino FC",
+    "F.C. Crotone",
+    "Treviso F.B.C. 1993",
+    "F.C. Pro Vercelli 1892",
+    "A.S.D. Biellese 1902",
+    "U.C. AlbinoLeffe",
+    "Cagliari Calcio",
+    "SS Lazio",
+    "Genoa CFC",
+    "Spezia Calcio",
+    "Ħamrun Spartans F.C."
+  ]
+}

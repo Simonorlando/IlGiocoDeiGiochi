@@ -1,0 +1,21 @@
+{
+  "player_id": 723,
+  "full_name": "Joelinton Cássio Apolinário de Lira",
+  "nationality": "Brazil",
+  "birth_date": "1996-08-14",
+  "birth_place": "Aliança",
+  "career_transfers": [
+    {
+      "date": "2019-07-23",
+      "type": "€ 44M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Newcastle"
+    }
+  ],
+  "career_clubs": [
+    "Sport Club do Recife",
+    "TSG 1899 Hoffenheim",
+    "SK Rapid Wien",
+    "Newcastle United F.C."
+  ]
+}

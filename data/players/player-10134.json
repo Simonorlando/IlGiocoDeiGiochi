@@ -1,0 +1,43 @@
+{
+  "player_id": 10134,
+  "full_name": "Luis Oscar González",
+  "nationality": "Argentina",
+  "birth_date": "1981-01-19",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-01-27",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Al-Rayyan SC"
+    },
+    {
+      "date": "2012-01-31",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2009-07-06",
+      "type": "€ 19M",
+      "team_out": "FC Porto",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2005-07-21",
+      "type": "€ 10.3M",
+      "team_out": "River Plate",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Huracán",
+    "Club Atlético River Plate",
+    "FC Porto",
+    "Olympique de Marseille",
+    "FC Porto",
+    "Al-Rayyan",
+    "Club Atlético River Plate",
+    "Club Athletico Paranaense"
+  ]
+}

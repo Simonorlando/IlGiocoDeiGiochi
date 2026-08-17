@@ -1,0 +1,18 @@
+{
+  "player_id": 1929,
+  "full_name": "Jhon Janer Lucumí Bonilla",
+  "nationality": "Colombia",
+  "birth_date": "1998-06-26",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2022-08-18",
+      "type": "N/A",
+      "team_out": "Genk",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Cali"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 10305,
+  "full_name": "Gilberto Moraes Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1993-03-07",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Botafogo F.R.",
+    "S.C. Internacional",
+    "ACF Fiorentina",
+    "Hellas Verona FC"
+  ]
+}

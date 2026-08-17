@@ -1,0 +1,25 @@
+{
+  "player_id": 30603,
+  "full_name": "Dany Mota Carvalho",
+  "nationality": "Portugal",
+  "birth_date": "1998-05-02",
+  "birth_place": "Niederkorn",
+  "career_transfers": [
+    {
+      "date": "2020-06-30",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Juventus U23"
+    },
+    {
+      "date": "2020-01-20",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Virtus Entella",
+    "AC Monza"
+  ]
+}

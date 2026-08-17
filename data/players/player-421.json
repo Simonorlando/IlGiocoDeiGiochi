@@ -1,0 +1,28 @@
+{
+  "player_id": 421,
+  "full_name": "Breel Donald Embolo",
+  "nationality": "Switzerland",
+  "birth_date": "1997-02-14",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 10M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 25M",
+      "team_out": "FC Basel 1893",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Schalke 04",
+    "Borussia Mönchengladbach",
+    "AS Monaco FC",
+    "Stade Rennais F.C."
+  ]
+}

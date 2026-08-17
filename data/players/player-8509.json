@@ -1,0 +1,28 @@
+{
+  "player_id": 8509,
+  "full_name": "Rai Hendrikus Martinus Vloet",
+  "nationality": "Netherlands",
+  "birth_date": "1995-05-08",
+  "birth_place": "Schijndel",
+  "career_transfers": [
+    {
+      "date": "2019-02-04",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "St. Truiden"
+    },
+    {
+      "date": "2018-08-15",
+      "type": "N/A",
+      "team_out": "NAC Breda",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "Jong PSV",
+    "SC Cambuur",
+    "FC Astana",
+    "FC Ural Yekaterinburg"
+  ]
+}

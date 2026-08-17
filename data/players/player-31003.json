@@ -1,0 +1,28 @@
+{
+  "player_id": 31003,
+  "full_name": "Simeon Tochukwu Nwankwo",
+  "nationality": "Nigeria",
+  "birth_date": "1992-05-07",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "JUTH F.C.",
+    "FC Koper",
+    "Portimonense S.C.",
+    "Ventura County Fusion",
+    "Gil Vicente F.C."
+  ]
+}

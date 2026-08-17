@@ -1,0 +1,36 @@
+{
+  "player_id": 104626,
+  "full_name": "Marat Izmailov",
+  "nationality": "Russia",
+  "birth_date": "1982-09-21",
+  "birth_place": "Moskva",
+  "career_transfers": [
+    {
+      "date": "2013-01-07",
+      "type": "Swap",
+      "team_out": "Sporting CP",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "4.5M €",
+      "team_out": "Lokomotiv Moscow",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Lokomotiv Moscow",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "FC Lokomotiv-Kazanka",
+    "FC Lokomotiv Moscow",
+    "Sporting CP",
+    "FC Porto",
+    "Gabala FC",
+    "FC Krasnodar",
+    "FC Ararat Moscow"
+  ]
+}

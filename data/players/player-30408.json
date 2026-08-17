@@ -1,0 +1,21 @@
+{
+  "player_id": 30408,
+  "full_name": "Gerson Santos da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1997-05-20",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2018-07-20",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "AS Roma",
+    "Fluminense F.C.",
+    "ACF Fiorentina"
+  ]
+}

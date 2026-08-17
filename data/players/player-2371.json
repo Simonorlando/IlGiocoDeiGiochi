@@ -1,0 +1,31 @@
+{
+  "player_id": 2371,
+  "full_name": "Omar El Kaddouri",
+  "nationality": "Morocco",
+  "birth_date": "1990-08-21",
+  "birth_place": "Brussel",
+  "career_transfers": [
+    {
+      "date": "2012-08-27",
+      "type": "€ 2M",
+      "team_out": "Brescia",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2010-09-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Sudtirol"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "F.C. Südtirol",
+    "SSC Napoli",
+    "Torino FC",
+    "Empoli FC",
+    "PAOK FC",
+    "CFR Cluj",
+    "SPAL"
+  ]
+}

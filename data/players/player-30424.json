@@ -1,0 +1,33 @@
+{
+  "player_id": 30424,
+  "full_name": "Roger Ibañez da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1998-11-23",
+  "birth_place": "Canela",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 9M",
+      "team_out": "Atalanta",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-01-27",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-01-29",
+      "type": "€ 4M",
+      "team_out": "Fluminense",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Club Sportivo Sergipe",
+    "Fluminense F.C.",
+    "Atalanta BC",
+    "SS Lazio"
+  ]
+}

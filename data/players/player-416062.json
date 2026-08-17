@@ -1,0 +1,28 @@
+{
+  "player_id": 416062,
+  "full_name": "Eivind Fauske Helland",
+  "nationality": "Norway",
+  "birth_date": "2005-04-25",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-16",
+      "type": "Transfer",
+      "team_out": "Brann",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2026-01-14",
+      "type": "Transfer",
+      "team_out": "Brann",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Fyllingsdalen 2",
+    "Fyllingsdalen",
+    "Brann 2",
+    "Brann",
+    "Bologna"
+  ]
+}

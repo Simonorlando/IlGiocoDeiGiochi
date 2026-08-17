@@ -1,0 +1,38 @@
+{
+  "player_id": 36776,
+  "full_name": "Timon Janis Wellenreuther",
+  "nationality": "Germany",
+  "birth_date": "1995-12-03",
+  "birth_place": "Karlsruhe",
+  "career_transfers": [
+    {
+      "date": "2023-06-02",
+      "type": "N/A",
+      "team_out": "Anderlecht",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2022-08-16",
+      "type": "Loan",
+      "team_out": "Anderlecht",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2026-07-14",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "Karlsruher SC",
+    "Schalke 04",
+    "RCD Mallorca"
+  ]
+}

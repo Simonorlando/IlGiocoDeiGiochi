@@ -1,0 +1,34 @@
+{
+  "player_id": 68192,
+  "full_name": "Ioannis Fetfatzidis",
+  "nationality": "Greece",
+  "birth_date": "1990-12-21",
+  "birth_place": "Drama",
+  "career_transfers": [
+    {
+      "date": "2024-01-04",
+      "type": "Free",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Aris Thessalonikis"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Spal",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C.",
+    "Genoa CFC",
+    "AC ChievoVerona",
+    "Al Ahli FC",
+    "Olympiacos F.C.",
+    "Aris Thessaloniki F.C.",
+    "Al-Khor Sports Club",
+    "Al-Sailiya Sports Club",
+    "SPAL",
+    "APOEL F.C.",
+    "Aris Thessaloniki F.C."
+  ]
+}

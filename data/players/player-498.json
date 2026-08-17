@@ -1,0 +1,33 @@
+{
+  "player_id": 498,
+  "full_name": "Sven Ulreich",
+  "nationality": "Germany",
+  "birth_date": "1988-08-03",
+  "birth_place": "Schorndorf",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Hamburger SV",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "€ 500K",
+      "team_out": "Bayern München",
+      "team_in": "Hamburger SV"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3.5M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "FC Bayern Munich",
+    "Hamburger SV",
+    "FC Bayern Munich"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 617,
+  "full_name": "Ederson Santana de Moraes",
+  "nationality": "Brazil",
+  "birth_date": "1993-08-17",
+  "birth_place": "Osasco",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 40M",
+      "team_out": "Benfica",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 500K",
+      "team_out": "Rio Ave",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "G.D. Ribeirão",
+    "Rio Ave F.C.",
+    "S.L. Benfica",
+    "S.L. Benfica B",
+    "Manchester City F.C.",
+    "Fenerbahçe Istanbul"
+  ]
+}

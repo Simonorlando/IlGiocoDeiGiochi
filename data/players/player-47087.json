@@ -1,0 +1,57 @@
+{
+  "player_id": 47087,
+  "full_name": "Uroš Račić",
+  "nationality": "Serbia",
+  "birth_date": "1998-03-17",
+  "birth_place": "Kraljevo",
+  "career_transfers": [
+    {
+      "date": "2023-08-16",
+      "type": "€ 1M",
+      "team_out": "Valencia",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "SC Braga",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Famalicao",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2019-08-08",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Famalicao"
+    },
+    {
+      "date": "2019-01-14",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Tenerife"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "€ 2.2M",
+      "team_out": "FK Crvena Zvezda",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "Valencia CF",
+    "Valencia CF Mestalla",
+    "C.D. Tenerife"
+  ]
+}

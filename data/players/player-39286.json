@@ -1,0 +1,34 @@
+{
+  "player_id": 39286,
+  "full_name": "Emil Bohinen",
+  "nationality": "Norway",
+  "birth_date": "1999-03-12",
+  "birth_place": "Derby",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Return from loan",
+      "team_out": "Venezia",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Stabæk Fotball",
+    "CSKA Moscow",
+    "U.S. Salernitana 1919",
+    "Genoa CFC",
+    "Venezia F.C."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 42188,
+  "full_name": "Nigel de Jong",
+  "nationality": "Netherlands",
+  "birth_date": "1984-11-30",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2018-01-05",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "Los Angeles Galaxy",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Hamburger SV",
+    "Manchester City F.C.",
+    "AC Milan",
+    "LA Galaxy",
+    "Galatasaray S.K.",
+    "1. FSV Mainz 05",
+    "Al Ahli SC",
+    "Al-Shahaniya Sports Club"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 6420,
+  "full_name": "Mateo Retegui",
+  "nationality": "Italy",
+  "birth_date": "1999-04-29",
+  "birth_place": "San Fernando",
+  "career_transfers": [
+    {
+      "date": "2024-08-08",
+      "type": "€ 22M",
+      "team_out": "Genoa",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-07-20",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Al-Qadisiyah FC"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Estudiantes de La Plata",
+    "Talleres de Córdoba",
+    "Club Atlético Tigre",
+    "Genoa CFC",
+    "Atalanta BC",
+    "Al Qadsiah FC"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 2054,
+  "full_name": "Jesús Navas González",
+  "nationality": "Spain",
+  "birth_date": "1985-11-21",
+  "birth_place": "Los Palacios",
+  "career_transfers": [
+    {
+      "date": "2017-08-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 20M",
+      "team_out": "Sevilla",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Manchester City F.C.",
+    "Sevilla FC"
+  ]
+}

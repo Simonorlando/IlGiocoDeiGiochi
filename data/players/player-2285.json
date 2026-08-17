@@ -1,0 +1,21 @@
+{
+  "player_id": 2285,
+  "full_name": "Antonio Rüdiger",
+  "nationality": "Germany",
+  "birth_date": "1993-03-03",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "AS Roma",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

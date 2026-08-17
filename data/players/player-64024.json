@@ -1,0 +1,30 @@
+{
+  "player_id": 64024,
+  "full_name": "Giuseppe Di Serio",
+  "nationality": "Italy",
+  "birth_date": "2001-07-20",
+  "birth_place": "Trento",
+  "career_transfers": [
+    {
+      "date": "2022-07-21",
+      "type": "&pound; N/A",
+      "team_out": "Benevento",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Pordenone",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2022-01-18",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Pordenone"
+    }
+  ],
+  "career_clubs": [
+    "Benevento Calcio"
+  ]
+}

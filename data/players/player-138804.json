@@ -1,0 +1,59 @@
+{
+  "player_id": 138804,
+  "full_name": "Matěj Kovář",
+  "nationality": "Czech Republic",
+  "birth_date": "2000-05-17",
+  "birth_place": "Uherské Hradiště",
+  "career_transfers": [
+    {
+      "date": "2026-01-11",
+      "type": "Return from loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2026-01-12",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-14",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United",
+    "Swindon Town",
+    "Burton Albion",
+    "Sparta Prague",
+    "Bayer Leverkusen",
+    "PSV"
+  ]
+}

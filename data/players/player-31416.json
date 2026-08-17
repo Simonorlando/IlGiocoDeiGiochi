@@ -1,0 +1,43 @@
+{
+  "player_id": 31416,
+  "full_name": "Nicolò Cherubin",
+  "nationality": "Italy",
+  "birth_date": "1986-12-02",
+  "birth_place": "Vicenza",
+  "career_transfers": [
+    {
+      "date": "2019-01-10",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Associazione Sportiva Cittadella",
+    "AS Reggina 1914",
+    "U.S. Avellino 1912",
+    "Associazione Sportiva Cittadella",
+    "Bologna F.C. 1909",
+    "Atalanta BC",
+    "Ascoli Calcio 1898 FC",
+    "Hellas Verona FC"
+  ]
+}

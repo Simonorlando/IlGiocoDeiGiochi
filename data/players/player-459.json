@@ -1,0 +1,26 @@
+{
+  "player_id": 459,
+  "full_name": "Sinan Gümüş",
+  "nationality": "Germany",
+  "birth_date": "1994-01-15",
+  "birth_place": "Pfullendorf",
+  "career_transfers": [
+    {
+      "date": "2019-07-02",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2014-08-22",
+      "type": "Free",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Galatasaray S.K.",
+    "Genoa CFC",
+    "VfB Stuttgart"
+  ]
+}

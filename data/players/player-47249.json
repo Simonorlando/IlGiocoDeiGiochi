@@ -1,0 +1,33 @@
+{
+  "player_id": 47249,
+  "full_name": "Leandro Daniel Cabrera Sasía",
+  "nationality": "Uruguay",
+  "birth_date": "1991-06-17",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2014-08-12",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "Atlético Madrid",
+    "Recreativo de Huelva",
+    "Club Deportivo Numancia de Soria",
+    "Hércules CF",
+    "Real Madrid Castilla",
+    "Real Zaragoza",
+    "F.C. Crotone",
+    "Getafe CF",
+    "RCD Espanyol de Barcelona"
+  ]
+}

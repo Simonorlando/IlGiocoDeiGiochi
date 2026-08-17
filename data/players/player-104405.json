@@ -1,0 +1,36 @@
+{
+  "player_id": 104405,
+  "full_name": "Eliseu Pereira dos Santos",
+  "nationality": "Portugal",
+  "birth_date": "1983-10-01",
+  "birth_place": "Angra do Heroísmo",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "2M €",
+      "team_out": "Lazio",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2010-01-07",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "1M €",
+      "team_out": "Malaga",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "C.F. Os Belenenses",
+    "Varzim S.C.",
+    "Málaga CF",
+    "SS Lazio",
+    "Real Zaragoza",
+    "Málaga CF",
+    "S.L. Benfica"
+  ]
+}

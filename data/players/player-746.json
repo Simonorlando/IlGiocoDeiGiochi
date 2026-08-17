@@ -1,0 +1,45 @@
+{
+  "player_id": 746,
+  "full_name": "Marco Asensio Willemsen",
+  "nationality": "Spain",
+  "birth_date": "1996-01-21",
+  "birth_place": "Palma de Mallorca",
+  "career_transfers": [
+    {
+      "date": "2023-07-06",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Espanyol",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2015-08-20",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3.9M",
+      "team_out": "Mallorca",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "CF Platges de Calvià",
+    "RCD Mallorca",
+    "RCD Mallorca B",
+    "RCD Mallorca",
+    "Real Madrid Club de Fútbol",
+    "RCD Mallorca",
+    "RCD Espanyol de Barcelona",
+    "Paris Saint-Germain FC",
+    "Aston Villa F.C.",
+    "Fenerbahçe Istanbul"
+  ]
+}

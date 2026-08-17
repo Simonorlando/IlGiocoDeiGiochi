@@ -1,0 +1,34 @@
+{
+  "player_id": 6857,
+  "full_name": "Keisuke Honda",
+  "nationality": "Japan",
+  "birth_date": "1986-06-13",
+  "birth_place": "Osaka",
+  "career_transfers": [
+    {
+      "date": "2017-07-14",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Pachuca"
+    },
+    {
+      "date": "2014-01-03",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Nagoya Grampus",
+    "VVV-Venlo",
+    "PFC CSKA Moscow",
+    "AC Milan",
+    "CF Pachuca",
+    "Melbourne Victory FC",
+    "SBV Vitesse",
+    "Botafogo F.R.",
+    "Neftchi Baku PFC",
+    "FK Sūduva",
+    "Paro FC"
+  ]
+}

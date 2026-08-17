@@ -1,0 +1,25 @@
+{
+  "player_id": 91381,
+  "full_name": "Assane Demoya Gnoukouri",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1996-09-28",
+  "birth_place": "Divo",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2017-01-27",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Udinese Calcio"
+  ]
+}

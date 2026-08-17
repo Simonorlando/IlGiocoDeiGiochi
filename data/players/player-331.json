@@ -1,0 +1,42 @@
+{
+  "player_id": 331,
+  "full_name": "Lorenzo Insigne",
+  "nationality": "Italy",
+  "birth_date": "1991-06-04",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2011-07-11",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Free agent",
+      "team_out": "Toronto FC",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2026-07-07",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Calcio Foggia 1920",
+    "Cavese 1919",
+    "Delfino Pescara 1936",
+    "Toronto FC",
+    "Delfino Pescara 1936",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 161800,
+  "full_name": "Christos Tzolis",
+  "nationality": "Greece",
+  "birth_date": "2002-01-30",
+  "birth_place": "Thessaloniki",
+  "career_transfers": [
+    {
+      "date": "2024-07-04",
+      "type": "€ 6.5M",
+      "team_out": "Fortuna Düsseldorf",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "PAOK FC"
+  ]
+}

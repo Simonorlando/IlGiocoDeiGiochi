@@ -1,0 +1,31 @@
+{
+  "player_id": 104863,
+  "full_name": "Weligton Róbson Pena de Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "1979-08-26",
+  "birth_place": "Fernandópolis",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 550K",
+      "team_out": "Grasshoppers",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Grasshoppers",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Olímpia Futebol Clube",
+    "Campinense Clube",
+    "Clube Atlético Jalesense",
+    "Barretos Esporte Clube",
+    "Paraná Clube",
+    "F.C. Penafiel",
+    "Grasshopper Club Zürich",
+    "Málaga CF"
+  ]
+}

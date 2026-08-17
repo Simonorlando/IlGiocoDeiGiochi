@@ -1,0 +1,26 @@
+{
+  "player_id": 19824,
+  "full_name": "Jordan Bhekithemba Zemura",
+  "nationality": "Zimbabwe",
+  "birth_date": "1999-11-14",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Bournemouth",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-08-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    }
+  ],
+  "career_clubs": [
+    "AFC Bournemouth",
+    "Udinese",
+    "Watford"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 193870,
+  "full_name": "Janis Antiste",
+  "nationality": "France",
+  "birth_date": "2002-08-18",
+  "birth_place": "Toulouse",
+  "career_transfers": [
+    {
+      "date": "2023-01-28",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2022-08-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2021-08-25",
+      "type": "€ 4.5M",
+      "team_out": "Toulouse",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC"
+  ]
+}

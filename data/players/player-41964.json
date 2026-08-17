@@ -1,0 +1,19 @@
+{
+  "player_id": 41964,
+  "full_name": "José Pedro da Silva Figueiredo Freitas",
+  "nationality": "Portugal",
+  "birth_date": "1997-06-06",
+  "birth_place": "Guimarães",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto",
+    "Cagliari"
+  ]
+}

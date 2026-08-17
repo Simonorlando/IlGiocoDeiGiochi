@@ -1,0 +1,22 @@
+{
+  "player_id": 41144,
+  "full_name": "Domilson Cordeiro dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1998-11-17",
+  "birth_place": "Taubate",
+  "career_transfers": [
+    {
+      "date": "2022-07-22",
+      "type": "€ 14.5M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Taubaté",
+    "Coritiba F.C.",
+    "Vitória S.C.",
+    "FC Shakhtar Donetsk",
+    "ACF Fiorentina"
+  ]
+}

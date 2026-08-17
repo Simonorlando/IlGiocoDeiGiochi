@@ -1,0 +1,33 @@
+{
+  "player_id": 1982,
+  "full_name": "Gary Alexis Medel Soto",
+  "nationality": "Chile",
+  "birth_date": "1987-08-03",
+  "birth_place": "Santiago",
+  "career_transfers": [
+    {
+      "date": "2013-08-10",
+      "type": "€ 13M",
+      "team_out": "Sevilla",
+      "team_in": "Cardiff"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "€ 3M",
+      "team_out": "U. Catolica",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Universidad Católica",
+    "Boca Juniors",
+    "Sevilla FC",
+    "Cardiff City F.C.",
+    "Inter Milan",
+    "Beşiktaş J.K. (Football)",
+    "Bologna F.C. 1909",
+    "CR Vasco da Gama",
+    "Boca Juniors",
+    "Club Deportivo Universidad Católica"
+  ]
+}

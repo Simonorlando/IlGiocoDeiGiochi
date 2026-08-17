@@ -1,0 +1,32 @@
+{
+  "player_id": 31548,
+  "full_name": "Slobodan Rajković",
+  "nationality": "Serbia",
+  "birth_date": "1989-02-03",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2020-02-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2016-08-01",
+      "type": "N/A",
+      "team_out": "SV Darmstadt 98",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "OFK Beograd",
+    "Chelsea F.C.",
+    "PSV Eindhoven",
+    "Chelsea F.C.",
+    "FC Twente",
+    "SBV Vitesse",
+    "Hamburger SV",
+    "SV Darmstadt 98",
+    "Palermo F.C."
+  ]
+}

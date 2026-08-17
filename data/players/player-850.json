@@ -1,0 +1,24 @@
+{
+  "player_id": 850,
+  "full_name": "Carlo Pinsoglio",
+  "nationality": "Italy",
+  "birth_date": "1990-03-16",
+  "birth_place": "Moncalieri",
+  "career_transfers": [
+    {
+      "date": "2011-07-26",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Viareggio Calcio",
+    "Delfino Pescara 1936",
+    "Vicenza Calcio",
+    "Modena F.C.",
+    "Juventus FC",
+    "US Livorno 1915"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 199,
+  "full_name": "Šime Vrsaljko",
+  "nationality": "Croatia",
+  "birth_date": "1992-01-10",
+  "birth_place": "Rijeka",
+  "career_transfers": [
+    {
+      "date": "2022-07-02",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2018-08-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2016-07-05",
+      "type": "€ 17M",
+      "team_out": "Sassuolo",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Lokomotiva",
+    "Genoa CFC",
+    "US Sassuolo Calcio",
+    "Atlético Madrid",
+    "Inter Milan",
+    "Olympiacos F.C."
+  ]
+}

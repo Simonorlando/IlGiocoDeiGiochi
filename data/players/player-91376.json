@@ -1,0 +1,30 @@
+{
+  "player_id": 91376,
+  "full_name": "Marco Storari",
+  "nationality": "Italy",
+  "birth_date": "1977-01-07",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Perugia Calcio",
+    "SSC Ancona",
+    "Montevarchi Calcio Aquila 1902",
+    "SSC Napoli",
+    "A.C.R. Messina",
+    "AC Milan",
+    "Levante UD",
+    "Cagliari Calcio",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "U.C. Sampdoria",
+    "Cagliari Calcio",
+    "AS Roma"
+  ]
+}

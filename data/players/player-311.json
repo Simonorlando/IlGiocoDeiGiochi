@@ -1,0 +1,47 @@
+{
+  "player_id": 311,
+  "full_name": "Orestis Spyridon Karnezis",
+  "nationality": "Greece",
+  "birth_date": "1985-07-11",
+  "birth_place": "Athina",
+  "career_transfers": [
+    {
+      "date": "2018-07-05",
+      "type": "€ 2.5M",
+      "team_out": "Udinese",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2013-07-23",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2013-07-22",
+      "type": "€ 800K",
+      "team_out": "Panathinaikos",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "OFI Crete F.C.",
+    "Panathinaikos F.C.",
+    "Granada CF",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "SSC Napoli"
+  ]
+}

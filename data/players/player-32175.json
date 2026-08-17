@@ -1,0 +1,48 @@
+{
+  "player_id": 32175,
+  "full_name": "Nicola Belmonte",
+  "nationality": "Italy",
+  "birth_date": "1987-04-15",
+  "birth_place": "Cosenza",
+  "career_transfers": [
+    {
+      "date": "2018-09-14",
+      "type": "Free",
+      "team_out": "Perugia",
+      "team_in": "Robur Siena"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 1.2M",
+      "team_out": "Bari",
+      "team_in": "Robur Siena"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 1.5M",
+      "team_out": "Bari",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "U.S. Pro Melfi",
+    "Siena FC",
+    "SSC Bari",
+    "Udinese Calcio",
+    "Catania FC",
+    "A.C. Perugia Calcio"
+  ]
+}

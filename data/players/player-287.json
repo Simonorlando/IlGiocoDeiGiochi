@@ -1,0 +1,37 @@
+{
+  "player_id": 287,
+  "full_name": "Dejan Lovren",
+  "nationality": "Croatia",
+  "birth_date": "1989-07-05",
+  "birth_place": "Zenica",
+  "career_transfers": [
+    {
+      "date": "2023-01-02",
+      "type": "€ 2M",
+      "team_out": "Zenit",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 10M",
+      "team_out": "Lyon",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2010-01-13",
+      "type": "€ 9M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Inter Zaprešić",
+    "Olympique Lyonnais",
+    "Southampton F.C.",
+    "Liverpool F.C.",
+    "FC Zenit Saint Petersburg",
+    "Olympique Lyonnais",
+    "PAOK FC"
+  ]
+}

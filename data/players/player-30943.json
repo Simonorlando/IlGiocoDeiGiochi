@@ -1,0 +1,30 @@
+{
+  "player_id": 30943,
+  "full_name": "Ľubomír Tupta",
+  "nationality": "Slovakia",
+  "birth_date": "1998-03-27",
+  "birth_place": "Prešov",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Slovan Liberec"
+    },
+    {
+      "date": "2023-02-02",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Slovan Liberec"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 31134,
+  "full_name": "Bruno Martella",
+  "nationality": "Italy",
+  "birth_date": "1992-08-14",
+  "birth_place": "Atri",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2013-07-08",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Viareggio Calcio",
+    "U.C. Sampdoria",
+    "A.C. Perugia Calcio",
+    "Pisa SC",
+    "Viareggio Calcio",
+    "F.C. Crotone",
+    "Delfino Pescara 1936"
+  ]
+}

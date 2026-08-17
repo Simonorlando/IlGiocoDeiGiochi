@@ -1,0 +1,31 @@
+{
+  "player_id": 641,
+  "full_name": "Oleksandr Zinchenko",
+  "nationality": "Ukraine",
+  "birth_date": "1996-12-15",
+  "birth_place": "Radomyshl",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2016-08-26",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar Donetsk",
+    "FC Ufa",
+    "Manchester City F.C.",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "Arsenal F.C.",
+    "Nottingham Forest F.C.",
+    "AFC Ajax"
+  ]
+}

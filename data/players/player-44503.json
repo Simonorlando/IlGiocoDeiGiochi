@@ -1,0 +1,27 @@
+{
+  "player_id": 44503,
+  "full_name": "Matías Aguirregaray Guruceaga",
+  "nationality": "Uruguay",
+  "birth_date": "1989-04-01",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2012-09-02",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "CFR 1907 Cluj"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Terrassa FC",
+    "Palermo F.C.",
+    "Montevideo Wanderers Fútbol Club",
+    "CFR Cluj",
+    "Montevideo Wanderers Fútbol Club",
+    "CFR Cluj",
+    "Club Atlético Peñarol",
+    "Estudiantes de La Plata",
+    "Club Atlético Peñarol"
+  ]
+}

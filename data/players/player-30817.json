@@ -1,0 +1,40 @@
+{
+  "player_id": 30817,
+  "full_name": "Łukasz Teodorczyk",
+  "nationality": "Poland",
+  "birth_date": "1991-06-03",
+  "birth_place": "Żuromin",
+  "career_transfers": [
+    {
+      "date": "2022-01-04",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Charleroi",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Charleroi"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "€ 7M",
+      "team_out": "Anderlecht",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Polonia Warsaw",
+    "Royal Charleroi S.C.",
+    "Lech Poznań",
+    "FC Dynamo Kyiv",
+    "Udinese Calcio"
+  ]
+}

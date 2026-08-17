@@ -1,0 +1,29 @@
+{
+  "player_id": 12788,
+  "full_name": "Ramires Santos do Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1987-03-24",
+  "birth_place": "Barra do Piraí",
+  "career_transfers": [
+    {
+      "date": "2010-08-05",
+      "type": "€ 22M",
+      "team_out": "Benfica",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2009-08-01",
+      "type": "€ 7.5M",
+      "team_out": "Cruzeiro",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Joinville Esporte Clube",
+    "Cruzeiro E.C.",
+    "S.L. Benfica",
+    "Chelsea F.C.",
+    "Jiangsu F.C.",
+    "Sociedade Esportiva Palmeiras"
+  ]
+}

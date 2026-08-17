@@ -1,0 +1,20 @@
+{
+  "player_id": 792,
+  "full_name": "Justin Dean Kluivert",
+  "nationality": "Netherlands",
+  "birth_date": "1999-05-05",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "A.S. Roma",
+    "RB Leipzig"
+  ]
+}

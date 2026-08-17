@@ -1,0 +1,35 @@
+{
+  "player_id": 1650,
+  "full_name": "Jesús Joaquín Fernández Sáenz de la Torre",
+  "nationality": "Spain",
+  "birth_date": "1993-11-19",
+  "birth_place": "Cádiz",
+  "career_transfers": [
+    {
+      "date": "2020-07-20",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2020-01-29",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Sevilla",
+      "team_in": "Cadiz"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "Unión Deportiva Almería",
+    "AC Milan",
+    "Genoa CFC",
+    "Sevilla FC",
+    "Cádiz Club de Fútbol"
+  ]
+}

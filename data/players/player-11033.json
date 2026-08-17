@@ -1,0 +1,40 @@
+{
+  "player_id": 11033,
+  "full_name": "Valeri Emilov Bozhinov",
+  "nationality": "Bulgaria",
+  "birth_date": "1986-02-15",
+  "birth_place": "Gorna Oryahovitsa",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2004-01-01",
+      "type": "€ 14M",
+      "team_out": "Lecce",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "Manchester City F.C.",
+    "Parma Calcio 1913",
+    "Sporting CP",
+    "Hellas Verona FC",
+    "US Lecce",
+    "Vicenza Calcio",
+    "PFC Levski Sofia",
+    "Ternana Calcio",
+    "PFC Levski Sofia",
+    "FK Partizan",
+    "Meizhou Hakka F.C.",
+    "FC Lausanne-Sport",
+    "HNK Rijeka",
+    "POFC Botev Vratsa"
+  ]
+}

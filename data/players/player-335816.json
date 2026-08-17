@@ -1,0 +1,29 @@
+{
+  "player_id": 335816,
+  "full_name": "Chukwubuikem Ikwuemesi",
+  "nationality": "Nigeria",
+  "birth_date": "2001-08-05",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2024-07-24",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "OH Leuven"
+    },
+    {
+      "date": "2023-08-18",
+      "type": "€ 1.8M",
+      "team_out": "Celje",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Giant Brillars",
+    "Vorwärts Steyr",
+    "Krško",
+    "Celje",
+    "Salernitana",
+    "OH Leuven"
+  ]
+}

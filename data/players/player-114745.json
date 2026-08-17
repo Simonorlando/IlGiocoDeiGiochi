@@ -1,0 +1,38 @@
+{
+  "player_id": 114745,
+  "full_name": "Mikel Arteta Amatriain",
+  "nationality": "Spain",
+  "birth_date": "1982-03-26",
+  "birth_place": "San Sebastián",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "€ 12M",
+      "team_out": "Pine Hills",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 12M",
+      "team_out": "Cwmbran Town",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 12M",
+      "team_out": "Les Sables-d'Olonne",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Antiguoko",
+    "FC Barcelona",
+    "FC Barcelona Atlètic",
+    "FC Barcelona C",
+    "Paris Saint-Germain FC",
+    "Rangers F.C.",
+    "Real Sociedad",
+    "Everton F.C.",
+    "Arsenal F.C."
+  ]
+}

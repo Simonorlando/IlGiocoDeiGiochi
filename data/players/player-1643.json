@@ -1,0 +1,27 @@
+{
+  "player_id": 1643,
+  "full_name": "Diego Sebastián Laxalt Suárez",
+  "nationality": "Uruguay",
+  "birth_date": "1993-02-07",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2014-08-13",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "Inter Milan",
+    "Bologna F.C. 1909",
+    "Empoli FC",
+    "Genoa CFC",
+    "AC Milan",
+    "Torino FC",
+    "Celtic F.C.",
+    "FC Dinamo Moscow",
+    "Club Atlético Peñarol"
+  ]
+}

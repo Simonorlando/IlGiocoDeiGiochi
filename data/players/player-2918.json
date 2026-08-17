@@ -1,0 +1,40 @@
+{
+  "player_id": 2918,
+  "full_name": "Koen Casteels",
+  "nationality": "Belgium",
+  "birth_date": "1992-06-25",
+  "birth_place": "Bonheiden",
+  "career_transfers": [
+    {
+      "date": "2024-07-21",
+      "type": "Free",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Al-Qadisiyah FC"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Werder Bremen",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2015-01-22",
+      "type": "Loan",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Werder Bremen"
+    },
+    {
+      "date": "2015-01-21",
+      "type": "€ 1.5M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "TSG 1899 Hoffenheim",
+    "VfL Wolfsburg",
+    "SV Werder Bremen",
+    "Al Qadsiah FC"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 386305,
+  "full_name": "Jacobo Ramón Naveros",
+  "nationality": "Spain",
+  "birth_date": "2005-01-06",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2025-07-31",
+      "type": "Transfer",
+      "team_out": "Real Madrid II",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-29",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid",
+    "Como"
+  ]
+}

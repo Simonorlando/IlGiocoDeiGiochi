@@ -1,0 +1,25 @@
+{
+  "player_id": 30733,
+  "full_name": "Adrian Šemper",
+  "nationality": "Croatia",
+  "birth_date": "1998-01-12",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "€ 2.5M",
+      "team_out": "Como",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-07-12",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "AC ChievoVerona"
+  ]
+}

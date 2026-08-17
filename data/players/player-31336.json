@@ -1,0 +1,30 @@
+{
+  "player_id": 31336,
+  "full_name": "Mariano Julio Izco",
+  "nationality": "Argentina",
+  "birth_date": "1983-03-13",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2019-02-22",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2017-07-23",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético San Telmo",
+    "Club Almagro",
+    "Club Atlético Tigre",
+    "Catania FC",
+    "AC ChievoVerona",
+    "AC Cesena",
+    "A.C. Perugia Calcio"
+  ]
+}

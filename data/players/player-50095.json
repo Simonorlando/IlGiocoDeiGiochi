@@ -1,0 +1,49 @@
+{
+  "player_id": 50095,
+  "full_name": "Andrei Gabriel Torje",
+  "nationality": "Romania",
+  "birth_date": "1989-11-22",
+  "birth_place": "Timișoara",
+  "career_transfers": [
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2011-08-30",
+      "type": "€ 5M",
+      "team_out": "Dinamo Bucuresti",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "CSF CFR 1933 Timișoara",
+    "FC Politehnica Timișoara",
+    "ACS Poli Timișoara",
+    "FC Dinamo Bucharest",
+    "Udinese Calcio",
+    "Granada CF",
+    "RCD Espanyol de Barcelona",
+    "Konyaspor",
+    "Ankaraspor",
+    "FC Akhmat Grozny",
+    "Kardemir Karabükspor",
+    "FC Dinamo Bucharest",
+    "Sivasspor",
+    "Athlitiki Enosi Larissa F.C.",
+    "Bandırmaspor",
+    "FC Dinamo Bucharest",
+    "FC Viitorul Constanța",
+    "Gençlerbirliği S.K.",
+    "CS Concordia Chiajna",
+    "AFC Câmpulung Muscel"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 136014,
+  "full_name": "Gian Marco Crespi",
+  "nationality": "Italy",
+  "birth_date": "2001-06-28",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2024-01-18",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Free Transfer",
+      "team_out": "Spezia",
+      "team_in": "Kallithea"
+    },
+    {
+      "date": "2025-01-02",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Caldiero Terme"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Caldiero Terme",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-08-24",
+      "type": "Free agent",
+      "team_out": "Spezia",
+      "team_in": "Kallithea"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio"
+  ]
+}

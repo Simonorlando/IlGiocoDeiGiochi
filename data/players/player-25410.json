@@ -1,0 +1,45 @@
+{
+  "player_id": 25410,
+  "full_name": "Josuha Jérémy Akoi Fara Guilavogui",
+  "nationality": "France",
+  "birth_date": "1990-09-19",
+  "birth_place": "Toulon",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 3M",
+      "team_out": "Atletico Madrid",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2014-08-08",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "€ 12M",
+      "team_out": "Saint Etienne",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Atlético Madrid",
+    "AS Saint-Étienne",
+    "VfL Wolfsburg"
+  ]
+}

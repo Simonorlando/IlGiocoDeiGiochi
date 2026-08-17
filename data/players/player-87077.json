@@ -1,0 +1,31 @@
+{
+  "player_id": 87077,
+  "full_name": "Patrice Evra",
+  "nationality": "France",
+  "birth_date": "1981-05-15",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2000-07-01",
+      "type": "600K €",
+      "team_out": "Monza",
+      "team_in": "Nice"
+    },
+    {
+      "date": "1999-08-01",
+      "type": "250K €",
+      "team_out": "Marsala",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Marsala Football Club",
+    "AC Monza",
+    "OGC Nice",
+    "AS Monaco FC",
+    "Manchester United F.C.",
+    "Juventus FC",
+    "Olympique de Marseille",
+    "West Ham United F.C."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 91378,
+  "full_name": "Davide Astori",
+  "nationality": "Italy",
+  "birth_date": "1987-01-07",
+  "birth_place": "San Giovanni Bianco",
+  "career_transfers": [
+    {
+      "date": "2014-07-24",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "U.S. Pergolettese 1932",
+    "A.S. Pizzighettone",
+    "US Cremonese",
+    "Cagliari Calcio",
+    "AS Roma",
+    "ACF Fiorentina"
+  ]
+}

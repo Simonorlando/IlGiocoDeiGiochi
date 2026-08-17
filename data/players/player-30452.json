@@ -1,0 +1,29 @@
+{
+  "player_id": 30452,
+  "full_name": "Édgar Osvaldo Barreto Cáceres",
+  "nationality": "Paraguay",
+  "birth_date": "1984-07-15",
+  "birth_place": "Asunción",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 5.3M",
+      "team_out": "Atalanta",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Cerro Porteño",
+    "N.E.C.",
+    "AS Reggina 1914",
+    "Atalanta BC",
+    "Palermo F.C.",
+    "U.C. Sampdoria"
+  ]
+}

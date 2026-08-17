@@ -1,0 +1,34 @@
+{
+  "player_id": 31220,
+  "full_name": "Simone Colombi",
+  "nationality": "Italy",
+  "birth_date": "1991-07-01",
+  "birth_place": "Seriate",
+  "career_transfers": [
+    {
+      "date": "2022-07-19",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2019-07-11",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "U.S. Pergolettese 1932",
+    "US Alessandria Calcio 1912",
+    "S.S. Juve Stabia",
+    "Modena F.C.",
+    "Calcio Padova",
+    "A.C. Carpi",
+    "Cagliari Calcio",
+    "Palermo F.C.",
+    "A.C. Carpi",
+    "Parma Calcio 1913"
+  ]
+}

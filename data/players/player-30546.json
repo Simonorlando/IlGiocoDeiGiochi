@@ -1,0 +1,46 @@
+{
+  "player_id": 30546,
+  "full_name": "Alessio Cragno",
+  "nationality": "Italy",
+  "birth_date": "1994-06-28",
+  "birth_place": "Fiesole",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-07-15",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 3.6M",
+      "team_out": "Cagliari",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Cagliari Calcio",
+    "Lanciano Calcio 1920",
+    "AC Monza",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 268728,
+  "full_name": "Saba Sazonov",
+  "nationality": "Georgia",
+  "birth_date": "2002-02-01",
+  "birth_place": "Sankt-Peterburg",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Zenit-2 Saint Petersburg",
+    "Zenit Saint Petersburg",
+    "Dynamo Moscow",
+    "Dynamo-2 Moscow",
+    "Torino",
+    "Empoli",
+    "Getafe"
+  ]
+}

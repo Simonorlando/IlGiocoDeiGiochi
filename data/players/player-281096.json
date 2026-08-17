@@ -1,0 +1,37 @@
+{
+  "player_id": 281096,
+  "full_name": "Patrizio Masini",
+  "nationality": "Italy",
+  "birth_date": "2001-01-27",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2023-07-06",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Lecco",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Frosinone Calcio"
+  ]
+}

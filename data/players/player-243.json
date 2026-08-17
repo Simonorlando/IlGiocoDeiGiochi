@@ -1,0 +1,27 @@
+{
+  "player_id": 243,
+  "full_name": "Zakaria Aboukhlal",
+  "nationality": "Morocco",
+  "birth_date": "2000-02-18",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2025-07-29",
+      "type": "Transfer",
+      "team_out": "Toulouse",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2025-07-27",
+      "type": "Transfer",
+      "team_out": "Toulouse",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "AZ Alkmaar",
+    "Toulouse FC",
+    "Torino FC"
+  ]
+}

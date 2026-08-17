@@ -1,0 +1,25 @@
+{
+  "player_id": 105057,
+  "full_name": "Răzvan Dincă Raț",
+  "nationality": "Romania",
+  "birth_date": "1981-05-26",
+  "birth_place": "Piatra-Olt",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "West Ham"
+    }
+  ],
+  "career_clubs": [
+    "FC Rapid București",
+    "FCM Bacău",
+    "FC Shakhtar Donetsk",
+    "West Ham United F.C.",
+    "Rayo Vallecano",
+    "PAOK FC",
+    "Rayo Vallecano",
+    "ACS Poli Timișoara"
+  ]
+}

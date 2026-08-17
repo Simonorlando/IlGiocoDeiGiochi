@@ -1,0 +1,28 @@
+{
+  "player_id": 144735,
+  "full_name": "Jayden Jezairo Braaf",
+  "nationality": "Netherlands",
+  "birth_date": "2002-08-31",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2024-08-11",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Salernitana",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City",
+    "Udinese",
+    "Hellas Verona",
+    "Fortuna Sittard",
+    "Salernitana"
+  ]
+}

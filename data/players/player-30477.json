@@ -1,0 +1,21 @@
+{
+  "player_id": 30477,
+  "full_name": "Godfred Donsah",
+  "nationality": "Ghana",
+  "birth_date": "1996-06-07",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2014-07-15",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Hellas Verona FC",
+    "Cagliari Calcio",
+    "Bologna F.C. 1909"
+  ]
+}

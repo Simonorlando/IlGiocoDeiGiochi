@@ -1,0 +1,20 @@
+{
+  "player_id": 61808,
+  "full_name": "Yıldırım Mert Çetin",
+  "nationality": "Türkiye",
+  "birth_date": "1997-01-01",
+  "birth_place": "Ankara",
+  "career_transfers": [
+    {
+      "date": "2022-08-06",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Hacettepe S.K.",
+    "Gençlerbirliği S.K.",
+    "AS Roma"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "player_id": 47488,
+  "full_name": "Sergio Gontán Gallardo",
+  "nationality": "Spain",
+  "birth_date": "1991-12-27",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2014-08-28",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Albacete"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Grosseto",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2012-01-07",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2011-07-25",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Atletico Madrid",
+    "Catania",
+    "Grosseto",
+    "Catania",
+    "Albacete"
+  ]
+}

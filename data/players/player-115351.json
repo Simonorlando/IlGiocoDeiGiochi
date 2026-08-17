@@ -1,0 +1,35 @@
+{
+  "player_id": 115351,
+  "full_name": "Abderrazzak Jadid",
+  "nationality": "Morocco",
+  "birth_date": "1983-06-01",
+  "birth_place": "Beni Amir",
+  "career_transfers": [
+    {
+      "date": "2012-08-03",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Grosseto"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "A.C. Lumezzane",
+    "Delfino Pescara 1936",
+    "Pisa SC",
+    "SSC Bari",
+    "U.S. Salernitana 1919",
+    "Parma Calcio 1913",
+    "K.A.S. Eupen",
+    "U.S. Grosseto 1912",
+    "Vicenza Calcio",
+    "US Cremonese",
+    "Virtus Entella"
+  ]
+}

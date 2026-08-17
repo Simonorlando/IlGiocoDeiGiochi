@@ -1,0 +1,33 @@
+{
+  "player_id": 47406,
+  "full_name": "Ezequiel Matías Muñoz",
+  "nationality": "Argentina",
+  "birth_date": "1990-10-08",
+  "birth_place": "Pergamino",
+  "career_transfers": [
+    {
+      "date": "2015-07-19",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 5M",
+      "team_out": "Boca Juniors",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Palermo F.C.",
+    "U.C. Sampdoria",
+    "Genoa CFC"
+  ]
+}

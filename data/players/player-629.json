@@ -1,0 +1,23 @@
+{
+  "player_id": 629,
+  "full_name": "Kevin De Bruyne",
+  "nationality": "Belgium",
+  "birth_date": "1991-06-28",
+  "birth_place": "Drongen",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "SV Werder Bremen",
+    "Chelsea F.C.",
+    "VfL Wolfsburg",
+    "Manchester City F.C.",
+    "SSC Napoli"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 31173,
+  "full_name": "Davide Frattesi",
+  "nationality": "Italy",
+  "birth_date": "1999-09-22",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2020-09-16",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "Ascoli Calcio 1898 FC",
+    "Empoli FC",
+    "AC Monza",
+    "Inter Milan",
+    "SS Lazio"
+  ]
+}

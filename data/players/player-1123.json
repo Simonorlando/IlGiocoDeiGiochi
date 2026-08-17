@@ -1,0 +1,26 @@
+{
+  "player_id": 1123,
+  "full_name": "Scott Brown",
+  "nationality": "Scotland",
+  "birth_date": "1985-06-25",
+  "birth_place": "Dunfermline",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Swap",
+      "team_out": "Celtic",
+      "team_in": "Aberdeen"
+    },
+    {
+      "date": "2007-07-17",
+      "type": "€ 6.6M",
+      "team_out": "Hibernian",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Hibernian F.C.",
+    "Celtic F.C.",
+    "Aberdeen F.C."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 22229,
+  "full_name": "Nanitamo Jonathan Ikoné",
+  "nationality": "France",
+  "birth_date": "1998-05-02",
+  "birth_place": "Bondy",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Como",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Lille OSC",
+    "ACF Fiorentina",
+    "Como 1907",
+    "Paris FC"
+  ]
+}

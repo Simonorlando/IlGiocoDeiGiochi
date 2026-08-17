@@ -1,0 +1,32 @@
+{
+  "player_id": 80369,
+  "full_name": "Artur Guilherme Moraes Gusmão",
+  "nationality": "Brazil",
+  "birth_date": "1981-01-25",
+  "birth_place": "Leme",
+  "career_transfers": [
+    {
+      "date": "2015-07-11",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "Ankaraspor"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "SC Braga",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Paulista Futebol Clube",
+    "Cruzeiro E.C.",
+    "Coritiba F.C.",
+    "AC Cesena",
+    "Siena FC",
+    "AS Roma",
+    "S.C. Braga",
+    "S.L. Benfica",
+    "Ankaraspor"
+  ]
+}

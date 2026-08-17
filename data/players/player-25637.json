@@ -1,0 +1,38 @@
+{
+  "player_id": 25637,
+  "full_name": "Christoph Kramer",
+  "nationality": "Germany",
+  "birth_date": "1991-02-19",
+  "birth_place": "Solingen",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 15M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Monchengladbach"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Borussia Monchengladbach",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Monchengladbach"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Vfl Bochum"
+    }
+  ],
+  "career_clubs": [
+    "VfL Bochum",
+    "Bayer 04 Leverkusen",
+    "Borussia Mönchengladbach"
+  ]
+}

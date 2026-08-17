@@ -1,0 +1,28 @@
+{
+  "player_id": 989,
+  "full_name": "Kevin Volland",
+  "nationality": "Germany",
+  "birth_date": "1992-07-30",
+  "birth_place": "Marktoberdorf",
+  "career_transfers": [
+    {
+      "date": "2020-09-02",
+      "type": "€ 15M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 17M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "TSG 1899 Hoffenheim",
+    "Bayer 04 Leverkusen",
+    "AS Monaco FC",
+    "1. FC Union Berlin"
+  ]
+}

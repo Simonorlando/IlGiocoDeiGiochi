@@ -1,0 +1,35 @@
+{
+  "player_id": 31328,
+  "full_name": "Kastriot Luan Dermaku",
+  "nationality": "Albania",
+  "birth_date": "1992-01-15",
+  "birth_place": "Scandiano",
+  "career_transfers": [
+    {
+      "date": "2021-08-30",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Pro Melfi",
+    "Empoli FC",
+    "AC Pavia 1911",
+    "Lucchese 1905",
+    "Cosenza Calcio",
+    "Brescia Calcio"
+  ]
+}

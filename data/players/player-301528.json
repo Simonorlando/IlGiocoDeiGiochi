@@ -1,0 +1,31 @@
+{
+  "player_id": 301528,
+  "full_name": "Andreas Rædergård Schjelderup",
+  "nationality": "Norway",
+  "birth_date": "2004-06-01",
+  "birth_place": "Bodø",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "FC Nordsjaelland"
+    },
+    {
+      "date": "2023-01-12",
+      "type": "€ 9M",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland",
+    "FK Bodø/Glimt"
+  ]
+}

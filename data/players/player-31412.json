@@ -1,0 +1,41 @@
+{
+  "player_id": 31412,
+  "full_name": "Siniša Anđelković",
+  "nationality": "Slovenia",
+  "birth_date": "1986-02-13",
+  "birth_place": "Kranj",
+  "career_transfers": [
+    {
+      "date": "2017-07-28",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Modena",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2011-08-15",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "€ 1.2M",
+      "team_out": "Maribor",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "NK Triglav Kranj",
+    "NK Drava Ptuj",
+    "NK Maribor",
+    "Palermo F.C.",
+    "Ascoli Calcio 1898 FC",
+    "Modena F.C."
+  ]
+}

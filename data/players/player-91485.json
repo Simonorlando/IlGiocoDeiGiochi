@@ -1,0 +1,24 @@
+{
+  "player_id": 91485,
+  "full_name": "Alessandro Frara",
+  "nationality": "Italy",
+  "birth_date": "1982-11-07",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2011-08-26",
+      "type": "N/A",
+      "team_out": "Varese",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Juventus FC",
+    "Ternana Calcio",
+    "Spezia Calcio",
+    "Rimini FC",
+    "Varese Calcio",
+    "Frosinone Calcio"
+  ]
+}

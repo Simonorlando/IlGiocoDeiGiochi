@@ -1,0 +1,30 @@
+{
+  "player_id": 2763,
+  "full_name": "Mario Pasalic",
+  "nationality": "Croatia",
+  "birth_date": "1995-02-09",
+  "birth_place": "Mainz",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 15M",
+      "team_out": "Chelsea",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "Chelsea F.C.",
+    "Elche CF",
+    "AS Monaco FC",
+    "AC Milan",
+    "Spartak Moscow",
+    "Atalanta BC"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "player_id": 115377,
+  "full_name": "Massimiliano Benassi",
+  "nationality": "Italy",
+  "birth_date": "1981-11-11",
+  "birth_place": "Latri",
+  "career_transfers": [
+    {
+      "date": "2017-07-07",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Casertana"
+    },
+    {
+      "date": "2016-07-09",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Arezzo",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2014-09-06",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Juve Stabia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2014-01-08",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2013-08-13",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Perugia",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Siena FC",
+    "Sangimignanosport",
+    "U.S. Poggibonsi",
+    "A.C. Sansovino",
+    "S.S. Juve Stabia",
+    "US Sassuolo Calcio",
+    "A.C. Perugia Calcio",
+    "US Lecce",
+    "AS Reggina 1914",
+    "S.S. Juve Stabia",
+    "S.S. Arezzo"
+  ]
+}

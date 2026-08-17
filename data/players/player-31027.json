@@ -1,0 +1,45 @@
+{
+  "player_id": 31027,
+  "full_name": "Mattia Sprocati",
+  "nationality": "Italy",
+  "birth_date": "1993-04-28",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2022-07-04",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Sudtirol"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-13",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": null,
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Pavia",
+    "Parma",
+    "Reggiana",
+    "Perugia",
+    "Crotone",
+    "Pro Vercelli",
+    "Salernitana",
+    "Lazio",
+    "Parma",
+    "Südtirol"
+  ]
+}

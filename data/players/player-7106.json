@@ -1,0 +1,54 @@
+{
+  "player_id": 7106,
+  "full_name": "Kelvin Kwarteng Yeboah",
+  "nationality": "Italy",
+  "birth_date": "2000-05-06",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2024-07-27",
+      "type": "€ 3M",
+      "team_out": "Genoa",
+      "team_in": "Minnesota United FC"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Standard Liege",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Montpellier"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "FC Augsburg",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2023-01-18",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2022-01-08",
+      "type": "€ 6.5M",
+      "team_out": "Sturm Graz",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "WSG Tirol"
+  ]
+}

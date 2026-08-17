@@ -1,0 +1,21 @@
+{
+  "player_id": 1087,
+  "full_name": "Andreas Ulmer",
+  "nationality": "Austria",
+  "birth_date": "1985-10-30",
+  "birth_place": "Linz",
+  "career_transfers": [
+    {
+      "date": "2009-01-28",
+      "type": "€ 600K",
+      "team_out": "Ried",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FK Austria Wien",
+    "SV Ried",
+    "FC Red Bull Salzburg",
+    "LASK Linz"
+  ]
+}

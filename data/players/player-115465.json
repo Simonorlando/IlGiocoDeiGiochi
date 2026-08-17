@@ -1,0 +1,30 @@
+{
+  "player_id": 115465,
+  "full_name": "Emanuele Belardi",
+  "nationality": "Italy",
+  "birth_date": "1977-10-09",
+  "birth_place": "Eboli",
+  "career_transfers": [
+    {
+      "date": "2012-07-10",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "SS Turris Calcio",
+    "SSC Napoli",
+    "Unione Sportiva Catanzaro",
+    "Modena F.C.",
+    "Juventus FC",
+    "Udinese Calcio",
+    "AC Cesena",
+    "AS Reggina 1914",
+    "U.S. Grosseto 1912",
+    "Delfino Pescara 1936",
+    "FC Pune City",
+    "AS Reggina 1914"
+  ]
+}

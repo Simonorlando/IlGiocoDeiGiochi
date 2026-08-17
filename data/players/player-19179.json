@@ -1,0 +1,34 @@
+{
+  "player_id": 19179,
+  "full_name": "Tyrone Deon Mings",
+  "nationality": "England",
+  "birth_date": "1993-03-13",
+  "birth_place": "Bath",
+  "career_transfers": [
+    {
+      "date": "2019-07-08",
+      "type": "€ 22.3M",
+      "team_out": "Bournemouth",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Aston Villa",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Bournemouth",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Yate Town F.C.",
+    "Chippenham Town F.C.",
+    "Ipswich Town F.C.",
+    "AFC Bournemouth",
+    "Aston Villa F.C."
+  ]
+}

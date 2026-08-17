@@ -1,0 +1,40 @@
+{
+  "player_id": 37938,
+  "full_name": "Sheraldo Rudi Becker",
+  "nationality": "Suriname",
+  "birth_date": "1995-02-09",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2024-01-18",
+      "type": "€ 3M",
+      "team_out": "Union Berlin",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Real Sociedad",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Free agent",
+      "team_out": "Real Sociedad",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "Real Sociedad",
+      "team_in": "Osasuna"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "PEC Zwolle",
+    "ADO Den Haag",
+    "1. FC Union Berlin"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "player_id": 1648,
+  "full_name": "Fabio Borini",
+  "nationality": "Italy",
+  "birth_date": "1991-03-29",
+  "birth_place": "Bentivoglio",
+  "career_transfers": [
+    {
+      "date": "2012-01-24",
+      "type": "€ 4.6M",
+      "team_out": "Parma",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Swansea City A.F.C.",
+    "AS Roma",
+    "Parma Calcio 1913",
+    "Liverpool F.C.",
+    "AS Roma",
+    "Sunderland A.F.C.",
+    "AC Milan",
+    "Hellas Verona FC",
+    "Fatih Karagümrük S.K.",
+    "U.C. Sampdoria"
+  ]
+}

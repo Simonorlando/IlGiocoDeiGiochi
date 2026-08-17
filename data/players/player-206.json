@@ -1,0 +1,57 @@
+{
+  "player_id": 206,
+  "full_name": "João Mário Naval da Costa Eduardo",
+  "nationality": "Portugal",
+  "birth_date": "1993-01-19",
+  "birth_place": "Porto",
+  "career_transfers": [
+    {
+      "date": "2021-07-13",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2020-10-06",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2019-08-27",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Lokomotiv"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "West Ham",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2018-01-26",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2016-08-28",
+      "type": "€ 40M",
+      "team_out": "Sporting CP",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Sporting CP B",
+    "Vitória F.C.",
+    "Inter Milan",
+    "West Ham United F.C.",
+    "FC Lokomotiv Moscow",
+    "Sporting CP",
+    "S.L. Benfica",
+    "Beşiktaş J.K. (Football)",
+    "AEK Athens F.C."
+  ]
+}

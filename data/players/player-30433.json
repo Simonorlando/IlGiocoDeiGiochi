@@ -1,0 +1,23 @@
+{
+  "player_id": 30433,
+  "full_name": "Alejandro Darío Gómez Villaverde",
+  "nationality": "Argentina",
+  "birth_date": "1988-02-15",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2025-07-10",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal Fútbol Club",
+    "San Lorenzo de Almagro",
+    "Catania FC",
+    "FC Metalist Kharkiv",
+    "Atalanta BC",
+    "Sevilla FC"
+  ]
+}

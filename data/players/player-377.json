@@ -1,0 +1,28 @@
+{
+  "player_id": 377,
+  "full_name": "Victorio Maximiliano Pereira Páez",
+  "nationality": "Uruguay",
+  "birth_date": "1984-06-08",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Penarol"
+    },
+    {
+      "date": "2015-07-15",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "S.L. Benfica",
+    "FC Porto",
+    "Club Atlético Peñarol",
+    "Club Atlético River Plate"
+  ]
+}

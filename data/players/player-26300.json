@@ -1,0 +1,24 @@
+{
+  "player_id": 26300,
+  "full_name": "Ozan Muhammed Kabak",
+  "nationality": "Türkiye",
+  "birth_date": "2000-03-25",
+  "birth_place": "Ankara",
+  "career_transfers": [
+    {
+      "date": "2019-01-17",
+      "type": "€ 11M",
+      "team_out": "Galatasaray",
+      "team_in": "VfB Stuttgart"
+    }
+  ],
+  "career_clubs": [
+    "Galatasaray S.K.",
+    "VfB Stuttgart",
+    "Schalke 04",
+    "Liverpool F.C.",
+    "Norwich City F.C.",
+    "Norwich City F.C. Under-23s",
+    "TSG 1899 Hoffenheim"
+  ]
+}

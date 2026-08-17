@@ -1,0 +1,27 @@
+{
+  "player_id": 39073,
+  "full_name": "Jens Petter Hauge",
+  "nationality": "Norway",
+  "birth_date": "1999-10-12",
+  "birth_place": "Bodø",
+  "career_transfers": [
+    {
+      "date": "2021-08-10",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2020-10-01",
+      "type": "€ 4M",
+      "team_out": "Bodo/Glimt",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "FK Bodø/Glimt",
+    "Aalesunds FK",
+    "AC Milan",
+    "FK Bodø/Glimt"
+  ]
+}

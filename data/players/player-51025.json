@@ -1,0 +1,22 @@
+{
+  "player_id": 51025,
+  "full_name": "Danilo Aparecido da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1986-11-24",
+  "birth_place": "Campinas",
+  "career_transfers": [
+    {
+      "date": "2010-03-01",
+      "type": "€ 4M",
+      "team_out": "Internacional",
+      "team_in": "Dynamo Kyiv"
+    }
+  ],
+  "career_clubs": [
+    "Red Bull New York",
+    "Guarani Futebol Clube",
+    "São Paulo FC",
+    "S.C. Internacional",
+    "FC Dynamo Kyiv"
+  ]
+}

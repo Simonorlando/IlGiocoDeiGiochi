@@ -1,0 +1,34 @@
+{
+  "player_id": 2475,
+  "full_name": "Roberto Maximiliano Pereyra",
+  "nationality": "Argentina",
+  "birth_date": "1991-01-07",
+  "birth_place": "San Miguel de Tucumán",
+  "career_transfers": [
+    {
+      "date": "2016-08-20",
+      "type": "€ 13M",
+      "team_out": "Juventus",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 14M",
+      "team_out": "Udinese",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2014-07-23",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Udinese Calcio",
+    "Juventus FC",
+    "Inter Milan",
+    "Watford F.C."
+  ]
+}

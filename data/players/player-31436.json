@@ -1,0 +1,28 @@
+{
+  "player_id": 31436,
+  "full_name": "Federico Bonazzoli",
+  "nationality": "Italy",
+  "birth_date": "1997-05-21",
+  "birth_place": "Manerbio",
+  "career_transfers": [
+    {
+      "date": "2024-08-06",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Cremonese",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "U.C. Sampdoria",
+    "Lanciano Calcio 1920",
+    "Calcio Padova",
+    "Brescia Calcio"
+  ]
+}

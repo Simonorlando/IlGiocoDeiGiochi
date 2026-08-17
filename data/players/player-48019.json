@@ -1,0 +1,34 @@
+{
+  "player_id": 48019,
+  "full_name": "Mervan Çelik",
+  "nationality": "Sweden",
+  "birth_date": "1990-05-26",
+  "birth_place": "Göteborg",
+  "career_transfers": [
+    {
+      "date": "2013-07-02",
+      "type": "€ 500K",
+      "team_out": "Pescara",
+      "team_in": "Genclerbirligi"
+    },
+    {
+      "date": "2012-07-24",
+      "type": "€ 900K",
+      "team_out": "Gais",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "GAIS",
+    "Rangers F.C.",
+    "GAIS",
+    "Delfino Pescara 1936",
+    "Gençlerbirliği S.K.",
+    "Akhisar Belediyespor",
+    "BK Häcken",
+    "Fatih Karagümrük S.K.",
+    "GAIS",
+    "Amed S.F.K.",
+    "GAIS"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 27710,
+  "full_name": "Edgar Anthony Álvarez Reyes",
+  "nationality": "Honduras",
+  "birth_date": "1980-01-18",
+  "birth_place": "Puerto Cortés",
+  "career_transfers": [
+    {
+      "date": "2007-09-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Platense F.C.",
+    "Club Atlético Peñarol",
+    "Cagliari Calcio",
+    "AS Roma",
+    "A.C.R. Messina",
+    "AS Roma",
+    "US Livorno 1915",
+    "Pisa SC",
+    "SSC Bari",
+    "Palermo F.C.",
+    "FC Dinamo Bucharest",
+    "Platense F.C."
+  ]
+}

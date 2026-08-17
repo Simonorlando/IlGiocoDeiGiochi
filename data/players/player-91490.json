@@ -1,0 +1,25 @@
+{
+  "player_id": 91490,
+  "full_name": "Samuele Mulattieri",
+  "nationality": "Italy",
+  "birth_date": "2000-10-07",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2022-07-25",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Spezia",
+    "Inter Milan",
+    "Volendam",
+    "Crotone",
+    "Frosinone",
+    "Sassuolo",
+    "Deportivo La Coruña",
+    "Hellas Verona"
+  ]
+}

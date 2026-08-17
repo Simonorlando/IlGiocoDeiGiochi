@@ -1,0 +1,28 @@
+{
+  "player_id": 114764,
+  "full_name": "Rio Ferdinand",
+  "nationality": "England",
+  "birth_date": "1978-11-07",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2014-07-17",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2002-08-01",
+      "type": "€ 46M",
+      "team_out": "Leeds",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "AFC Bournemouth",
+    "West Ham United F.C.",
+    "Leeds United F.C.",
+    "Manchester United F.C.",
+    "Queens Park Rangers F.C."
+  ]
+}

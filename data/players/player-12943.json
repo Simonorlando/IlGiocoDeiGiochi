@@ -1,0 +1,30 @@
+{
+  "player_id": 12943,
+  "full_name": "Eran Zahavi",
+  "nationality": "Israel",
+  "birth_date": "1987-07-25",
+  "birth_place": "Rishon LeZion",
+  "career_transfers": [
+    {
+      "date": "2013-01-23",
+      "type": "€ 250K",
+      "team_out": "Palermo",
+      "team_in": "Maccabi Tel Aviv"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 1.7M",
+      "team_out": "Hapoel Tel Aviv",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Barcelona",
+    "Ironi Nir Ramat HaSharon F.C.",
+    "Hapoel Hod HaSharon F.C.",
+    "Maccabi Tel Aviv F.C.",
+    "Guangzhou City F.C.",
+    "PSV Eindhoven",
+    "Maccabi Tel Aviv F.C."
+  ]
+}

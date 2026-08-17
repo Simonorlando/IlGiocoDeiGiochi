@@ -1,0 +1,30 @@
+{
+  "player_id": 737,
+  "full_name": "Álvaro Odriozola Arzallus",
+  "nationality": "Spain",
+  "birth_date": "1995-12-14",
+  "birth_place": "San Sebastián",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "€ 3M",
+      "team_out": "Real Madrid",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2018-07-05",
+      "type": "€ 40M",
+      "team_out": "Real Sociedad",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Real Sociedad",
+    "Real Sociedad B",
+    "Real Sociedad",
+    "Real Madrid Club de Fútbol",
+    "FC Bayern Munich",
+    "ACF Fiorentina",
+    "Real Sociedad"
+  ]
+}

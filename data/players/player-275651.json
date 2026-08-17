@@ -1,0 +1,26 @@
+{
+  "player_id": 275651,
+  "full_name": "Ange-Yoan Bonny",
+  "nationality": "France",
+  "birth_date": "2003-10-25",
+  "birth_place": "Aubervilliers",
+  "career_transfers": [
+    {
+      "date": "2021-09-18",
+      "type": "Free",
+      "team_out": "Chateauroux",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-07-05",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Châteauroux",
+    "Parma",
+    "Inter Milan"
+  ]
+}

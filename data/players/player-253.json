@@ -1,0 +1,24 @@
+{
+  "player_id": 253,
+  "full_name": "Alphonse Francis Areola",
+  "nationality": "France",
+  "birth_date": "1993-02-27",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2019-09-03",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "R.C. Lens",
+    "SC Bastia",
+    "Villarreal CF",
+    "Real Madrid Club de Fútbol",
+    "Fulham F.C.",
+    "West Ham United F.C."
+  ]
+}

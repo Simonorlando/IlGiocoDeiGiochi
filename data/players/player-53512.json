@@ -1,0 +1,81 @@
+{
+  "player_id": 53512,
+  "full_name": "Luka Đorđević",
+  "nationality": "Montenegro",
+  "birth_date": "1994-07-09",
+  "birth_place": "Budva",
+  "career_transfers": [
+    {
+      "date": "2019-08-12",
+      "type": "€ 2.3M",
+      "team_out": "Zenit",
+      "team_in": "Lokomotiv"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Arsenal Tula",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2017-07-22",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Arsenal Tula"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Ponferradina",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Ponferradina"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2013-08-06",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Twente"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Mogren",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "FK Mogren",
+    "FC Zenit Saint Petersburg",
+    "FC Twente",
+    "Jong FC Twente",
+    "U.C. Sampdoria",
+    "FC Zenit-2",
+    "Sociedad Deportiva Ponferradina",
+    "FC Arsenal Tula",
+    "FC Lokomotiv Moscow",
+    "FC Arsenal Tula",
+    "Vejle Boldklub",
+    "PFC Sochi",
+    "Abha",
+    "Karmiotissa Pano Polemidion",
+    "Sogdiana Jizzakh",
+    "FC BATE Borisov"
+  ]
+}

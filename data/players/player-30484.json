@@ -1,0 +1,24 @@
+{
+  "player_id": 30484,
+  "full_name": "Mattias Olof Svanberg",
+  "nationality": "Sweden",
+  "birth_date": "1999-01-05",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2022-07-16",
+      "type": "€ 9M",
+      "team_out": "Bologna",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2018-07-05",
+      "type": "€ 5M",
+      "team_out": "Malmo FF",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "VfL Wolfsburg"
+  ]
+}

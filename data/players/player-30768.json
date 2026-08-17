@@ -1,0 +1,36 @@
+{
+  "player_id": 30768,
+  "full_name": "Pedro Miguel Almeida Lopes Pereira",
+  "nationality": "Portugal",
+  "birth_date": "1998-01-22",
+  "birth_place": "Vendas Novas",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Alanyaspor",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-08-18",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Alanyaspor"
+    },
+    {
+      "date": "2021-07-23",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-23",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "Gençlerbirliği S.K."
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria"
+  ]
+}

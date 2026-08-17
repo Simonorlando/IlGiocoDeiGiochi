@@ -1,0 +1,26 @@
+{
+  "player_id": 53535,
+  "full_name": "Eldor Azamat Shomurodov",
+  "nationality": "Uzbekistan",
+  "birth_date": "1995-06-29",
+  "birth_place": "Jarkurgan",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "FK Mash'al Mubarek",
+    "F.C. Bunyodkor",
+    "AS Roma"
+  ]
+}

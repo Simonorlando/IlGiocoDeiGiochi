@@ -1,0 +1,21 @@
+{
+  "player_id": 114923,
+  "full_name": "Simon Rolfes",
+  "nationality": "Germany",
+  "birth_date": "1982-01-21",
+  "birth_place": "Ibbenbüren",
+  "career_transfers": [
+    {
+      "date": "2005-07-01",
+      "type": "€ 750K",
+      "team_out": "Alemannia Aachen",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "SV Werder Bremen",
+    "SSV Reutlingen 05",
+    "Alemannia Aachen",
+    "Bayer 04 Leverkusen"
+  ]
+}

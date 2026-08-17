@@ -1,0 +1,32 @@
+{
+  "player_id": 18932,
+  "full_name": "Fraser Gerard Forster",
+  "nationality": "England",
+  "birth_date": "1988-03-17",
+  "birth_place": "Hexham",
+  "career_transfers": [
+    {
+      "date": "2022-06-10",
+      "type": "Free",
+      "team_out": "Southampton",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Free agent",
+      "team_out": "Tottenham",
+      "team_in": "Bournemouth"
+    }
+  ],
+  "career_clubs": [
+    "Newcastle United F.C.",
+    "Stockport County F.C.",
+    "Bristol Rovers F.C.",
+    "Norwich City F.C.",
+    "Celtic F.C.",
+    "Southampton F.C.",
+    "Celtic F.C.",
+    "Tottenham Hotspur F.C.",
+    "AFC Bournemouth"
+  ]
+}

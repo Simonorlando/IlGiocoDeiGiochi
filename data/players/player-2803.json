@@ -1,0 +1,19 @@
+{
+  "player_id": 2803,
+  "full_name": "Nico Elvedi",
+  "nationality": "Switzerland",
+  "birth_date": "1996-09-30",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "FC Zurich",
+      "team_in": "Borussia Mönchengladbach"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "Borussia Mönchengladbach"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 31023,
+  "full_name": "Juraj Kucka",
+  "nationality": "Slovakia",
+  "birth_date": "1987-02-26",
+  "birth_place": "Bojnice",
+  "career_transfers": [
+    {
+      "date": "2021-08-06",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2019-01-15",
+      "type": "€ 4.8M",
+      "team_out": "Trabzonspor",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "ŽP Šport Podbrezová",
+    "MFK Ružomberok",
+    "AC Sparta Prague",
+    "Genoa CFC",
+    "AC Milan",
+    "Trabzonspor",
+    "Parma Calcio 1913",
+    "Watford F.C.",
+    "ŠK Slovan Bratislava"
+  ]
+}

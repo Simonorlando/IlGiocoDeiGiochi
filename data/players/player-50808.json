@@ -1,0 +1,28 @@
+{
+  "player_id": 50808,
+  "full_name": "Gregory van der Wiel",
+  "nationality": "Netherlands",
+  "birth_date": "1988-02-03",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2018-02-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Toronto FC"
+    },
+    {
+      "date": "2017-08-25",
+      "type": "N/A",
+      "team_out": "Fenerbahce",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Paris Saint-Germain FC",
+    "Fenerbahçe Istanbul",
+    "Cagliari Calcio",
+    "Toronto FC"
+  ]
+}

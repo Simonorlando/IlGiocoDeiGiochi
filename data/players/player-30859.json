@@ -1,0 +1,26 @@
+{
+  "player_id": 30859,
+  "full_name": "Mohamed Salim Fares",
+  "nationality": "Algeria",
+  "birth_date": "1996-02-15",
+  "birth_place": "Aubervilliers",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-09-06",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "SPAL",
+    "SS Lazio"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 87211,
+  "full_name": "Maxwell Scherrer Cabelino Andrade",
+  "nationality": "Brazil",
+  "birth_date": "1981-08-27",
+  "birth_place": "Cachoeiro de Itapermirim",
+  "career_transfers": [
+    {
+      "date": "2012-01-12",
+      "type": "3.5M €",
+      "team_out": "Barcelona",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "AFC Ajax",
+    "Empoli FC",
+    "Paris Saint-Germain FC"
+  ]
+}

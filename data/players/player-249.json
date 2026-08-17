@@ -1,0 +1,40 @@
+{
+  "player_id": 249,
+  "full_name": "Donyell Malen",
+  "nationality": "Netherlands",
+  "birth_date": "1999-01-19",
+  "birth_place": "Wieringen",
+  "career_transfers": [
+    {
+      "date": "2026-01-15",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Aston Villa",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Aston Villa",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV Eindhoven",
+    "Borussia Dortmund",
+    "Aston Villa F.C.",
+    "AS Roma"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 452033,
+  "full_name": "Lorenzo Venturino",
+  "nationality": "Italy",
+  "birth_date": "2006-06-22",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-23",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Genoa",
+    "Roma"
+  ]
+}

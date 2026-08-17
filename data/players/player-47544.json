@@ -1,0 +1,34 @@
+{
+  "player_id": 47544,
+  "full_name": "Gilbert Gianelli Imbula Wanga",
+  "nationality": "Congo DR",
+  "birth_date": "1992-09-12",
+  "birth_place": "Vilvoorde",
+  "career_transfers": [
+    {
+      "date": "2020-02-21",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2019-08-31",
+      "type": "Loan",
+      "team_out": "Stoke City",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Guingamp",
+    "Marseille",
+    "Porto",
+    "Stoke City",
+    "Toulouse",
+    "Rayo Vallecano",
+    "Lecce",
+    "Sochi",
+    "Portimonense",
+    "Tuzlaspor",
+    "İstanbulspor"
+  ]
+}

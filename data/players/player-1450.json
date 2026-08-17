@@ -1,0 +1,53 @@
+{
+  "player_id": 1450,
+  "full_name": "Sokratis Papastathopoulos",
+  "nationality": "Greece",
+  "birth_date": "1988-06-09",
+  "birth_place": "Kalamata",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Genoa",
+      "team_in": "Werder Bremen"
+    },
+    {
+      "date": "2011-07-21",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Werder Bremen"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 4M",
+      "team_out": "AC Milan",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2010-07-21",
+      "type": "€ 7M",
+      "team_out": "Genoa",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 3.8M",
+      "team_out": "AEK Athens FC",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "AEK Athens F.C.",
+    "A.E.K.",
+    "Niki Volos F.C.",
+    "Genoa CFC",
+    "AC Milan",
+    "SV Werder Bremen",
+    "Genoa CFC",
+    "SV Werder Bremen",
+    "Borussia Dortmund",
+    "Arsenal F.C.",
+    "Olympiacos F.C.",
+    "Real Betis Balompié"
+  ]
+}

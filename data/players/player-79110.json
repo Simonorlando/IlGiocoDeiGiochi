@@ -1,0 +1,21 @@
+{
+  "player_id": 79110,
+  "full_name": "Thomas Matton",
+  "nationality": "Belgium",
+  "birth_date": "1985-10-24",
+  "birth_place": "Horebeke",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Kortrijk",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Oud-Heverlee Leuven",
+    "S.V. Zulte Waregem",
+    "K.V. Kortrijk",
+    "KAA Gent"
+  ]
+}

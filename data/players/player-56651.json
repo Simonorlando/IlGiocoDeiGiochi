@@ -1,0 +1,27 @@
+{
+  "player_id": 56651,
+  "full_name": "Luigi Giorgi",
+  "nationality": "Italy",
+  "birth_date": "1987-04-19",
+  "birth_place": "Ascoli",
+  "career_transfers": [
+    {
+      "date": "2012-01-16",
+      "type": "Loan",
+      "team_out": "Novara",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Ascoli Calcio 1898 FC",
+    "Foligno Calcio",
+    "Novara Calcio",
+    "Palermo F.C.",
+    "Siena FC",
+    "Atalanta BC",
+    "AC Cesena",
+    "Ascoli Calcio 1898 FC",
+    "Atalanta BC",
+    "Spezia Calcio"
+  ]
+}

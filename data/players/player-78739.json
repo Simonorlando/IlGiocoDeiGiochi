@@ -1,0 +1,29 @@
+{
+  "player_id": 78739,
+  "full_name": "Joan Verdú Fernández",
+  "nationality": "Spain",
+  "birth_date": "1983-05-05",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Deportivo La Coruna"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona C",
+    "FC Barcelona",
+    "Deportivo de A Coruña",
+    "RCD Espanyol de Barcelona",
+    "Real Betis Balompié",
+    "Baniyas SC",
+    "ACF Fiorentina",
+    "Levante UD",
+    "Qingdao F.C.",
+    "CF Montañesa",
+    "CE L'Hospitalet"
+  ]
+}

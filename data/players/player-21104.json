@@ -1,0 +1,54 @@
+{
+  "player_id": 21104,
+  "full_name": "Randal Kolo Muani",
+  "nationality": "France",
+  "birth_date": "1998-12-05",
+  "birth_place": "Bondy",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Back from Loan",
+      "team_out": "Juventus",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2025-01-23",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-07-13",
+      "type": "Return from loan",
+      "team_out": "Juventus",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2026-07-31",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-08-01",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "US Boulogne",
+    "Eintracht Frankfurt",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "Tottenham Hotspur F.C.",
+    "Juventus FC"
+  ]
+}

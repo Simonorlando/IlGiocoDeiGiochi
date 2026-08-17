@@ -1,0 +1,30 @@
+{
+  "player_id": 618,
+  "full_name": "Danilo Luiz da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1991-07-15",
+  "birth_place": "Bicas",
+  "career_transfers": [
+    {
+      "date": "2017-07-23",
+      "type": "€ 30M",
+      "team_out": "Real Madrid",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 31.5M",
+      "team_out": "FC Porto",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "América Futebol Clube",
+    "Santos F.C.",
+    "FC Porto",
+    "Real Madrid Club de Fútbol",
+    "Manchester City F.C.",
+    "Juventus FC",
+    "Clube de Regatas do Flamengo"
+  ]
+}

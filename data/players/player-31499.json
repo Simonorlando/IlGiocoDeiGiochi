@@ -1,0 +1,33 @@
+{
+  "player_id": 31499,
+  "full_name": "Gennaro Borrelli",
+  "nationality": "Italy",
+  "birth_date": "2000-03-10",
+  "birth_place": "Campobasso",
+  "career_transfers": [
+    {
+      "date": "2021-08-11",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "SS Monopoli"
+    },
+    {
+      "date": "2021-01-20",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Cosenza"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Frosinone Calcio",
+    "Brescia Calcio",
+    "Cagliari Calcio"
+  ]
+}

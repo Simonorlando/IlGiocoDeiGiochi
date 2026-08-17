@@ -1,0 +1,31 @@
+{
+  "player_id": 115385,
+  "full_name": "Filippo Inzaghi",
+  "nationality": "Italy",
+  "birth_date": "1973-08-09",
+  "birth_place": "Piacenza",
+  "career_transfers": [
+    {
+      "date": "1996-08-01",
+      "type": "90K €",
+      "team_out": "Parma",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "1995-08-01",
+      "type": "1M €",
+      "team_out": "Piacenza",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Società Calcio Leffe",
+    "Hellas Verona FC",
+    "Parma Calcio 1913",
+    "Atalanta BC",
+    "Juventus FC",
+    "AC Milan",
+    "AS Reggina 1914"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 263812,
+  "full_name": "Luka Romero Bezzana",
+  "nationality": "Argentina",
+  "birth_date": "2004-11-18",
+  "birth_place": "Durango",
+  "career_transfers": [
+    {
+      "date": "2024-07-23",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Alaves"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Almeria",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2024-01-22",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Almeria"
+    },
+    {
+      "date": "2023-07-06",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-01-18",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Cruz Azul"
+    }
+  ],
+  "career_clubs": [
+    "RCD Mallorca",
+    "SS Lazio",
+    "AC Milan",
+    "Unión Deportiva Almería"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 43033,
+  "full_name": "Florinel Teodor Coman",
+  "nationality": "Romania",
+  "birth_date": "1998-04-10",
+  "birth_place": "Brăila",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Cagliari",
+      "team_in": "Al-Gharafa"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Al-Gharafa",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Cagliari",
+      "team_in": "Al-Gharafa"
+    }
+  ],
+  "career_clubs": [
+    "Farul Constanța",
+    "CSA Steaua București",
+    "Al-Gharafa SC",
+    "Cagliari Calcio"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "player_id": 696,
+  "full_name": "Marcos Antônio Silva Santos",
+  "nationality": "Brazil",
+  "birth_date": "2000-06-13",
+  "birth_place": "Poções",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Sao Paulo",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2024-07-23",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "PAOK",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 8M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2026-03-01",
+      "type": "Transfer",
+      "team_out": "Lazio",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2026-02-28",
+      "type": "Return from loan",
+      "team_out": "Sao Paulo",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2026-02-28",
+      "type": "Transfer",
+      "team_out": "Lazio",
+      "team_in": "Sao Paulo"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense"
+  ]
+}

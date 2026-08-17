@@ -1,0 +1,26 @@
+{
+  "player_id": 49854,
+  "full_name": "Gökhan İnler",
+  "nationality": "Switzerland",
+  "birth_date": "1984-06-27",
+  "birth_place": "Olten",
+  "career_transfers": [
+    {
+      "date": "2005-01-01",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "FC Aarau"
+    }
+  ],
+  "career_clubs": [
+    "FC Aarau",
+    "FC Zürich",
+    "Udinese Calcio",
+    "SSC Napoli",
+    "Leicester City F.C.",
+    "Beşiktaş J.K. (Football)",
+    "İstanbul Başakşehir F.K.",
+    "Adana Demirspor",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 35842,
+  "full_name": "Ricardo Gabriel Álvarez",
+  "nationality": "Argentina",
+  "birth_date": "1988-04-12",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2011-07-06",
+      "type": "€ 11.9M",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "Inter Milan",
+    "Sunderland A.F.C.",
+    "U.C. Sampdoria",
+    "FC Porto",
+    "Atlas F.C."
+  ]
+}

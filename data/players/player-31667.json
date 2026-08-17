@@ -1,0 +1,28 @@
+{
+  "player_id": 31667,
+  "full_name": "Djavan Lorenzo Anderson",
+  "nationality": "Suriname",
+  "birth_date": "1995-04-21",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Jong Ajax",
+    "AZ Alkmaar",
+    "SC Cambuur",
+    "SS Lazio"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 48380,
+  "full_name": "Kevin Bua",
+  "nationality": "Switzerland",
+  "birth_date": "1993-08-11",
+  "birth_place": "Genève",
+  "career_transfers": [
+    {
+      "date": "2020-09-19",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Leganes"
+    },
+    {
+      "date": "2016-07-08",
+      "type": "€ 1.5M",
+      "team_out": "FC Zurich",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "Servette FC",
+    "FC Zürich"
+  ]
+}

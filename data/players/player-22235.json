@@ -1,0 +1,28 @@
+{
+  "player_id": 22235,
+  "full_name": "Jonathan Fousseni Bamba",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1996-03-26",
+  "birth_place": "Alfortville",
+  "career_transfers": [
+    {
+      "date": "2023-07-18",
+      "type": "Free",
+      "team_out": "Lille",
+      "team_in": "Celta Vigo"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "Free",
+      "team_out": "Saint Etienne",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Paris FC",
+    "Sint-Truidense V.V.",
+    "Angers SCO",
+    "PFC CSKA Moscow"
+  ]
+}

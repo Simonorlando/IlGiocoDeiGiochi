@@ -1,0 +1,37 @@
+{
+  "player_id": 22000,
+  "full_name": "Thomas Foket",
+  "nationality": "Belgium",
+  "birth_date": "1994-09-25",
+  "birth_place": "Brussel",
+  "career_transfers": [
+    {
+      "date": "2018-08-31",
+      "type": "€ 3.2M",
+      "team_out": "Gent",
+      "team_in": "Reims"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Oostende",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Gent",
+      "team_in": "Oostende"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "VC Groot Dilbeek",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "KV Oostende"
+  ]
+}

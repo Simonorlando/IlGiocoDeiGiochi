@@ -1,0 +1,25 @@
+{
+  "player_id": 90521,
+  "full_name": "Álvaro Arbeloa Coca",
+  "nationality": "Spain",
+  "birth_date": "1983-01-17",
+  "birth_place": "Salamanca",
+  "career_transfers": [
+    {
+      "date": "2009-07-29",
+      "type": "4M €",
+      "team_out": "Liverpool",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Real Zaragoza",
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "Deportivo de A Coruña",
+    "Liverpool F.C.",
+    "Real Madrid Club de Fútbol",
+    "West Ham United F.C."
+  ]
+}

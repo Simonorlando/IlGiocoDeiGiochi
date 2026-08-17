@@ -1,0 +1,38 @@
+{
+  "player_id": 31559,
+  "full_name": "Simone Lo Faso",
+  "nationality": "Italy",
+  "birth_date": "1998-02-18",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2021-02-25",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Pistoiese"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2019-07-25",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "ACF Fiorentina",
+    "Siena FC"
+  ]
+}

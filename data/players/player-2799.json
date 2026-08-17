@@ -1,0 +1,34 @@
+{
+  "player_id": 2799,
+  "full_name": "Albert Guðmundsson",
+  "nationality": "Iceland",
+  "birth_date": "1997-06-15",
+  "birth_place": "Reykjavík",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2024-08-16",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV Eindhoven",
+    "AZ Alkmaar",
+    "Genoa CFC",
+    "ACF Fiorentina"
+  ]
+}

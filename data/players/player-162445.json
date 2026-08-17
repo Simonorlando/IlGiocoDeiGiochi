@@ -1,0 +1,30 @@
+{
+  "player_id": 162445,
+  "full_name": "Filip Stanković",
+  "nationality": "Serbia",
+  "birth_date": "2002-02-25",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-08-12",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": null,
+      "team_out": "Venezia",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

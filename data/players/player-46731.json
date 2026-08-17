@@ -1,0 +1,27 @@
+{
+  "player_id": 46731,
+  "full_name": "Pervis Josué Estupiñán Tenorio",
+  "nationality": "Ecuador",
+  "birth_date": "1998-01-21",
+  "birth_place": "Esmeraldas",
+  "career_transfers": [
+    {
+      "date": "2022-08-16",
+      "type": "€ 17.8M",
+      "team_out": "Villarreal",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "Liga Deportiva Universitaria de Quito",
+    "Granada CF",
+    "Watford F.C.",
+    "Club Recreativo Granada",
+    "Unión Deportiva Almería",
+    "RCD Mallorca",
+    "Club Atlético Osasuna",
+    "Villarreal CF",
+    "Brighton & Hove Albion F.C.",
+    "AC Milan"
+  ]
+}

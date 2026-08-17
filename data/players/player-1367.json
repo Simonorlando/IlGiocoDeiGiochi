@@ -1,0 +1,33 @@
+{
+  "player_id": 1367,
+  "full_name": "Mathieu Valbuena",
+  "nationality": "France",
+  "birth_date": "1984-09-28",
+  "birth_place": "Bruges",
+  "career_transfers": [
+    {
+      "date": "2023-07-23",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Apollon Limassol"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Fenerbahce",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "FC Libourne",
+    "Olympique de Marseille",
+    "FC Dinamo Moscow",
+    "Olympique Lyonnais",
+    "Fenerbahçe Istanbul",
+    "Olympiacos F.C.",
+    "Apollon Limassol FC",
+    "Athens Kallithea F.C.",
+    "Olympiacos B",
+    "St. Lucia F.C."
+  ]
+}

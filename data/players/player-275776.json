@@ -1,0 +1,25 @@
+{
+  "player_id": 275776,
+  "full_name": "Kristjan Asllani",
+  "nationality": "Albania",
+  "birth_date": "2002-03-09",
+  "birth_place": "Elbasan",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 10M",
+      "team_out": "Empoli",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Inter Milan"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 30481,
+  "full_name": "Ádám Nagy",
+  "nationality": "Hungary",
+  "birth_date": "1995-06-17",
+  "birth_place": "Budapest",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "N/A",
+      "team_out": "Bristol City",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Ferencvárosi TC"
+  ]
+}

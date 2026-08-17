@@ -1,0 +1,41 @@
+{
+  "player_id": 310943,
+  "full_name": "Alisson de Almeida Santos",
+  "nationality": "Brazil",
+  "birth_date": "2002-09-27",
+  "birth_place": "Itapetinga",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Napoli",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Vitória",
+    "Náutico",
+    "Figueirense",
+    "União Leiria",
+    "Sporting CP",
+    "Napoli"
+  ]
+}

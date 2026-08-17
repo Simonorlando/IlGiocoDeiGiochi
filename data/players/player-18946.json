@@ -1,0 +1,20 @@
+{
+  "player_id": 18946,
+  "full_name": "Mohamed Amine Elyounoussi",
+  "nationality": "Norway",
+  "birth_date": "1994-08-04",
+  "birth_place": "Al Hoceima",
+  "career_transfers": [
+    {
+      "date": "2023-07-27",
+      "type": "Free",
+      "team_out": "Southampton",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "Sarpsborg 08 FF",
+    "Molde FK",
+    "F.C. Copenhagen"
+  ]
+}

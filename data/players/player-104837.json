@@ -1,0 +1,36 @@
+{
+  "player_id": 104837,
+  "full_name": "Martín Gastón Demichelis",
+  "nationality": "Argentina",
+  "birth_date": "1980-12-20",
+  "birth_place": "Justiniano Posse",
+  "career_transfers": [
+    {
+      "date": "2017-01-17",
+      "type": "Free",
+      "team_out": "Espanyol",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Depor FC"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "3M €",
+      "team_out": "Bayern Munich",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "FC Bayern Munich",
+    "Málaga CF",
+    "Atlético Madrid",
+    "Manchester City F.C.",
+    "RCD Espanyol de Barcelona",
+    "Málaga CF"
+  ]
+}

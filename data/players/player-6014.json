@@ -1,0 +1,37 @@
+{
+  "player_id": 6014,
+  "full_name": "Lucas David Pratto",
+  "nationality": "Argentina",
+  "birth_date": "1988-06-04",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2013-01-10",
+      "type": "€ 1.9M",
+      "team_out": "Genoa",
+      "team_in": "Velez Sarsfield"
+    },
+    {
+      "date": "2012-02-07",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Velez Sarsfield"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 2.8M",
+      "team_out": "U. Catolica",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Club Atlético Tigre",
+    "Lyn 1896 FK",
+    "Club Deportivo Universidad Católica",
+    "Unión de Santa Fe",
+    "Genoa CFC",
+    "Club Atlético Vélez Sarsfield",
+    "Club River Plate Asunción"
+  ]
+}

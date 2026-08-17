@@ -1,0 +1,36 @@
+{
+  "player_id": 115381,
+  "full_name": "Simone Del Nero",
+  "nationality": "Italy",
+  "birth_date": "1981-04-04",
+  "birth_place": "Carrara",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2002-01-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Livingston"
+    }
+  ],
+  "career_clubs": [
+    "Empoli",
+    "Brescia",
+    "Livingston",
+    "Brescia",
+    "Palermo",
+    "Brescia",
+    "Lazio",
+    "Cesena",
+    "Lazio",
+    "Johor Darul Ta'zim",
+    "US Massese 1919",
+    "Carrarese",
+    "US Massese 1919"
+  ]
+}

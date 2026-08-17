@@ -1,0 +1,19 @@
+{
+  "player_id": 311067,
+  "full_name": "Santiago Thomas Castro",
+  "nationality": "Argentina",
+  "birth_date": "2004-09-18",
+  "birth_place": "San Martín",
+  "career_transfers": [
+    {
+      "date": "2026-02-06",
+      "type": "-",
+      "team_out": "Bologna",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "Bologna F.C. 1909"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "player_id": 15908,
+  "full_name": "Mikkel Krogh Damsgaard",
+  "nationality": "Denmark",
+  "birth_date": "2000-07-03",
+  "birth_place": "Jyllinge",
+  "career_transfers": [
+    {
+      "date": "2022-08-10",
+      "type": "€ 15M",
+      "team_out": "Sampdoria",
+      "team_in": "Brentford"
+    }
+  ],
+  "career_clubs": [
+    "FC Nordsjælland",
+    "Brentford F.C."
+  ]
+}

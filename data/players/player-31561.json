@@ -1,0 +1,30 @@
+{
+  "player_id": 31561,
+  "full_name": "Ilija Nestorovski",
+  "nationality": "North Macedonia",
+  "birth_date": "1990-03-12",
+  "birth_place": "Prilep",
+  "career_transfers": [
+    {
+      "date": "2019-07-26",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 500K",
+      "team_out": "Inter Zapresic",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FK Pobeda",
+    "1. FC Slovácko",
+    "FK Viktoria Žižkov",
+    "FK Metalurg Skopje",
+    "NK Inter Zaprešić",
+    "Palermo F.C.",
+    "Udinese Calcio"
+  ]
+}

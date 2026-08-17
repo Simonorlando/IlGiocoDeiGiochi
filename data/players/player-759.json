@@ -1,0 +1,27 @@
+{
+  "player_id": 759,
+  "full_name": "Karim Mostafa Benzema",
+  "nationality": "France",
+  "birth_date": "1987-12-19",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Al-Ittihad FC"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 35M",
+      "team_out": "Lyon",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "Real Madrid Club de Fútbol",
+    "Al Ittihad FC",
+    "Al Hilal SFC"
+  ]
+}

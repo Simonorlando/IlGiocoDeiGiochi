@@ -1,0 +1,34 @@
+{
+  "player_id": 2725,
+  "full_name": "Benjamin Jacques Marcel Pavard",
+  "nationality": "France",
+  "birth_date": "1996-03-28",
+  "birth_place": "Maubeuge",
+  "career_transfers": [
+    {
+      "date": "2023-08-30",
+      "type": "€ 30M",
+      "team_out": "Bayern München",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Marseille",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "VfB Stuttgart",
+    "FC Bayern Munich",
+    "Inter Milan",
+    "Olympique de Marseille"
+  ]
+}

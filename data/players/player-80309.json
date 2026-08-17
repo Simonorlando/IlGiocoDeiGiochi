@@ -1,0 +1,31 @@
+{
+  "player_id": 80309,
+  "full_name": "Rubens Fernando Moedim",
+  "nationality": "Brazil",
+  "birth_date": "1982-08-04",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2017-01-14",
+      "type": "Free",
+      "team_out": "Como",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2016-12-14",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "Vitória F.C.",
+    "Genoa CFC",
+    "Palermo F.C.",
+    "Torino FC",
+    "US Livorno 1915",
+    "Juventus FC",
+    "Hellas Verona FC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 31744,
+  "full_name": "Simone Palombi",
+  "nationality": "Italy",
+  "birth_date": "1996-04-23",
+  "birth_place": "Tivoli",
+  "career_transfers": [
+    {
+      "date": "2018-07-09",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Salernitana 1919",
+    "SS Lazio",
+    "US Lecce"
+  ]
+}

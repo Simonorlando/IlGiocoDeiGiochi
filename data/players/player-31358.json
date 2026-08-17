@@ -1,0 +1,28 @@
+{
+  "player_id": 31358,
+  "full_name": "Maurizio Domizzi",
+  "nationality": "Italy",
+  "birth_date": "1980-06-28",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "1999-07-01",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "US Livorno 1915",
+    "SS Lazio",
+    "AC Milan",
+    "Modena F.C.",
+    "U.C. Sampdoria",
+    "Brescia Calcio",
+    "Modena F.C.",
+    "Ascoli Calcio 1898 FC",
+    "SSC Napoli",
+    "Udinese Calcio",
+    "Venezia F.C."
+  ]
+}

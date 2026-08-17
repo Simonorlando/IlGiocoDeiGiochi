@@ -1,0 +1,21 @@
+{
+  "player_id": 6009,
+  "full_name": "Julián Álvarez",
+  "nationality": "Argentina",
+  "birth_date": "2000-01-31",
+  "birth_place": "Cachín",
+  "career_transfers": [
+    {
+      "date": "2024-08-12",
+      "type": "€ 75M",
+      "team_out": "Manchester City",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Manchester City F.C.",
+    "Club Atlético River Plate",
+    "Atlético Madrid"
+  ]
+}

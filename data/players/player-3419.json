@@ -1,0 +1,30 @@
+{
+  "player_id": 3419,
+  "full_name": "Afriyie Acquah",
+  "nationality": "Ghana",
+  "birth_date": "1992-01-05",
+  "birth_place": "Sunyani",
+  "career_transfers": [
+    {
+      "date": "2013-07-26",
+      "type": "Loan",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-17",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Parma Calcio 1913",
+    "TSG 1899 Hoffenheim",
+    "Parma Calcio 1913",
+    "Torino FC",
+    "U.C. Sampdoria",
+    "Empoli FC"
+  ]
+}

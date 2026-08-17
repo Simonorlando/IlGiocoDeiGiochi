@@ -1,0 +1,24 @@
+{
+  "player_id": 6629,
+  "full_name": "Adolfo Julián Gaich",
+  "nationality": "Argentina",
+  "birth_date": "1999-02-26",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2021-01-29",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro"
+  ]
+}

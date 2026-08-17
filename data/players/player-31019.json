@@ -1,0 +1,50 @@
+{
+  "player_id": 31019,
+  "full_name": "Jacopo Dezi",
+  "nationality": "Italy",
+  "birth_date": "1992-02-10",
+  "birth_place": "Atri",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2019-07-26",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2017-07-23",
+      "type": "€ 2M",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Giulianova Calcio",
+    "SSC Napoli",
+    "A.S.D. Barletta 1922",
+    "F.C. Crotone",
+    "SSC Napoli",
+    "SSC Bari",
+    "Parma Calcio 1913",
+    "A.C. Perugia Calcio",
+    "Empoli FC"
+  ]
+}

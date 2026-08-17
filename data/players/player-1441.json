@@ -1,0 +1,59 @@
+{
+  "player_id": 1441,
+  "full_name": "Carl Daniel Jenkinson",
+  "nationality": "England",
+  "birth_date": "1992-02-08",
+  "birth_place": "Harlow",
+  "career_transfers": [
+    {
+      "date": "2019-08-07",
+      "type": "€ 1.8M",
+      "team_out": "Arsenal",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Birmingham",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2017-08-21",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Birmingham"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "West Ham",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2015-07-14",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2014-07-31",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 1.1M",
+      "team_out": "Charlton",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Charlton Athletic F.C.",
+    "Welling United F.C.",
+    "Eastbourne Borough F.C.",
+    "Arsenal F.C.",
+    "West Ham United F.C.",
+    "Nottingham Forest F.C."
+  ]
+}

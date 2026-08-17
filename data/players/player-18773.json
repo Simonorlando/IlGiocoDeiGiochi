@@ -1,0 +1,31 @@
+{
+  "player_id": 18773,
+  "full_name": "Christian Fuchs",
+  "nationality": "Austria",
+  "birth_date": "1986-04-07",
+  "birth_place": "Neunkirchen",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 3.8M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "1. Wiener Neustädter SC",
+    "SV Mattersburg",
+    "VfL Bochum",
+    "1. FSV Mainz 05",
+    "Schalke 04",
+    "Leicester City F.C.",
+    "Charlotte FC",
+    "Charlotte Independence"
+  ]
+}

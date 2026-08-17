@@ -1,0 +1,27 @@
+{
+  "player_id": 28352,
+  "full_name": "Tomáš Košický",
+  "nationality": "Slovakia",
+  "birth_date": "1986-03-11",
+  "birth_place": "Bratislava",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Free",
+      "team_out": "Inter Bratislava",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "FK Inter Bratislava",
+    "Catania FC",
+    "Novara Calcio",
+    "Asteras Tripoli F.C."
+  ]
+}

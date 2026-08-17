@@ -1,0 +1,44 @@
+{
+  "player_id": 91314,
+  "full_name": "Mattia Cassani",
+  "nationality": "Italy",
+  "birth_date": "1983-08-26",
+  "birth_place": "Borgomanero",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-07-28",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2013-08-08",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "U.C. Sampdoria",
+    "Hellas Verona FC",
+    "Italy under-21 Serie B representative team",
+    "Palermo F.C.",
+    "ACF Fiorentina",
+    "Genoa CFC",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria"
+  ]
+}

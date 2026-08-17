@@ -1,0 +1,28 @@
+{
+  "player_id": 203,
+  "full_name": "Roberto Gagliardini",
+  "nationality": "Italy",
+  "birth_date": "1994-04-07",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2023-07-07",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-09-11",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "AC Cesena",
+    "Spezia Calcio",
+    "Vicenza Calcio",
+    "Inter Milan"
+  ]
+}

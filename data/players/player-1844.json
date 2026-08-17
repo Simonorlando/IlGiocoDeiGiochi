@@ -1,0 +1,20 @@
+{
+  "player_id": 1844,
+  "full_name": "Adam Marušić",
+  "nationality": "Montenegro",
+  "birth_date": "1992-10-17",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Oostende",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FK Voždovac",
+    "K.V. Kortrijk",
+    "SS Lazio"
+  ]
+}

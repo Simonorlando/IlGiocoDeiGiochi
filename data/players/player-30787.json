@@ -1,0 +1,24 @@
+{
+  "player_id": 30787,
+  "full_name": "Nicola Dalmonte",
+  "nationality": "Italy",
+  "birth_date": "1997-09-13",
+  "birth_place": "Ravenna",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Catania",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena"
+  ]
+}

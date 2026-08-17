@@ -1,0 +1,21 @@
+{
+  "player_id": 30622,
+  "full_name": "Alessandro Tuia",
+  "nationality": "Italy",
+  "birth_date": "1990-06-08",
+  "birth_place": "Civitacastellana",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "AC Monza",
+    "Foligno Calcio",
+    "U.S. Salernitana 1919"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 315,
+  "full_name": "Vlad Iulian Chiricheș",
+  "nationality": "Romania",
+  "birth_date": "1989-11-14",
+  "birth_place": "Bacău",
+  "career_transfers": [
+    {
+      "date": "2023-07-25",
+      "type": "Free",
+      "team_out": "Cremonese",
+      "team_in": "FCSB"
+    },
+    {
+      "date": "2022-07-08",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "FC Internațional Curtea de Argeș",
+    "CS Pandurii Târgu Jiu",
+    "FCSB",
+    "Tottenham Hotspur F.C.",
+    "SSC Napoli",
+    "US Sassuolo Calcio",
+    "US Cremonese",
+    "FCSB"
+  ]
+}

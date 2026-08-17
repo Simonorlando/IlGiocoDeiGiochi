@@ -1,0 +1,40 @@
+{
+  "player_id": 298165,
+  "full_name": "Felipe Ignacio Loyola Olea",
+  "nationality": "Chile",
+  "birth_date": "2000-11-09",
+  "birth_place": "Santiago",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pisa",
+      "team_in": "Independiente"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Independiente",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-01-19",
+      "type": "Loan",
+      "team_out": "Independiente",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Independiente",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Colo-Colo",
+    "Fernández Vial",
+    "Huachipato",
+    "Independiente",
+    "Pisa"
+  ]
+}

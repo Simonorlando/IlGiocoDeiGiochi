@@ -1,0 +1,34 @@
+{
+  "player_id": 91364,
+  "full_name": "Riccardo Cazzola",
+  "nationality": "Italy",
+  "birth_date": "1985-08-10",
+  "birth_place": "Verona",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "S.S. Sambenedettese Calcio",
+    "A.C. Perugia Calcio",
+    "F.C.D. Pro Vasto",
+    "S.S. Arezzo",
+    "U.S. Olbia 1905",
+    "U.S. Pergolettese 1932",
+    "S.S. Juve Stabia",
+    "Atalanta BC",
+    "AC Cesena",
+    "US Livorno 1915",
+    "US Alessandria Calcio 1912"
+  ]
+}

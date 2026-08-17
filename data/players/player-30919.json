@@ -1,0 +1,30 @@
+{
+  "player_id": 30919,
+  "full_name": "Matteo Bianchetti",
+  "nationality": "Italy",
+  "birth_date": "1993-03-17",
+  "birth_place": "Como",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2014-01-07",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Hellas Verona FC",
+    "Spezia Calcio",
+    "Empoli FC",
+    "Spezia Calcio",
+    "Como 1907",
+    "Varese Calcio"
+  ]
+}

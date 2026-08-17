@@ -1,0 +1,54 @@
+{
+  "player_id": 48310,
+  "full_name": "Agon Xhevat Mehmeti",
+  "nationality": "Albania",
+  "birth_date": "1989-11-20",
+  "birth_place": "Podujevë",
+  "career_transfers": [
+    {
+      "date": "2014-07-15",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Malmo FF"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Olhanense",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2013-08-07",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Olhanense"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "Free",
+      "team_out": "Malmo FF",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Malmö FF",
+    "Palermo F.C.",
+    "Novara Calcio",
+    "S.C. Olhanense",
+    "Malmö FF",
+    "Stabæk Fotball",
+    "Örebro SK"
+  ]
+}

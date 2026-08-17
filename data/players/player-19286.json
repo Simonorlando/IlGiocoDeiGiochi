@@ -1,0 +1,41 @@
+{
+  "player_id": 19286,
+  "full_name": "Yohan Benalouane",
+  "nationality": "Tunisia",
+  "birth_date": "1987-03-28",
+  "birth_place": "Bagnols-sur-Cèze",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2014-01-03",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-08-20",
+      "type": "Loan",
+      "team_out": "Cesena",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "AC Cesena",
+    "Parma Calcio 1913",
+    "Atalanta BC",
+    "Leicester City F.C.",
+    "ACF Fiorentina"
+  ]
+}

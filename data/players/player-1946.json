@@ -1,0 +1,36 @@
+{
+  "player_id": 1946,
+  "full_name": "Leandro Trossard",
+  "nationality": "Belgium",
+  "birth_date": "1994-12-04",
+  "birth_place": "Waterschei",
+  "career_transfers": [
+    {
+      "date": "2023-01-20",
+      "type": "€ 24M",
+      "team_out": "Brighton",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2026-07-13",
+      "type": "Transfer",
+      "team_out": "Arsenal",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "team_out": "Arsenal",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "Lommel SK",
+    "K.V.C. Westerlo",
+    "Lommel SK",
+    "Oud-Heverlee Leuven",
+    "Brighton & Hove Albion F.C.",
+    "Arsenal F.C."
+  ]
+}

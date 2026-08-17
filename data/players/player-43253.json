@@ -1,0 +1,28 @@
+{
+  "player_id": 43253,
+  "full_name": "Franco Signorelli",
+  "nationality": "Venezuela",
+  "birth_date": "1991-01-01",
+  "birth_place": "Mérida",
+  "career_transfers": [
+    {
+      "date": "2017-07-22",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Ternana Calcio",
+    "Spezia Calcio",
+    "U.S. Salernitana 1919",
+    "FC Voluntari"
+  ]
+}

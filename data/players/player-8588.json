@@ -1,0 +1,23 @@
+{
+  "player_id": 8588,
+  "full_name": "Marko Bakić",
+  "nationality": "Montenegro",
+  "birth_date": "1993-11-01",
+  "birth_place": "Budva",
+  "career_transfers": [
+    {
+      "date": "2014-08-12",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "FK Mogren",
+    "Torino FC",
+    "ACF Fiorentina",
+    "Spezia Calcio",
+    "ACF Fiorentina",
+    "C.F. Os Belenenses"
+  ]
+}

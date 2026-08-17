@@ -1,0 +1,24 @@
+{
+  "player_id": 154799,
+  "full_name": "Luis Thomas Binks",
+  "nationality": "England",
+  "birth_date": "2001-09-02",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2022-07-18",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "CF Montréal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 270509,
+  "full_name": "Andy Alune Diouf",
+  "nationality": "France",
+  "birth_date": "2003-05-17",
+  "birth_place": "Neuilly-sur-Seine",
+  "career_transfers": [
+    {
+      "date": "2025-08-22",
+      "type": "Transfer",
+      "team_out": "Lens",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Rennes",
+    "Basel",
+    "Lens",
+    "Inter Milan"
+  ]
+}

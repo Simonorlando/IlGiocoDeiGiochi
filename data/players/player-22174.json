@@ -1,0 +1,21 @@
+{
+  "player_id": 22174,
+  "full_name": "Adrien Fidele Tamèze Aoutsa",
+  "nationality": "France",
+  "birth_date": "1994-02-04",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2023-07-23",
+      "type": "€ 2.8M",
+      "team_out": "Verona",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Valenciennes F.C.",
+    "OGC Nice",
+    "Atalanta BC",
+    "Hellas Verona FC"
+  ]
+}

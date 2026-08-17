@@ -1,0 +1,37 @@
+{
+  "player_id": 21103,
+  "full_name": "Abdoulaye Touré",
+  "nationality": "France",
+  "birth_date": "1994-03-03",
+  "birth_place": "Nantes",
+  "career_transfers": [
+    {
+      "date": "2023-07-26",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Le Havre"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Fatih Karagümrük",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2022-01-21",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2021-08-30",
+      "type": "€ 1.5M",
+      "team_out": "Nantes",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Vendée Poiré sur Vie Football"
+  ]
+}

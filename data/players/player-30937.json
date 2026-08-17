@@ -1,0 +1,28 @@
+{
+  "player_id": 30937,
+  "full_name": "Mattia Zaccagni",
+  "nationality": "Italy",
+  "birth_date": "1995-06-16",
+  "birth_place": "Cesena",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2014-07-18",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Bellaria Igea Marina",
+    "Hellas Verona FC",
+    "Venezia F.C.",
+    "Associazione Sportiva Cittadella",
+    "SS Lazio"
+  ]
+}

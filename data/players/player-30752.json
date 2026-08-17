@@ -1,0 +1,25 @@
+{
+  "player_id": 30752,
+  "full_name": "Sofian Kiyine",
+  "nationality": "Morocco",
+  "birth_date": "1997-10-02",
+  "birth_place": "Verviers",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2021-08-30",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "AC ChievoVerona"
+  ]
+}

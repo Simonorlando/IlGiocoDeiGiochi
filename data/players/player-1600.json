@@ -1,0 +1,27 @@
+{
+  "player_id": 1600,
+  "full_name": "Konstantinos Tsimikas",
+  "nationality": "Greece",
+  "birth_date": "1996-05-12",
+  "birth_place": "Thessaloníki",
+  "career_transfers": [
+    {
+      "date": "2025-08-30",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C.",
+    "Esbjerg fB",
+    "Liverpool F.C.",
+    "AS Roma"
+  ]
+}

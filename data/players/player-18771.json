@@ -1,0 +1,39 @@
+{
+  "player_id": 18771,
+  "full_name": "Ricardo Domingos Barbosa Pereira",
+  "nationality": "Portugal",
+  "birth_date": "1993-10-06",
+  "birth_place": "Lisbonne",
+  "career_transfers": [
+    {
+      "date": "2018-06-09",
+      "type": "€ 25M",
+      "team_out": "FC Porto",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Nice",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Guimaraes",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Vitória S.C.",
+    "FC Porto",
+    "FC Porto B",
+    "OGC Nice"
+  ]
+}

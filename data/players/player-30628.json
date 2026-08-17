@@ -1,0 +1,27 @@
+{
+  "player_id": 30628,
+  "full_name": "Andrés Felipe Tello Muñoz",
+  "nationality": "Colombia",
+  "birth_date": "1996-09-06",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2024-08-17",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Salernitana",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Envigado Fútbol Club",
+    "Cagliari Calcio",
+    "Juventus FC",
+    "Empoli FC"
+  ]
+}

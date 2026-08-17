@@ -1,0 +1,23 @@
+{
+  "player_id": 18834,
+  "full_name": "Andrii Yarmolenko",
+  "nationality": "Ukraine",
+  "birth_date": "1989-10-23",
+  "birth_place": "Sankt-Peterburg",
+  "career_transfers": [
+    {
+      "date": "2017-08-28",
+      "type": "€ 25M",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Desna Chernihiv",
+    "Dynamo Kyiv",
+    "Borussia Dortmund",
+    "West Ham United",
+    "Al-Ain",
+    "Dynamo Kyiv"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 30448,
+  "full_name": "Jacopo Sala",
+  "nationality": "Italy",
+  "birth_date": "1991-12-05",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2020-09-05",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2024-01-22",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Rimini"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Hamburger SV",
+    "Hellas Verona FC",
+    "U.C. Sampdoria",
+    "Atalanta BC"
+  ]
+}

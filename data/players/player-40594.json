@@ -1,0 +1,19 @@
+{
+  "player_id": 40594,
+  "full_name": "Adam Buksa",
+  "nationality": "Poland",
+  "birth_date": "1996-07-12",
+  "birth_place": "Kraków",
+  "career_transfers": [
+    {
+      "date": "2025-08-26",
+      "type": "Transfer",
+      "team_out": "FC Midtjylland",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "KS Lechia Gdańsk",
+    "Novara Calcio"
+  ]
+}

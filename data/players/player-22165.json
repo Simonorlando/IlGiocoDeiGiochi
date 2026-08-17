@@ -1,0 +1,29 @@
+{
+  "player_id": 22165,
+  "full_name": "Christophe Jallet",
+  "nationality": "France",
+  "birth_date": "1983-10-31",
+  "birth_place": "Cognac",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "€ 1.5M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2009-07-06",
+      "type": "€ 2.5M",
+      "team_out": "Lorient",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Chamois Niortais F.C.",
+    "F.C. Lorient",
+    "Paris Saint-Germain FC",
+    "Olympique Lyonnais",
+    "OGC Nice",
+    "Amiens SC"
+  ]
+}

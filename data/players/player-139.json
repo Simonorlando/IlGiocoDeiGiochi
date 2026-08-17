@@ -1,0 +1,21 @@
+{
+  "player_id": 139,
+  "full_name": "Samuel Yves Umtiti",
+  "nationality": "France",
+  "birth_date": "1993-11-14",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2022-08-25",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "FC Barcelona",
+    "US Lecce",
+    "Lille OSC"
+  ]
+}

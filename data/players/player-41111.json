@@ -1,0 +1,26 @@
+{
+  "player_id": 41111,
+  "full_name": "João Paulo Dias Fernandes",
+  "nationality": "Portugal",
+  "birth_date": "1992-11-09",
+  "birth_place": "Barcelos",
+  "career_transfers": [
+    {
+      "date": "2024-06-27",
+      "type": "N/A",
+      "team_out": "Sporting CP",
+      "team_in": "Toluca"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "SC Braga",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Santa Maria F.C.",
+    "C.D. Trofense",
+    "Gil Vicente F.C."
+  ]
+}

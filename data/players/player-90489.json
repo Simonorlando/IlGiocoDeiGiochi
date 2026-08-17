@@ -1,0 +1,20 @@
+{
+  "player_id": 90489,
+  "full_name": "Per Mertesacker",
+  "nationality": "Germany",
+  "birth_date": "1984-09-29",
+  "birth_place": "Hannover",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "€ 11.3M",
+      "team_out": "Werder Bremen",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Hannover 96",
+    "SV Werder Bremen",
+    "Arsenal F.C."
+  ]
+}

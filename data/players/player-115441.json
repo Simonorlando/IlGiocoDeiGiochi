@@ -1,0 +1,27 @@
+{
+  "player_id": 115441,
+  "full_name": "Fabiano Medina Da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1982-01-18",
+  "birth_place": "Ribeirão Preto",
+  "career_transfers": [
+    {
+      "date": "2007-09-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "E.C. Vitória",
+    "Atalanta BC",
+    "F.C. AlzanoCene 1909",
+    "Spezia Calcio",
+    "Lucchese 1905",
+    "AC Monza",
+    "US Lecce",
+    "Shandong Taishan F.C.",
+    "A.S. Martina Franca 1947",
+    "Calcio Padova"
+  ]
+}

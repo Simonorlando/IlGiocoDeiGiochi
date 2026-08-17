@@ -1,0 +1,23 @@
+{
+  "player_id": 315026,
+  "full_name": "Yayah Kallon",
+  "nationality": "Sierra Leone",
+  "birth_date": "2001-06-30",
+  "birth_place": "Koidu-Sefadu",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Savona",
+    "Genoa",
+    "Hellas Verona",
+    "Bari",
+    "Salernitana",
+    "Casertana"
+  ]
+}

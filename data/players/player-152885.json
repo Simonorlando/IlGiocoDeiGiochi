@@ -1,0 +1,42 @@
+{
+  "player_id": 152885,
+  "full_name": "Georgi Tunjov",
+  "nationality": "Estonia",
+  "birth_date": "2001-04-17",
+  "birth_place": "Narva",
+  "career_transfers": [
+    {
+      "date": "2023-07-16",
+      "type": "Free",
+      "team_out": "Spal",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Pineto",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-01-27",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Pineto"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Ospitaletto"
+    },
+    {
+      "date": "2025-10-06",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Ospitaletto"
+    }
+  ],
+  "career_clubs": [
+    "SPAL"
+  ]
+}

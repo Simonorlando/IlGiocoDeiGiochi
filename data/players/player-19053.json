@@ -1,0 +1,90 @@
+{
+  "player_id": 19053,
+  "full_name": "Abdelhamid Sabiri",
+  "nationality": "Morocco",
+  "birth_date": "1996-11-28",
+  "birth_place": "Goulmima",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Al-Fayha",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2023-09-07",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "€ 2.5M",
+      "team_out": "Sampdoria",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Back from Loan",
+      "team_out": "Ajman",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Al Taawon"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Al Taawon",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2024-09-30",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Ajman"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Fiorentina",
+      "team_in": "Sabiri Abdelhamid"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Return from loan",
+      "team_out": "Ajman",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2026-07-31",
+      "type": "Free agent",
+      "team_out": "Fiorentina",
+      "team_in": "Eyüpspor"
+    }
+  ],
+  "career_clubs": [
+    "Sportfreunde Siegen",
+    "1. FC Nürnberg",
+    "Huddersfield Town A.F.C.",
+    "SC Paderborn 07",
+    "Ascoli Calcio 1898 FC",
+    "U.C. Sampdoria",
+    "Ajman Club"
+  ]
+}

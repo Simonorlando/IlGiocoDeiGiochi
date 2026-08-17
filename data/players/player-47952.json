@@ -1,0 +1,34 @@
+{
+  "player_id": 47952,
+  "full_name": "Mathias Ranégie",
+  "nationality": "Sweden",
+  "birth_date": "1984-06-14",
+  "birth_place": "Göteborg",
+  "career_transfers": [
+    {
+      "date": "2014-01-03",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "€ 2M",
+      "team_out": "Malmo FF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Lärje-Angereds IF",
+    "IFK Göteborg",
+    "Go Ahead Eagles",
+    "BK Häcken",
+    "Malmö FF",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "Millwall F.C.",
+    "Dalian Professional F.C.",
+    "Djurgårdens IF Fotboll",
+    "Syrianska FC"
+  ]
+}

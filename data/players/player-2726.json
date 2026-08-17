@@ -1,0 +1,63 @@
+{
+  "player_id": 2726,
+  "full_name": "Kurt Happy Zouma",
+  "nationality": "France",
+  "birth_date": "1994-10-27",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2021-08-28",
+      "type": "€ 35M",
+      "team_out": "Chelsea",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Everton",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Stoke City",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2017-07-21",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Saint Etienne",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2014-02-01",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "€ 15M",
+      "team_out": "Saint Etienne",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Chelsea F.C.",
+    "AS Saint-Étienne",
+    "Stoke City F.C.",
+    "Everton F.C.",
+    "West Ham United F.C.",
+    "Al-Orobah F.C.",
+    "CFR Cluj",
+    "Al Wasl FC",
+    "Palm City FC"
+  ]
+}

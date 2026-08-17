@@ -1,0 +1,46 @@
+{
+  "player_id": 30478,
+  "full_name": "Blerim Džemaili",
+  "nationality": "Switzerland",
+  "birth_date": "1986-04-12",
+  "birth_place": "Tetovo",
+  "career_transfers": [
+    {
+      "date": "2016-08-17",
+      "type": "€ 1.3M",
+      "team_out": "Galatasaray",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "€ 3M",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "Bolton Wanderers F.C.",
+    "Torino FC",
+    "Parma Calcio 1913",
+    "SSC Napoli",
+    "Galatasaray S.K.",
+    "Genoa CFC",
+    "Bologna F.C. 1909",
+    "CF Montréal",
+    "Shenzhen F.C.",
+    "FC Zürich"
+  ]
+}

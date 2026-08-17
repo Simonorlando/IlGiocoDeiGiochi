@@ -1,0 +1,29 @@
+{
+  "player_id": 130,
+  "full_name": "Nélson Cabral Semedo",
+  "nationality": "Portugal",
+  "birth_date": "1993-11-16",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2020-09-23",
+      "type": "€ 31.5M",
+      "team_out": "Barcelona",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2017-07-14",
+      "type": "€ 35M",
+      "team_out": "Benfica",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "C.D. Fátima",
+    "S.L. Benfica",
+    "FC Barcelona",
+    "Wolverhampton Wanderers F.C.",
+    "Fenerbahçe Istanbul"
+  ]
+}

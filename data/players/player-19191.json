@@ -1,0 +1,20 @@
+{
+  "player_id": 19191,
+  "full_name": "John McGinn",
+  "nationality": "Scotland",
+  "birth_date": "1994-10-18",
+  "birth_place": "Glasgow",
+  "career_transfers": [
+    {
+      "date": "2018-08-08",
+      "type": "N/A",
+      "team_out": "Hibernian",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "St. Mirren F.C.",
+    "Hibernian F.C.",
+    "Aston Villa F.C."
+  ]
+}

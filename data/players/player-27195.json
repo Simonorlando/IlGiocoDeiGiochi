@@ -1,0 +1,40 @@
+{
+  "player_id": 27195,
+  "full_name": "Michael Olaitan",
+  "nationality": "Nigeria",
+  "birth_date": "1993-01-01",
+  "birth_place": "Jos",
+  "career_transfers": [
+    {
+      "date": "2016-01-21",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Kortrijk"
+    },
+    {
+      "date": "2015-07-30",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Twente"
+    },
+    {
+      "date": "2015-01-30",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Ergotelis"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Veria",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "G.A.S. Veria",
+    "Olympiacos F.C.",
+    "Ergotelis F.C.",
+    "FC Twente",
+    "K.V. Kortrijk"
+  ]
+}

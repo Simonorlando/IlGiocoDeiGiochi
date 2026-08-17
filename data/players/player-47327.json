@@ -1,0 +1,40 @@
+{
+  "player_id": 47327,
+  "full_name": "Diego López Rodríguez",
+  "nationality": "Spain",
+  "birth_date": "1981-11-03",
+  "birth_place": "Paradela",
+  "career_transfers": [
+    {
+      "date": "2014-08-13",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2013-01-25",
+      "type": "€ 3.5M",
+      "team_out": "Sevilla",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 7M",
+      "team_out": "Real Madrid",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Lugo",
+    "Real Madrid C",
+    "AD Alcorcón",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "Villarreal CF",
+    "Sevilla FC",
+    "Real Madrid Club de Fútbol",
+    "AC Milan",
+    "RCD Espanyol de Barcelona",
+    "Rayo Vallecano"
+  ]
+}

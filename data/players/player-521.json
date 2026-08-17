@@ -1,0 +1,35 @@
+{
+  "player_id": 521,
+  "full_name": "Robert Lewandowski",
+  "nationality": "Poland",
+  "birth_date": "1988-08-21",
+  "birth_place": "Warszawa",
+  "career_transfers": [
+    {
+      "date": "2022-07-19",
+      "type": "€ 50M",
+      "team_out": "Bayern München",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Barcelona",
+      "team_in": "Chicago Fire"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Barcelona",
+      "team_in": "Chicago Fire"
+    }
+  ],
+  "career_clubs": [
+    "Znicz Pruszków",
+    "Lech Poznań",
+    "Borussia Dortmund",
+    "FC Bayern Munich",
+    "FC Barcelona",
+    "Chicago Fire FC"
+  ]
+}

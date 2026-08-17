@@ -1,0 +1,18 @@
+{
+  "player_id": 8574,
+  "full_name": "Jean Butez",
+  "nationality": "France",
+  "birth_date": "1995-06-08",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2025-01-07",
+      "type": "Transfer",
+      "team_out": "Antwerp",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Royal Excel Mouscron"
+  ]
+}

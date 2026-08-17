@@ -1,0 +1,24 @@
+{
+  "player_id": 38123,
+  "full_name": "Ajdin Hrustić",
+  "nationality": "Australia",
+  "birth_date": "1996-07-05",
+  "birth_place": "Melbourne",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-28",
+      "type": "Free Transfer",
+      "team_out": "Salernitana",
+      "team_in": "Heracles"
+    }
+  ],
+  "career_clubs": [
+    "Nottingham Forest F.C."
+  ]
+}

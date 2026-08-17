@@ -1,0 +1,30 @@
+{
+  "player_id": 31152,
+  "full_name": "Alejandro Rodríguez de Miguel",
+  "nationality": "Spain",
+  "birth_date": "1991-07-30",
+  "birth_place": "Terrassa",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "AC Pavia 1911",
+    "AC Cesena",
+    "U.C. Sampdoria",
+    "RCD Espanyol de Barcelona",
+    "AC ChievoVerona",
+    "Empoli FC"
+  ]
+}

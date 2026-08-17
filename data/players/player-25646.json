@@ -1,0 +1,27 @@
+{
+  "player_id": 25646,
+  "full_name": "Alassane Alexandre Pléa",
+  "nationality": "France",
+  "birth_date": "1993-03-10",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2025-07-17",
+      "type": "Transfer",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-16",
+      "type": "Transfer",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "AJ Auxerre",
+    "OGC Nice",
+    "Borussia Mönchengladbach"
+  ]
+}

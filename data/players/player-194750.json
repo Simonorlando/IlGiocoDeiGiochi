@@ -1,0 +1,42 @@
+{
+  "player_id": 194750,
+  "full_name": "El Bilal Touré",
+  "nationality": "Mali",
+  "birth_date": "2001-10-03",
+  "birth_place": "Adjamé",
+  "career_transfers": [
+    {
+      "date": "2024-08-23",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2023-07-29",
+      "type": "€ 28M",
+      "team_out": "Almeria",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Beşiktaş",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Stade de Reims"
+  ]
+}

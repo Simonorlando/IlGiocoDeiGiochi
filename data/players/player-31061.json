@@ -1,0 +1,24 @@
+{
+  "player_id": 31061,
+  "full_name": "Diego da Silva Farias",
+  "nationality": "Brazil",
+  "birth_date": "1990-05-10",
+  "birth_place": "Sorocaba",
+  "career_transfers": [
+    {
+      "date": "2019-08-14",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "AC ChievoVerona",
+    "Calcio Foggia 1920",
+    "Nocerina 1910",
+    "Calcio Padova",
+    "US Sassuolo Calcio",
+    "Cagliari Calcio"
+  ]
+}

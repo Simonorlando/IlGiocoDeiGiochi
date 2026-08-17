@@ -1,0 +1,45 @@
+{
+  "player_id": 91571,
+  "full_name": "Marco Amelia",
+  "nationality": "Italy",
+  "birth_date": "1982-04-02",
+  "birth_place": "Frascati",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "6M €",
+      "team_out": "Livorno",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2004-01-02",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2001-08-01",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Livorno 1915",
+    "US Lecce",
+    "Parma Calcio 1913",
+    "Palermo F.C.",
+    "Genoa CFC",
+    "AC Milan",
+    "A.C. Perugia Calcio",
+    "S.S. Racing Club Roma",
+    "Chelsea F.C."
+  ]
+}

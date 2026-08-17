@@ -1,0 +1,43 @@
+{
+  "player_id": 25634,
+  "full_name": "Michaël Bruno Dominique Cuisance",
+  "nationality": "France",
+  "birth_date": "1999-08-16",
+  "birth_place": "Strasbourg",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 300K",
+      "team_out": "Venezia",
+      "team_in": "Hertha BSC"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "VfL Osnabrück"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "VfL Osnabrück",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2022-01-03",
+      "type": "€ 4.5M",
+      "team_out": "Bayern München",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "FC Bayern Munich"
+  ]
+}

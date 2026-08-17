@@ -1,0 +1,27 @@
+{
+  "player_id": 21096,
+  "full_name": "Valentin Eysseric",
+  "nationality": "France",
+  "birth_date": "1992-03-25",
+  "birth_place": "Aix-en-Provence",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "OGC Nice",
+    "AS Saint-Étienne",
+    "ACF Fiorentina"
+  ]
+}

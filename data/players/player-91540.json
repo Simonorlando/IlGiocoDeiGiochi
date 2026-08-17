@@ -1,0 +1,47 @@
+{
+  "player_id": 91540,
+  "full_name": "Andrea Rossi",
+  "nationality": "Italy",
+  "birth_date": "1986-11-07",
+  "birth_place": "San Benedetto del Tronto",
+  "career_transfers": [
+    {
+      "date": "2012-07-05",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "1M €",
+      "team_out": "Juventus",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Juventus U20",
+    "Juventus",
+    "ACR Siena 1904",
+    "Juventus",
+    "ACR Siena 1904",
+    "Parma",
+    "Cesena",
+    "Parma",
+    "Bari",
+    "Parma",
+    "Pescara",
+    "Parma",
+    "Latina",
+    "Parma",
+    "Pescara",
+    "Parma",
+    "Pescara",
+    "US Salernitana 1919",
+    "Pescara",
+    "Brescia",
+    "Pescara",
+    "Ternana",
+    "Pescara",
+    "Teramo Calcio 1913"
+  ]
+}

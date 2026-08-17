@@ -1,0 +1,26 @@
+{
+  "player_id": 1939,
+  "full_name": "Jakub Piotrowski",
+  "nationality": "Poland",
+  "birth_date": "1997-10-04",
+  "birth_place": "Toruń",
+  "career_transfers": [
+    {
+      "date": "2025-08-02",
+      "type": "Transfer",
+      "team_out": "Ludogorets",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Chemik Bydgoszcz",
+    "Wda Świecie",
+    "Pogoń Szczecin",
+    "Stomil Olsztyn",
+    "K.R.C. Genk",
+    "Sportkring Beveren",
+    "Fortuna Düsseldorf",
+    "PFC Ludogorets 1945",
+    "Udinese Calcio"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 75831,
+  "full_name": "Facundo Manuel Carlos Parra",
+  "nationality": "Argentina",
+  "birth_date": "1985-06-15",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2013-08-06",
+      "type": "Free",
+      "team_out": "Atalanta",
+      "team_in": "Independiente"
+    },
+    {
+      "date": "2012-07-18",
+      "type": "N/A",
+      "team_out": "Independiente",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Chacarita Juniors",
+    "Athlitiki Enosi Larissa F.C.",
+    "Club Atlético Independiente",
+    "Atalanta BC",
+    "Club Atlético Independiente",
+    "Asteras Tripoli F.C.",
+    "Atlético de Rafaela",
+    "Millonarios"
+  ]
+}

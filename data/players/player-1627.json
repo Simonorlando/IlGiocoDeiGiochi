@@ -1,0 +1,25 @@
+{
+  "player_id": 1627,
+  "full_name": "Davide Calabria",
+  "nationality": "Italy",
+  "birth_date": "1996-12-06",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": null,
+      "team_out": "Bologna",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Bologna F.C. 1909"
+  ]
+}

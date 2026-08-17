@@ -1,0 +1,32 @@
+{
+  "player_id": 19035,
+  "full_name": "Harvey Daniel James Elliott",
+  "nationality": "England",
+  "birth_date": "2003-04-04",
+  "birth_place": "Chertsey",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Aston Villa",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Fulham F.C.",
+    "Liverpool F.C.",
+    "Blackburn Rovers F.C."
+  ]
+}

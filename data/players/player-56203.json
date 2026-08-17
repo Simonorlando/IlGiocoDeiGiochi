@@ -1,0 +1,33 @@
+{
+  "player_id": 56203,
+  "full_name": "Eros Schiavon",
+  "nationality": "Italy",
+  "birth_date": "1983-04-24",
+  "birth_place": "Piove di Sacco",
+  "career_transfers": [
+    {
+      "date": "2018-08-09",
+      "type": "Free",
+      "team_out": "Spal",
+      "team_in": "PRO Vercelli"
+    },
+    {
+      "date": "2016-01-04",
+      "type": "Free",
+      "team_out": "Avellino",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Belluno 1905",
+    "Treviso F.B.C. 1993",
+    "Calcio Portogruaro Summaga",
+    "U.S. Città di Jesolo",
+    "SPAL",
+    "Calcio Portogruaro Summaga",
+    "Associazione Sportiva Cittadella",
+    "U.S. Avellino 1912",
+    "Calcio Padova",
+    "F.C. Pro Vercelli 1892"
+  ]
+}

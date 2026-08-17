@@ -1,0 +1,19 @@
+{
+  "player_id": 91424,
+  "full_name": "Drissa Gui Camara",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2002-02-18",
+  "birth_place": "Abobo",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Free Transfer",
+      "team_out": "Parma",
+      "team_in": "Gaziantep FK"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Gaziantep"
+  ]
+}

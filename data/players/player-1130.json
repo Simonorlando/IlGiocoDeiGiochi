@@ -1,0 +1,20 @@
+{
+  "player_id": 1130,
+  "full_name": "Jules Olivier Ntcham",
+  "nationality": "Cameroon",
+  "birth_date": "1996-02-09",
+  "birth_place": "Longjumeau",
+  "career_transfers": [
+    {
+      "date": "2015-07-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Genoa CFC",
+    "Celtic F.C."
+  ]
+}

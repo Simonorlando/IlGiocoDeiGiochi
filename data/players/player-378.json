@@ -1,0 +1,44 @@
+{
+  "player_id": 378,
+  "full_name": "Alex Nicolao Telles",
+  "nationality": "Brazil",
+  "birth_date": "1992-12-15",
+  "birth_place": "Caxias do Sul",
+  "career_transfers": [
+    {
+      "date": "2016-07-12",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2014-01-21",
+      "type": "€ 6.2M",
+      "team_out": "Gremio",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Juventude",
+    "Grêmio FBPA",
+    "Galatasaray S.K.",
+    "Inter Milan",
+    "FC Porto",
+    "Manchester United F.C.",
+    "Sevilla FC",
+    "Al-Nassr",
+    "Botafogo F.R."
+  ]
+}

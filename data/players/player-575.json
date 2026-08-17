@@ -1,0 +1,54 @@
+{
+  "player_id": 575,
+  "full_name": "Florentino Ibrain Morris Luís",
+  "nationality": "Portugal",
+  "birth_date": "1999-08-19",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Getafe",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Monaco",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Burnley"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Burnley"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Burnley"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Burnley",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica"
+  ]
+}

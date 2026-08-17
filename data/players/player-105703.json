@@ -1,0 +1,36 @@
+{
+  "player_id": 105703,
+  "full_name": "Adrián Ricchiuti",
+  "nationality": "Argentina",
+  "birth_date": "1978-06-30",
+  "birth_place": "Lanús",
+  "career_transfers": [
+    {
+      "date": "2013-07-23",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2009-08-06",
+      "type": "€ 2.8M",
+      "team_out": "Rimini",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Ternana Calcio",
+    "Genoa CFC",
+    "A.C. Carpi",
+    "Pistoiese FC",
+    "US Livorno 1915",
+    "S.S. Arezzo",
+    "Pistoiese FC",
+    "Rimini FC",
+    "Catania FC",
+    "Virtus Entella",
+    "Rimini FC",
+    "S.P. La Fiorita",
+    "U.S.D. Calcio Delta Porto Tolle"
+  ]
+}

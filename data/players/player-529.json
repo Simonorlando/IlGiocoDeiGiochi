@@ -1,0 +1,28 @@
+{
+  "player_id": 529,
+  "full_name": "Nicolás Alejandro Tagliafico",
+  "nationality": "Argentina",
+  "birth_date": "1992-08-31",
+  "birth_place": "Rafael Calzada",
+  "career_transfers": [
+    {
+      "date": "2022-07-23",
+      "type": "€ 4.2M",
+      "team_out": "Ajax",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2018-01-05",
+      "type": "€ 4M",
+      "team_out": "Independiente",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Banfield",
+    "Real Murcia",
+    "Club Atlético Independiente",
+    "AFC Ajax",
+    "Olympique Lyonnais"
+  ]
+}

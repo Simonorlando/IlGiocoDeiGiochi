@@ -1,0 +1,19 @@
+{
+  "player_id": 291964,
+  "full_name": "Arda Güler",
+  "nationality": "Türkiye",
+  "birth_date": "2005-02-25",
+  "birth_place": "Ankara",
+  "career_transfers": [
+    {
+      "date": "2023-07-07",
+      "type": "€ 20M",
+      "team_out": "Fenerbahce",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Fenerbahçe Istanbul",
+    "Real Madrid Club de Fútbol"
+  ]
+}

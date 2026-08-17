@@ -1,0 +1,26 @@
+{
+  "player_id": 333116,
+  "full_name": "Reda Belahyane",
+  "nationality": "France",
+  "birth_date": "2004-06-01",
+  "birth_place": "Aubervilliers",
+  "career_transfers": [
+    {
+      "date": "2024-01-24",
+      "type": "€ 500K",
+      "team_out": "Nice",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Verona",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Nice",
+    "Hellas Verona",
+    "Lazio"
+  ]
+}

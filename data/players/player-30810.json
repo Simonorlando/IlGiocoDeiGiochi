@@ -1,0 +1,21 @@
+{
+  "player_id": 30810,
+  "full_name": "Rolando Mandragora",
+  "nationality": "Italy",
+  "birth_date": "1997-06-29",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2015-07-24",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Delfino Pescara 1936",
+    "Juventus FC",
+    "Udinese Calcio"
+  ]
+}

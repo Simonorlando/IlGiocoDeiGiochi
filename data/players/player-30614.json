@@ -1,0 +1,26 @@
+{
+  "player_id": 30614,
+  "full_name": "Luca Antei",
+  "nationality": "Italy",
+  "birth_date": "1992-04-19",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2021-01-27",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "U.S. Grosseto 1912",
+    "US Sassuolo Calcio"
+  ]
+}

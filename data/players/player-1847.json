@@ -1,0 +1,30 @@
+{
+  "player_id": 1847,
+  "full_name": "Luiz Felipe Ramos Marchi",
+  "nationality": "Italy",
+  "birth_date": "1997-03-22",
+  "birth_place": "Colina",
+  "career_transfers": [
+    {
+      "date": "2017-08-12",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "N/A",
+      "team_out": "Ituano",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Ituano Futebol Clube",
+    "SS Lazio",
+    "U.S. Salernitana 1919",
+    "Real Betis Balompié",
+    "Al Ittihad FC",
+    "Olympique de Marseille",
+    "Rayo Vallecano"
+  ]
+}

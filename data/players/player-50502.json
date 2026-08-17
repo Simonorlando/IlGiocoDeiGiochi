@@ -1,0 +1,30 @@
+{
+  "player_id": 50502,
+  "full_name": "Álvaro Negredo Sánchez",
+  "nationality": "Spain",
+  "birth_date": "1985-08-20",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2018-09-18",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "Al Nasr"
+    }
+  ],
+  "career_clubs": [
+    "Rayo Vallecano B",
+    "Rayo Vallecano",
+    "Real Madrid Castilla",
+    "Unión Deportiva Almería",
+    "Sevilla FC",
+    "Real Madrid Club de Fútbol",
+    "Manchester City F.C.",
+    "Valencia CF",
+    "Middlesbrough F.C.",
+    "Beşiktaş J.K. (Football)",
+    "Alshariqa",
+    "Cádiz Club de Fútbol",
+    "Real Valladolid"
+  ]
+}

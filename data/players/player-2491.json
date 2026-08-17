@@ -1,0 +1,24 @@
+{
+  "player_id": 2491,
+  "full_name": "Andrés Mateus Uribe Villa",
+  "nationality": "Colombia",
+  "birth_date": "1991-03-21",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Al Sadd"
+    },
+    {
+      "date": "2019-08-04",
+      "type": "€ 9M",
+      "team_out": "Club America",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Nacional"
+  ]
+}

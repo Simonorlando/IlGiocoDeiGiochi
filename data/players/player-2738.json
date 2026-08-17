@@ -1,0 +1,30 @@
+{
+  "player_id": 2738,
+  "full_name": "Christian Lund Gytkjær",
+  "nationality": "Denmark",
+  "birth_date": "1990-05-06",
+  "birth_place": "Roskilde",
+  "career_transfers": [
+    {
+      "date": "2023-07-20",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "Free",
+      "team_out": "Lech Poznan",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Lyngby Boldklub",
+    "FC Nordsjælland",
+    "Akademisk Boldklub",
+    "Sandnes Ulf",
+    "FK Haugesund",
+    "Rosenborg BK",
+    "TSV 1860 München"
+  ]
+}

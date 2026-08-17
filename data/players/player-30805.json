@@ -1,0 +1,30 @@
+{
+  "player_id": 30805,
+  "full_name": "Valon Behrami",
+  "nationality": "Switzerland",
+  "birth_date": "1985-04-19",
+  "birth_place": "Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "FC Lugano",
+    "Genoa CFC",
+    "Hellas Verona FC",
+    "SS Lazio",
+    "West Ham United F.C.",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Hamburger SV",
+    "Watford F.C.",
+    "Udinese Calcio",
+    "FC Sion",
+    "Genoa CFC",
+    "Brescia Calcio"
+  ]
+}

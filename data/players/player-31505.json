@@ -1,0 +1,34 @@
+{
+  "player_id": 31505,
+  "full_name": "Gaetano Monachello",
+  "nationality": "Italy",
+  "birth_date": "1994-03-03",
+  "birth_place": "Agrigento",
+  "career_transfers": [
+    {
+      "date": "2020-10-03",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2020-01-15",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "FC Metalurh Donetsk",
+    "AS Monaco FC",
+    "Olympiakos Nicosia FC",
+    "Cercle Brugge K.S.V.",
+    "Lanciano Calcio 1920",
+    "Ergotelis F.C.",
+    "Atalanta BC",
+    "Inter Milan",
+    "Palermo F.C.",
+    "Delfino Pescara 1936",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

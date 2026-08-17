@@ -1,0 +1,37 @@
+{
+  "player_id": 969,
+  "full_name": "Tin Jedvaj",
+  "nationality": "Croatia",
+  "birth_date": "1995-11-28",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2015-01-20",
+      "type": "€ 7M",
+      "team_out": "AS Roma",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "€ 5M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "GNK Dinamo Zagreb",
+    "Bayer 04 Leverkusen",
+    "FC Augsburg",
+    "FC Lokomotiv Moscow",
+    "Al Ain FC",
+    "Panathinaikos F.C.",
+    "Al-Shabab Football Club"
+  ]
+}

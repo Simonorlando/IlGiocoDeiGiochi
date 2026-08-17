@@ -1,0 +1,34 @@
+{
+  "player_id": 56207,
+  "full_name": "Paulo Daniel Dentello Azzi",
+  "nationality": "Brazil",
+  "birth_date": "1994-07-15",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2025-08-11",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-07-09",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2026-07-10",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Modena"
+    }
+  ],
+  "career_clubs": [
+    "Paulista Futebol Clube",
+    "Associazione Sportiva Cittadella",
+    "Tombense Futebol Clube",
+    "Spezia Calcio",
+    "F.C. Pro Vercelli 1892"
+  ]
+}

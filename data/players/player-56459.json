@@ -1,0 +1,27 @@
+{
+  "player_id": 56459,
+  "full_name": "Wladimiro Falcone",
+  "nationality": "Italy",
+  "birth_date": "1995-04-12",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-08-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "Como 1907",
+    "Savona F.B.C.",
+    "US Livorno 1915"
+  ]
+}

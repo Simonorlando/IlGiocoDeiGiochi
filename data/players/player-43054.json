@@ -1,0 +1,32 @@
+{
+  "player_id": 43054,
+  "full_name": "Ivan Martic",
+  "nationality": "Switzerland",
+  "birth_date": "1990-10-02",
+  "birth_place": "Uzwil",
+  "career_transfers": [
+    {
+      "date": "2016-08-02",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "HNK Rijeka"
+    },
+    {
+      "date": "2015-07-31",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "FC St. Gallen",
+    "FC Schaffhausen",
+    "Hellas Verona FC",
+    "Spezia Calcio",
+    "HNK Rijeka",
+    "CS Universitatea Craiova",
+    "FC Sion",
+    "CS Universitatea Craiova",
+    "FC Universitatea Cluj"
+  ]
+}

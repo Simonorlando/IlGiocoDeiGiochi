@@ -1,0 +1,24 @@
+{
+  "player_id": 74644,
+  "full_name": "Masahudu Alhassan",
+  "nationality": "Ghana",
+  "birth_date": "1992-12-01",
+  "birth_place": "Tarkwa",
+  "career_transfers": [
+    {
+      "date": "2012-08-10",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Novara"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Novara Calcio",
+    "Udinese Calcio",
+    "Latina Calcio 1932",
+    "Udinese Calcio",
+    "Latina Calcio 1932",
+    "A.C. Perugia Calcio"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "player_id": 37155,
+  "full_name": "Orkun Kökçü",
+  "nationality": "Türkiye",
+  "birth_date": "2000-12-29",
+  "birth_place": "Haarlem",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 25M",
+      "team_out": "Feyenoord",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2025-07-13",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Benfica",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Beşiktaş",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "S.L. Benfica",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

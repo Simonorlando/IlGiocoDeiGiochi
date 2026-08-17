@@ -1,0 +1,18 @@
+{
+  "player_id": 143648,
+  "full_name": "Maduka Emilio Okoye",
+  "nationality": "Nigeria",
+  "birth_date": "1999-08-28",
+  "birth_place": "Düsseldorf",
+  "career_transfers": [
+    {
+      "date": "2023-08-24",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Fortuna Düsseldorf"
+  ]
+}

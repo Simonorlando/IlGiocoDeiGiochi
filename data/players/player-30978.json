@@ -1,0 +1,30 @@
+{
+  "player_id": 30978,
+  "full_name": "Giuseppe Cuomo",
+  "nationality": "Italy",
+  "birth_date": "1998-02-02",
+  "birth_place": "Vico Equense",
+  "career_transfers": [
+    {
+      "date": "2023-08-07",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Sudtirol"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Rende",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2018-01-19",
+      "type": "Loan",
+      "team_out": "Crotone",
+      "team_in": "Rende"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Crotone"
+  ]
+}

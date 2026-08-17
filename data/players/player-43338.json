@@ -1,0 +1,32 @@
+{
+  "player_id": 43338,
+  "full_name": "Marius Silviu Alexe",
+  "nationality": "Romania",
+  "birth_date": "1990-02-22",
+  "birth_place": "Bucureşti",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Dinamo Bucuresti"
+    },
+    {
+      "date": "2013-07-09",
+      "type": "Loan",
+      "team_out": "Dinamo Bucuresti",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Bucharest",
+    "FC Astra Giurgiu",
+    "FC Dinamo Bucharest",
+    "US Sassuolo Calcio",
+    "Kardemir Karabükspor",
+    "ŽP Šport Podbrezová",
+    "Aris Limassol F.C.",
+    "CS Concordia Chiajna",
+    "FC Argeș"
+  ]
+}

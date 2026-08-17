@@ -1,0 +1,40 @@
+{
+  "player_id": 31137,
+  "full_name": "Stefano Sabelli",
+  "nationality": "Italy",
+  "birth_date": "1993-01-13",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2022-01-14",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2021-01-20",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "A.C. Carpi",
+    "Genoa CFC",
+    "AS Roma",
+    "Brescia Calcio"
+  ]
+}

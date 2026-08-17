@@ -1,0 +1,25 @@
+{
+  "player_id": 181808,
+  "full_name": "Fabio Miretti",
+  "nationality": "Italy",
+  "birth_date": "2003-08-03",
+  "birth_place": "Pinerolo",
+  "career_transfers": [
+    {
+      "date": "2024-08-25",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Genoa",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Genoa CFC"
+  ]
+}

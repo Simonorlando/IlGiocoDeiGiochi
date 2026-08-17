@@ -1,0 +1,25 @@
+{
+  "player_id": 24870,
+  "full_name": "Léo Lacroix",
+  "nationality": "Switzerland",
+  "birth_date": "1992-02-27",
+  "birth_place": "Lausanne",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Saint Etienne",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC Sion",
+    "AS Saint-Étienne",
+    "FC Basel",
+    "Hamburger SV",
+    "FC Sion",
+    "Western United FC",
+    "FC U Craiova 1948",
+    "Al Jabalain"
+  ]
+}

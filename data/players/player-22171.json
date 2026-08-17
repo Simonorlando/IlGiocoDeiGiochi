@@ -1,0 +1,20 @@
+{
+  "player_id": 22171,
+  "full_name": "Jean-Victor Makengo",
+  "nationality": "France",
+  "birth_date": "1998-06-12",
+  "birth_place": "Etampes",
+  "career_transfers": [
+    {
+      "date": "2023-01-30",
+      "type": "€ 11M",
+      "team_out": "Udinese",
+      "team_in": "Lorient"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "OGC Nice",
+    "Toulouse FC"
+  ]
+}

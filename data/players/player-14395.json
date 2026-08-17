@@ -1,0 +1,36 @@
+{
+  "player_id": 14395,
+  "full_name": "Kristijan Jakić",
+  "nationality": "Croatia",
+  "birth_date": "1997-05-14",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2024-01-19",
+      "type": "Loan",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Augsburg"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "NK Lokomotiva"
+  ]
+}

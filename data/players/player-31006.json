@@ -1,0 +1,33 @@
+{
+  "player_id": 31006,
+  "full_name": "Pierluigi Frattali",
+  "nationality": "Italy",
+  "birth_date": "1985-12-01",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2019-07-14",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2017-01-18",
+      "type": "N/A",
+      "team_out": "Avellino",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Frosinone Calcio",
+    "A.S.D. Astrea",
+    "Frosinone Calcio",
+    "Vicenza Calcio",
+    "Hellas Verona FC",
+    "École de football Saint-Christophe",
+    "Cosenza Calcio",
+    "U.S. Avellino 1912",
+    "AS Roma",
+    "Parma Calcio 1913"
+  ]
+}

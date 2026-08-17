@@ -1,0 +1,79 @@
+{
+  "player_id": 678,
+  "full_name": "Bohdan Butko",
+  "nationality": "Ukraine",
+  "birth_date": "1991-01-13",
+  "birth_place": "Donetsk",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Erzurum BB"
+    },
+    {
+      "date": "2021-01-01",
+      "type": "N/A",
+      "team_out": "Lech Poznan",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Lech Poznan"
+    },
+    {
+      "date": "2020-07-21",
+      "type": "N/A",
+      "team_out": "Lech Poznan",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2020-02-17",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Lech Poznan"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Amkar",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2015-02-23",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Amkar"
+    },
+    {
+      "date": "2014-07-25",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "FC Mariupol"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "FC Mariupol"
+    },
+    {
+      "date": "2010-07-10",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Volyn"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar-3 Donetsk",
+    "FC Shakhtar Donetsk",
+    "FC Volyn Lutsk",
+    "FC Mariupol",
+    "FC Amkar Perm",
+    "Lech Poznań",
+    "Erzurumspor F.K.",
+    "FC Zorya Luhansk"
+  ]
+}

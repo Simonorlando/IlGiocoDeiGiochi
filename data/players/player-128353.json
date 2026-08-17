@@ -1,0 +1,38 @@
+{
+  "player_id": 128353,
+  "full_name": "Matthias Braunöder",
+  "nationality": "Austria",
+  "birth_date": "2002-03-27",
+  "birth_place": "Eisenstadt",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Austria Vienna",
+      "team_in": "Como"
+    },
+    {
+      "date": "2024-01-24",
+      "type": "Loan",
+      "team_out": "Austria Vienna",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2025-08-04",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Austria Wien",
+    "Como",
+    "Bari"
+  ]
+}

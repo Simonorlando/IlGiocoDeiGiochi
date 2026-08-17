@@ -1,0 +1,30 @@
+{
+  "player_id": 31605,
+  "full_name": "Dario Del Fabro",
+  "nationality": "Italy",
+  "birth_date": "1995-03-24",
+  "birth_place": "Alghero",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Catania",
+      "team_in": "Arezzo"
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Loan",
+      "team_out": "Arezzo",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "Leeds United F.C.",
+    "Ascoli Calcio 1898 FC",
+    "Italy under-21 Serie B representative team",
+    "Novara Calcio",
+    "Delfino Pescara 1936",
+    "Juventus FC"
+  ]
+}

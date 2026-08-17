@@ -1,0 +1,35 @@
+{
+  "player_id": 162,
+  "full_name": "Toby Albertine Maurits Alderweireld",
+  "nationality": "Belgium",
+  "birth_date": "1989-03-02",
+  "birth_place": "Wilrijk",
+  "career_transfers": [
+    {
+      "date": "2015-07-08",
+      "type": "€ 16M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "€ 7M",
+      "team_out": "Ajax",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Atlético Madrid",
+    "Southampton F.C.",
+    "Tottenham Hotspur F.C.",
+    "Al-Duhail SC",
+    "Royal Antwerp F.C."
+  ]
+}

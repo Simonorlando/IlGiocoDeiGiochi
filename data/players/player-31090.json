@@ -1,0 +1,28 @@
+{
+  "player_id": 31090,
+  "full_name": "Federico Viviani",
+  "nationality": "Italy",
+  "birth_date": "1992-03-24",
+  "birth_place": "Lecco",
+  "career_transfers": [
+    {
+      "date": "2023-09-16",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2022-08-28",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "Latina Calcio 1932",
+    "Hellas Verona FC"
+  ]
+}

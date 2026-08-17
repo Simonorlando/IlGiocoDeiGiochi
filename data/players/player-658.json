@@ -1,0 +1,24 @@
+{
+  "player_id": 658,
+  "full_name": "Houssem-Eddine Chaâbane Aouar",
+  "nationality": "Algeria",
+  "birth_date": "1998-06-30",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "€ 12M",
+      "team_out": "AS Roma",
+      "team_in": "Al-Ittihad FC"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Lyon",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 30935,
+  "full_name": "Gianni Munari",
+  "nationality": "Italy",
+  "birth_date": "1983-06-24",
+  "birth_place": "Sassuolo",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 390K",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2006-09-01",
+      "type": "€ 300K",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "Giulianova Calcio",
+    "US Triestina Calcio 1918",
+    "AC ChievoVerona",
+    "Hellas Verona FC",
+    "Palermo F.C.",
+    "US Lecce",
+    "ACF Fiorentina",
+    "U.C. Sampdoria",
+    "Parma Calcio 1913",
+    "Watford F.C.",
+    "Cagliari Calcio"
+  ]
+}

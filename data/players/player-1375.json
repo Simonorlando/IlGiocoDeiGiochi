@@ -1,0 +1,32 @@
+{
+  "player_id": 1375,
+  "full_name": "Roberto Soldado Rillo",
+  "nationality": "Spain",
+  "birth_date": "1985-05-27",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 6M",
+      "team_out": "Real Madrid",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Osasuna"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol",
+    "Club Atlético Osasuna",
+    "Getafe CF",
+    "Valencia CF",
+    "Tottenham Hotspur F.C.",
+    "Villarreal CF",
+    "Fenerbahçe Istanbul",
+    "Granada CF",
+    "Levante UD"
+  ]
+}

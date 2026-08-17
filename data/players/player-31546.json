@@ -1,0 +1,31 @@
+{
+  "player_id": 31546,
+  "full_name": "Antonio Mazzotta",
+  "nationality": "Italy",
+  "birth_date": "1989-08-02",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2012-09-03",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2011-08-30",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "US Lecce",
+    "Delfino Pescara 1936",
+    "F.C. Crotone",
+    "US Lecce",
+    "AC Cesena",
+    "Catania FC",
+    "Delfino Pescara 1936"
+  ]
+}

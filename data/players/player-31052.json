@@ -1,0 +1,43 @@
+{
+  "player_id": 31052,
+  "full_name": "Matteo Brighi",
+  "nationality": "Italy",
+  "birth_date": "1981-02-14",
+  "birth_place": "Rimini",
+  "career_transfers": [
+    {
+      "date": "2004-06-01",
+      "type": "€ 11.5M",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2002-08-01",
+      "type": "€ 5M",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Rimini FC",
+    "Juventus FC",
+    "Bologna F.C. 1909",
+    "Parma Calcio 1913",
+    "Brescia Calcio",
+    "Juventus FC",
+    "AC ChievoVerona",
+    "AS Roma",
+    "Atalanta BC",
+    "Torino FC",
+    "US Sassuolo Calcio",
+    "Bologna F.C. 1909",
+    "A.C. Perugia Calcio",
+    "Empoli FC"
+  ]
+}

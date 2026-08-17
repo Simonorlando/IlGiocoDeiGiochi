@@ -1,0 +1,68 @@
+{
+  "player_id": 30901,
+  "full_name": "Francesco Lodi",
+  "nationality": "Italy",
+  "birth_date": "1984-03-23",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2020-01-08",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2017-06-13",
+      "type": "Free",
+      "team_out": "Udinese",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2015-09-23",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2014-08-25",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2014-01-03",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-07-19",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2011-02-01",
+      "type": "€ 1M",
+      "team_out": "Frosinone",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Vicenza Calcio",
+    "Frosinone Calcio",
+    "Udinese Calcio",
+    "Frosinone Calcio",
+    "Catania FC",
+    "Genoa CFC",
+    "Parma Calcio 1913",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

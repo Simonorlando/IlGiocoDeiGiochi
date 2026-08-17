@@ -1,0 +1,31 @@
+{
+  "player_id": 91373,
+  "full_name": "Federico Agliardi",
+  "nationality": "Italy",
+  "birth_date": "1983-02-11",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2009-08-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Rimini"
+    }
+  ],
+  "career_clubs": [
+    "Cosenza Calcio",
+    "Brescia Calcio",
+    "Cosenza Calcio 1914",
+    "Palermo F.C.",
+    "Rimini FC",
+    "Calcio Padova",
+    "Bologna F.C. 1909",
+    "AC Cesena"
+  ]
+}

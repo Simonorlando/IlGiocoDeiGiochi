@@ -1,0 +1,35 @@
+{
+  "player_id": 115372,
+  "full_name": "Moris Carrozzieri",
+  "nationality": "Italy",
+  "birth_date": "1980-11-16",
+  "birth_place": "Giulianova",
+  "career_transfers": [
+    {
+      "date": "2012-08-16",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Varese"
+    },
+    {
+      "date": "2011-07-19",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Fidelis Andria 2018",
+    "SSC Bari",
+    "Giulianova Calcio",
+    "A.S. Martina Franca 1947",
+    "S.S. Teramo Calcio",
+    "U.C. Sampdoria",
+    "S.S. Arezzo",
+    "Atalanta BC",
+    "Palermo F.C.",
+    "US Lecce",
+    "Varese Calcio",
+    "Giulianova Calcio"
+  ]
+}

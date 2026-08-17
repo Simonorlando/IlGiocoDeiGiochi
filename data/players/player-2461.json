@@ -1,0 +1,36 @@
+{
+  "player_id": 2461,
+  "full_name": "José Salomón Rondón Giménez",
+  "nationality": "Venezuela",
+  "birth_date": "1989-09-16",
+  "birth_place": "Caracas",
+  "career_transfers": [
+    {
+      "date": "2015-08-10",
+      "type": "€ 17M",
+      "team_out": "Zenit",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "€ 18M",
+      "team_out": "Rubin",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "Aragua Fútbol Club",
+    "UD Las Palmas",
+    "Málaga CF",
+    "Rubin Kazan",
+    "FC Zenit Saint Petersburg",
+    "West Bromwich Albion F.C.",
+    "Newcastle United F.C.",
+    "Dalian Professional F.C.",
+    "PFC CSKA Moscow",
+    "Everton F.C.",
+    "Club Atlético River Plate",
+    "CF Pachuca",
+    "Real Oviedo"
+  ]
+}

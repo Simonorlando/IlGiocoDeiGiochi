@@ -1,0 +1,51 @@
+{
+  "player_id": 3014,
+  "full_name": "Szymon Piotr Żurkowski",
+  "nationality": "Poland",
+  "birth_date": "1997-09-25",
+  "birth_place": "Tychy",
+  "career_transfers": [
+    {
+      "date": "2024-01-09",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2023-07-06",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2023-01-12",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-07-10",
+      "type": "Free agent",
+      "team_out": "Spezia",
+      "team_in": "Zurkowski Szymon"
+    }
+  ],
+  "career_clubs": [
+    "Górnik Zabrze",
+    "ACF Fiorentina",
+    "Górnik Zabrze",
+    "Empoli FC"
+  ]
+}

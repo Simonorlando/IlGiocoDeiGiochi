@@ -1,0 +1,33 @@
+{
+  "player_id": 394882,
+  "full_name": "Daniel Mikołajewski",
+  "nationality": "Poland",
+  "birth_date": "2006-01-24",
+  "birth_place": "Nienburg",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Zaglebie Lubin",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2024-09-06",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Zaglebie Lubin"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Zaglebie Lubin",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Jaguar Gdańsk",
+    "Parma",
+    "Zagłębie Lubin",
+    "Luzern"
+  ]
+}

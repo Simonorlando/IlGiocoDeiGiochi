@@ -1,0 +1,36 @@
+{
+  "player_id": 887,
+  "full_name": "Matteo Darmian",
+  "nationality": "Italy",
+  "birth_date": "1989-12-02",
+  "birth_place": "Legnano",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "€ 1.5M",
+      "team_out": "Manchester United",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Calcio Padova",
+    "Palermo F.C.",
+    "Torino FC",
+    "Manchester United F.C.",
+    "Parma Calcio 1913",
+    "Inter Milan"
+  ]
+}

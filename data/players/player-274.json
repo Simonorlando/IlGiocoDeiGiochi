@@ -1,0 +1,30 @@
+{
+  "player_id": 274,
+  "full_name": "Edinson Roberto Cavani Gómez",
+  "nationality": "Uruguay",
+  "birth_date": "1987-02-14",
+  "birth_place": "Salto",
+  "career_transfers": [
+    {
+      "date": "2023-07-31",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2022-08-29",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Palermo F.C.",
+    "SSC Napoli",
+    "Paris Saint-Germain FC",
+    "Manchester United F.C.",
+    "Valencia CF",
+    "Boca Juniors"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 37113,
+  "full_name": "Remko Jurian Pasveer",
+  "nationality": "Netherlands",
+  "birth_date": "1983-11-08",
+  "birth_place": "Enschede",
+  "career_transfers": [
+    {
+      "date": "2017-07-05",
+      "type": "€ 450K",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Vitesse"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Heracles",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "FC Twente",
+    "Heracles Almelo",
+    "Go Ahead Eagles",
+    "PSV Eindhoven",
+    "Jong PSV"
+  ]
+}

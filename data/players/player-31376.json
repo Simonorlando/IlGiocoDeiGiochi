@@ -1,0 +1,32 @@
+{
+  "player_id": 31376,
+  "full_name": "Francesco Di Mariano",
+  "nationality": "Italy",
+  "birth_date": "1996-04-20",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2022-08-19",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2013-07-16",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "AS Roma",
+    "Novara Calcio"
+  ]
+}

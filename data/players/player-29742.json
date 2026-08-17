@@ -1,0 +1,26 @@
+{
+  "player_id": 29742,
+  "full_name": "Vladimir Koman Jr.",
+  "nationality": "Hungary",
+  "birth_date": "1989-03-16",
+  "birth_place": "Uzhgorod",
+  "career_transfers": [
+    {
+      "date": "2009-08-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Szombathelyi Haladás",
+    "U.C. Sampdoria",
+    "U.S. Avellino 1912",
+    "SSC Bari",
+    "U.C. Sampdoria",
+    "FC Krasnodar",
+    "AS Monaco FC",
+    "FC Ural Yekaterinburg",
+    "Diósgyőri VTK"
+  ]
+}

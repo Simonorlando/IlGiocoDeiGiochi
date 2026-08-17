@@ -1,0 +1,21 @@
+{
+  "player_id": 197830,
+  "full_name": "Răzvan Sergiu Sava",
+  "nationality": "Romania",
+  "birth_date": "2002-06-21",
+  "birth_place": "Timișoara",
+  "career_transfers": [
+    {
+      "date": "2022-01-28",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "CFR 1907 Cluj"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "CFR Cluj",
+    "Udinese Calcio",
+    "CS Universitatea Craiova"
+  ]
+}

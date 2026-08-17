@@ -1,0 +1,28 @@
+{
+  "player_id": 195993,
+  "full_name": "Carlos Jonas Alcaraz Duran",
+  "nationality": "Argentina",
+  "birth_date": "2002-11-30",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "Loan",
+      "team_out": "Southampton",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Southampton",
+    "Juventus",
+    "Flamengo",
+    "Everton"
+  ]
+}

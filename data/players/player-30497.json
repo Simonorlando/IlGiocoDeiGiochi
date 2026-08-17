@@ -1,0 +1,26 @@
+{
+  "player_id": 30497,
+  "full_name": "Gleison Bremer Silva Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1997-03-18",
+  "birth_place": "Itapitanga",
+  "career_transfers": [
+    {
+      "date": "2022-07-20",
+      "type": "€ 41M",
+      "team_out": "Torino",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2018-07-10",
+      "type": "N/A",
+      "team_out": "Atletico-MG",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Torino FC",
+    "Juventus FC"
+  ]
+}

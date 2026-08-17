@@ -1,0 +1,24 @@
+{
+  "player_id": 6239,
+  "full_name": "Gonzalo Maroni",
+  "nationality": "Argentina",
+  "birth_date": "1999-03-18",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Boca Juniors",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors"
+  ]
+}

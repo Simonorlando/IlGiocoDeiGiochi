@@ -1,0 +1,36 @@
+{
+  "player_id": 31768,
+  "full_name": "Simone Pesce",
+  "nationality": "Italy",
+  "birth_date": "1982-07-10",
+  "birth_place": "Latina",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2009-12-30",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2009-08-31",
+      "type": "€ 500K",
+      "team_out": "Ascoli",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Latina Calcio 1932",
+    "S.E.F. Torres 1903",
+    "Ascoli Calcio 1898 FC",
+    "Catania FC",
+    "Ascoli Calcio 1898 FC",
+    "Novara Calcio",
+    "US Cremonese"
+  ]
+}

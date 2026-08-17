@@ -1,0 +1,23 @@
+{
+  "player_id": 2362,
+  "full_name": "Yevhen Khacheridi",
+  "nationality": "Ukraine",
+  "birth_date": "1987-07-28",
+  "birth_place": "Melitopol",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "PAOK"
+    }
+  ],
+  "career_clubs": [
+    "SC Olkom Melitopol",
+    "FC Volyn Lutsk",
+    "FC Dynamo Kyiv",
+    "PAOK FC",
+    "FC Dynamo Brest",
+    "FC Chornomorets Odesa"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 266013,
+  "full_name": "Otávio Ataide da Silva",
+  "nationality": "Brazil",
+  "birth_date": "2002-04-21",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "€ 12M",
+      "team_out": "Famalicao",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-07-23",
+      "type": "Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Paris FC"
+    }
+  ],
+  "career_clubs": [
+    "Flamengo",
+    "Sampaio Corrêa",
+    "Famalicão",
+    "Porto",
+    "Paris FC"
+  ]
+}

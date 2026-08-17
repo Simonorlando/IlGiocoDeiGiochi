@@ -1,0 +1,37 @@
+{
+  "player_id": 105043,
+  "full_name": "Georgios Samaras",
+  "nationality": "Greece",
+  "birth_date": "1985-02-21",
+  "birth_place": "Heraklion",
+  "career_transfers": [
+    {
+      "date": "2014-08-22",
+      "type": "Free",
+      "team_out": "Celtic",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "2.5M €",
+      "team_out": "Manchester City",
+      "team_in": "Celtic"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "Manchester City F.C.",
+    "Celtic F.C.",
+    "West Bromwich Albion F.C.",
+    "Al Hilal SFC",
+    "Rayo OKC",
+    "Real Zaragoza",
+    "Samsunspor FC"
+  ]
+}

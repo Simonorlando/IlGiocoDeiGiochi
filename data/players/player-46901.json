@@ -1,0 +1,28 @@
+{
+  "player_id": 46901,
+  "full_name": "Uroš Đurđević",
+  "nationality": "Montenegro",
+  "birth_date": "1994-03-02",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2018-08-21",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Sporting Gijon"
+    },
+    {
+      "date": "2017-08-30",
+      "type": "€ 3M",
+      "team_out": "FK Partizan",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "FK Rad",
+    "SBV Vitesse",
+    "Palermo F.C.",
+    "Sporting de Gijón",
+    "Atlas F.C."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 2919,
+  "full_name": "Matz Willy Els Sels",
+  "nationality": "Belgium",
+  "birth_date": "1992-02-26",
+  "birth_place": "Duffel",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 6.6M",
+      "team_out": "Gent",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2014-01-03",
+      "type": "€ 150K",
+      "team_out": "Lierse",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Lierse S.K.",
+    "KAA Gent",
+    "Newcastle United F.C.",
+    "RC Strasbourg Alsace",
+    "Nottingham Forest F.C."
+  ]
+}

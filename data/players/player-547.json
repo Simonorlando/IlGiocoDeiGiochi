@@ -1,0 +1,23 @@
+{
+  "player_id": 547,
+  "full_name": "Donny van de Beek",
+  "nationality": "Netherlands",
+  "birth_date": "1997-04-18",
+  "birth_place": "Nijkerkerveen",
+  "career_transfers": [
+    {
+      "date": "2020-09-02",
+      "type": "€ 39M",
+      "team_out": "Ajax",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "Manchester United F.C.",
+    "Everton F.C.",
+    "Eintracht Frankfurt",
+    "Girona FC"
+  ]
+}

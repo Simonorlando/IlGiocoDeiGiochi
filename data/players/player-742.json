@@ -1,0 +1,21 @@
+{
+  "player_id": 742,
+  "full_name": "Raphaël Xavier Varane",
+  "nationality": "France",
+  "birth_date": "1993-04-25",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2024-07-28",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Real Madrid Club de Fútbol",
+    "Manchester United F.C.",
+    "Como 1907"
+  ]
+}

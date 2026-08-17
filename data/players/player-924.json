@@ -1,0 +1,24 @@
+{
+  "player_id": 924,
+  "full_name": "Francis Joseph Coquelin",
+  "nationality": "France",
+  "birth_date": "1991-05-13",
+  "birth_place": "Laval",
+  "career_transfers": [
+    {
+      "date": "2020-08-12",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Stade Lavallois B",
+    "Arsenal F.C.",
+    "F.C. Lorient",
+    "SC Freiburg",
+    "Charlton Athletic F.C.",
+    "Valencia CF",
+    "Villarreal CF"
+  ]
+}

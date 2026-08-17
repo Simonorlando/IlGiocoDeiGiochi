@@ -1,0 +1,19 @@
+{
+  "player_id": 352375,
+  "full_name": "Arthur Augusto de Matos Soares",
+  "nationality": "Brazil",
+  "birth_date": "2003-03-17",
+  "birth_place": "Belo Horizonte",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 7M",
+      "team_out": "America Mineiro",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "América Mineiro",
+    "Bayer Leverkusen"
+  ]
+}

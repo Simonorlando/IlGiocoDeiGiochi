@@ -1,0 +1,54 @@
+{
+  "player_id": 1863,
+  "full_name": "Ciro Immobile",
+  "nationality": "Italy",
+  "birth_date": "1990-02-20",
+  "birth_place": "Torre Annunziata",
+  "career_transfers": [
+    {
+      "date": "2016-07-27",
+      "type": "€ 8.5M",
+      "team_out": "Sevilla",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2016-01-14",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2016-01-13",
+      "type": "€ 11M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2015-07-12",
+      "type": "Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Siena FC",
+    "U.S. Grosseto 1912",
+    "Delfino Pescara 1936",
+    "Genoa CFC",
+    "Torino FC",
+    "Borussia Dortmund",
+    "Sevilla FC",
+    "Torino FC",
+    "SS Lazio",
+    "Beşiktaş J.K. (Football)",
+    "Bologna F.C. 1909",
+    "Paris FC"
+  ]
+}

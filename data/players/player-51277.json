@@ -1,0 +1,21 @@
+{
+  "player_id": 51277,
+  "full_name": "Ali Adnan Kadhim Al Tameemi",
+  "nationality": "Iraq",
+  "birth_date": "1993-12-19",
+  "birth_place": "Baġdād",
+  "career_transfers": [
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Baghdad FC",
+    "Çaykur Rizespor",
+    "Udinese Calcio",
+    "Atalanta BC"
+  ]
+}

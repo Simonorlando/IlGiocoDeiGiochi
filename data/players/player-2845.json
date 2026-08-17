@@ -1,0 +1,38 @@
+{
+  "player_id": 2845,
+  "full_name": "Joel Nathaniel Campbell Samuels",
+  "nationality": "Costa Rica",
+  "birth_date": "1992-06-26",
+  "birth_place": "San José",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2015-01-24",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Saprissa",
+    "Puntarenas F.C.",
+    "Arsenal F.C.",
+    "F.C. Lorient",
+    "Real Betis Balompié",
+    "Olympiacos F.C.",
+    "Arsenal F.C.",
+    "Villarreal CF",
+    "Arsenal F.C.",
+    "Sporting CP",
+    "Arsenal F.C.",
+    "Real Betis Balompié",
+    "Frosinone Calcio",
+    "Club León",
+    "Frosinone Calcio"
+  ]
+}

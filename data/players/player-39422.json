@@ -1,0 +1,33 @@
+{
+  "player_id": 39422,
+  "full_name": "Paulo Rinaldo Cruzado Durand",
+  "nationality": "Peru",
+  "birth_date": "1984-09-21",
+  "birth_place": "Lima",
+  "career_transfers": [
+    {
+      "date": "2013-02-12",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Newells Old Boys"
+    },
+    {
+      "date": "2011-07-12",
+      "type": "€ 1M",
+      "team_out": "Juan Aurich",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "Club Alianza Lima",
+    "Grasshopper Club Zürich",
+    "Club Sporting Cristal",
+    "Esteghlal F.C.",
+    "Club Juan Aurich",
+    "AC ChievoVerona",
+    "Newell's Old Boys",
+    "Club Nacional de Football",
+    "CD Universidad César Vallejo",
+    "Club Alianza Lima"
+  ]
+}

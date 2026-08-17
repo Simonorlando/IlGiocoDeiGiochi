@@ -1,0 +1,31 @@
+{
+  "player_id": 31743,
+  "full_name": "Andrea La Mantia",
+  "nationality": "Italy",
+  "birth_date": "1991-05-06",
+  "birth_place": "Marino",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2020-01-11",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Pro Vercelli 1892",
+    "US Lecce"
+  ]
+}

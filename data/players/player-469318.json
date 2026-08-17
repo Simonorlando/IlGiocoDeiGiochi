@@ -1,0 +1,58 @@
+{
+  "player_id": 469318,
+  "full_name": "Fellipe Jack Ozilio Moreira Pacheco",
+  "nationality": "Brazil",
+  "birth_date": "2006-01-12",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Transfer",
+      "team_out": "Palmeiras",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Return from loan",
+      "team_out": "Spezia",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Catanzaro"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Catanzaro",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-07-13",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Palmeiras",
+    "Como",
+    "Spezia",
+    "Catanzaro",
+    "Cremonese"
+  ]
+}

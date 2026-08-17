@@ -1,0 +1,18 @@
+{
+  "player_id": 80552,
+  "full_name": "Gabriel Davi Gomes Sara",
+  "nationality": "Brazil",
+  "birth_date": "1999-06-26",
+  "birth_place": "Joinville",
+  "career_transfers": [
+    {
+      "date": "2024-08-04",
+      "type": "€ 18M",
+      "team_out": "Norwich",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC"
+  ]
+}

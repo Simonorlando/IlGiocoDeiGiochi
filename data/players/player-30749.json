@@ -1,0 +1,32 @@
+{
+  "player_id": 30749,
+  "full_name": "Emanuele Giaccherini",
+  "nationality": "Italy",
+  "birth_date": "1985-05-05",
+  "birth_place": "Bibbiena",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Sunderland",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Forlì F.C.",
+    "AC Cesena",
+    "A.C. Bellaria Igea Marina",
+    "AC Pavia 1911",
+    "Juventus FC",
+    "Sunderland A.F.C.",
+    "Bologna F.C. 1909",
+    "SSC Napoli",
+    "AC ChievoVerona"
+  ]
+}

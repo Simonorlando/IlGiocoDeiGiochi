@@ -1,0 +1,27 @@
+{
+  "player_id": 30757,
+  "full_name": "Sergej Grubac",
+  "nationality": "Montenegro",
+  "birth_date": "2000-05-29",
+  "birth_place": "Belgrade",
+  "career_transfers": [
+    {
+      "date": "2022-02-15",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "FC Botosani"
+    },
+    {
+      "date": "2018-07-03",
+      "type": "€ 200K",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "APOEL F.C.",
+    "AC ChievoVerona",
+    "FC Botoșani",
+    "AFC Chindia Târgoviște"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 37942,
+  "full_name": "Ricardo Dennie Kishna",
+  "nationality": "Netherlands",
+  "birth_date": "1995-01-04",
+  "birth_place": "Den Haag",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "ADO Den Haag"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "ADO Den Haag",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "ADO Den Haag"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2015-07-29",
+      "type": "€ 4M",
+      "team_out": "Ajax",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Jong Ajax",
+    "SS Lazio",
+    "Lille OSC"
+  ]
+}

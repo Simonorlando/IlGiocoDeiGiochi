@@ -1,0 +1,22 @@
+{
+  "player_id": 931,
+  "full_name": "Ferran Torres García",
+  "nationality": "Spain",
+  "birth_date": "2000-02-29",
+  "birth_place": "Foios",
+  "career_transfers": [
+    {
+      "date": "2020-08-04",
+      "type": "€ 22.1M",
+      "team_out": "Valencia",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "Manchester City F.C.",
+    "FC Barcelona",
+    "Paris Saint-Germain FC"
+  ]
+}

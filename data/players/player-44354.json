@@ -1,0 +1,35 @@
+{
+  "player_id": 44354,
+  "full_name": "Sebastian Giovinco",
+  "nationality": "Italy",
+  "birth_date": "1987-01-26",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 11M",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 3M",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2010-08-16",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Empoli FC",
+    "Parma Calcio 1913",
+    "Toronto FC",
+    "Al Hilal SFC",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 343287,
+  "full_name": "Dailon Rocha Livramento do Rosario",
+  "nationality": "Netherlands",
+  "birth_date": "2001-05-04",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2024-07-24",
+      "type": "€ 660K",
+      "team_out": "MVV",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2024-07-22",
+      "type": "Transfer",
+      "team_out": "MVV",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Casa Pia"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Casa Pia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Casa Pia",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Roda JC Kerkrade"
+  ]
+}

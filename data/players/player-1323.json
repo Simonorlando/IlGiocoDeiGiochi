@@ -1,0 +1,23 @@
+{
+  "player_id": 1323,
+  "full_name": "Daniel Olmo Carvajal",
+  "nationality": "Spain",
+  "birth_date": "1998-05-07",
+  "birth_place": "Terrassa",
+  "career_transfers": [
+    {
+      "date": "2024-08-09",
+      "type": "€ 55M",
+      "team_out": "RB Leipzig",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol de Barcelona",
+    "FC Barcelona",
+    "GNK Dinamo Zagreb",
+    "GNK Dinamo Zagreb Academy",
+    "RB Leipzig",
+    "FC Barcelona"
+  ]
+}

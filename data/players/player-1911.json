@@ -1,0 +1,43 @@
+{
+  "player_id": 1911,
+  "full_name": "Lucas Ariel Ocampos",
+  "nationality": "Argentina",
+  "birth_date": "1994-07-11",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "€ 7.3M",
+      "team_out": "Sevilla",
+      "team_in": "Monterrey"
+    },
+    {
+      "date": "2023-01-18",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2022-08-31",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "€ 15M",
+      "team_out": "Marseille",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "AS Monaco FC",
+    "Olympique de Marseille",
+    "Genoa CFC",
+    "AC Milan",
+    "Sevilla FC",
+    "AFC Ajax",
+    "Club de Fútbol Monterrey"
+  ]
+}

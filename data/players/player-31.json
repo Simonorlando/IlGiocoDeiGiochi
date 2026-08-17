@@ -1,0 +1,19 @@
+{
+  "player_id": 31,
+  "full_name": "José María Giménez de Vargas",
+  "nationality": "Uruguay",
+  "birth_date": "1995-01-20",
+  "birth_place": "Toledo",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 995K",
+      "team_out": "Danubio",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Atlético Madrid"
+  ]
+}

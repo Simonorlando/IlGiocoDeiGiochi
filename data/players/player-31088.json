@@ -1,0 +1,35 @@
+{
+  "player_id": 31088,
+  "full_name": "Paolo Sammarco",
+  "nationality": "Italy",
+  "birth_date": "1983-03-17",
+  "birth_place": "Como",
+  "career_transfers": [
+    {
+      "date": "2015-01-21",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2012-08-09",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Viterbese 1908",
+    "AC Milan",
+    "AC ChievoVerona",
+    "A.C. Prato",
+    "AC Milan",
+    "AC ChievoVerona",
+    "U.C. Sampdoria",
+    "Udinese Calcio",
+    "AC Cesena",
+    "AC ChievoVerona",
+    "Spezia Calcio",
+    "Frosinone Calcio"
+  ]
+}

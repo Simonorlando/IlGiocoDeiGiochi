@@ -1,0 +1,21 @@
+{
+  "player_id": 63577,
+  "full_name": "Mykhailo Mudryk",
+  "nationality": "Ukraine",
+  "birth_date": "2001-01-05",
+  "birth_place": "Krasnohrad",
+  "career_transfers": [
+    {
+      "date": "2023-01-15",
+      "type": "€ 70M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar Donetsk",
+    "FC Arsenal Kyiv",
+    "FC Desna Chernihiv",
+    "Chelsea F.C."
+  ]
+}

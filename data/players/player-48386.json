@@ -1,0 +1,24 @@
+{
+  "player_id": 48386,
+  "full_name": "Valentin Stocker",
+  "nationality": "Switzerland",
+  "birth_date": "1989-04-12",
+  "birth_place": "Kriens",
+  "career_transfers": [
+    {
+      "date": "2018-01-10",
+      "type": "€ N/A",
+      "team_out": "Hertha Berlin",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Hertha Berlin"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel"
+  ]
+}

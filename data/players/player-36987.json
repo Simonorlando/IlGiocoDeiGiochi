@@ -1,0 +1,19 @@
+{
+  "player_id": 36987,
+  "full_name": "Sam Adrianus Martinus Lammers",
+  "nationality": "Netherlands",
+  "birth_date": "1997-04-30",
+  "birth_place": "Tilburg",
+  "career_transfers": [
+    {
+      "date": "2022-08-07",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "Jong PSV"
+  ]
+}

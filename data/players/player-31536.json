@@ -1,0 +1,30 @@
+{
+  "player_id": 31536,
+  "full_name": "Fabrizio Alastra",
+  "nationality": "Italy",
+  "birth_date": "1997-10-01",
+  "birth_place": "Erice",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-02-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C."
+  ]
+}

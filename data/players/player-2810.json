@@ -1,0 +1,41 @@
+{
+  "player_id": 2810,
+  "full_name": "Denis Lemi Zakaria Lako Lado",
+  "nationality": "Switzerland",
+  "birth_date": "1996-11-20",
+  "birth_place": "Genève",
+  "career_transfers": [
+    {
+      "date": "2023-08-14",
+      "type": "€ 20M",
+      "team_out": "Juventus",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Chelsea",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "€ 8.6M",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Servette FC",
+    "BSC Young Boys",
+    "Borussia Mönchengladbach",
+    "Juventus FC",
+    "Chelsea F.C.",
+    "AS Monaco FC"
+  ]
+}

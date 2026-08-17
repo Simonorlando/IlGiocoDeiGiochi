@@ -1,0 +1,31 @@
+{
+  "player_id": 32,
+  "full_name": "Diego Roberto Godín Leal",
+  "nationality": "Uruguay",
+  "birth_date": "1986-02-16",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2010-08-14",
+      "type": "€ 8M",
+      "team_out": "Villarreal",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 800K",
+      "team_out": "Club Nacional",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "C.A. Cerro",
+    "Club Nacional de Football",
+    "Villarreal CF",
+    "Atlético Madrid",
+    "Inter Milan",
+    "Cagliari Calcio",
+    "Clube Atlético Mineiro",
+    "Club Atlético Vélez Sarsfield"
+  ]
+}

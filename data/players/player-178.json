@@ -1,0 +1,27 @@
+{
+  "player_id": 178,
+  "full_name": "Lucas Rodrigues Moura da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1992-08-13",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "€ 28.4M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2013-01-01",
+      "type": "€ 40M",
+      "team_out": "Sao Paulo",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Paris Saint-Germain FC",
+    "Tottenham Hotspur F.C.",
+    "São Paulo FC"
+  ]
+}

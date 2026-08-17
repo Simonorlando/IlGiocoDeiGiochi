@@ -1,0 +1,61 @@
+{
+  "player_id": 192,
+  "full_name": "Dalbert Henrique Chagas Estevão",
+  "nationality": "Brazil",
+  "birth_date": "1993-09-08",
+  "birth_place": "Barra Mansa",
+  "career_transfers": [
+    {
+      "date": "2023-09-04",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Internacional"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2021-07-21",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Rennes",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2019-08-29",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2017-08-09",
+      "type": "€ 20M",
+      "team_out": "Nice",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Clube de Regatas do Flamengo"
+  ]
+}

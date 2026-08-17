@@ -1,0 +1,21 @@
+{
+  "player_id": 18802,
+  "full_name": "Étienne René Capoue",
+  "nationality": "France",
+  "birth_date": "1988-07-11",
+  "birth_place": "Niort",
+  "career_transfers": [
+    {
+      "date": "2021-01-01",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC",
+    "Tottenham Hotspur F.C.",
+    "Watford F.C.",
+    "Villarreal CF"
+  ]
+}

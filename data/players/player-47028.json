@@ -1,0 +1,22 @@
+{
+  "player_id": 47028,
+  "full_name": "Diego Ángel Capel Trinidad",
+  "nationality": "Spain",
+  "birth_date": "1988-02-16",
+  "birth_place": "Albox",
+  "career_transfers": [
+    {
+      "date": "2011-07-19",
+      "type": "€ 3.5M",
+      "team_out": "Sevilla",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona",
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Sporting CP",
+    "Genoa CFC"
+  ]
+}

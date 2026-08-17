@@ -1,0 +1,26 @@
+{
+  "player_id": 275394,
+  "full_name": "Antoine Hainaut",
+  "nationality": "France",
+  "birth_date": "2002-02-18",
+  "birth_place": "Boulogne",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Boulogne",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-08-15",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Boulogne",
+    "Parma",
+    "Venezia"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 42315,
+  "full_name": "Mehdi Taremi",
+  "nationality": "Iran",
+  "birth_date": "1992-07-18",
+  "birth_place": "Bushehr",
+  "career_transfers": [
+    {
+      "date": "2024-07-13",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Shahin Bushehr F.C.",
+    "Iranjavan F.C.",
+    "Persepolis F.C.",
+    "Al-Gharafa SC",
+    "Rio Ave F.C.",
+    "FC Porto",
+    "Inter Milan",
+    "Olympiacos F.C."
+  ]
+}

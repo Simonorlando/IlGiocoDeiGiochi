@@ -1,0 +1,34 @@
+{
+  "player_id": 54724,
+  "full_name": "Lucimar da Silva Ferreira",
+  "nationality": "Brazil",
+  "birth_date": "1978-05-08",
+  "birth_place": "Brasília",
+  "career_transfers": [
+    {
+      "date": "2012-07-05",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2009-07-17",
+      "type": "€ 7M",
+      "team_out": "Bayern Munich",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas Guará",
+    "S.C. Internacional",
+    "Bayer 04 Leverkusen",
+    "FC Bayern Munich",
+    "Inter Milan",
+    "Juventus FC",
+    "São Paulo FC",
+    "Sociedade Esportiva Palmeiras",
+    "FC Goa",
+    "Sociedade Esportiva do Gama",
+    "Brasiliense Futebol Clube"
+  ]
+}

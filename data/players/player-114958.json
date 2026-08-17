@@ -1,0 +1,23 @@
+{
+  "player_id": 114958,
+  "full_name": "Daniel Van Buyten",
+  "nationality": "Belgium",
+  "birth_date": "1978-02-07",
+  "birth_place": "Chimay",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "€ 8M",
+      "team_out": "Hamburger SV",
+      "team_in": "Bayern Munich"
+    }
+  ],
+  "career_clubs": [
+    "Royal Charleroi S.C.",
+    "Standard Liège",
+    "Olympique de Marseille",
+    "Hamburger SV",
+    "Manchester City F.C.",
+    "FC Bayern Munich"
+  ]
+}

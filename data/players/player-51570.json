@@ -1,0 +1,45 @@
+{
+  "player_id": 51570,
+  "full_name": "Álvaro Daniel Pereira Barragán",
+  "nationality": "Uruguay",
+  "birth_date": "1985-11-28",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2016-02-02",
+      "type": "€ 2M",
+      "team_out": "Inter",
+      "team_in": "Estudiantes L.P."
+    },
+    {
+      "date": "2015-01-23",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Estudiantes L.P."
+    },
+    {
+      "date": "2014-01-20",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2012-08-23",
+      "type": "€ 10M",
+      "team_out": "FC Porto",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Miramar Misiones",
+    "Quilmes Atlético Club",
+    "Argentinos Juniors",
+    "CFR Cluj",
+    "FC Porto",
+    "Inter Milan",
+    "São Paulo FC",
+    "Estudiantes de La Plata",
+    "Getafe CF",
+    "Cerro Porteño"
+  ]
+}

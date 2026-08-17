@@ -1,0 +1,19 @@
+{
+  "player_id": 2068,
+  "full_name": "Matvey Safonov",
+  "nationality": "Russia",
+  "birth_date": "1999-02-25",
+  "birth_place": "Krasnodar",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 20M",
+      "team_out": "FC Krasnodar",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "FC Krasnodar",
+    "Paris Saint-Germain FC"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 9948,
+  "full_name": "Bruno da Silva Peres",
+  "nationality": "Brazil",
+  "birth_date": "1990-03-01",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 12.5M",
+      "team_out": "Torino",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2016-08-16",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "N/A",
+      "team_out": "Santos",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Audax São Paulo Esporte Clube",
+    "Red Bull Bragantino",
+    "Guarani Futebol Clube",
+    "Santos F.C.",
+    "AS Roma",
+    "São Paulo FC"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "player_id": 53654,
+  "full_name": "Toni Šunjić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1988-12-15",
+  "birth_place": "Mostar",
+  "career_transfers": [
+    {
+      "date": "2017-01-20",
+      "type": "Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "HŠK Zrinjski Mostar",
+    "K.V. Kortrijk",
+    "FC Zorya Luhansk",
+    "FC Kuban Krasnodar",
+    "VfB Stuttgart",
+    "Palermo F.C."
+  ]
+}

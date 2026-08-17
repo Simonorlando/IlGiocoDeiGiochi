@@ -1,0 +1,32 @@
+{
+  "player_id": 733,
+  "full_name": "Daniel Carvajal Ramos",
+  "nationality": "Spain",
+  "birth_date": "1992-01-11",
+  "birth_place": "Leganés",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2012-07-12",
+      "type": "€ 5M",
+      "team_out": "Real Madrid",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Real Madrid",
+      "team_in": "Carvajal Daniel"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Bayer 04 Leverkusen",
+    "Real Madrid Club de Fútbol"
+  ]
+}

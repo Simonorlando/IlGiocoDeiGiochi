@@ -1,0 +1,26 @@
+{
+  "player_id": 31631,
+  "full_name": "Nicola Leali",
+  "nationality": "Italy",
+  "birth_date": "1993-02-17",
+  "birth_place": "Castiglione delle Stiviere",
+  "career_transfers": [
+    {
+      "date": "2012-07-04",
+      "type": "€ 3.8M",
+      "team_out": "Brescia",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Lanciano Calcio 1920",
+    "Juventus FC",
+    "Spezia Calcio",
+    "AC Cesena",
+    "Frosinone Calcio",
+    "A.C. Perugia Calcio",
+    "Genoa CFC",
+    "Hellas Verona FC"
+  ]
+}

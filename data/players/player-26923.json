@@ -1,0 +1,30 @@
+{
+  "player_id": 26923,
+  "full_name": "Andi Lila",
+  "nationality": "Albania",
+  "birth_date": "1986-02-12",
+  "birth_place": "Kavajë",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "PAS Giannina"
+    },
+    {
+      "date": "2015-01-09",
+      "type": "Loan",
+      "team_out": "PAS Giannina",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "KF Besa Kavajë",
+    "G.S. Iraklis Thessalonikis (men's association football)",
+    "KF Besa Kavajë",
+    "K.F. Tirana",
+    "PAS Giannina F.C.",
+    "Parma Calcio 1913",
+    "K.F. Tirana"
+  ]
+}

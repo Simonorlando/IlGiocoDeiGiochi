@@ -1,0 +1,27 @@
+{
+  "player_id": 12797,
+  "full_name": "Alex Teixeira Santos",
+  "nationality": "Brazil",
+  "birth_date": "1990-01-06",
+  "birth_place": "Duque de Caxias",
+  "career_transfers": [
+    {
+      "date": "2016-02-05",
+      "type": "€ 50M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Jiangsu Suning"
+    },
+    {
+      "date": "2010-01-01",
+      "type": "€ 6M",
+      "team_out": "Vasco DA Gama",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "CR Vasco da Gama",
+    "FC Shakhtar Donetsk",
+    "Inter Milan",
+    "Liverpool F.C."
+  ]
+}

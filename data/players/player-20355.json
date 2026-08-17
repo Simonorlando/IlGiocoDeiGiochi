@@ -1,0 +1,32 @@
+{
+  "player_id": 20355,
+  "full_name": "Aaron Christopher Ramsdale",
+  "nationality": "England",
+  "birth_date": "1998-05-14",
+  "birth_place": "Stoke-on-Trent",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "21.4M",
+      "team_out": "Arsenal",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2021-08-20",
+      "type": "€ 28M",
+      "team_out": "Sheffield Utd",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Sheffield United F.C.",
+    "Worksop Town F.C.",
+    "AFC Bournemouth",
+    "Chesterfield F.C.",
+    "AFC Wimbledon",
+    "Sheffield United F.C.",
+    "Arsenal F.C.",
+    "Southampton F.C.",
+    "Newcastle United F.C."
+  ]
+}

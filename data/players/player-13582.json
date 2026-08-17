@@ -1,0 +1,29 @@
+{
+  "player_id": 13582,
+  "full_name": "Matías Ariel Fernández Fernández",
+  "nationality": "Chile",
+  "birth_date": "1986-05-15",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2009-06-28",
+      "type": "€ 3.6M",
+      "team_out": "Villarreal",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 8.7M",
+      "team_out": "Colo Colo",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Social y Deportivo Colo Colo",
+    "Villarreal CF",
+    "Sporting CP",
+    "Club Necaxa",
+    "Club Social y Deportivo Colo Colo",
+    "ACF Fiorentina"
+  ]
+}

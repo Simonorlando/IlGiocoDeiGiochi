@@ -1,0 +1,44 @@
+{
+  "player_id": 885,
+  "full_name": "Eric Bertrand Bailly",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1994-04-12",
+  "birth_place": "Bingerville",
+  "career_transfers": [
+    {
+      "date": "2024-01-02",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 38M",
+      "team_out": "Villarreal",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2015-01-29",
+      "type": "€ 5.7M",
+      "team_out": "Espanyol",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Free Transfer",
+      "team_out": "Villarreal",
+      "team_in": "Oviedo"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "Villarreal CF",
+    "Manchester United F.C.",
+    "Olympique de Marseille",
+    "Beşiktaş J.K. (Football)",
+    "Villarreal CF",
+    "Real Oviedo",
+    "Columbus Crew"
+  ]
+}

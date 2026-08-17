@@ -1,0 +1,30 @@
+{
+  "player_id": 19300,
+  "full_name": "Diogo António Cupido Gonçalves",
+  "nationality": "Portugal",
+  "birth_date": "1997-02-06",
+  "birth_place": "Beja",
+  "career_transfers": [
+    {
+      "date": "2024-08-09",
+      "type": "N/A",
+      "team_out": "FC Copenhagen",
+      "team_in": "Real Salt Lake"
+    },
+    {
+      "date": "2023-01-01",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Nottingham Forest F.C.",
+    "FC Famalicão",
+    "F.C. Copenhagen",
+    "Real Salt Lake",
+    "Konyaspor"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 361497,
+  "full_name": "Dean Donny Huijsen",
+  "nationality": "Netherlands",
+  "birth_date": "2005-04-14",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2025-06-01",
+      "type": "Transfer",
+      "team_out": "Bournemouth",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen",
+    "Juventus FC",
+    "AS Roma",
+    "AFC Bournemouth",
+    "Real Madrid Club de Fútbol"
+  ]
+}

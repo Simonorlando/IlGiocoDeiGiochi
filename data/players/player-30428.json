@@ -1,0 +1,27 @@
+{
+  "player_id": 30428,
+  "full_name": "José Luis Palomino",
+  "nationality": "Argentina",
+  "birth_date": "1990-01-05",
+  "birth_place": "Esquina",
+  "career_transfers": [
+    {
+      "date": "2024-08-13",
+      "type": "Free",
+      "team_out": "Atalanta",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Ludogorets",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro",
+    "Argentinos Juniors",
+    "FC Metz",
+    "Atalanta BC"
+  ]
+}

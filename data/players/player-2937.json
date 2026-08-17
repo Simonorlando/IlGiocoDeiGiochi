@@ -1,0 +1,19 @@
+{
+  "player_id": 2937,
+  "full_name": "Declan Rice",
+  "nationality": "England",
+  "birth_date": "1999-01-14",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-07-15",
+      "type": "€ 116.6M",
+      "team_out": "West Ham",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "West Ham United F.C.",
+    "Arsenal F.C."
+  ]
+}

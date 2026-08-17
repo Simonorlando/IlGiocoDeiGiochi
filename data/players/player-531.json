@@ -1,0 +1,60 @@
+{
+  "player_id": 531,
+  "full_name": "Daley Blind",
+  "nationality": "Netherlands",
+  "birth_date": "1990-03-09",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2023-01-05",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2018-07-17",
+      "type": "€ 15.8M",
+      "team_out": "Manchester United",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "€ 18.3M",
+      "team_out": "Ajax",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Groningen",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2010-01-05",
+      "type": "Loan",
+      "team_out": "Ajax",
+      "team_in": "Groningen"
+    },
+    {
+      "date": "2026-07-07",
+      "type": "Free agent",
+      "team_out": "Girona",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Girona",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "FC Groningen",
+    "Manchester United F.C.",
+    "AFC Ajax",
+    "FC Bayern Munich",
+    "Girona FC",
+    "AFC Ajax"
+  ]
+}

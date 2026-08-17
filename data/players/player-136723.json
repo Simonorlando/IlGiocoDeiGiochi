@@ -1,0 +1,21 @@
+{
+  "player_id": 136723,
+  "full_name": "Chukwunonso Tristan Madueke",
+  "nationality": "England",
+  "birth_date": "2002-03-10",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-01-20",
+      "type": "€ 35M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV Eindhoven",
+    "Chelsea F.C.",
+    "Arsenal F.C."
+  ]
+}

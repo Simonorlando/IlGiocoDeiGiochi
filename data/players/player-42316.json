@@ -1,0 +1,33 @@
+{
+  "player_id": 42316,
+  "full_name": "Vladimír Weiss",
+  "nationality": "Slovakia",
+  "birth_date": "1989-11-30",
+  "birth_place": "Bratislava",
+  "career_transfers": [
+    {
+      "date": "2014-01-26",
+      "type": "€ 4M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Al-Duhail SC"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Bolton Wanderers F.C.",
+    "Rangers F.C.",
+    "RCD Espanyol de Barcelona",
+    "Delfino Pescara 1936",
+    "Olympiacos F.C.",
+    "Al-Duhail SC",
+    "Al-Gharafa SC",
+    "FK Inter Bratislava",
+    "Manchester City F.C."
+  ]
+}

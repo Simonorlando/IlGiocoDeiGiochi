@@ -1,0 +1,43 @@
+{
+  "player_id": 30997,
+  "full_name": "Niccolò Zanellato",
+  "nationality": "Italy",
+  "birth_date": "1998-06-24",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2022-01-29",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2018-01-30",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "F.C. Crotone"
+  ]
+}

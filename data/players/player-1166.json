@@ -1,0 +1,53 @@
+{
+  "player_id": 1166,
+  "full_name": "Timo Werner",
+  "nationality": "Germany",
+  "birth_date": "1996-03-06",
+  "birth_place": "Stuttgart",
+  "career_transfers": [
+    {
+      "date": "2024-01-09",
+      "type": "Loan",
+      "team_out": "RB Leipzig",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2022-08-09",
+      "type": "€ 20M",
+      "team_out": "Chelsea",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2020-07-27",
+      "type": "€ 53M",
+      "team_out": "RB Leipzig",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 10M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Tottenham",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Free agent",
+      "team_out": "RB Leipzig",
+      "team_in": "San Jose Earthquakes"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "RB Leipzig",
+    "Chelsea F.C.",
+    "RB Leipzig",
+    "Tottenham Hotspur F.C.",
+    "San Jose Earthquakes"
+  ]
+}

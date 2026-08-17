@@ -1,0 +1,21 @@
+{
+  "player_id": 30561,
+  "full_name": "Alessandro Deiola",
+  "nationality": "Italy",
+  "birth_date": "1995-08-01",
+  "birth_place": "San Gavino Monreale",
+  "career_transfers": [
+    {
+      "date": "2020-01-10",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "AC Tuttocuoio 1957 San Miniato SSD",
+    "Spezia Calcio",
+    "Parma Calcio 1913"
+  ]
+}

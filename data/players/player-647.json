@@ -1,0 +1,20 @@
+{
+  "player_id": 647,
+  "full_name": "Anthony Lopes",
+  "nationality": "Portugal",
+  "birth_date": "1990-10-01",
+  "birth_place": "Givors",
+  "career_transfers": [
+    {
+      "date": "2025-01-01",
+      "type": "Free Transfer",
+      "team_out": "Lyon",
+      "team_in": "Nantes"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "FC Nantes",
+    "Angers SCO"
+  ]
+}

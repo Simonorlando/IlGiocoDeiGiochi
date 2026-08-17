@@ -1,0 +1,36 @@
+{
+  "player_id": 31354,
+  "full_name": "Guglielmo Vicario",
+  "nationality": "Italy",
+  "birth_date": "1996-10-07",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2019-07-17",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2016-07-05",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "A.S.D. Comunale Fontanafredda",
+    "Venezia F.C.",
+    "Cagliari Calcio",
+    "A.C. Perugia Calcio",
+    "Empoli FC",
+    "Tottenham Hotspur F.C."
+  ]
+}

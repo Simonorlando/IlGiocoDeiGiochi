@@ -1,0 +1,58 @@
+{
+  "player_id": 18778,
+  "full_name": "Harvey Lewis Barnes",
+  "nationality": "England",
+  "birth_date": "1997-12-09",
+  "birth_place": "Burnley",
+  "career_transfers": [
+    {
+      "date": "2023-07-23",
+      "type": "€ 44M",
+      "team_out": "Leicester",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2019-01-11",
+      "type": "N/A",
+      "team_out": "West Brom",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2018-07-24",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2018-01-01",
+      "type": "N/A",
+      "team_out": "Barnsley",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-08-11",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "Barnsley"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Milton Keynes Dons",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2017-01-20",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "Milton Keynes Dons"
+    }
+  ],
+  "career_clubs": [
+    "Leicester City F.C.",
+    "Milton Keynes Dons F.C.",
+    "Barnsley F.C.",
+    "West Bromwich Albion F.C.",
+    "Newcastle United F.C."
+  ]
+}

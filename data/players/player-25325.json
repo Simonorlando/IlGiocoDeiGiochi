@@ -1,0 +1,42 @@
+{
+  "player_id": 25325,
+  "full_name": "Nuri Şahin",
+  "nationality": "Turkey",
+  "birth_date": "1988-09-05",
+  "birth_place": "Lüdenscheid",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 7M",
+      "team_out": "Real Madrid",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2013-01-12",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2012-08-25",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 10M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Feyenoord Rotterdam",
+    "Real Madrid Club de Fútbol",
+    "Liverpool F.C.",
+    "Borussia Dortmund",
+    "SV Werder Bremen",
+    "Antalyaspor"
+  ]
+}

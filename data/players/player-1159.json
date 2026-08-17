@@ -1,0 +1,30 @@
+{
+  "player_id": 1159,
+  "full_name": "Marcel Sabitzer",
+  "nationality": "Austria",
+  "birth_date": "1994-03-17",
+  "birth_place": "Graz",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2014-07-02",
+      "type": "Loan",
+      "team_out": "RB Leipzig",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Admira Wacker",
+    "SK Rapid Wien",
+    "RB Leipzig",
+    "FC Red Bull Salzburg",
+    "FC Bayern Munich",
+    "Manchester United F.C.",
+    "Borussia Dortmund"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 19256,
+  "full_name": "Niki Emil Antonio Mäenpää",
+  "nationality": "Finland",
+  "birth_date": "1985-01-23",
+  "birth_place": "Espoo",
+  "career_transfers": [
+    {
+      "date": "2023-08-04",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "HJK helsinki"
+    },
+    {
+      "date": "2021-02-15",
+      "type": "Free",
+      "team_out": "Stoke City",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Helsingin Jalkapalloklubi",
+    "SC Telstar",
+    "FC Den Bosch",
+    "AZ Alkmaar",
+    "VVV-Venlo",
+    "Brighton & Hove Albion F.C."
+  ]
+}

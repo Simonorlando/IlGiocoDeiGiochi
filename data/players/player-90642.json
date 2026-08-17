@@ -1,0 +1,19 @@
+{
+  "player_id": 90642,
+  "full_name": "Stefan Kießling",
+  "nationality": "Germany",
+  "birth_date": "1984-01-25",
+  "birth_place": "Lichtenfels",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "€ 6.5M",
+      "team_out": "FC Nurnberg",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Nürnberg",
+    "Bayer 04 Leverkusen"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 18809,
+  "full_name": "Gerard Deulofeu Lázaro",
+  "nationality": "Spain",
+  "birth_date": "1994-03-13",
+  "birth_place": "Riudarenes",
+  "career_transfers": [
+    {
+      "date": "2014-08-18",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona",
+    "FC Barcelona Atlètic",
+    "Sevilla FC",
+    "Everton F.C.",
+    "FC Barcelona",
+    "2021–22 F.C. Turris 1944 A.S.D. season",
+    "S.S.D. Puteolana 1902",
+    "Latina Calcio 1932",
+    "Vico Equense Calcio 1958",
+    "U.S. Salernitana 1919",
+    "U.S. Angri Calcio 1927 A.S.D.",
+    "S.S.D. Puteolana 1902 Internapoli"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 1615,
+  "full_name": "Gil Bastião Dias",
+  "nationality": "Portugal",
+  "birth_date": "1996-09-28",
+  "birth_place": "Gafanha da Nazaré",
+  "career_transfers": [
+    {
+      "date": "2017-08-15",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Varzim S.C.",
+    "ACF Fiorentina"
+  ]
+}

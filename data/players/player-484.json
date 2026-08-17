@@ -1,0 +1,25 @@
+{
+  "player_id": 484,
+  "full_name": "Aleksey Miranchuk",
+  "nationality": "Russia",
+  "birth_date": "1995-10-17",
+  "birth_place": "Slavyansk-na-Kubani",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2022-08-11",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FC Lokomotiv Moscow",
+    "Atalanta BC"
+  ]
+}

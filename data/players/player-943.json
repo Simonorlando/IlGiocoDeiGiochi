@@ -1,0 +1,26 @@
+{
+  "player_id": 943,
+  "full_name": "Ulisses Alexandre Garcia Lopes",
+  "nationality": "Switzerland",
+  "birth_date": "1996-01-11",
+  "birth_place": "Almada",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sassuolo",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "SV Werder Bremen",
+    "1. FC Nürnberg"
+  ]
+}

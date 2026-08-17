@@ -1,0 +1,69 @@
+{
+  "player_id": 117,
+  "full_name": "William Vainqueur",
+  "nationality": "France",
+  "birth_date": "1988-11-19",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2019-06-25",
+      "type": "Loan",
+      "team_out": "Antalyaspor",
+      "team_in": "Toulouse"
+    },
+    {
+      "date": "2019-06-24",
+      "type": "N/A",
+      "team_out": "Monaco",
+      "team_in": "Antalyaspor"
+    },
+    {
+      "date": "2019-01-09",
+      "type": "Loan",
+      "team_out": "Antalyaspor",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2017-09-07",
+      "type": "€ 450K",
+      "team_out": "AS Roma",
+      "team_in": "Antalyaspor"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Marseille",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "€ 600K",
+      "team_out": "Dinamo Moscow",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 6M",
+      "team_out": "Standard Liege",
+      "team_in": "Dinamo Moscow"
+    },
+    {
+      "date": "2011-08-30",
+      "type": "€ 2M",
+      "team_out": "Nantes",
+      "team_in": "Standard Liege"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Standard Liège",
+    "FC Dinamo Moscow",
+    "AS Roma"
+  ]
+}

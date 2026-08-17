@@ -1,0 +1,42 @@
+{
+  "player_id": 30460,
+  "full_name": "Gianluca Caprari",
+  "nationality": "Italy",
+  "birth_date": "1993-07-30",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 7.5M",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-07-21",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Padova"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Delfino Pescara 1936",
+    "AS Roma",
+    "Delfino Pescara 1936",
+    "Inter Milan",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919"
+  ]
+}

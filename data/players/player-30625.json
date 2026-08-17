@@ -1,0 +1,24 @@
+{
+  "player_id": 30625,
+  "full_name": "Lorenzo Crisetig",
+  "nationality": "Italy",
+  "birth_date": "1993-01-20",
+  "birth_place": "Cividale del Friulli",
+  "career_transfers": [
+    {
+      "date": "2012-07-06",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Spezia Calcio",
+    "Parma Calcio 1913",
+    "F.C. Crotone",
+    "Inter Milan",
+    "Cagliari Calcio",
+    "Bologna F.C. 1909"
+  ]
+}

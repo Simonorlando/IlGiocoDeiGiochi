@@ -1,0 +1,53 @@
+{
+  "player_id": 1291,
+  "full_name": "Denis Vavro",
+  "nationality": "Slovakia",
+  "birth_date": "1996-04-10",
+  "birth_place": "Partizánske",
+  "career_transfers": [
+    {
+      "date": "2022-07-06",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "FC Copenhagen",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2022-01-24",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Huesca",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Huesca"
+    },
+    {
+      "date": "2019-07-05",
+      "type": "€ 10.5M",
+      "team_out": "FC Copenhagen",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "MŠK Žilina",
+    "F.C. Copenhagen",
+    "SS Lazio",
+    "Sociedad Deportiva Huesca",
+    "F.C. Copenhagen",
+    "VfL Wolfsburg"
+  ]
+}

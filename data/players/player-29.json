@@ -1,0 +1,25 @@
+{
+  "player_id": 29,
+  "full_name": "Jan Oblak",
+  "nationality": "Slovenia",
+  "birth_date": "1993-01-07",
+  "birth_place": "Škofja Loka",
+  "career_transfers": [
+    {
+      "date": "2014-07-17",
+      "type": "€ 16M",
+      "team_out": "Benfica",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "NK Olimpija Ljubljana",
+    "S.L. Benfica",
+    "S.C. Beira-Mar",
+    "S.C. Olhanense",
+    "U.D. Leiria",
+    "Rio Ave F.C.",
+    "S.L. Benfica B",
+    "Atlético Madrid"
+  ]
+}

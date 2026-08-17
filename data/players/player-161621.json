@@ -1,0 +1,29 @@
+{
+  "player_id": 161621,
+  "full_name": "Loum Tchaouna",
+  "nationality": "France",
+  "birth_date": "2003-09-08",
+  "birth_place": "N'Djamena",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 10M",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "N/A",
+      "team_out": "Rennes",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Rennes",
+    "Dijon",
+    "Salernitana",
+    "Lazio",
+    "Burnley",
+    "Coventry City"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 635,
+  "full_name": "Riyad Karim Mahrez",
+  "nationality": "Algeria",
+  "birth_date": "1991-02-21",
+  "birth_place": "Sarcelles",
+  "career_transfers": [
+    {
+      "date": "2023-07-28",
+      "type": "N/A",
+      "team_out": "Manchester City",
+      "team_in": "Al-Ahli Jeddah"
+    },
+    {
+      "date": "2018-07-10",
+      "type": "€ 67.8M",
+      "team_out": "Leicester",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Quimper Kerfeunteun F.C.",
+    "Le Havre AC",
+    "Leicester City F.C.",
+    "Manchester City F.C.",
+    "Al Ahli FC"
+  ]
+}

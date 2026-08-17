@@ -1,0 +1,40 @@
+{
+  "player_id": 31542,
+  "full_name": "Giuseppe Bellusci",
+  "nationality": "Italy",
+  "birth_date": "1989-08-21",
+  "birth_place": "Trebisacce",
+  "career_transfers": [
+    {
+      "date": "2022-07-10",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-01-04",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2019-07-25",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Ascoli Calcio 1898 FC",
+    "Catania FC",
+    "Leeds United F.C.",
+    "Palermo F.C.",
+    "Empoli FC"
+  ]
+}

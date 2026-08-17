@@ -1,0 +1,43 @@
+{
+  "player_id": 47282,
+  "full_name": "Raúl García Escudero",
+  "nationality": "Spain",
+  "birth_date": "1986-07-11",
+  "birth_place": "Pamplona",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Athletic Club"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Osasuna",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2011-08-17",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 13M",
+      "team_out": "Osasuna",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Osasuna B",
+    "Club Atlético Osasuna",
+    "Basque Country regional football team",
+    "Atlético Madrid",
+    "Club Atlético Osasuna",
+    "Athletic Club",
+    "Club Atlético Osasuna",
+    "CF Ardoi FE"
+  ]
+}

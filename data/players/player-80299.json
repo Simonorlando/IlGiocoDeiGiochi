@@ -1,0 +1,28 @@
+{
+  "player_id": 80299,
+  "full_name": "Felipe Augusto Santana",
+  "nationality": "Brazil",
+  "birth_date": "1986-03-17",
+  "birth_place": "Rio Claro",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2015-01-31",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "CR Vasco da Gama",
+    "Figueirense Futebol Clube",
+    "Schalke 04",
+    "Olympiacos F.C.",
+    "FC Kuban Krasnodar"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 30802,
+  "full_name": "Emmanuel Agyemang-Badu",
+  "nationality": "Ghana",
+  "birth_date": "1990-12-02",
+  "birth_place": "Seikwa",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 800K",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2019-07-14",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Berekum Arsenal",
+    "Asante Kotoko F.C.",
+    "Recreativo de Huelva",
+    "Udinese Calcio"
+  ]
+}

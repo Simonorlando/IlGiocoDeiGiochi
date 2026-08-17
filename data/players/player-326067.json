@@ -1,0 +1,20 @@
+{
+  "player_id": 326067,
+  "full_name": "Anis Hadj-Moussa",
+  "nationality": "Algeria",
+  "birth_date": "2002-02-11",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2024-06-24",
+      "type": "N/A",
+      "team_out": "Patro Eisden",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "Patro Eisden",
+    "Vitesse",
+    "Feyenoord"
+  ]
+}

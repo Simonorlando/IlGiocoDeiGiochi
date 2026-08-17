@@ -1,0 +1,27 @@
+{
+  "player_id": 309388,
+  "full_name": "Matteo Prati",
+  "nationality": "Italy",
+  "birth_date": "2003-12-28",
+  "birth_place": "Ravenna",
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Torino",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Ravenna",
+    "SPAL",
+    "Cagliari",
+    "Torino"
+  ]
+}

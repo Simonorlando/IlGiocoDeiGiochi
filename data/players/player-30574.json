@@ -1,0 +1,33 @@
+{
+  "player_id": 30574,
+  "full_name": "Cyril Théréau",
+  "nationality": "France",
+  "birth_date": "1983-04-24",
+  "birth_place": "Privas",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "€ 2M",
+      "team_out": "Udinese",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "US Orléans",
+    "Angers SCO",
+    "US Orléans",
+    "FCSB",
+    "Royal Charleroi S.C.",
+    "R.S.C. Anderlecht",
+    "Royal Charleroi S.C.",
+    "AC ChievoVerona",
+    "Udinese Calcio",
+    "ACF Fiorentina"
+  ]
+}

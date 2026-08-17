@@ -1,0 +1,30 @@
+{
+  "player_id": 41475,
+  "full_name": "Fernando Damián Tissone Rodrigues",
+  "nationality": "Argentina",
+  "birth_date": "1986-07-24",
+  "birth_place": "Quilmes",
+  "career_transfers": [
+    {
+      "date": "2017-08-18",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "Karpaty"
+    },
+    {
+      "date": "2013-07-06",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Lanús",
+    "Udinese Calcio",
+    "Atalanta BC",
+    "Udinese Calcio",
+    "U.C. Sampdoria",
+    "RCD Mallorca",
+    "Málaga CF"
+  ]
+}

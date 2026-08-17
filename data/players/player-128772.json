@@ -1,0 +1,24 @@
+{
+  "player_id": 128772,
+  "full_name": "David Zima",
+  "nationality": "Czechia",
+  "birth_date": "2000-11-08",
+  "birth_place": "Olomouc",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "€ 4M",
+      "team_out": "Torino",
+      "team_in": "Slavia Praha"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "€ 5.9M",
+      "team_out": "Slavia Praha",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "SK Slavia Prague"
+  ]
+}

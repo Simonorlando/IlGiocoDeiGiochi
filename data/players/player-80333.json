@@ -1,0 +1,35 @@
+{
+  "player_id": 80333,
+  "full_name": "Willians Domingos Fernandes",
+  "nationality": "Brazil",
+  "birth_date": "1986-01-29",
+  "birth_place": "Pedregulho",
+  "career_transfers": [
+    {
+      "date": "2015-02-03",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Cruzeiro"
+    },
+    {
+      "date": "2013-01-11",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Internacional"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 3M",
+      "team_out": "Flamengo",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Santo André",
+    "Clube de Regatas do Flamengo",
+    "Udinese Calcio",
+    "S.C. Internacional",
+    "Cruzeiro E.C.",
+    "S.C. Corinthians Paulista"
+  ]
+}

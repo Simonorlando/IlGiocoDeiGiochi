@@ -1,0 +1,21 @@
+{
+  "player_id": 10329,
+  "full_name": "João Pedro Junqueira de Jesus",
+  "nationality": "Brazil",
+  "birth_date": "2001-09-26",
+  "birth_place": "Ribeirão Preto",
+  "career_transfers": [
+    {
+      "date": "2025-07-02",
+      "type": "Transfer",
+      "team_out": "Brighton",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Watford F.C.",
+    "Brighton & Hove Albion F.C.",
+    "Chelsea F.C."
+  ]
+}

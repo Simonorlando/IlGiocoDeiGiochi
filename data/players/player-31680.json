@@ -1,0 +1,30 @@
+{
+  "player_id": 31680,
+  "full_name": "Francesco Di Tacchio",
+  "nationality": "Italy",
+  "birth_date": "1990-04-20",
+  "birth_place": "Trani",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2015-08-26",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Ascoli Calcio 1898 FC",
+    "ACF Fiorentina",
+    "Frosinone Calcio",
+    "S.S. Juve Stabia",
+    "A.C. Perugia Calcio",
+    "Virtus Entella",
+    "Pisa SC"
+  ]
+}

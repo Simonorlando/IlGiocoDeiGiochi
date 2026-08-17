@@ -1,0 +1,25 @@
+{
+  "player_id": 42006,
+  "full_name": "Al Moatasembellah Ali Mohamed Al Musrati",
+  "nationality": "Libya",
+  "birth_date": "1996-04-06",
+  "birth_place": "Misurata",
+  "career_transfers": [
+    {
+      "date": "2025-08-29",
+      "type": "Loan",
+      "team_out": "Beşiktaş",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "Al-ittihad",
+    "AS Monaco FC"
+  ]
+}

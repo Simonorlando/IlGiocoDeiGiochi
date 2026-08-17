@@ -1,0 +1,31 @@
+{
+  "player_id": 1139,
+  "full_name": "Péter Gulácsi",
+  "nationality": "Hungary",
+  "birth_date": "1990-05-06",
+  "birth_place": "Budapest",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Liverpool",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "MTK Budapest FC",
+    "Liverpool F.C.",
+    "Hereford United F.C.",
+    "Tranmere Rovers F.C.",
+    "Hull City A.F.C.",
+    "FC Red Bull Salzburg",
+    "RB Leipzig",
+    "Villarreal CF"
+  ]
+}

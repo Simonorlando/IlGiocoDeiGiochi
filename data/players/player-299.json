@@ -1,0 +1,24 @@
+{
+  "player_id": 299,
+  "full_name": "Fábio Henrique Tavares",
+  "nationality": "Brazil",
+  "birth_date": "1993-10-23",
+  "birth_place": "Campinas",
+  "career_transfers": [
+    {
+      "date": "2012-07-10",
+      "type": "Loan",
+      "team_out": "Rio Ave",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Rio Ave F.C.",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "AS Monaco FC",
+    "Liverpool F.C.",
+    "Al Ittihad FC"
+  ]
+}

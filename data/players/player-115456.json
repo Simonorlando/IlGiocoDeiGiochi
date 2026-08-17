@@ -1,0 +1,26 @@
+{
+  "player_id": 115456,
+  "full_name": "Kamil Kopúnek",
+  "nationality": "Slovakia",
+  "birth_date": "1984-05-18",
+  "birth_place": "Trnava",
+  "career_transfers": [
+    {
+      "date": "2011-02-01",
+      "type": "Loan",
+      "team_out": "Spartak Trnava",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "FC Spartak Trnava",
+    "FC Leon Saturn",
+    "SSC Bari",
+    "ŠK Slovan Bratislava",
+    "Ravan Baku FC",
+    "Szombathelyi Haladás",
+    "FC Zbrojovka Brno",
+    "Tatabányai SC",
+    "FK Poprad"
+  ]
+}

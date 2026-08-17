@@ -1,0 +1,32 @@
+{
+  "player_id": 347395,
+  "full_name": "Antonio Vergara",
+  "nationality": "Italy",
+  "birth_date": "2003-01-16",
+  "birth_place": "Frattaminore",
+  "career_transfers": [
+    {
+      "date": "2023-07-24",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2022-07-15",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "PRO Vercelli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Reggiana",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Napoli",
+    "Pro Vercelli",
+    "Reggiana"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "player_id": 25350,
+  "full_name": "Marko Grujić",
+  "nationality": "Serbia",
+  "birth_date": "1996-04-13",
+  "birth_place": "Belgrade",
+  "career_transfers": [
+    {
+      "date": "2021-07-20",
+      "type": "€ 12M",
+      "team_out": "Liverpool",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2020-10-06",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-09-02",
+      "type": "Free Transfer",
+      "team_out": "FC Porto",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Free agent",
+      "team_out": "FC Porto",
+      "team_in": "AEK Athens FC"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "FK Kolubara",
+    "Liverpool F.C.",
+    "Cardiff City F.C.",
+    "Hertha BSC",
+    "FC Porto",
+    "AEK Athens F.C.",
+    "PFC Levski Sofia"
+  ]
+}

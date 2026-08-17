@@ -1,0 +1,25 @@
+{
+  "player_id": 279757,
+  "full_name": "Riccardo Ciervo",
+  "nationality": "Italy",
+  "birth_date": "2002-04-01",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-01-27",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Roma",
+    "Sampdoria",
+    "Sassuolo",
+    "Frosinone",
+    "Venezia",
+    "Südtirol",
+    "Cosenza",
+    "Cesena"
+  ]
+}

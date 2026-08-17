@@ -1,0 +1,29 @@
+{
+  "player_id": 30821,
+  "full_name": "Nicolò Manfredini",
+  "nationality": "Italy",
+  "birth_date": "1988-05-01",
+  "birth_place": "Ferrara",
+  "career_transfers": [
+    {
+      "date": "2019-07-19",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2017-11-13",
+      "type": "Free",
+      "team_out": "Modena",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "A.C. Carpi",
+    "A.S. Gubbio 1910",
+    "A.C. Reggiana 1919",
+    "Modena F.C.",
+    "Spezia Calcio"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 48626,
+  "full_name": "Gonçalo Jardim Brandão",
+  "nationality": "Portugal",
+  "birth_date": "1986-10-09",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2006-05-09",
+      "type": "N/A",
+      "team_out": "Charlton",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "C.F. Os Belenenses",
+    "Charlton Athletic F.C.",
+    "Siena FC",
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "CFR Cluj",
+    "C.F. Os Belenenses",
+    "Juventus FC"
+  ]
+}

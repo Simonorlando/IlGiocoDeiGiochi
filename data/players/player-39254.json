@@ -1,0 +1,24 @@
+{
+  "player_id": 39254,
+  "full_name": "Torbjørn Lysaker Heggem",
+  "nationality": "Norway",
+  "birth_date": "1999-01-12",
+  "birth_place": "Trondheim",
+  "career_transfers": [
+    {
+      "date": "2025-08-15",
+      "type": "Transfer",
+      "team_out": "West Brom",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-08-13",
+      "type": "Transfer",
+      "team_out": "West Brom",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Ranheim Fotball"
+  ]
+}

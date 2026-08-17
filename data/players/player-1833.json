@@ -1,0 +1,18 @@
+{
+  "player_id": 1833,
+  "full_name": "Guido Guerrieri",
+  "nationality": "Italy",
+  "birth_date": "1996-02-25",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2022-02-19",
+      "type": null,
+      "team_out": "Salernitana",
+      "team_in": "Tsarsko Selo"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Salernitana 1919"
+  ]
+}

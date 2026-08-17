@@ -1,0 +1,33 @@
+{
+  "player_id": 5913,
+  "full_name": "Adrián Ricardo Centurión",
+  "nationality": "Argentina",
+  "birth_date": "1993-01-19",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2018-01-19",
+      "type": "€ 3.3M",
+      "team_out": "Genoa",
+      "team_in": "Racing Club"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Racing Club"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Racing Club",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Genoa CFC",
+    "Racing Club",
+    "Atletico de San Luis"
+  ]
+}

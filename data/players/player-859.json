@@ -1,0 +1,24 @@
+{
+  "player_id": 859,
+  "full_name": "Paolo Gozzi Iweru",
+  "nationality": "Italy",
+  "birth_date": "2001-04-25",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2023-06-30",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 53691,
+  "full_name": "Maksim Kanunnikov",
+  "nationality": "Russia",
+  "birth_date": "1991-07-14",
+  "birth_place": "Nizhniy Tagil",
+  "career_transfers": [
+    {
+      "date": "2013-01-01",
+      "type": "€ 1M",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Amkar"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "N/A",
+      "team_out": "TOM Tomsk",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "Loan",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "TOM Tomsk"
+    }
+  ],
+  "career_clubs": [
+    "FC Zenit Saint Petersburg",
+    "FC Tom Tomsk",
+    "FC Amkar Perm",
+    "Rubin Kazan"
+  ]
+}

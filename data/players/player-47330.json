@@ -1,0 +1,29 @@
+{
+  "player_id": 47330,
+  "full_name": "Edinaldo Gomes Pereira",
+  "nationality": "Brazil",
+  "birth_date": "1988-08-25",
+  "birth_place": "Santo André",
+  "career_transfers": [
+    {
+      "date": "2013-01-30",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Linense",
+    "Oeste Futebol Clube",
+    "União São João E.C.",
+    "Associação Atlética Ponte Preta",
+    "Cruzeiro E.C.",
+    "Grêmio FBPA",
+    "Bologna F.C. 1909",
+    "Granada CF",
+    "Udinese Calcio",
+    "Getafe CF",
+    "Sporting CP",
+    "RCD Espanyol de Barcelona"
+  ]
+}

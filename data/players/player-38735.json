@@ -1,0 +1,40 @@
+{
+  "player_id": 38735,
+  "full_name": "Sergiño Gianni Dest",
+  "nationality": "USA",
+  "birth_date": "2000-11-03",
+  "birth_place": "Almere",
+  "career_transfers": [
+    {
+      "date": "2024-06-29",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2023-08-21",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Jong Ajax",
+    "AFC Ajax",
+    "FC Barcelona",
+    "AC Milan",
+    "PSV Eindhoven"
+  ]
+}

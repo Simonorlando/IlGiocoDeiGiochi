@@ -1,0 +1,102 @@
+{
+  "player_id": 127472,
+  "full_name": "Nathaniel Harry Phillips",
+  "nationality": "England",
+  "birth_date": "1997-03-21",
+  "birth_place": "Bolton",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Derby",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Derby"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Cardiff",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2024-01-30",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Cardiff"
+    },
+    {
+      "date": "2024-01-03",
+      "type": "N/A",
+      "team_out": "Celtic",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Celtic"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Bournemouth",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2020-01-13",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2020-01-02",
+      "type": "N/A",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-06-23",
+      "type": "Transfer",
+      "team_out": "Liverpool",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Derby",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Liverpool",
+      "team_in": "West Brom"
+    }
+  ],
+  "career_clubs": [
+    "Liverpool F.C.",
+    "VfB Stuttgart",
+    "AFC Bournemouth",
+    "Celtic F.C.",
+    "Cardiff City F.C.",
+    "Derby County F.C.",
+    "West Bromwich Albion F.C."
+  ]
+}

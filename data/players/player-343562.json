@@ -1,0 +1,19 @@
+{
+  "player_id": 343562,
+  "full_name": "Luca Lipani",
+  "nationality": "Italy",
+  "birth_date": "2005-05-18",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2023-08-08",
+      "type": "€ 8M",
+      "team_out": "Genoa",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Genoa",
+    "Sassuolo"
+  ]
+}

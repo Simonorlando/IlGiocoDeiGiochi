@@ -1,0 +1,24 @@
+{
+  "player_id": 1220,
+  "full_name": "Yuri Zhirkov",
+  "nationality": "Russia",
+  "birth_date": "1983-08-20",
+  "birth_place": "Tambov",
+  "career_transfers": [
+    {
+      "date": "2016-01-30",
+      "type": "€ 640K",
+      "team_out": "Dinamo Moscow",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Spartak Tambov",
+    "PFC CSKA Moscow",
+    "Chelsea F.C.",
+    "FC Anzhi Makhachkala",
+    "FC Dinamo Moscow",
+    "FC Zenit Saint Petersburg",
+    "FC Khimki"
+  ]
+}

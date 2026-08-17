@@ -1,0 +1,36 @@
+{
+  "player_id": 48577,
+  "full_name": "Nedim Bajrami",
+  "nationality": "Albania",
+  "birth_date": "1999-02-28",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 6M",
+      "team_out": "Empoli",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2020-09-02",
+      "type": "€ 500K",
+      "team_out": "Grasshoppers",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2019-08-13",
+      "type": "Loan",
+      "team_out": "Grasshoppers",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich"
+  ]
+}

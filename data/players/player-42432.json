@@ -1,0 +1,37 @@
+{
+  "player_id": 42432,
+  "full_name": "Samuel Eto'o Fils",
+  "nationality": "Cameroon",
+  "birth_date": "1981-03-10",
+  "birth_place": "N'kon",
+  "career_transfers": [
+    {
+      "date": "2000-01-01",
+      "type": "€ 5.4M",
+      "team_out": "Real Madrid",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "1997-08-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Leganes"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "CD Leganés",
+    "RCD Espanyol de Barcelona",
+    "RCD Mallorca",
+    "FC Barcelona",
+    "Inter Milan",
+    "FC Anzhi Makhachkala",
+    "Chelsea F.C.",
+    "Everton F.C.",
+    "U.C. Sampdoria",
+    "Antalyaspor",
+    "Konyaspor",
+    "Qatar SC"
+  ]
+}

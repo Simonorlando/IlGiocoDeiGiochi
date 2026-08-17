@@ -1,0 +1,24 @@
+{
+  "player_id": 8719,
+  "full_name": "Daam Wonnebald Foulon",
+  "nationality": "Belgium",
+  "birth_date": "1999-03-23",
+  "birth_place": "Mechelen",
+  "career_transfers": [
+    {
+      "date": "2023-07-07",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "KV Mechelen"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 500K",
+      "team_out": "Waasland-beveren",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Sportkring Beveren"
+  ]
+}

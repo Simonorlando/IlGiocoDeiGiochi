@@ -1,0 +1,18 @@
+{
+  "player_id": 1748,
+  "full_name": "Lassana Coulibaly",
+  "nationality": "Mali",
+  "birth_date": "1996-04-10",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2024-08-14",
+      "type": "€ 1.8M",
+      "team_out": "Salernitana",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "SC Bastia"
+  ]
+}

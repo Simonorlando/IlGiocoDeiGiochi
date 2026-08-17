@@ -1,0 +1,30 @@
+{
+  "player_id": 30737,
+  "full_name": "Federico Barba",
+  "nationality": "Italy",
+  "birth_date": "1993-09-01",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2023-08-02",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-01-17",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "FC Sion"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Grosseto 1912",
+    "Empoli FC",
+    "VfB Stuttgart",
+    "Sporting de Gijón",
+    "AC ChievoVerona",
+    "Real Valladolid",
+    "Benevento Calcio"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "player_id": 127817,
+  "full_name": "Piero Martín Hincapié Reyna",
+  "nationality": "Ecuador",
+  "birth_date": "2002-01-09",
+  "birth_place": "Esmeraldas",
+  "career_transfers": [
+    {
+      "date": "2021-08-17",
+      "type": "N/A",
+      "team_out": "Talleres Cordoba",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Arsenal",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Independiente del Valle",
+    "Talleres de Córdoba",
+    "Bayer 04 Leverkusen",
+    "Arsenal F.C."
+  ]
+}

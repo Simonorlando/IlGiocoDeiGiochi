@@ -1,0 +1,31 @@
+{
+  "player_id": 80933,
+  "full_name": "Ricardo Alberto Silveira de Carvalho",
+  "nationality": "Portugal",
+  "birth_date": "1978-05-18",
+  "birth_place": "Amarante",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2010-08-10",
+      "type": "8M €",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto",
+    "Leça F.C.",
+    "Vitória F.C.",
+    "F.C. Alverca",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol",
+    "AS Monaco FC",
+    "Shanghai Port F.C."
+  ]
+}

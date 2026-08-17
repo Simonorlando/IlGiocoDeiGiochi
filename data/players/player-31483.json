@@ -1,0 +1,61 @@
+{
+  "player_id": 31483,
+  "full_name": "Andreaw Rayan Andy Gravillon",
+  "nationality": "Guadeloupe",
+  "birth_date": "1998-02-08",
+  "birth_place": "Pointe-à-Pitre",
+  "career_transfers": [
+    {
+      "date": "2019-01-29",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2019-01-28",
+      "type": "€ 7.5M",
+      "team_out": "Pescara",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2018-01-17",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Free agent",
+      "team_out": "Adana Demirspor",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Neftchi Baku"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Pescara",
+      "team_in": "Neftchi Baku"
+    },
+    {
+      "date": "2025-09-09",
+      "type": "Free agent",
+      "team_out": "Adana Demirspor",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Benevento Calcio",
+    "Delfino Pescara 1936",
+    "Inter Milan",
+    "Delfino Pescara 1936",
+    "US Sassuolo Calcio",
+    "Ascoli Calcio 1898 FC",
+    "F.C. Lorient"
+  ]
+}

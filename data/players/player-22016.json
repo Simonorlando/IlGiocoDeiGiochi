@@ -1,0 +1,54 @@
+{
+  "player_id": 22016,
+  "full_name": "Rémi Oudin",
+  "nationality": "France",
+  "birth_date": "1996-11-18",
+  "birth_place": "Châlons-en-Champagne",
+  "career_transfers": [
+    {
+      "date": "1927-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2023-08-28",
+      "type": "€ 1M",
+      "team_out": "Bordeaux",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Bordeaux"
+    },
+    {
+      "date": "2022-08-31",
+      "type": "Loan",
+      "team_out": "Bordeaux",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-01-24",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Catanzaro"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz"
+  ]
+}

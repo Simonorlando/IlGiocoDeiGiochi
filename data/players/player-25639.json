@@ -1,0 +1,27 @@
+{
+  "player_id": 25639,
+  "full_name": "Lars Edi Stindl",
+  "nationality": "Germany",
+  "birth_date": "1988-08-26",
+  "birth_place": "Speyer",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Borussia Monchengladbach",
+      "team_in": "Karlsruher SC"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3M",
+      "team_out": "Hannover 96",
+      "team_in": "Borussia Monchengladbach"
+    }
+  ],
+  "career_clubs": [
+    "Karlsruher SC",
+    "Hannover 96",
+    "Borussia Mönchengladbach",
+    "Karlsruher SC"
+  ]
+}

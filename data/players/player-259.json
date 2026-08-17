@@ -1,0 +1,38 @@
+{
+  "player_id": 259,
+  "full_name": "Thiago Emiliano da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1984-09-22",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2012-07-14",
+      "type": "€ 42M",
+      "team_out": "AC Milan",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "€ 10M",
+      "team_out": "Fluminense",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Barcelona Esporte Clube",
+    "Fluminense F.C.",
+    "Pedrabranca Futebol Clube",
+    "Esporte Clube Juventude",
+    "FC Porto",
+    "FC Porto B",
+    "FC Dinamo Moscow",
+    "Fluminense F.C.",
+    "AC Milan",
+    "Paris Saint-Germain FC",
+    "Chelsea F.C.",
+    "Fluminense F.C.",
+    "FC Porto",
+    "Fluminense F.C."
+  ]
+}

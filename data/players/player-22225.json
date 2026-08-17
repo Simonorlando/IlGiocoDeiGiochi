@@ -1,0 +1,24 @@
+{
+  "player_id": 22225,
+  "full_name": "Reinildo Isnard Mandava",
+  "nationality": "Mozambique",
+  "birth_date": "1994-01-21",
+  "birth_place": "Beira",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "€ 3M",
+      "team_out": "Lille",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Free Transfer",
+      "team_out": "Atletico Madrid",
+      "team_in": "Sunderland"
+    }
+  ],
+  "career_clubs": [
+    "AD Fafe"
+  ]
+}

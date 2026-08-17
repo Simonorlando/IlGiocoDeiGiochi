@@ -1,0 +1,23 @@
+{
+  "player_id": 8552,
+  "full_name": "Gabriele Angella",
+  "nationality": "Italy",
+  "birth_date": "1989-04-28",
+  "birth_place": "Firenze",
+  "career_transfers": [
+    {
+      "date": "2010-09-01",
+      "type": "€ 2M",
+      "team_out": "Empoli",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Udinese Calcio",
+    "Siena FC",
+    "AS Reggina 1914",
+    "Watford F.C.",
+    "Queens Park Rangers F.C."
+  ]
+}

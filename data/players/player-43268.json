@@ -1,0 +1,33 @@
+{
+  "player_id": 43268,
+  "full_name": "Constantin Nica",
+  "nationality": "Romania",
+  "birth_date": "1993-03-18",
+  "birth_place": "Afumați",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2014-07-11",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Bucharest",
+    "Atalanta BC",
+    "AC Cesena",
+    "U.S. Avellino 1912",
+    "Latina Calcio 1932",
+    "FC Dinamo Bucharest",
+    "FC Dunărea Călărași",
+    "FC Voluntari",
+    "FK Vojvodina",
+    "FC Dinamo Bucharest"
+  ]
+}

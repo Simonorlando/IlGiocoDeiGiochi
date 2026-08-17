@@ -1,0 +1,31 @@
+{
+  "player_id": 138815,
+  "full_name": "Tariq Kwame Nii-Lante Lamptey",
+  "nationality": "Ghana",
+  "birth_date": "2000-09-30",
+  "birth_place": "Hillingdon",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Brighton",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "Free agent",
+      "team_out": "Fiorentina",
+      "team_in": "Lamptey Tariq"
+    },
+    {
+      "date": "2026-07-20",
+      "type": "Free agent",
+      "team_out": "Fiorentina",
+      "team_in": "QPR"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Brighton & Hove Albion F.C."
+  ]
+}

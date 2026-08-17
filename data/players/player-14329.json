@@ -1,0 +1,27 @@
+{
+  "player_id": 14329,
+  "full_name": "Ardian Ismajli",
+  "nationality": "Albania",
+  "birth_date": "1996-09-30",
+  "birth_place": "Majac",
+  "career_transfers": [
+    {
+      "date": "2021-08-09",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2020-09-14",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "Spezia Calcio",
+    "Empoli FC",
+    "Torino FC"
+  ]
+}

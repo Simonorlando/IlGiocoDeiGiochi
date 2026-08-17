@@ -1,0 +1,18 @@
+{
+  "player_id": 30708,
+  "full_name": "Samuele Birindelli",
+  "nationality": "Italy",
+  "birth_date": "1999-07-19",
+  "birth_place": "Pisa",
+  "career_transfers": [
+    {
+      "date": "2022-07-07",
+      "type": "€ 1.5M",
+      "team_out": "Pisa",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Pisa SC"
+  ]
+}

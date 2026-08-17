@@ -1,0 +1,34 @@
+{
+  "player_id": 1980,
+  "full_name": "Nicolas Johnny Isimat-Mirin",
+  "nationality": "France",
+  "birth_date": "1991-11-15",
+  "birth_place": "Meudon",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Toulouse",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2019-08-21",
+      "type": "Loan",
+      "team_out": "Besiktas",
+      "team_in": "Toulouse"
+    },
+    {
+      "date": "2019-01-06",
+      "type": "€ 350K",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Valenciennes F.C.",
+    "AS Monaco FC",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "PSV Eindhoven"
+  ]
+}

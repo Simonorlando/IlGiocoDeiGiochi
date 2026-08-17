@@ -1,0 +1,40 @@
+{
+  "player_id": 30573,
+  "full_name": "Leonardo Pavoletti",
+  "nationality": "Italy",
+  "birth_date": "1988-11-26",
+  "birth_place": "Livorno",
+  "career_transfers": [
+    {
+      "date": "2017-01-03",
+      "type": "€ 18M",
+      "team_out": "Genoa",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3M",
+      "team_out": "Sassuolo",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2015-01-30",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Armando Picchi Calcio",
+    "Viareggio Calcio",
+    "AC Pavia 1911",
+    "S.S. Juve Stabia",
+    "Lanciano Calcio 1920",
+    "Casale FBC",
+    "US Sassuolo Calcio",
+    "Varese Calcio",
+    "Genoa CFC",
+    "SSC Napoli",
+    "Cagliari Calcio"
+  ]
+}

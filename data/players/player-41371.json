@@ -1,0 +1,36 @@
+{
+  "player_id": 41371,
+  "full_name": "Fali Candé",
+  "nationality": "Guinea-Bissau",
+  "birth_date": "1998-01-24",
+  "birth_place": "Bissau",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Metz"
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Loan",
+      "team_out": "Metz",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Metz",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-08-10",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Clube de Portugal"
+  ]
+}

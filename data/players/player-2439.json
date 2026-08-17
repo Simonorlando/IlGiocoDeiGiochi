@@ -1,0 +1,25 @@
+{
+  "player_id": 2439,
+  "full_name": "Jhon Carlos Chancellor Cedeño",
+  "nationality": "Venezuela",
+  "birth_date": "1992-01-02",
+  "birth_place": "Puerto Ordaz",
+  "career_transfers": [
+    {
+      "date": "2022-02-28",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Zaglebie Lubin"
+    },
+    {
+      "date": "2019-07-21",
+      "type": "N/A",
+      "team_out": "Al Ahli Doha",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Delfín Sporting Club",
+    "FC Anzhi Makhachkala"
+  ]
+}

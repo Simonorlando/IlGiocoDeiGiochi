@@ -1,0 +1,37 @@
+{
+  "player_id": 30528,
+  "full_name": "Federico Peluso",
+  "nationality": "Italy",
+  "birth_date": "1984-01-20",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 4.8M",
+      "team_out": "Atalanta",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2013-01-03",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "€ 1M",
+      "team_out": "Albinoleffe",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Pro Vercelli 1892",
+    "Ternana Calcio",
+    "Italy under-21 Serie B representative team",
+    "U.C. AlbinoLeffe",
+    "Atalanta BC",
+    "Juventus FC",
+    "US Sassuolo Calcio",
+    "SS Lazio"
+  ]
+}

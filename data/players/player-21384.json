@@ -1,0 +1,27 @@
+{
+  "player_id": 21384,
+  "full_name": "Alexis Blin",
+  "nationality": "France",
+  "birth_date": "1996-09-16",
+  "birth_place": "Le Mans",
+  "career_transfers": [
+    {
+      "date": "2024-07-25",
+      "type": "€ 1.5M",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 1M",
+      "team_out": "Amiens",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Le Mans F.C.",
+    "Toulouse FC",
+    "Amiens SC",
+    "US Lecce"
+  ]
+}

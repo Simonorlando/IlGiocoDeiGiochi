@@ -1,0 +1,30 @@
+{
+  "player_id": 30568,
+  "full_name": "Christian Gabriel Oliva Giménez",
+  "nationality": "Uruguay",
+  "birth_date": "1996-06-01",
+  "birth_place": "Ciudad del Plata",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Nacional",
+    "Cagliari",
+    "Valencia",
+    "Talleres",
+    "Juárez",
+    "Nacional",
+    "Santos"
+  ]
+}

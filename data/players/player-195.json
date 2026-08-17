@@ -1,0 +1,30 @@
+{
+  "player_id": 195,
+  "full_name": "João Miranda de Souza Filho",
+  "nationality": "Brazil",
+  "birth_date": "1984-09-07",
+  "birth_place": "Paranavaí",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 12M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "Sao Paulo",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C.",
+    "FC Sochaux-Montbéliard",
+    "São Paulo FC",
+    "Atlético Madrid",
+    "Inter Milan",
+    "Jiangsu F.C.",
+    "São Paulo FC"
+  ]
+}

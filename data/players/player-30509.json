@@ -1,0 +1,43 @@
+{
+  "player_id": 30509,
+  "full_name": "Andrea Belotti",
+  "nationality": "Italy",
+  "birth_date": "1993-12-20",
+  "birth_place": "Calcinate",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 4.5M",
+      "team_out": "AS Roma",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Benfica",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "U.C. AlbinoLeffe",
+    "Palermo F.C.",
+    "Torino FC",
+    "AS Roma",
+    "ACF Fiorentina",
+    "Como 1907",
+    "S.L. Benfica",
+    "Cagliari Calcio"
+  ]
+}

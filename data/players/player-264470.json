@@ -1,0 +1,40 @@
+{
+  "player_id": 264470,
+  "full_name": "Raul Moro Prescoli",
+  "nationality": "Spain",
+  "birth_date": "2002-12-05",
+  "birth_place": "Abrera",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Lazio",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2023-07-17",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2023-01-25",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Oviedo"
+    },
+    {
+      "date": "2022-08-23",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Ternana"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "Ternana Calcio",
+    "Real Oviedo",
+    "Real Valladolid",
+    "AFC Ajax"
+  ]
+}

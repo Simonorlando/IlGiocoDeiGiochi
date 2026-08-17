@@ -1,0 +1,27 @@
+{
+  "player_id": 90675,
+  "full_name": "Victor Obinna Nsofor",
+  "nationality": "Nigeria",
+  "birth_date": "1987-03-25",
+  "birth_place": "Jos",
+  "career_transfers": [
+    {
+      "date": "2009-08-26",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Enyimba International F.C.",
+    "AC ChievoVerona",
+    "Inter Milan",
+    "Málaga CF",
+    "West Ham United F.C.",
+    "FC Lokomotiv Moscow",
+    "AC ChievoVerona",
+    "MSV Duisburg",
+    "SV Darmstadt 98",
+    "Cape Town City F.C."
+  ]
+}

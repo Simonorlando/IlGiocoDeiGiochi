@@ -1,0 +1,29 @@
+{
+  "player_id": 47300,
+  "full_name": "Théo Bernard François Hernández",
+  "nationality": "France",
+  "birth_date": "1997-10-06",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2018-08-10",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Deportivo Alavés",
+    "Real Madrid Club de Fútbol",
+    "Real Sociedad",
+    "AC Milan",
+    "Al Hilal SFC"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 115353,
+  "full_name": "Alessandro Del Piero",
+  "nationality": "Italy",
+  "birth_date": "1974-11-09",
+  "birth_place": "Conegliano",
+  "career_transfers": [
+    {
+      "date": "2012-09-05",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Sydney"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Juventus FC",
+    "Sydney FC",
+    "Odisha FC"
+  ]
+}

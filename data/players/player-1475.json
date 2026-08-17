@@ -1,0 +1,28 @@
+{
+  "player_id": 1475,
+  "full_name": "Bruno Miguel Boialvo Gaspar",
+  "nationality": "Angola",
+  "birth_date": "1993-04-21",
+  "birth_place": "Évora",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "€ 4.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Guimaraes",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "Vitória S.C.",
+    "Vitória S.C. B",
+    "Vitória S.C.",
+    "ACF Fiorentina"
+  ]
+}

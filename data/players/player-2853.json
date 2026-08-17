@@ -1,0 +1,30 @@
+{
+  "player_id": 2853,
+  "full_name": "Andreas Granqvist",
+  "nationality": "Sweden",
+  "birth_date": "1985-04-16",
+  "birth_place": "Påarp",
+  "career_transfers": [
+    {
+      "date": "2013-08-16",
+      "type": "€ 5M",
+      "team_out": "Genoa",
+      "team_in": "Krasnodar"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Groningen",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Helsingborgs IF",
+    "Wigan Athletic F.C.",
+    "Helsingborgs IF",
+    "FC Groningen",
+    "Genoa CFC",
+    "FC Krasnodar",
+    "Helsingborgs IF"
+  ]
+}

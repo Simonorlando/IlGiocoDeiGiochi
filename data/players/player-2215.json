@@ -1,0 +1,19 @@
+{
+  "player_id": 2215,
+  "full_name": "Armand Laurienté",
+  "nationality": "France",
+  "birth_date": "1998-12-04",
+  "birth_place": "Gonesse",
+  "career_transfers": [
+    {
+      "date": "2022-08-31",
+      "type": "€ 10M",
+      "team_out": "Lorient",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "F.C. Lorient"
+  ]
+}

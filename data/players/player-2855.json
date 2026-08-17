@@ -1,0 +1,33 @@
+{
+  "player_id": 2855,
+  "full_name": "Emil Henry Kristoffer Krafth",
+  "nationality": "Sweden",
+  "birth_date": "1994-08-02",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 2M",
+      "team_out": "Bologna",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2018-08-06",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2015-08-19",
+      "type": "N/A",
+      "team_out": "Helsingborg",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Östers IF",
+    "Helsingborgs IF",
+    "Bologna F.C. 1909",
+    "Newcastle United F.C."
+  ]
+}

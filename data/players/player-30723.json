@@ -1,0 +1,40 @@
+{
+  "player_id": 30723,
+  "full_name": "Marius Mihai Marin",
+  "nationality": "Romania",
+  "birth_date": "1998-08-30",
+  "birth_place": "Timişoara",
+  "career_transfers": [
+    {
+      "date": "2019-08-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Pisa",
+      "team_in": "Al Nasr"
+    }
+  ],
+  "career_clubs": [
+    "ACS Poli Timișoara",
+    "Știința Poli Timișoara",
+    "US Sassuolo Calcio",
+    "Unione Sportiva Catanzaro",
+    "Pisa SC"
+  ]
+}

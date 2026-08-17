@@ -1,0 +1,20 @@
+{
+  "player_id": 7328,
+  "full_name": "Nicolas Seiwald",
+  "nationality": "Austria",
+  "birth_date": "2001-05-04",
+  "birth_place": "Kuchl",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 20M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "RB Leipzig"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 115296,
+  "full_name": "Martí Riverola Bataller",
+  "nationality": "Spain",
+  "birth_date": "1991-01-26",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2011-01-07",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Vitesse"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "SBV Vitesse",
+    "Bologna F.C. 1909",
+    "RCD Mallorca",
+    "Calcio Foggia 1920",
+    "SC Rheindorf Altach"
+  ]
+}

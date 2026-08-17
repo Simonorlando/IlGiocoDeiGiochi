@@ -1,0 +1,24 @@
+{
+  "player_id": 308,
+  "full_name": "Daniel Andre Sturridge",
+  "nationality": "England",
+  "birth_date": "1989-09-01",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2009-07-01",
+      "type": "€ 5.8M",
+      "team_out": "Manchester City",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Chelsea F.C.",
+    "Bolton Wanderers F.C.",
+    "Liverpool F.C.",
+    "West Bromwich Albion F.C.",
+    "Trabzonspor",
+    "Perth Glory FC"
+  ]
+}

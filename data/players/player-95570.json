@@ -1,0 +1,24 @@
+{
+  "player_id": 95570,
+  "full_name": "Alejandro Damián Faurlin",
+  "nationality": "Argentina",
+  "birth_date": "1986-08-09",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "QPR",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "Club Atlético River Plate",
+    "Atlético de Rafaela",
+    "C.S. Marítimo B",
+    "Club Sport Emelec",
+    "Queens Park Rangers F.C.",
+    "Palermo F.C."
+  ]
+}

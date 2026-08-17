@@ -1,0 +1,26 @@
+{
+  "player_id": 2822,
+  "full_name": "Darko Lazović",
+  "nationality": "Serbia",
+  "birth_date": "1990-09-15",
+  "birth_place": "Čačak",
+  "career_transfers": [
+    {
+      "date": "2019-08-06",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-10-11",
+      "type": "Free agent",
+      "team_out": "Hellas Verona",
+      "team_in": "Al Wahda FC"
+    }
+  ],
+  "career_clubs": [
+    "FK Borac Čačak",
+    "FK Crvena zvezda",
+    "Genoa CFC"
+  ]
+}

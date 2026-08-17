@@ -1,0 +1,20 @@
+{
+  "player_id": 78,
+  "full_name": "Hans Vanaken",
+  "nationality": "Belgium",
+  "birth_date": "1992-08-24",
+  "birth_place": "Neerpelt",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Lokeren",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Lommel SK",
+    "K.S.C. Lokeren Oost-Vlaanderen",
+    "Club Brugge K.V."
+  ]
+}

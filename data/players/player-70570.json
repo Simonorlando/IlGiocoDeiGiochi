@@ -1,0 +1,37 @@
+{
+  "player_id": 70570,
+  "full_name": "Joaquín Oscar Larrivey",
+  "nationality": "Argentina",
+  "birth_date": "1984-08-20",
+  "birth_place": "Gualeguay",
+  "career_transfers": [
+    {
+      "date": "2013-01-01",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Atlante FC"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Colon Santa Fe"
+    },
+    {
+      "date": "2009-02-15",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Velez Sarsfield"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Huracán",
+    "Cagliari Calcio",
+    "Club Atlético Vélez Sarsfield",
+    "Club Atlético Colón",
+    "Atlante F.C.",
+    "Rayo Vallecano",
+    "RC Celta de Vigo",
+    "Baniyas SC"
+  ]
+}

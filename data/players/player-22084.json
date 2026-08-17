@@ -1,0 +1,30 @@
+{
+  "player_id": 22084,
+  "full_name": "Gabriel Moisés Antunes da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1991-05-13",
+  "birth_place": "Piracicaba",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "Novara Calcio",
+    "Granada CF",
+    "Udinese Calcio",
+    "A.C. Carpi",
+    "Genoa CFC",
+    "AS Saint-Étienne"
+  ]
+}

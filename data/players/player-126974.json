@@ -1,0 +1,26 @@
+{
+  "player_id": 126974,
+  "full_name": "Omri Gandelman",
+  "nationality": "Israel",
+  "birth_date": "2000-05-16",
+  "birth_place": "Hod Hasharon",
+  "career_transfers": [
+    {
+      "date": "2026-01-08",
+      "type": "Transfer",
+      "team_out": "Gent",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Transfer",
+      "team_out": "Gent",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Netanya F.C.",
+    "KAA Gent",
+    "US Lecce"
+  ]
+}

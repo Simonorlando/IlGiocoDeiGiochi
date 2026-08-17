@@ -1,0 +1,31 @@
+{
+  "player_id": 91492,
+  "full_name": "Santiago Eduardo Morero",
+  "nationality": "Argentina",
+  "birth_date": "1982-04-18",
+  "birth_place": "Venado Tuerto",
+  "career_transfers": [
+    {
+      "date": "2014-09-16",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2013-07-26",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Douglas Haig",
+    "Club Atlético Tigre",
+    "AC ChievoVerona",
+    "AC Cesena",
+    "Siena FC",
+    "U.S. Grosseto 1912",
+    "US Alessandria Calcio 1912",
+    "Club Atlético Rosario Central"
+  ]
+}

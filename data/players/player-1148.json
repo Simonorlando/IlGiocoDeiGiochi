@@ -1,0 +1,19 @@
+{
+  "player_id": 1148,
+  "full_name": "Vilmos Tamás Orbán",
+  "nationality": "Hungary",
+  "birth_date": "1992-11-03",
+  "birth_place": "Kaiserslautern",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 2M",
+      "team_out": "1. FC Kaiserslautern",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Kaiserslautern",
+    "RB Leipzig"
+  ]
+}

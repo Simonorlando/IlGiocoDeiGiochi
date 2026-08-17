@@ -1,0 +1,43 @@
+{
+  "player_id": 6373,
+  "full_name": "Nicolás Santiago Bertolo",
+  "nationality": "Argentina",
+  "birth_date": "1986-01-02",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2013-01-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Cruz Azul"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Zaragoza",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2010-08-21",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "€ 4M",
+      "team_out": "Banfield",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Club Atlético Banfield",
+    "Club Nacional de Football",
+    "Palermo F.C.",
+    "Real Zaragoza",
+    "Cruz Azul",
+    "Club Atlético Banfield",
+    "Club Atlético River Plate"
+  ]
+}

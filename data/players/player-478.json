@@ -1,0 +1,29 @@
+{
+  "player_id": 478,
+  "full_name": "Jefferson Agustín Farfán Guadalupe",
+  "nationality": "Peru",
+  "birth_date": "1984-10-26",
+  "birth_place": "Lima",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 10M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Alianza Lima",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Club Alianza Lima",
+    "PSV Eindhoven",
+    "Schalke 04",
+    "Al Jazira Club",
+    "FC Lokomotiv Moscow",
+    "Club Alianza Lima"
+  ]
+}

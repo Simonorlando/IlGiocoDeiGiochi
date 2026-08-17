@@ -1,0 +1,29 @@
+{
+  "player_id": 31413,
+  "full_name": "Daniele Capelli",
+  "nationality": "Italy",
+  "birth_date": "1986-06-20",
+  "birth_place": "Calcinate",
+  "career_transfers": [
+    {
+      "date": "2017-07-28",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2018-07-02",
+      "type": null,
+      "team_out": "Spezia",
+      "team_in": "Padova"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "S.S. Arezzo",
+    "AS Reggina 1914",
+    "AC Cesena",
+    "Spezia Calcio",
+    "Calcio Padova"
+  ]
+}

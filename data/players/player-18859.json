@@ -1,0 +1,31 @@
+{
+  "player_id": 18859,
+  "full_name": "Artur Boruc",
+  "nationality": "Poland",
+  "birth_date": "1980-02-20",
+  "birth_place": "Siedlce",
+  "career_transfers": [
+    {
+      "date": "2012-09-22",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Celtic",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "MKP Pogoń Siedlce",
+    "Legia Warsaw",
+    "Dolcan Ząbki",
+    "Celtic F.C.",
+    "ACF Fiorentina",
+    "Southampton F.C.",
+    "AFC Bournemouth",
+    "Legia Warsaw"
+  ]
+}

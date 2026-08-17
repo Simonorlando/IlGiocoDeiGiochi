@@ -1,0 +1,26 @@
+{
+  "player_id": 1143,
+  "full_name": "Marcel Halstenberg",
+  "nationality": "Germany",
+  "birth_date": "1991-09-27",
+  "birth_place": "Laatzen",
+  "career_transfers": [
+    {
+      "date": "2023-07-19",
+      "type": "€ 700K",
+      "team_out": "RB Leipzig",
+      "team_in": "Hannover 96"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "FC St. Pauli",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Hannover 96",
+    "FC St. Pauli",
+    "RB Leipzig"
+  ]
+}

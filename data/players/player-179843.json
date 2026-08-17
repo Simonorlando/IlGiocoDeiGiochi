@@ -1,0 +1,42 @@
+{
+  "player_id": 179843,
+  "full_name": "Lucas Gourna-Douath",
+  "nationality": "France",
+  "birth_date": "2003-08-05",
+  "birth_place": "Villeneuve-Saint-Georges",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "AS Roma",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "AS Roma",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2026-01-15",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Le Havre"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Le Havre",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne"
+  ]
+}

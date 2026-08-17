@@ -1,0 +1,33 @@
+{
+  "player_id": 25329,
+  "full_name": "Maximilian Bennet Kruse",
+  "nationality": "Germany",
+  "birth_date": "1988-03-19",
+  "birth_place": "Reinbek",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 12M",
+      "team_out": "Borussia Monchengladbach",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 2.5M",
+      "team_out": "SC Freiburg",
+      "team_in": "Borussia Monchengladbach"
+    }
+  ],
+  "career_clubs": [
+    "SV Werder Bremen",
+    "FC St. Pauli",
+    "SC Freiburg",
+    "Borussia Mönchengladbach",
+    "VfL Wolfsburg",
+    "SV Werder Bremen",
+    "Fenerbahçe Istanbul",
+    "1. FC Union Berlin",
+    "VfL Wolfsburg",
+    "SC Paderborn 07"
+  ]
+}

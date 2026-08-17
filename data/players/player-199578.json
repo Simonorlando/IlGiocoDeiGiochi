@@ -1,0 +1,19 @@
+{
+  "player_id": 199578,
+  "full_name": "Zion Suzuki",
+  "nationality": "Japan",
+  "birth_date": "2002-08-21",
+  "birth_place": "Saitama",
+  "career_transfers": [
+    {
+      "date": "2024-07-15",
+      "type": "€ 7.5M",
+      "team_out": "St. Truiden",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Urawa Red Diamonds",
+    "Sint-Truidense V.V."
+  ]
+}

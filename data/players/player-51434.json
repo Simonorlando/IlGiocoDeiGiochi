@@ -1,0 +1,26 @@
+{
+  "player_id": 51434,
+  "full_name": "Carlos Javier Grossmüller",
+  "nationality": "Uruguay",
+  "birth_date": "1983-05-04",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2012-08-22",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Penarol"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Centro Atlético Fénix",
+    "Schalke 04",
+    "Danubio F.C.",
+    "US Lecce",
+    "Club Atlético Peñarol",
+    "C.A. Cerro",
+    "Club Universitario de Deportes",
+    "Danubio F.C."
+  ]
+}

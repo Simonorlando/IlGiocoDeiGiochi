@@ -1,0 +1,47 @@
+{
+  "player_id": 56748,
+  "full_name": "Francesco Grandolfo",
+  "nationality": "Italy",
+  "birth_date": "1992-07-26",
+  "birth_place": "Castellana Grotte",
+  "career_transfers": [
+    {
+      "date": "2014-09-05",
+      "type": "Free",
+      "team_out": "Bari",
+      "team_in": "Correggese"
+    },
+    {
+      "date": "2013-08-03",
+      "type": "Loan",
+      "team_out": "Bari",
+      "team_in": "Savona"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Tritium",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2013-01-13",
+      "type": "Loan",
+      "team_out": "Bari",
+      "team_in": "Tritium"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Bari",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "AC ChievoVerona",
+    "Tritium Calcio 1908",
+    "Savona F.B.C.",
+    "S.S.D. Correggese Calcio 1948",
+    "Fidelis Andria 2018"
+  ]
+}

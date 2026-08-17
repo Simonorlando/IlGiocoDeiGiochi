@@ -1,0 +1,24 @@
+{
+  "player_id": 29434,
+  "full_name": "Mamadou Samassa",
+  "nationality": "Mali",
+  "birth_date": "1986-05-01",
+  "birth_place": "Montfermeil",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Le Mans F.C.",
+    "Olympique de Marseille",
+    "Valenciennes F.C.",
+    "AC ChievoVerona",
+    "Stade Brestois 29",
+    "Delfino Pescara 1936",
+    "Red Star F.C."
+  ]
+}

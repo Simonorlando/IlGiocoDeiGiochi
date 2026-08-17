@@ -1,0 +1,27 @@
+{
+  "player_id": 1839,
+  "full_name": "Riza Durmisi",
+  "nationality": "Denmark",
+  "birth_date": "1994-01-08",
+  "birth_place": "Ishøj",
+  "career_transfers": [
+    {
+      "date": "2021-06-30",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2021-01-22",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Brøndby IF",
+    "Real Betis Balompié",
+    "SS Lazio",
+    "OGC Nice"
+  ]
+}

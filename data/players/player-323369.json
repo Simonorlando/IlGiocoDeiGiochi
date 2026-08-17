@@ -1,0 +1,26 @@
+{
+  "player_id": 323369,
+  "full_name": "Mathias Johan Fjørtoft Løvik",
+  "nationality": "Norway",
+  "birth_date": "2003-12-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-08",
+      "type": "Transfer",
+      "team_out": "Molde",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-01-19",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Trabzonspor"
+    }
+  ],
+  "career_clubs": [
+    "Molde",
+    "Parma",
+    "Trabzonspor"
+  ]
+}

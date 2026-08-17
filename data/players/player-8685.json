@@ -1,0 +1,33 @@
+{
+  "player_id": 8685,
+  "full_name": "Serge Gakpé",
+  "nationality": "Togo",
+  "birth_date": "1987-05-07",
+  "birth_place": "Bondy",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2016-01-25",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Tours FC.",
+    "FC Nantes",
+    "Standard Liège",
+    "Genoa CFC",
+    "Atalanta BC",
+    "Amiens SC",
+    "AC ChievoVerona",
+    "Cercle Brugge K.S.V.",
+    "Apollon Limassol FC"
+  ]
+}

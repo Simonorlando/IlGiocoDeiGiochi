@@ -1,0 +1,28 @@
+{
+  "player_id": 31081,
+  "full_name": "Francesco D'Assisi Cassata",
+  "nationality": "Italy",
+  "birth_date": "1997-07-16",
+  "birth_place": "Sarzana",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2022-01-18",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Ascoli Calcio 1898 FC",
+    "Empoli FC",
+    "US Sassuolo Calcio",
+    "Genoa CFC"
+  ]
+}

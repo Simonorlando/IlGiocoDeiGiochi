@@ -1,0 +1,36 @@
+{
+  "player_id": 91419,
+  "full_name": "Alberto Gilardino",
+  "nationality": "Italy",
+  "birth_date": "1982-07-05",
+  "birth_place": "Biella",
+  "career_transfers": [
+    {
+      "date": "2017-10-03",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2017-01-09",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Hellas Verona FC",
+    "Parma Calcio 1913",
+    "AC Milan",
+    "ACF Fiorentina",
+    "Genoa CFC",
+    "Bologna F.C. 1909",
+    "Guangzhou F.C.",
+    "ACF Fiorentina",
+    "Palermo F.C.",
+    "Empoli FC",
+    "Delfino Pescara 1936",
+    "Spezia Calcio"
+  ]
+}

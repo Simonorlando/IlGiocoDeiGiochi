@@ -1,0 +1,29 @@
+{
+  "player_id": 2044,
+  "full_name": "Gabriel Iván Mercado",
+  "nationality": "Argentina",
+  "birth_date": "1987-03-18",
+  "birth_place": "Puerto Madryn",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Al-Rayyan SC"
+    },
+    {
+      "date": "2016-08-05",
+      "type": "€ 2.4M",
+      "team_out": "River Plate",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Estudiantes de La Plata",
+    "Club Atlético River Plate",
+    "Sevilla FC",
+    "Al-Rayyan",
+    "S.C. Internacional"
+  ]
+}

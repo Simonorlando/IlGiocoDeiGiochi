@@ -1,0 +1,20 @@
+{
+  "player_id": 2204,
+  "full_name": "Benjamin Michel Édouard André",
+  "nationality": "France",
+  "birth_date": "1990-08-03",
+  "birth_place": "Nice",
+  "career_transfers": [
+    {
+      "date": "2019-07-17",
+      "type": "€ 8M",
+      "team_out": "Rennes",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Ajaccio",
+    "Stade Rennais F.C.",
+    "Lille OSC"
+  ]
+}

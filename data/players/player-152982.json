@@ -1,0 +1,19 @@
+{
+  "player_id": 152982,
+  "full_name": "Cole Jermaine Palmer",
+  "nationality": "England",
+  "birth_date": "2002-05-06",
+  "birth_place": "Manchester",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "€ 47M",
+      "team_out": "Manchester City",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Chelsea F.C."
+  ]
+}

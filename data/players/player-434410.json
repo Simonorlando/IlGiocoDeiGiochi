@@ -1,0 +1,20 @@
+{
+  "player_id": 434410,
+  "full_name": "Idrissa Gueye",
+  "nationality": "Senegal",
+  "birth_date": "2006-09-16",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Metz",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Génération Foot",
+    "Metz",
+    "Udinese"
+  ]
+}

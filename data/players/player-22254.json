@@ -1,0 +1,21 @@
+{
+  "player_id": 22254,
+  "full_name": "Youssouf Fofana",
+  "nationality": "France",
+  "birth_date": "1999-01-10",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2024-08-17",
+      "type": "20M",
+      "team_out": "Monaco",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Training Center of Racing Club of Strasbourg",
+    "RC Strasbourg Alsace",
+    "AS Monaco FC",
+    "AC Milan"
+  ]
+}

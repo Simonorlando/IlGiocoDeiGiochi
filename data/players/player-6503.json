@@ -1,0 +1,23 @@
+{
+  "player_id": 6503,
+  "full_name": "Nahuel Molina Lucero",
+  "nationality": "Argentina",
+  "birth_date": "1998-04-06",
+  "birth_place": "Embalse",
+  "career_transfers": [
+    {
+      "date": "2022-07-28",
+      "type": "€ 20M",
+      "team_out": "Udinese",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Defensa y Justicia",
+    "Club Atlético Rosario Central",
+    "Udinese Calcio",
+    "Atlético Madrid",
+    "AS Roma"
+  ]
+}

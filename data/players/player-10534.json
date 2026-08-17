@@ -1,0 +1,26 @@
+{
+  "player_id": 10534,
+  "full_name": "Jonny Ferney Mosquera Mena",
+  "nationality": "Colombia",
+  "birth_date": "1991-02-17",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Envigado"
+    },
+    {
+      "date": "2013-08-21",
+      "type": "Loan",
+      "team_out": "Envigado",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Envigado Fútbol Club",
+    "US Livorno 1915",
+    "Envigado Fútbol Club"
+  ]
+}

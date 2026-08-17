@@ -1,0 +1,36 @@
+{
+  "player_id": 48521,
+  "full_name": "Pajtim Kasami",
+  "nationality": "Switzerland",
+  "birth_date": "1992-06-02",
+  "birth_place": "Struga",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "FC Sion"
+    },
+    {
+      "date": "2016-08-03",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2014-07-08",
+      "type": "€ 5M",
+      "team_out": "Fulham",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "AC Bellinzona",
+    "Fulham F.C.",
+    "FC Luzern",
+    "Olympiacos F.C.",
+    "Liverpool F.C.",
+    "SS Lazio"
+  ]
+}

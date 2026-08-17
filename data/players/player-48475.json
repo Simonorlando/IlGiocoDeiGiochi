@@ -1,0 +1,36 @@
+{
+  "player_id": 48475,
+  "full_name": "Silvan Hefti",
+  "nationality": "Switzerland",
+  "birth_date": "1997-10-25",
+  "birth_place": "Rorschach",
+  "career_transfers": [
+    {
+      "date": "2024-08-04",
+      "type": "€ 1.2M",
+      "team_out": "Genoa",
+      "team_in": "Hamburger SV"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Montpellier",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2024-01-02",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Montpellier"
+    },
+    {
+      "date": "2022-01-03",
+      "type": "N/A",
+      "team_out": "BSC Young Boys",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "FC St. Gallen"
+  ]
+}

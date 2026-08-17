@@ -1,0 +1,38 @@
+{
+  "player_id": 31013,
+  "full_name": "Massimo Gobbi",
+  "nationality": "Italy",
+  "birth_date": "1980-10-31",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2018-07-14",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Pro Sesto 1913",
+    "Treviso F.B.C. 1993",
+    "S.S.C. Giugliano",
+    "U.C. AlbinoLeffe",
+    "Cagliari Calcio",
+    "ACF Fiorentina",
+    "Parma Calcio 1913",
+    "AC ChievoVerona",
+    "AC Milan"
+  ]
+}

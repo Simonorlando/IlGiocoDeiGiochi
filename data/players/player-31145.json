@@ -1,0 +1,21 @@
+{
+  "player_id": 31145,
+  "full_name": "Nikolas Špalek",
+  "nationality": "Slovakia",
+  "birth_date": "1997-02-12",
+  "birth_place": "Šaľa",
+  "career_transfers": [
+    {
+      "date": "2018-01-23",
+      "type": "N/A",
+      "team_out": "Žilina",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "FC Spartak Trnava",
+    "FC Nitra",
+    "MŠK Žilina",
+    "Brescia Calcio"
+  ]
+}

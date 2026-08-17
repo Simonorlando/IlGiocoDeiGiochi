@@ -1,0 +1,29 @@
+{
+  "player_id": 2897,
+  "full_name": "Min-Jae Kim",
+  "nationality": "Korea Republic",
+  "birth_date": "1996-11-15",
+  "birth_place": "Tongyeong",
+  "career_transfers": [
+    {
+      "date": "2023-07-18",
+      "type": "€ 50M",
+      "team_out": "Napoli",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2022-07-27",
+      "type": "€ 18.1M",
+      "team_out": "Fenerbahce",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Gyeongju Korea Hydro and Nuclear Power FC",
+    "Jeonbuk Hyundai Motors FC",
+    "Beijing Guoan F.C.",
+    "Fenerbahçe Istanbul",
+    "SSC Napoli",
+    "FC Bayern Munich"
+  ]
+}

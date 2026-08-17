@@ -1,0 +1,20 @@
+{
+  "player_id": 8489,
+  "full_name": "Jonathan Christian David",
+  "nationality": "Canada",
+  "birth_date": "2000-01-14",
+  "birth_place": "New York",
+  "career_transfers": [
+    {
+      "date": "2025-07-04",
+      "type": "Free Transfer",
+      "team_out": "Lille",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "Lille OSC",
+    "Juventus FC"
+  ]
+}

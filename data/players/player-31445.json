@@ -1,0 +1,29 @@
+{
+  "player_id": 31445,
+  "full_name": "Daniele Sommariva",
+  "nationality": "Italy",
+  "birth_date": "1997-07-18",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2022-07-13",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-07-10",
+      "type": "Free",
+      "team_out": "Bustese Milano City",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "A.S.D. Nocerina 1910",
+    "Milano City F.C.",
+    "AC Monza",
+    "Delfino Pescara 1936",
+    "Genoa CFC"
+  ]
+}

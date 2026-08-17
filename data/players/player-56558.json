@@ -1,0 +1,52 @@
+{
+  "player_id": 56558,
+  "full_name": "Salvatore Esposito",
+  "nationality": "Italy",
+  "birth_date": "2000-10-07",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 3.3M",
+      "team_out": "Spal",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-01-06",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-01-03",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Spezia",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sampdoria",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Spezia",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "SPAL",
+    "Ravenna",
+    "Chievo",
+    "Spezia",
+    "Sampdoria"
+  ]
+}

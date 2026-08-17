@@ -1,0 +1,24 @@
+{
+  "player_id": 26831,
+  "full_name": "Triantafyllos Pasalidis",
+  "nationality": "Greece",
+  "birth_date": "1996-07-19",
+  "birth_place": "Kordelio",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Salernitana",
+      "team_in": "Kallithea"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "€ 250K",
+      "team_out": "OFI",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "OFI Crete F.C."
+  ]
+}

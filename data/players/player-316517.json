@@ -1,0 +1,32 @@
+{
+  "player_id": 316517,
+  "full_name": "Alan Agustín Matturro Romero",
+  "nationality": "Uruguay",
+  "birth_date": "2004-10-11",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2023-01-02",
+      "type": "€ 3M",
+      "team_out": "Defensor Sporting",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-09",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Levante"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Levante",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "Genoa CFC",
+    "Levante UD"
+  ]
+}

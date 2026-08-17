@@ -1,0 +1,19 @@
+{
+  "player_id": 351483,
+  "full_name": "Fredrik Sjøvold",
+  "nationality": "Norway",
+  "birth_date": "2003-08-17",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-08-29",
+      "type": "N/A",
+      "team_out": "Bodo/Glimt",
+      "team_in": "Norway U21"
+    }
+  ],
+  "career_clubs": [
+    "Tiller",
+    "Bodø/Glimt"
+  ]
+}

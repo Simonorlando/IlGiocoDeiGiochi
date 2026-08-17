@@ -1,0 +1,33 @@
+{
+  "player_id": 91559,
+  "full_name": "Cristian Zaccardo",
+  "nationality": "Italy",
+  "birth_date": "1981-12-21",
+  "birth_place": "Formigine",
+  "career_transfers": [
+    {
+      "date": "2013-01-24",
+      "type": "Swap",
+      "team_out": "Parma",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2009-08-29",
+      "type": "€ 4M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "Bologna F.C. 1909",
+    "Palermo F.C.",
+    "VfL Wolfsburg",
+    "Parma Calcio 1913",
+    "AC Milan",
+    "A.C. Carpi",
+    "Vicenza Calcio",
+    "Ħamrun Spartans F.C.",
+    "Tre Fiori Football Club"
+  ]
+}

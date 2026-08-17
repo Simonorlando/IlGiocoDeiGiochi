@@ -1,0 +1,28 @@
+{
+  "player_id": 314254,
+  "full_name": "Antonio Raimondo",
+  "nationality": "Italy",
+  "birth_date": "2004-03-18",
+  "birth_place": "Ravenna",
+  "career_transfers": [
+    {
+      "date": "2025-01-08",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2024-08-08",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Bologna",
+    "Ternana",
+    "Venezia",
+    "Salernitana",
+    "Frosinone"
+  ]
+}

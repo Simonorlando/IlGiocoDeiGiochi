@@ -1,0 +1,33 @@
+{
+  "player_id": 1187,
+  "full_name": "Nicklas Bendtner",
+  "nationality": "Denmark",
+  "birth_date": "1988-01-16",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Birmingham City F.C.",
+    "Sunderland A.F.C.",
+    "Juventus FC",
+    "VfL Wolfsburg",
+    "Nottingham Forest F.C.",
+    "Rosenborg BK",
+    "F.C. Copenhagen",
+    "Tårnby Boldklub",
+    "Kjøbenhavns Boldklub"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 415155,
+  "full_name": "Juan Martín Rodríguez Camejo",
+  "nationality": "Uruguay",
+  "birth_date": "2005-05-30",
+  "birth_place": "San Ramón",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Transfer",
+      "team_out": "Penarol",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Peñarol",
+    "Boston River",
+    "Cagliari"
+  ]
+}

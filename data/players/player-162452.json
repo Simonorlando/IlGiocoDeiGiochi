@@ -1,0 +1,18 @@
+{
+  "player_id": 162452,
+  "full_name": "Devyne Fabian Jairo Rensch",
+  "nationality": "Netherlands",
+  "birth_date": "2003-01-18",
+  "birth_place": "Lelystad",
+  "career_transfers": [
+    {
+      "date": "2025-01-23",
+      "type": "Transfer",
+      "team_out": "Ajax",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

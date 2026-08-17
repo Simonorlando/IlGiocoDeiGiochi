@@ -1,0 +1,30 @@
+{
+  "player_id": 31025,
+  "full_name": "Luca Rigoni",
+  "nationality": "Italy",
+  "birth_date": "1984-12-07",
+  "birth_place": "Schio",
+  "career_transfers": [
+    {
+      "date": "2019-09-02",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2018-07-18",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Vicenza Calcio",
+    "AS Reggina 1914",
+    "Piacenza Calcio",
+    "AC ChievoVerona",
+    "Palermo F.C.",
+    "Genoa CFC",
+    "Parma Calcio 1913"
+  ]
+}

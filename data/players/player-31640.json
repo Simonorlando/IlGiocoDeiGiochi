@@ -1,0 +1,26 @@
+{
+  "player_id": 31640,
+  "full_name": "Luca Martinelli",
+  "nationality": "Italy",
+  "birth_date": "1988-12-20",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Novara"
+    }
+  ],
+  "career_clubs": [
+    "Empoli",
+    "Novara",
+    "Empoli"
+  ]
+}

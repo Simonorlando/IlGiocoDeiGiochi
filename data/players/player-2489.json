@@ -1,0 +1,27 @@
+{
+  "player_id": 2489,
+  "full_name": "Luis Fernando Díaz Marulanda",
+  "nationality": "Colombia",
+  "birth_date": "1997-01-13",
+  "birth_place": "Barrancas",
+  "career_transfers": [
+    {
+      "date": "2022-01-30",
+      "type": "€ 44.5M",
+      "team_out": "FC Porto",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2019-07-10",
+      "type": "€ 8.5M",
+      "team_out": "Junior",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Barranquilla F.C.",
+    "FC Porto",
+    "Liverpool F.C.",
+    "FC Bayern Munich"
+  ]
+}

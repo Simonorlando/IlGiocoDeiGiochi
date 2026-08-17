@@ -1,0 +1,20 @@
+{
+  "player_id": 31063,
+  "full_name": "Levan Mchedlidze",
+  "nationality": "Georgia",
+  "birth_date": "1990-03-24",
+  "birth_place": "Tblisi",
+  "career_transfers": [
+    {
+      "date": "2019-09-18",
+      "type": "Free",
+      "team_out": "Empoli",
+      "team_in": "Dinamo Tbilisi"
+    }
+  ],
+  "career_clubs": [
+    "FC Dila Gori",
+    "Empoli FC",
+    "Palermo F.C."
+  ]
+}

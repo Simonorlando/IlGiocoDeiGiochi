@@ -1,0 +1,36 @@
+{
+  "player_id": 18835,
+  "full_name": "Vicente Guaita Panadero",
+  "nationality": "Spain",
+  "birth_date": "1987-01-10",
+  "birth_place": "Torrente",
+  "career_transfers": [
+    {
+      "date": "2014-08-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Recreativo Huelva",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Recreativo Huelva"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "Recreativo de Huelva",
+    "Getafe CF",
+    "Crystal Palace F.C.",
+    "RC Celta de Vigo",
+    "Parma Calcio 1913"
+  ]
+}

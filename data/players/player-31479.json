@@ -1,0 +1,30 @@
+{
+  "player_id": 31479,
+  "full_name": "Matteo Ciofani",
+  "nationality": "Italy",
+  "birth_date": "1988-02-26",
+  "birth_place": "Avezzano",
+  "career_transfers": [
+    {
+      "date": "2020-01-29",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "U.S. Bitonto",
+    "Renato Curi Angolana",
+    "Ascoli Calcio 1898 FC",
+    "Ternana Calcio",
+    "Frosinone Calcio",
+    "SSC Bari"
+  ]
+}

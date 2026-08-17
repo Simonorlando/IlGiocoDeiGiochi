@@ -1,0 +1,32 @@
+{
+  "player_id": 15278,
+  "full_name": "Carlos Roberto da Cruz Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1986-01-19",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-07-09",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2017-01-09",
+      "type": "€ 500K",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "FC Sochaux-Montbéliard",
+    "APOEL F.C."
+  ]
+}

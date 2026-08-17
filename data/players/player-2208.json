@@ -1,0 +1,29 @@
+{
+  "player_id": 2208,
+  "full_name": "Clément Jean Camille Grenier",
+  "nationality": "France",
+  "birth_date": "1991-01-07",
+  "birth_place": "Annonay",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2017-01-28",
+      "type": "Loan",
+      "team_out": "Lyon",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "AS Roma",
+    "En Avant de Guingamp",
+    "Stade Rennais F.C.",
+    "RCD Mallorca",
+    "Racing de Santander"
+  ]
+}

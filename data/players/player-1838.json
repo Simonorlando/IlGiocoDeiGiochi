@@ -1,0 +1,22 @@
+{
+  "player_id": 1838,
+  "full_name": "Dušan Basta",
+  "nationality": "Serbia",
+  "birth_date": "1984-08-18",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda",
+    "FK Jedinstvo Ub",
+    "US Lecce",
+    "Udinese Calcio",
+    "SS Lazio"
+  ]
+}

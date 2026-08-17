@@ -1,0 +1,20 @@
+{
+  "player_id": 18882,
+  "full_name": "Lys Mousset",
+  "nationality": "France",
+  "birth_date": "1996-02-08",
+  "birth_place": "Le Havre",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Sheffield Utd",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre AC",
+    "Sheffield United F.C.",
+    "AFC Bournemouth"
+  ]
+}

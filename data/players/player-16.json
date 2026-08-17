@@ -1,0 +1,28 @@
+{
+  "player_id": 16,
+  "full_name": "Mario Götze",
+  "nationality": "Germany",
+  "birth_date": "1992-06-03",
+  "birth_place": "Memmingen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2020-10-06",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "FC Bayern Munich",
+    "Borussia Dortmund",
+    "PSV Eindhoven",
+    "Eintracht Frankfurt"
+  ]
+}

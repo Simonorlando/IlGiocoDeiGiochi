@@ -1,0 +1,27 @@
+{
+  "player_id": 1273,
+  "full_name": "Jimmy Briand",
+  "nationality": "France",
+  "birth_date": "1985-08-02",
+  "birth_place": "Vitry sur Seine",
+  "career_transfers": [
+    {
+      "date": "2014-08-22",
+      "type": "Free",
+      "team_out": "Lyon",
+      "team_in": "Hannover 96"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 6M",
+      "team_out": "Rennes",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Olympique Lyonnais",
+    "Hannover 96",
+    "En Avant de Guingamp"
+  ]
+}

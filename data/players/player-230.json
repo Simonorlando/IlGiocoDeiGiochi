@@ -1,0 +1,20 @@
+{
+  "player_id": 230,
+  "full_name": "Daniel Schwaab",
+  "nationality": "Germany",
+  "birth_date": "1988-08-23",
+  "birth_place": "Waldkirch",
+  "career_transfers": [
+    {
+      "date": "2016-07-11",
+      "type": "Free",
+      "team_out": "VfB Stuttgart",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "Bayer 04 Leverkusen",
+    "VfB Stuttgart"
+  ]
+}

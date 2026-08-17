@@ -1,0 +1,35 @@
+{
+  "player_id": 320,
+  "full_name": "Nikola Maksimović",
+  "nationality": "Serbia",
+  "birth_date": "1991-11-25",
+  "birth_place": "Bajina Bašta",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 20M",
+      "team_out": "Torino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-07-23",
+      "type": "Free",
+      "team_out": "FK Crvena Zvezda",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FK Sevojno",
+    "FK Sloboda Užice",
+    "FK Crvena zvezda",
+    "Torino FC",
+    "Spartak Moscow",
+    "SSC Napoli"
+  ]
+}

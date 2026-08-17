@@ -1,0 +1,30 @@
+{
+  "player_id": 31010,
+  "full_name": "Federico Dimarco",
+  "nationality": "Italy",
+  "birth_date": "1997-11-10",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2018-08-07",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Ascoli Calcio 1898 FC",
+    "Empoli FC",
+    "FC Sion",
+    "Inter Milan",
+    "Parma Calcio 1913",
+    "Hellas Verona FC"
+  ]
+}

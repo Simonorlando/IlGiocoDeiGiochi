@@ -1,0 +1,24 @@
+{
+  "player_id": 9363,
+  "full_name": "Igor Guilherme Barbosa da Paixão",
+  "nationality": "Brazil",
+  "birth_date": "2000-06-28",
+  "birth_place": "Macapá",
+  "career_transfers": [
+    {
+      "date": "2022-08-17",
+      "type": "N/A",
+      "team_out": "Coritiba",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2025-08-01",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille"
+  ]
+}

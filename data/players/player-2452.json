@@ -1,0 +1,41 @@
+{
+  "player_id": 2452,
+  "full_name": "Tomás Eduardo Rincón Hernández",
+  "nationality": "Venezuela",
+  "birth_date": "1988-01-13",
+  "birth_place": "San Cristóbal",
+  "career_transfers": [
+    {
+      "date": "2022-07-05",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2022-01-08",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 6M",
+      "team_out": "Juventus",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-08-11",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Zamora F.C.",
+    "Internacional de Bogotá",
+    "Hamburger SV",
+    "Genoa CFC",
+    "Juventus FC",
+    "Torino FC"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 30745,
+  "full_name": "Nenad Tomović",
+  "nationality": "Serbia",
+  "birth_date": "1987-08-30",
+  "birth_place": "Kragujevac",
+  "career_transfers": [
+    {
+      "date": "2011-07-04",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2011-01-03",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FK Rad",
+    "FK Crvena zvezda",
+    "Genoa CFC",
+    "US Lecce",
+    "ACF Fiorentina",
+    "AC ChievoVerona"
+  ]
+}

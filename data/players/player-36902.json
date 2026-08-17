@@ -1,0 +1,29 @@
+{
+  "player_id": 36902,
+  "full_name": "Tijjani Reijnders",
+  "nationality": "Netherlands",
+  "birth_date": "1998-07-29",
+  "birth_place": "Zwolle",
+  "career_transfers": [
+    {
+      "date": "2023-07-19",
+      "type": "€ 19M",
+      "team_out": "AZ Alkmaar",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-06-10",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Jong AZ",
+    "PEC Zwolle",
+    "AZ Alkmaar",
+    "RKC Waalwijk",
+    "AC Milan",
+    "Manchester City F.C."
+  ]
+}

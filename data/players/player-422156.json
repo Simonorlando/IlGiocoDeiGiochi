@@ -1,0 +1,25 @@
+{
+  "player_id": 422156,
+  "full_name": "Matteo Palma",
+  "nationality": "Germany",
+  "birth_date": "2008-03-13",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2026-01-13",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sampdoria",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Udinese",
+    "Sampdoria"
+  ]
+}

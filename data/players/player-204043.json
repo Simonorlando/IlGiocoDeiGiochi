@@ -1,0 +1,39 @@
+{
+  "player_id": 204043,
+  "full_name": "Arthur Nicolas Theate",
+  "nationality": "Belgium",
+  "birth_date": "2000-05-25",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2022-07-29",
+      "type": "€ 19M",
+      "team_out": "Bologna",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2022-07-02",
+      "type": "N/A",
+      "team_out": "Oostende",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Oostende"
+    },
+    {
+      "date": "2021-08-26",
+      "type": "Loan",
+      "team_out": "Oostende",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "KV Oostende",
+    "Bologna F.C. 1909",
+    "Stade Rennais F.C.",
+    "Eintracht Frankfurt"
+  ]
+}

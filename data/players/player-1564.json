@@ -1,0 +1,24 @@
+{
+  "player_id": 1564,
+  "full_name": "Héctor Junior Firpo Adames",
+  "nationality": "Spain",
+  "birth_date": "1996-08-22",
+  "birth_place": "Santo Domingo",
+  "career_transfers": [
+    {
+      "date": "2021-07-06",
+      "type": "€ 15M",
+      "team_out": "Barcelona",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2019-08-04",
+      "type": "€ 18M",
+      "team_out": "Real Betis",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona"
+  ]
+}

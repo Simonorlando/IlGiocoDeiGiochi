@@ -1,0 +1,31 @@
+{
+  "player_id": 901,
+  "full_name": "Juan Manuel Mata García",
+  "nationality": "Spain",
+  "birth_date": "1988-04-28",
+  "birth_place": "Burgos",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Vissel Kobe"
+    },
+    {
+      "date": "2022-09-08",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Valencia CF",
+    "Chelsea F.C.",
+    "Manchester United F.C.",
+    "Galatasaray S.K.",
+    "Vissel Kobe",
+    "Western Sydney Wanderers FC",
+    "Melbourne Victory FC"
+  ]
+}

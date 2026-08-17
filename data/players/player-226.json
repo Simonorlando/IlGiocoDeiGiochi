@@ -1,0 +1,28 @@
+{
+  "player_id": 226,
+  "full_name": "Denzel Justus Morris Dumfries",
+  "nationality": "Netherlands",
+  "birth_date": "1996-04-18",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2026-07-03",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Sparta Rotterdam",
+    "SC Heerenveen",
+    "PSV Eindhoven",
+    "Inter Milan",
+    "Real Madrid Club de Fútbol"
+  ]
+}

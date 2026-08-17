@@ -1,0 +1,31 @@
+{
+  "player_id": 32185,
+  "full_name": "Tommaso Arrigoni",
+  "nationality": "Italy",
+  "birth_date": "1994-02-26",
+  "birth_place": "Cesena",
+  "career_transfers": [
+    {
+      "date": "2020-08-20",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Como"
+    },
+    {
+      "date": "2018-07-10",
+      "type": "Free",
+      "team_out": "Lucchese",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "Tritium Calcio 1908",
+    "AC Cesena",
+    "Forlì F.C.",
+    "SPAL",
+    "Santarcangelo Calcio",
+    "Como 1907",
+    "Siena FC"
+  ]
+}

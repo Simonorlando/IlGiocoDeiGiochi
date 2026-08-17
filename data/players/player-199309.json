@@ -1,0 +1,48 @@
+{
+  "player_id": 199309,
+  "full_name": "Cheick Oumar Conde",
+  "nationality": "Guinea",
+  "birth_date": "2000-07-26",
+  "birth_place": "Conakry",
+  "career_transfers": [
+    {
+      "date": "2025-01-08",
+      "type": "Transfer",
+      "team_out": "FC Zurich",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "FC BW Linz"
+    },
+    {
+      "date": "2026-07-14",
+      "type": "Free agent",
+      "team_out": "Venezia",
+      "team_in": "Conde Cheick"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "FC BW Linz",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-07-28",
+      "type": "Free agent",
+      "team_out": "Venezia",
+      "team_in": "SK Beveren"
+    },
+    {
+      "date": "2026-07-14",
+      "type": "Free agent",
+      "team_out": "Venezia",
+      "team_in": "SK Beveren"
+    }
+  ],
+  "career_clubs": [
+    "FC Zlín"
+  ]
+}

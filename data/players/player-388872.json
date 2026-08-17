@@ -1,0 +1,24 @@
+{
+  "player_id": 388872,
+  "full_name": "Victor Mow Froholdt",
+  "nationality": "Denmark",
+  "birth_date": "2006-02-25",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-23",
+      "type": "Transfer",
+      "team_out": "FC Copenhagen",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-07-21",
+      "type": "Transfer",
+      "team_out": "FC Copenhagen",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen"
+  ]
+}

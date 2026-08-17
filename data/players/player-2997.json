@@ -1,0 +1,28 @@
+{
+  "player_id": 2997,
+  "full_name": "Łukasz Marek Fabiański",
+  "nationality": "Poland",
+  "birth_date": "1985-04-18",
+  "birth_place": "Kostrzyn nad Odrą",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Arsenal",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2007-08-08",
+      "type": "€ 4.4M",
+      "team_out": "Legia Warszawa",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Lech Poznań",
+    "Legia Warsaw",
+    "Arsenal F.C.",
+    "Swansea City A.F.C.",
+    "West Ham United F.C."
+  ]
+}

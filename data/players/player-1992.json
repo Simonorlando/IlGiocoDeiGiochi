@@ -1,0 +1,28 @@
+{
+  "player_id": 1992,
+  "full_name": "Jeremain Marciano Lens",
+  "nationality": "Netherlands",
+  "birth_date": "1987-11-24",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2015-07-15",
+      "type": "€ 12M",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 7M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Dynamo Kyiv"
+    }
+  ],
+  "career_clubs": [
+    "AZ Alkmaar",
+    "N.E.C.",
+    "PSV Eindhoven",
+    "FC Dynamo Kyiv",
+    "Sunderland A.F.C."
+  ]
+}

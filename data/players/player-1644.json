@@ -1,0 +1,20 @@
+{
+  "player_id": 1644,
+  "full_name": "José Agustín Mauri",
+  "nationality": "Italy",
+  "birth_date": "1996-05-16",
+  "birth_place": "Realicó",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "AC Milan",
+    "Empoli FC"
+  ]
+}

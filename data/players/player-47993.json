@@ -1,0 +1,26 @@
+{
+  "player_id": 47993,
+  "full_name": "Sebastian Anders Fredrik Eriksson",
+  "nationality": "Sweden",
+  "birth_date": "1989-01-31",
+  "birth_place": "Brålanda",
+  "career_transfers": [
+    {
+      "date": "2020-08-24",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "IFK Goteborg"
+    },
+    {
+      "date": "2020-01-23",
+      "type": "€ 53K",
+      "team_out": "IFK Goteborg",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "IFK Göteborg",
+    "Cagliari Calcio",
+    "IFK Göteborg"
+  ]
+}

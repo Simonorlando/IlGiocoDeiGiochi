@@ -1,0 +1,41 @@
+{
+  "player_id": 115301,
+  "full_name": "Ferdinando Sforzini",
+  "nationality": "Italy",
+  "birth_date": "1984-12-04",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2014-08-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "N/A",
+      "team_out": "Grosseto",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "Hellas Verona FC",
+    "Udinese Calcio",
+    "Modena F.C.",
+    "Vicenza Calcio",
+    "S.C. Ravenna Sport",
+    "U.S. Grosseto 1912",
+    "SSC Bari",
+    "U.S. Avellino 1912",
+    "CFR Cluj",
+    "U.S. Grosseto 1912",
+    "Delfino Pescara 1936",
+    "Latina Calcio 1932",
+    "Virtus Entella",
+    "AC Pavia 1911",
+    "Ascoli Calcio 1898 FC",
+    "SS Lazio",
+    "SSC Napoli"
+  ]
+}

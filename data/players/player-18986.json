@@ -1,0 +1,30 @@
+{
+  "player_id": 18986,
+  "full_name": "Souleymane Bamba",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1985-01-13",
+  "birth_place": "Ivry-sur-Seine",
+  "career_transfers": [
+    {
+      "date": "2015-01-23",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2014-08-26",
+      "type": "Free",
+      "team_out": "Trabzonspor",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Atlético Madrid",
+    "Tottenham Hotspur F.C.",
+    "Leicester City F.C.",
+    "Trabzonspor",
+    "Palermo F.C.",
+    "Leeds United F.C."
+  ]
+}

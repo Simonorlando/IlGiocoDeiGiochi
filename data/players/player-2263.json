@@ -1,0 +1,28 @@
+{
+  "player_id": 2263,
+  "full_name": "Tomáš Hübschman",
+  "nationality": "Czechia",
+  "birth_date": "1981-09-04",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "FK Jablonec"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "€ 3M",
+      "team_out": "Sparta Praha",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "FC Zlín",
+    "AC Sparta Prague",
+    "FK Jablonec",
+    "FC Shakhtar Donetsk",
+    "FK Jablonec"
+  ]
+}

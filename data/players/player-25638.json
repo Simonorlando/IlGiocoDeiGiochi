@@ -1,0 +1,32 @@
+{
+  "player_id": 25638,
+  "full_name": "Florian Christian Neuhaus",
+  "nationality": "Germany",
+  "birth_date": "1997-03-16",
+  "birth_place": "Landsberg am Lech",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Fortuna Düsseldorf",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "Free",
+      "team_out": "TSV 1860 München",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "Loan",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Fortuna Düsseldorf"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "Borussia Mönchengladbach",
+    "Fortuna Düsseldorf"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "player_id": 50075,
+  "full_name": "Stipe Perica",
+  "nationality": "Croatia",
+  "birth_date": "1995-07-07",
+  "birth_place": "Zadar",
+  "career_transfers": [
+    {
+      "date": "2018-07-18",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "NK Zadar",
+    "Chelsea F.C.",
+    "NAC Breda",
+    "Udinese Calcio",
+    "FC Dinamo Bucharest",
+    "FC Neftchi Fergana"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "player_id": 47273,
+  "full_name": "Yuri Berchiche Izeta",
+  "nationality": "Spain",
+  "birth_date": "1990-02-10",
+  "birth_place": "Zarautz",
+  "career_transfers": [
+    {
+      "date": "2017-07-07",
+      "type": "€ 16M",
+      "team_out": "Real Sociedad",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Eibar",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2013-07-23",
+      "type": "Loan",
+      "team_out": "Real Sociedad",
+      "team_in": "Eibar"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Eibar",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2012-07-02",
+      "type": "Loan",
+      "team_out": "Real Sociedad",
+      "team_in": "Eibar"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Real Unión",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Antiguoko",
+    "Real Sociedad",
+    "Athletic Club",
+    "Tottenham Hotspur F.C.",
+    "Cheltenham Town F.C.",
+    "Real Valladolid",
+    "Real Valladolid B",
+    "Real Unión",
+    "SD Eibar",
+    "Real Sociedad",
+    "Basque Country regional football team",
+    "Paris Saint-Germain FC",
+    "Athletic Club"
+  ]
+}

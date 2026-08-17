@@ -1,0 +1,30 @@
+{
+  "player_id": 75313,
+  "full_name": "Pablo César Aimar Giordano",
+  "nationality": "Argentina",
+  "birth_date": "1979-11-03",
+  "birth_place": "Río Cuarto",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "11M €",
+      "team_out": "Valencia",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2001-01-01",
+      "type": "24M €",
+      "team_out": "River Plate",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de Río Cuarto",
+    "Club Atlético River Plate",
+    "Valencia CF",
+    "Real Zaragoza",
+    "S.L. Benfica",
+    "Johor Darul Ta'zim F.C.",
+    "Club Atlético River Plate"
+  ]
+}

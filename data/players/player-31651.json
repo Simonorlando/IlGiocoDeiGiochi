@@ -1,0 +1,32 @@
+{
+  "player_id": 31651,
+  "full_name": "Leandro Greco",
+  "nationality": "Italy",
+  "birth_date": "1986-07-19",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2013-07-30",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "A.S.D. Astrea",
+    "Hellas Verona FC",
+    "Pisa SC",
+    "Piacenza Calcio",
+    "Olympiacos F.C.",
+    "US Livorno 1915",
+    "Genoa CFC",
+    "Hellas Verona FC"
+  ]
+}

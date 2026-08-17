@@ -1,0 +1,30 @@
+{
+  "player_id": 2520,
+  "full_name": "Hernán Arsenio Pérez González",
+  "nationality": "Paraguay",
+  "birth_date": "1989-02-25",
+  "birth_place": "Fernando de la Mora",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Tacuary Football Club",
+    "Club Libertad",
+    "Villarreal CF B",
+    "Villarreal CF",
+    "Olympiacos F.C.",
+    "RCD Espanyol de Barcelona",
+    "Real Valladolid"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 136016,
+  "full_name": "Hamza Rafia",
+  "nationality": "Tunisia",
+  "birth_date": "1999-04-02",
+  "birth_place": "Kallat Senan",
+  "career_transfers": [
+    {
+      "date": "2023-07-18",
+      "type": "€ 1M",
+      "team_out": "Pescara",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-08",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "ES Tunis"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen",
+    "Standard Liège",
+    "US Cremonese",
+    "Delfino Pescara 1936",
+    "US Lecce",
+    "Espérance Sportive de Tunis"
+  ]
+}

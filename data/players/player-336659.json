@@ -1,0 +1,24 @@
+{
+  "player_id": 336659,
+  "full_name": "Chemsdine Talbi",
+  "nationality": "Morocco",
+  "birth_date": "2005-05-09",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-09",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "Sunderland"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V."
+  ]
+}

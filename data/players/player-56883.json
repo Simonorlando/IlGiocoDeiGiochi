@@ -1,0 +1,32 @@
+{
+  "player_id": 56883,
+  "full_name": "Nicola Strambelli",
+  "nationality": "Italy",
+  "birth_date": "1988-09-06",
+  "birth_place": "Bari",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": null,
+      "team_in": "Bari"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "Loan",
+      "team_out": "Bari",
+      "team_in": "Sorrento"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "Sorrento Calcio 1945",
+    "Taranto Sport",
+    "Fidelis Andria 2018",
+    "A.S. Noicattaro Calcio",
+    "SSC Bari",
+    "S.S. Monopoli 1966",
+    "Fidelis Andria 2018",
+    "FC Matera"
+  ]
+}

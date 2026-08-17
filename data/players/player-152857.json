@@ -1,0 +1,66 @@
+{
+  "player_id": 152857,
+  "full_name": "Ruan Tressoldi Netto",
+  "nationality": "Brazil",
+  "birth_date": "1999-06-07",
+  "birth_place": "Tramandaí",
+  "career_transfers": [
+    {
+      "date": "2024-08-12",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2022-01-03",
+      "type": "N/A",
+      "team_out": "Gremio",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2021-08-12",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Gremio"
+    },
+    {
+      "date": "2021-08-11",
+      "type": "€ 5M",
+      "team_out": "Gremio",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Sao Paulo",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-08-25",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Sassuolo",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Atletico-MG",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Sassuolo",
+      "team_in": "Atletico-MG"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA"
+  ]
+}

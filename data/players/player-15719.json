@@ -1,0 +1,43 @@
+{
+  "player_id": 15719,
+  "full_name": "Oliver Abildgaard Nielsen",
+  "nationality": "Denmark",
+  "birth_date": "1996-06-10",
+  "birth_place": "Ålborg",
+  "career_transfers": [
+    {
+      "date": "2024-08-31",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-07-12",
+      "type": "Free",
+      "team_out": "Rubin",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Pisa",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-08-20",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "AaB Fodbold",
+    "Rubin Kazan"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 36798,
+  "full_name": "Vangelis Pavlidis",
+  "nationality": "Greece",
+  "birth_date": "1998-11-21",
+  "birth_place": "Thessaloniki",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 18M",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "VfL Bochum",
+    "AZ Alkmaar",
+    "S.L. Benfica"
+  ]
+}

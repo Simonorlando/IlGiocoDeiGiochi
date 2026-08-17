@@ -1,0 +1,32 @@
+{
+  "player_id": 33255,
+  "full_name": "Łukasz Józef Podolski",
+  "nationality": "Germany",
+  "birth_date": "1985-06-04",
+  "birth_place": "Gliwice",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 2.6M",
+      "team_out": "Galatasaray",
+      "team_in": "Vissel Kobe"
+    },
+    {
+      "date": "2015-07-04",
+      "type": "€ 2.5M",
+      "team_out": "Arsenal",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Köln",
+    "FC Bayern Munich",
+    "1. FC Köln",
+    "Arsenal F.C.",
+    "Inter Milan",
+    "Galatasaray S.K.",
+    "Vissel Kobe",
+    "Antalyaspor",
+    "Górnik Zabrze"
+  ]
+}

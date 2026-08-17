@@ -1,0 +1,24 @@
+{
+  "player_id": 30782,
+  "full_name": "Ivan Radovanović",
+  "nationality": "Serbia",
+  "birth_date": "1988-08-29",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "FK Smederevo 1924",
+    "Atalanta BC",
+    "Pisa SC",
+    "Bologna F.C. 1909",
+    "Novara Calcio",
+    "AC ChievoVerona"
+  ]
+}

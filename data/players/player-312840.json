@@ -1,0 +1,20 @@
+{
+  "player_id": 312840,
+  "full_name": "Ernest Poku",
+  "nationality": "Netherlands",
+  "birth_date": "2004-01-28",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2025-08-12",
+      "type": "Transfer",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Jong AZ",
+    "AZ",
+    "Bayer Leverkusen"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "player_id": 30844,
+  "full_name": "Andrey Asenov Galabinov",
+  "nationality": "Bulgaria",
+  "birth_date": "1988-11-27",
+  "birth_place": "Sofia",
+  "career_transfers": [
+    {
+      "date": "2021-08-18",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Castellarano",
+    "Bologna",
+    "Giulianova",
+    "Giacomense",
+    "Lumezzane",
+    "Livorno",
+    "Sorrento",
+    "Bassano",
+    "Gubbio",
+    "Avellino",
+    "Novara",
+    "Genoa",
+    "Spezia",
+    "Reggina",
+    "Lumezzane"
+  ]
+}

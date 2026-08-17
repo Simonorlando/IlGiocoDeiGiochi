@@ -1,0 +1,20 @@
+{
+  "player_id": 2296,
+  "full_name": "Eden Michael Walter Hazard",
+  "nationality": "Belgium",
+  "birth_date": "1991-01-07",
+  "birth_place": "La Louvière",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 100M",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

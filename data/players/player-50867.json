@@ -1,0 +1,40 @@
+{
+  "player_id": 50867,
+  "full_name": "Alexandru Ionuț Mitriță",
+  "nationality": "Romania",
+  "birth_date": "1995-02-08",
+  "birth_place": "Craiova",
+  "career_transfers": [
+    {
+      "date": "2018-01-23",
+      "type": "€ 730K",
+      "team_out": "Pescara",
+      "team_in": "Universitatea Craiova"
+    },
+    {
+      "date": "2017-07-21",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Universitatea Craiova"
+    },
+    {
+      "date": "2015-07-22",
+      "type": "N/A",
+      "team_out": "Viitorul Constanta",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "CS Turnu Severin",
+    "FC Viitorul Constanța",
+    "FCSB",
+    "Delfino Pescara 1936",
+    "CS Universitatea Craiova",
+    "New York City FC",
+    "Al Ahli FC",
+    "PAOK FC",
+    "Al-Raed FC",
+    "CS Universitatea Craiova",
+    "Zhejiang Professional F.C."
+  ]
+}

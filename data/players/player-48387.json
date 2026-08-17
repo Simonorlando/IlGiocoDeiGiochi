@@ -1,0 +1,25 @@
+{
+  "player_id": 48387,
+  "full_name": "Taulant Ragip Xhaka",
+  "nationality": "Albania",
+  "birth_date": "1991-03-28",
+  "birth_place": "Basel",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Grasshoppers",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2012-01-18",
+      "type": "Loan",
+      "team_out": "FC Basel 1893",
+      "team_in": "Grasshoppers"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Grasshopper Club Zürich"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 68013,
+  "full_name": "Agustín Alberto Martegani",
+  "nationality": "Argentina",
+  "birth_date": "2000-05-20",
+  "birth_place": "Rojas",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "San Lorenzo"
+    },
+    {
+      "date": "2023-08-25",
+      "type": "Loan",
+      "team_out": "San Lorenzo",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo",
+    "Salernitana",
+    "Boca Juniors"
+  ]
+}

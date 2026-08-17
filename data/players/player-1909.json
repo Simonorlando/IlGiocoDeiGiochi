@@ -1,0 +1,33 @@
+{
+  "player_id": 1909,
+  "full_name": "Luiz Gustavo Dias",
+  "nationality": "Brazil",
+  "birth_date": "1987-07-23",
+  "birth_place": "Pindamonhangaba",
+  "career_transfers": [
+    {
+      "date": "2017-07-04",
+      "type": "€ 10M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2013-08-16",
+      "type": "€ 17.5M",
+      "team_out": "Bayern München",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "Sport Club Corinthians Alagoano",
+    "Clube de Regatas Brasil",
+    "TSG 1899 Hoffenheim",
+    "FC Bayern Munich",
+    "VfL Wolfsburg",
+    "Olympique de Marseille",
+    "Fenerbahçe Istanbul",
+    "Al-Nassr",
+    "São Paulo FC",
+    "Club Athletico Paranaense"
+  ]
+}

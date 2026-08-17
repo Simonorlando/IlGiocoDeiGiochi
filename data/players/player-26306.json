@@ -1,0 +1,20 @@
+{
+  "player_id": 26306,
+  "full_name": "Gonzalo Castro Randon",
+  "nationality": "Germany",
+  "birth_date": "1987-06-11",
+  "birth_place": "Wuppertal",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 11M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "Borussia Dortmund",
+    "VfB Stuttgart"
+  ]
+}

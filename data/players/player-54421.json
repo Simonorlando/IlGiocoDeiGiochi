@@ -1,0 +1,27 @@
+{
+  "player_id": 54421,
+  "full_name": "Márcio Ivanildo Da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1981-03-25",
+  "birth_place": "Pernambuco",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Levski Sofia"
+    }
+  ],
+  "career_clubs": [
+    "Santos",
+    "CS Marítimo",
+    "APOEL Nicosia",
+    "Levski Sofia",
+    "Anorthosis Famagusta",
+    "Atlético Sorocaba",
+    "Murici",
+    "Botafogo-PB",
+    "Campinense",
+    "AA Altos"
+  ]
+}

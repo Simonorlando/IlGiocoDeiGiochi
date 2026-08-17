@@ -1,0 +1,36 @@
+{
+  "player_id": 6409,
+  "full_name": "Nahuel Estévez Álvarez",
+  "nationality": "Argentina",
+  "birth_date": "1995-11-14",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Parma",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Parma",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Comunicaciones",
+    "Estudiantes",
+    "Sarmiento",
+    "Spezia",
+    "Crotone",
+    "Parma",
+    "Palermo"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 8695,
+  "full_name": "Nicolas Lombaerts",
+  "nationality": "Belgium",
+  "birth_date": "1985-03-20",
+  "birth_place": "Brugge",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "€ 4M",
+      "team_out": "Gent",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "FC Zenit Saint Petersburg",
+    "KV Oostende"
+  ]
+}

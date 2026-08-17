@@ -1,0 +1,41 @@
+{
+  "player_id": 8581,
+  "full_name": "Noë Georges Dussenne",
+  "nationality": "Belgium",
+  "birth_date": "1992-04-07",
+  "birth_place": "Mons",
+  "career_transfers": [
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Royal Excel Mouscron"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Gent",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2017-08-29",
+      "type": "Loan",
+      "team_out": "Crotone",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2016-08-27",
+      "type": "N/A",
+      "team_out": "Royal Excel Mouscron",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "R.A.E.C. Mons",
+    "Royale Union Tubize-Braine",
+    "Cercle Brugge K.S.V.",
+    "Royal Excel Mouscron",
+    "FC Lausanne-Sport",
+    "KAA Gent"
+  ]
+}

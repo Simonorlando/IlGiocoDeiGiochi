@@ -1,0 +1,26 @@
+{
+  "player_id": 1645,
+  "full_name": "Riccardo Montolivo",
+  "nationality": "Italy",
+  "birth_date": "1985-01-18",
+  "birth_place": "Caravaggio",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "5.5M €",
+      "team_out": "Atalanta",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "ACF Fiorentina",
+    "AC Milan"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 46,
+  "full_name": "Víctor Machín Pérez",
+  "nationality": "Spain",
+  "birth_date": "1989-11-02",
+  "birth_place": "Las Palmas de Gran Canaria",
+  "career_transfers": [
+    {
+      "date": "2017-07-12",
+      "type": "€ 36M",
+      "team_out": "Sevilla",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2013-07-03",
+      "type": "N/A",
+      "team_out": "Las Palmas",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "UD Las Palmas Atlético",
+    "UD Las Palmas",
+    "Sevilla FC",
+    "UD Las Palmas",
+    "Atlético Madrid"
+  ]
+}

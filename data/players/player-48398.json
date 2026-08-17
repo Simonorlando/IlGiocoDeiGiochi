@@ -1,0 +1,29 @@
+{
+  "player_id": 48398,
+  "full_name": "Fabio Daprelà",
+  "nationality": "Switzerland",
+  "birth_date": "1991-02-19",
+  "birth_place": "Zurich",
+  "career_transfers": [
+    {
+      "date": "2016-01-05",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2013-07-30",
+      "type": "€ 1.5M",
+      "team_out": "Brescia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "West Ham United F.C.",
+    "Brescia Calcio",
+    "Palermo F.C.",
+    "A.C. Carpi",
+    "AC ChievoVerona"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 37112,
+  "full_name": "Eduardo dos Reis Carvalho",
+  "nationality": "Portugal",
+  "birth_date": "1982-09-19",
+  "birth_place": "Mirandela",
+  "career_transfers": [
+    {
+      "date": "2011-07-17",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 4.5M",
+      "team_out": "SC Braga",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga B",
+    "S.C. Braga",
+    "S.C. Beira-Mar",
+    "Vitória F.C.",
+    "Genoa CFC",
+    "S.L. Benfica",
+    "İstanbul Başakşehir F.K.",
+    "S.C. Braga",
+    "GNK Dinamo Zagreb",
+    "Chelsea F.C.",
+    "SBV Vitesse",
+    "S.C. Braga"
+  ]
+}

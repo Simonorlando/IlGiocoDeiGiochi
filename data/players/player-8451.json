@@ -1,0 +1,42 @@
+{
+  "player_id": 8451,
+  "full_name": "Aurélio Gabriel Ulineia Buta",
+  "nationality": "Portugal",
+  "birth_date": "1997-02-10",
+  "birth_place": "Luanda",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "FC Copenhagen",
+      "team_in": "Buta"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "Free agent",
+      "team_out": "FC Copenhagen",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Free agent",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "FC Copenhagen",
+      "team_in": "Sao Paulo"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Free agent",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "Royal Antwerp F.C."
+  ]
+}

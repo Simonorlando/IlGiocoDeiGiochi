@@ -1,0 +1,42 @@
+{
+  "player_id": 35714,
+  "full_name": "Pablo César Barrientos",
+  "nationality": "Argentina",
+  "birth_date": "1985-01-17",
+  "birth_place": "Comodoro Rivadavia",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "€ 1.1M",
+      "team_out": "Catania",
+      "team_in": "San Lorenzo"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Estudiantes L.P.",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Estudiantes L.P."
+    },
+    {
+      "date": "2010-01-01",
+      "type": "€ 4M",
+      "team_out": null,
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro",
+    "FC Moscow",
+    "San Lorenzo de Almagro",
+    "Catania FC",
+    "Estudiantes de La Plata",
+    "San Lorenzo de Almagro",
+    "Atlas F.C."
+  ]
+}

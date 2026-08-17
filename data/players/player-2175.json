@@ -1,0 +1,36 @@
+{
+  "player_id": 2175,
+  "full_name": "Denys Garmash",
+  "nationality": "Ukraine",
+  "birth_date": "1990-04-19",
+  "birth_place": "Milove",
+  "career_transfers": [
+    {
+      "date": "2023-09-06",
+      "type": "Free",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "NK Osijek"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Rizespor",
+      "team_in": "Dynamo Kyiv"
+    },
+    {
+      "date": "2020-01-05",
+      "type": "Loan",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Rizespor"
+    }
+  ],
+  "career_clubs": [
+    "FC Dynamo-2 Kyiv",
+    "FC Dynamo-3 Kyiv",
+    "FC Dynamo Kyiv",
+    "Çaykur Rizespor",
+    "NK Osijek",
+    "FC Metalist 1925 Kharkiv",
+    "FC Lisne"
+  ]
+}

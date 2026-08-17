@@ -1,0 +1,32 @@
+{
+  "player_id": 115213,
+  "full_name": "Michele Pazienza",
+  "nationality": "Italy",
+  "birth_date": "1982-08-05",
+  "birth_place": "San Severo",
+  "career_transfers": [
+    {
+      "date": "2008-01-01",
+      "type": "4.8M €",
+      "team_out": "Fiorentina",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Foggia 1920",
+    "Udinese Calcio",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Juventus FC",
+    "Bologna F.C. 1909",
+    "Udinese Calcio",
+    "Vicenza Calcio",
+    "A.C. Reggiana 1919"
+  ]
+}

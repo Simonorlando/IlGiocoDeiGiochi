@@ -1,0 +1,37 @@
+{
+  "player_id": 90498,
+  "full_name": "Eliaquim Mangala",
+  "nationality": "France",
+  "birth_date": "1991-02-13",
+  "birth_place": "Colombes",
+  "career_transfers": [
+    {
+      "date": "2022-01-20",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "FC Porto",
+    "Manchester City F.C.",
+    "Valencia CF",
+    "Everton F.C.",
+    "Valencia CF",
+    "AS Saint-Étienne",
+    "G.D. Estoril Praia"
+  ]
+}

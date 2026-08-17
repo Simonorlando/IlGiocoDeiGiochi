@@ -1,0 +1,85 @@
+{
+  "player_id": 10166,
+  "full_name": "Reinier Jesus Carvalho",
+  "nationality": "Brazil",
+  "birth_date": "2002-01-19",
+  "birth_place": "Brasilia",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2022-08-19",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Girona"
+    },
+    {
+      "date": "2020-08-19",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "€ 30M",
+      "team_out": "Flamengo",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Granada CF",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2020-01-19",
+      "type": "-",
+      "team_out": "Real Madrid",
+      "team_in": "Real Madrid II"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "-",
+      "team_out": "Real Madrid",
+      "team_in": "Real Madrid B"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "-",
+      "team_out": "Real Madrid",
+      "team_in": "Real Madrid II"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "Borussia Dortmund",
+    "Girona FC",
+    "Frosinone Calcio",
+    "Granada CF",
+    "Clube Atlético Mineiro"
+  ]
+}

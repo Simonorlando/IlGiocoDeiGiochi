@@ -1,0 +1,22 @@
+{
+  "player_id": 91561,
+  "full_name": "Andrea Catellani",
+  "nationality": "Italy",
+  "birth_date": "1988-05-26",
+  "birth_place": "Reggio Emilia",
+  "career_transfers": [
+    {
+      "date": "2012-08-22",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Reggiana 1919",
+    "Modena F.C.",
+    "Catania FC",
+    "US Sassuolo Calcio",
+    "Spezia Calcio"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 66817,
+  "full_name": "Nikola Krstović",
+  "nationality": "Montenegro",
+  "birth_date": "2000-04-05",
+  "birth_place": "Golubovci",
+  "career_transfers": [
+    {
+      "date": "2023-08-18",
+      "type": "€ 3.8M",
+      "team_out": "Dunajska Streda",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-08-20",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "FK Zeta"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 37651,
+  "full_name": "Jay Idzes",
+  "nationality": "Netherlands",
+  "birth_date": "2000-06-02",
+  "birth_place": "Mierlo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "GO Ahead Eagles",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-08-09",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C.",
+    "FC Eindhoven"
+  ]
+}

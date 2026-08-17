@@ -1,0 +1,63 @@
+{
+  "player_id": 608,
+  "full_name": "Lucas Ariel Boyé",
+  "nationality": "Argentina",
+  "birth_date": "1996-02-28",
+  "birth_place": "San Gregorio",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 2M",
+      "team_out": "Torino",
+      "team_in": "Elche"
+    },
+    {
+      "date": "2020-09-21",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Elche"
+    },
+    {
+      "date": "2020-09-20",
+      "type": "N/A",
+      "team_out": "Reading",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "AEK Athens FC",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2018-07-18",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Celta Vigo"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "River Plate",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Newell's Old Boys",
+    "Torino FC",
+    "AEK Athens F.C.",
+    "RC Celta de Vigo",
+    "Reading F.C.",
+    "Elche CF",
+    "Granada CF",
+    "Deportivo Alavés",
+    "UD Las Palmas"
+  ]
+}

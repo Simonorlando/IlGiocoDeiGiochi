@@ -1,0 +1,24 @@
+{
+  "player_id": 136087,
+  "full_name": "Fabiano Parisi",
+  "nationality": "Italy",
+  "birth_date": "2000-11-09",
+  "birth_place": "Solofra",
+  "career_transfers": [
+    {
+      "date": "2023-07-14",
+      "type": "€ 10M",
+      "team_out": "Empoli",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2020-09-22",
+      "type": "€ 450K",
+      "team_out": "Avellino",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Avellino 1912"
+  ]
+}

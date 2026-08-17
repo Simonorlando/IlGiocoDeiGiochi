@@ -1,0 +1,27 @@
+{
+  "player_id": 30867,
+  "full_name": "Simone Missiroli",
+  "nationality": "Italy",
+  "birth_date": "1986-05-23",
+  "birth_place": "Reggio Calabria",
+  "career_transfers": [
+    {
+      "date": "2021-09-26",
+      "type": "Free",
+      "team_out": "Spal",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "€ 2.5M",
+      "team_out": "Sassuolo",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "Treviso F.B.C. 1993",
+    "Cagliari Calcio",
+    "US Sassuolo Calcio"
+  ]
+}

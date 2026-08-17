@@ -1,0 +1,21 @@
+{
+  "player_id": 162714,
+  "full_name": "Amadou Ba Zeund Georges Mvom Onana",
+  "nationality": "Belgium",
+  "birth_date": "2001-08-16",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2022-08-09",
+      "type": "€ 35M",
+      "team_out": "Lille",
+      "team_in": "Everton"
+    }
+  ],
+  "career_clubs": [
+    "Hamburger SV",
+    "Lille OSC",
+    "Everton F.C.",
+    "Aston Villa F.C."
+  ]
+}

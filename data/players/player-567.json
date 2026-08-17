@@ -1,0 +1,20 @@
+{
+  "player_id": 567,
+  "full_name": "Rúben dos Santos Gato Alves Dias",
+  "nationality": "Portugal",
+  "birth_date": "1997-05-14",
+  "birth_place": "Amadora",
+  "career_transfers": [
+    {
+      "date": "2020-09-29",
+      "type": "€ 68M",
+      "team_out": "Benfica",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Manchester City F.C."
+  ]
+}

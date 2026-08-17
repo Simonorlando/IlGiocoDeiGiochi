@@ -1,0 +1,33 @@
+{
+  "player_id": 49908,
+  "full_name": "Guilherme Costa Marques",
+  "nationality": "Brazil",
+  "birth_date": "1991-05-21",
+  "birth_place": "Três Rios",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Yeni Malatyaspor"
+    },
+    {
+      "date": "2018-08-03",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Yeni Malatyaspor"
+    },
+    {
+      "date": "2018-01-17",
+      "type": "Free",
+      "team_out": "Legia Warszawa",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga",
+    "F.C. Vizela",
+    "Gil Vicente F.C.",
+    "Legia Warsaw"
+  ]
+}

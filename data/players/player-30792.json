@@ -1,0 +1,26 @@
+{
+  "player_id": 30792,
+  "full_name": "Nícolas David Andrade",
+  "nationality": "Brazil",
+  "birth_date": "1988-04-12",
+  "birth_place": "Colorado do Oeste",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Reggina",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Villa Nova Atlético Clube",
+    "Tombense Futebol Clube",
+    "Hellas Verona FC",
+    "Associação Atlética Anapolina",
+    "Hellas Verona FC",
+    "Lanciano Calcio 1920",
+    "F.C. Trapani 1905",
+    "Udinese Calcio"
+  ]
+}

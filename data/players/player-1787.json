@@ -1,0 +1,26 @@
+{
+  "player_id": 1787,
+  "full_name": "Fernando Lucas Martins",
+  "nationality": "Brazil",
+  "birth_date": "1992-03-03",
+  "birth_place": "Erechim",
+  "career_transfers": [
+    {
+      "date": "2015-07-06",
+      "type": "€ 8M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 11M",
+      "team_out": "Gremio",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA",
+    "FC Shakhtar Donetsk",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 18780,
+  "full_name": "Rachid Ghezzal",
+  "nationality": "Algeria",
+  "birth_date": "1992-05-09",
+  "birth_place": "Décines-Charpieu",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Olympique Lyonnais"
+  ]
+}

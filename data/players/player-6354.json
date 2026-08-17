@@ -1,0 +1,30 @@
+{
+  "player_id": 6354,
+  "full_name": "Ribair Rodríguez Pérez",
+  "nationality": "Uruguay",
+  "birth_date": "1987-10-04",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2013-01-11",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2012-09-01",
+      "type": "N/A",
+      "team_out": "Belgrano Cordoba",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Club Atlético Tigre",
+    "Club Atlético Belgrano",
+    "Siena FC",
+    "Boca Juniors",
+    "Santos Laguna",
+    "Leones Negros de la Universidad de Guadalajara"
+  ]
+}

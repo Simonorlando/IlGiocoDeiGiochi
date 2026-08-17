@@ -1,0 +1,28 @@
+{
+  "player_id": 10135,
+  "full_name": "Bruno Guimarães Rodriguez Moura",
+  "nationality": "Brazil",
+  "birth_date": "1997-11-16",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2022-01-30",
+      "type": "€ 50M",
+      "team_out": "Lyon",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "€ 21.4M",
+      "team_out": "Atletico Paranaense",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio Osasco Audax",
+    "Club Athletico Paranaense",
+    "Olympique Lyonnais",
+    "Newcastle United F.C.",
+    "Arsenal F.C."
+  ]
+}

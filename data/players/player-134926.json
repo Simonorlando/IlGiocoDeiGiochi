@@ -1,0 +1,36 @@
+{
+  "player_id": 134926,
+  "full_name": "Daniel Maldini",
+  "nationality": "Italy",
+  "birth_date": "2001-10-11",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-31",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2024-01-10",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-02-01",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan"
+  ]
+}

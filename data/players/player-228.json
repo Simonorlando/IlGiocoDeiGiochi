@@ -1,0 +1,25 @@
+{
+  "player_id": 228,
+  "full_name": "Armando Obispo",
+  "nationality": "Netherlands",
+  "birth_date": "1999-03-05",
+  "birth_place": "'s-Hertogenbosch",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Vitesse",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Vitesse"
+    }
+  ],
+  "career_clubs": [
+    "SBV Vitesse",
+    "PSV Eindhoven"
+  ]
+}

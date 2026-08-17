@@ -1,0 +1,27 @@
+{
+  "player_id": 30415,
+  "full_name": "Dušan Vlahović",
+  "nationality": "Serbia",
+  "birth_date": "2000-01-28",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2022-01-28",
+      "type": "€ 81.6M",
+      "team_out": "Fiorentina",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "FK Partizan",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

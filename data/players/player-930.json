@@ -1,0 +1,33 @@
+{
+  "player_id": 930,
+  "full_name": "Carlos Soler Barragán",
+  "nationality": "Spain",
+  "birth_date": "1997-01-02",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2025-08-31",
+      "type": "Transfer",
+      "team_out": "PSG",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF",
+    "Paris Saint-Germain FC",
+    "West Ham United F.C.",
+    "Real Sociedad"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "player_id": 9677,
+  "full_name": "Raphael Martinho Alves de Lima",
+  "nationality": "Brazil",
+  "birth_date": "1988-04-15",
+  "birth_place": "Campo Grande",
+  "career_transfers": [
+    {
+      "date": "2015-07-28",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2012-07-19",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2011-08-23",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 200K",
+      "team_out": "Paulista",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Paulista",
+    "Catania",
+    "Cesena",
+    "Verona",
+    "Catania",
+    "Carpi"
+  ]
+}

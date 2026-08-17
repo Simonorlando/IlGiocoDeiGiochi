@@ -1,0 +1,27 @@
+{
+  "player_id": 153,
+  "full_name": "Masour Ousmane Dembélé",
+  "nationality": "France",
+  "birth_date": "1997-05-15",
+  "birth_place": "Vernon",
+  "career_transfers": [
+    {
+      "date": "2023-08-12",
+      "type": "€ 50.4M",
+      "team_out": "Barcelona",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2017-08-25",
+      "type": "€ 105M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Borussia Dortmund",
+    "FC Barcelona",
+    "Paris Saint-Germain FC"
+  ]
+}

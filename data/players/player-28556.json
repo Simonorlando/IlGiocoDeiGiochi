@@ -1,0 +1,28 @@
+{
+  "player_id": 28556,
+  "full_name": "Ádám Vass",
+  "nationality": "Hungary",
+  "birth_date": "1988-09-09",
+  "birth_place": "Kápolnásnyék",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "CFR 1907 Cluj"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Free",
+      "team_out": "Stoke City",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Stoke City F.C.",
+    "Brescia Calcio",
+    "CFR Cluj",
+    "KV Oostende",
+    "MTK Budapest FC"
+  ]
+}

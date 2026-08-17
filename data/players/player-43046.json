@@ -1,0 +1,23 @@
+{
+  "player_id": 43046,
+  "full_name": "Isaac Opoku Donkor",
+  "nationality": "Ghana",
+  "birth_date": "1995-08-15",
+  "birth_place": "Kumasi",
+  "career_transfers": [
+    {
+      "date": "2018-07-25",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Universitatea Craiova"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "SSC Bari",
+    "Cesena FC",
+    "CS Universitatea Craiova",
+    "SK Sturm Graz",
+    "Adanaspor"
+  ]
+}

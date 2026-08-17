@@ -1,0 +1,25 @@
+{
+  "player_id": 911,
+  "full_name": "Jaume Domènech Sánchez",
+  "nationality": "Spain",
+  "birth_date": "1990-11-05",
+  "birth_place": "Castellón de la Plana",
+  "career_transfers": [
+    {
+      "date": "2012-08-01",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "El Palo"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF C",
+    "CD Onda",
+    "Villarreal CF",
+    "CD El Palo",
+    "Villarreal CF B",
+    "Huracán Valencia CF",
+    "Valencia CF Mestalla",
+    "Valencia CF"
+  ]
+}

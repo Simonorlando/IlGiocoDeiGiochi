@@ -1,0 +1,35 @@
+{
+  "player_id": 25004,
+  "full_name": "Stefan Ortega Moreno",
+  "nationality": "Germany",
+  "birth_date": "1992-11-06",
+  "birth_place": "Calden",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Arminia Bielefeld",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Nottingham Forest"
+    }
+  ],
+  "career_clubs": [
+    "Arminia Bielefeld",
+    "TSV 1860 München",
+    "Arminia Bielefeld",
+    "Manchester City F.C.",
+    "Nottingham Forest F.C.",
+    "Olympiacos F.C."
+  ]
+}

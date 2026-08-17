@@ -1,0 +1,32 @@
+{
+  "player_id": 104411,
+  "full_name": "Hassan Yebda",
+  "nationality": "Algeria",
+  "birth_date": "1984-05-14",
+  "birth_place": "Saint-Maurice",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2014-01-29",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "AJ Auxerre",
+    "Stade Lavallois",
+    "Le Mans F.C.",
+    "S.L. Benfica",
+    "Portsmouth F.C.",
+    "SSC Napoli",
+    "Granada CF",
+    "Udinese Calcio",
+    "Al-Fujairah FC"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "player_id": 30922,
+  "full_name": "Marco Davide Faraoni",
+  "nationality": "Italy",
+  "birth_date": "1991-10-25",
+  "birth_place": "Bracciano",
+  "career_transfers": [
+    {
+      "date": "2025-11-26",
+      "type": "Free agent",
+      "team_out": "Hellas Verona",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "Udinese Calcio",
+    "A.C. Perugia Calcio",
+    "Novara Calcio"
+  ]
+}

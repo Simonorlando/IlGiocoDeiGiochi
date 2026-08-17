@@ -1,0 +1,26 @@
+{
+  "player_id": 655,
+  "full_name": "Rafael Pereira da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1990-07-09",
+  "birth_place": "Petrópolis",
+  "career_transfers": [
+    {
+      "date": "2015-08-03",
+      "type": "€ 3M",
+      "team_out": "Manchester United",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2016-06-29",
+      "type": "Transfer",
+      "team_out": "Sporting CP B",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Olympique Lyonnais",
+    "Fluminense F.C."
+  ]
+}

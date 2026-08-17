@@ -1,0 +1,31 @@
+{
+  "player_id": 1090,
+  "full_name": "Antoine Joseph Emmanuel Bernede",
+  "nationality": "France",
+  "birth_date": "1999-05-26",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Lausanne"
+    },
+    {
+      "date": "2023-01-16",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Lausanne"
+    },
+    {
+      "date": "2019-02-06",
+      "type": "Free",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "FC Red Bull Salzburg"
+  ]
+}

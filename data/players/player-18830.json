@@ -1,0 +1,45 @@
+{
+  "player_id": 18830,
+  "full_name": "Marko Arnautović",
+  "nationality": "Austria",
+  "birth_date": "1989-04-19",
+  "birth_place": "Wien",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 10.9M",
+      "team_out": "Bologna",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2023-08-16",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2009-08-06",
+      "type": "Loan",
+      "team_out": "Twente",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-07-21",
+      "type": "Free Transfer",
+      "team_out": "Inter",
+      "team_in": "FK Crvena Zvezda"
+    }
+  ],
+  "career_clubs": [
+    "Floridsdorfer AC",
+    "FC Twente",
+    "Inter Milan",
+    "SV Werder Bremen",
+    "Stoke City F.C.",
+    "West Ham United F.C.",
+    "Shanghai Port F.C.",
+    "Bologna F.C. 1909",
+    "Inter Milan",
+    "FK Crvena zvezda"
+  ]
+}

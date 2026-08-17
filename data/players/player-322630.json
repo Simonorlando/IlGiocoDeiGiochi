@@ -1,0 +1,30 @@
+{
+  "player_id": 322630,
+  "full_name": "Giovanni Fabbian",
+  "nationality": "Italy",
+  "birth_date": "2003-01-14",
+  "birth_place": "Camposampiero",
+  "career_transfers": [
+    {
+      "date": "2023-08-20",
+      "type": "€ 5M",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2022-07-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Reggina"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909"
+  ]
+}

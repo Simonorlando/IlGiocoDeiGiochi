@@ -1,0 +1,27 @@
+{
+  "player_id": 19128,
+  "full_name": "Jack David Harrison",
+  "nationality": "England",
+  "birth_date": "1996-11-20",
+  "birth_place": "Stoke-on-Trent",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Fiorentina",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2026-01-18",
+      "type": "Loan",
+      "team_out": "Leeds",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "New York City FC",
+    "Leeds United F.C.",
+    "Manchester City F.C.",
+    "Middlesbrough F.C."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 107153,
+  "full_name": "Enrique Pérez Muñoz",
+  "nationality": "Spain",
+  "birth_date": "1997-02-14",
+  "birth_place": "Gálvez",
+  "career_transfers": [
+    {
+      "date": "2025-01-29",
+      "type": "Transfer",
+      "team_out": "Valladolid",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Rayo Vallecano B"
+  ]
+}

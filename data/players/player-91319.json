@@ -1,0 +1,42 @@
+{
+  "player_id": 91319,
+  "full_name": "Marco Borriello",
+  "nationality": "Italy",
+  "birth_date": "1982-06-18",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2016-08-03",
+      "type": "Free",
+      "team_out": "Atalanta",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2016-01-28",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "US Triestina Calcio 1918",
+    "Treviso F.B.C. 1993",
+    "AC Milan",
+    "Empoli FC",
+    "AS Reggina 1914",
+    "U.C. Sampdoria",
+    "Treviso F.B.C. 1993",
+    "Genoa CFC",
+    "AC Milan",
+    "AS Roma",
+    "Juventus FC",
+    "Genoa CFC",
+    "West Ham United F.C.",
+    "Genoa CFC",
+    "A.C. Carpi",
+    "Atalanta BC",
+    "Cagliari Calcio",
+    "SPAL",
+    "UD Ibiza"
+  ]
+}

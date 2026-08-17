@@ -1,0 +1,31 @@
+{
+  "player_id": 43331,
+  "full_name": "Nicolás Martín Gorobsov",
+  "nationality": "Argentina",
+  "birth_date": "1989-11-25",
+  "birth_place": "San Pedro",
+  "career_transfers": [
+    {
+      "date": "2010-09-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Vicenza Calcio",
+    "Torino FC",
+    "AC Cesena",
+    "FC Politehnica Timișoara",
+    "Nocerina 1910",
+    "ACS Poli Timișoara",
+    "ASA 2013 Târgu Mureș",
+    "Hapoel Tel Aviv F.C.",
+    "ASA 2013 Târgu Mureș",
+    "Club Atlético Paraná",
+    "Miami United FC",
+    "CS Concordia Chiajna",
+    "FC Voluntari",
+    "FK Sūduva"
+  ]
+}

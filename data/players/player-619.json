@@ -1,0 +1,32 @@
+{
+  "player_id": 619,
+  "full_name": "Eric García Martret",
+  "nationality": "Spain",
+  "birth_date": "2001-01-09",
+  "birth_place": "Martorell",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Girona",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Girona"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "FC Barcelona",
+    "Girona FC"
+  ]
+}

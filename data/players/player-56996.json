@@ -1,0 +1,18 @@
+{
+  "player_id": 56996,
+  "full_name": "Filippo Delli Carri",
+  "nationality": "Italy",
+  "birth_date": "1999-05-03",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2025-08-11",
+      "type": "Transfer",
+      "team_out": "Padova",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936"
+  ]
+}

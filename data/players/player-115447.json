@@ -1,0 +1,26 @@
+{
+  "player_id": 115447,
+  "full_name": "Felice Natalino",
+  "nationality": "Italy",
+  "birth_date": "1992-03-24",
+  "birth_place": "Lamezia Terme",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2011-08-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Hellas Verona FC",
+    "F.C. Crotone"
+  ]
+}

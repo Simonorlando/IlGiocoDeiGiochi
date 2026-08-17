@@ -1,0 +1,46 @@
+{
+  "player_id": 1138,
+  "full_name": "Timothy Tarpeh Weah",
+  "nationality": "USA",
+  "birth_date": "2000-02-22",
+  "birth_place": "New York",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 12M",
+      "team_out": "Lille",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Marseille",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Celtic F.C.",
+    "Lille OSC",
+    "Juventus FC",
+    "Olympique de Marseille"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 12753,
+  "full_name": "Marouane Fellaini-Bakkioui",
+  "nationality": "Belgium",
+  "birth_date": "1987-11-22",
+  "birth_place": "Etterbeek",
+  "career_transfers": [
+    {
+      "date": "2019-02-01",
+      "type": "€ 12M",
+      "team_out": "Manchester United",
+      "team_in": "Shandong Luneng"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "€ 32.4M",
+      "team_out": "Everton",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "Everton F.C.",
+    "Manchester United F.C.",
+    "Shandong Taishan F.C."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 1257,
+  "full_name": "Jules Olivier Koundé",
+  "nationality": "France",
+  "birth_date": "1998-11-12",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2022-07-28",
+      "type": "€ 50M",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "€ 25M",
+      "team_out": "Bordeaux",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Girondins de Bordeaux",
+    "Sevilla FC",
+    "FC Barcelona"
+  ]
+}

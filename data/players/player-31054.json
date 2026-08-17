@@ -1,0 +1,32 @@
+{
+  "player_id": 31054,
+  "full_name": "Rade Krunić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1993-10-07",
+  "birth_place": "Foča",
+  "career_transfers": [
+    {
+      "date": "2019-07-08",
+      "type": "€ 8M",
+      "team_out": "Empoli",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Borac Cacak",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "FK Sutjeska Foča",
+    "FK Donji Srem",
+    "Hellas Verona FC",
+    "FK Donji Srem",
+    "FK Borac Čačak",
+    "Empoli FC",
+    "AC Milan",
+    "Fenerbahçe Istanbul",
+    "FK Crvena zvezda"
+  ]
+}

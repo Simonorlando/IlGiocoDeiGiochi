@@ -1,0 +1,24 @@
+{
+  "player_id": 20782,
+  "full_name": "Florian Ayé",
+  "nationality": "France",
+  "birth_date": "1997-01-19",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2023-07-31",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Auxerre"
+    },
+    {
+      "date": "2019-07-05",
+      "type": "€ 2M",
+      "team_out": "Clermont Foot",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AJ Auxerre"
+  ]
+}

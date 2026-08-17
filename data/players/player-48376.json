@@ -1,0 +1,25 @@
+{
+  "player_id": 48376,
+  "full_name": "Blás Miguel Riveros Galeano",
+  "nationality": "Paraguay",
+  "birth_date": "1998-02-03",
+  "birth_place": "Itauguá",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "N/A",
+      "team_out": "FC Basel 1893",
+      "team_in": "Brondby"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Olimpia",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "Club Olimpia",
+    "FC Basel"
+  ]
+}

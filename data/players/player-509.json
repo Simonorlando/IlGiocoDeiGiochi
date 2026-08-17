@@ -1,0 +1,19 @@
+{
+  "player_id": 509,
+  "full_name": "Alphonso Boyle Davies",
+  "nationality": "Canada",
+  "birth_date": "2000-11-02",
+  "birth_place": "Buduburam",
+  "career_transfers": [
+    {
+      "date": "2019-01-01",
+      "type": "€ 10M",
+      "team_out": "Vancouver Whitecaps",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Vancouver Whitecaps FC",
+    "FC Bayern Munich"
+  ]
+}

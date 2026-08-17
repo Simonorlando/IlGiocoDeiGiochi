@@ -1,0 +1,33 @@
+{
+  "player_id": 390,
+  "full_name": "Francisco das Chagas Soares dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1991-01-17",
+  "birth_place": "Sousa",
+  "career_transfers": [
+    {
+      "date": "2020-09-30",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Tianjin Teda"
+    },
+    {
+      "date": "2017-01-23",
+      "type": "N/A",
+      "team_out": "Guimaraes",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "América Futebol Clube",
+    "Sousa Esporte Clube",
+    "Centro Sportivo Paraibano",
+    "Cerâmica Atlético Clube",
+    "Treze Futebol Clube",
+    "Esporte Clube Pelotas",
+    "Lucena CF",
+    "Veranópolis Esporte Clube Recreativo e Cultural",
+    "C.D. Nacional",
+    "Botafogo Futebol Clube"
+  ]
+}

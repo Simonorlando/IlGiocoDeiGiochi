@@ -1,0 +1,19 @@
+{
+  "player_id": 891,
+  "full_name": "Luke Paul Hoare Shaw",
+  "nationality": "England",
+  "birth_date": "1995-07-12",
+  "birth_place": "Kingston upon Thames",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 39.5M",
+      "team_out": "Southampton",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Southampton F.C.",
+    "Manchester United F.C."
+  ]
+}

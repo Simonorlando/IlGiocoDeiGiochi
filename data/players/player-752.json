@@ -1,0 +1,20 @@
+{
+  "player_id": 752,
+  "full_name": "Toni Kroos",
+  "nationality": "Germany",
+  "birth_date": "1990-01-04",
+  "birth_place": "Greifswald",
+  "career_transfers": [
+    {
+      "date": "2014-07-17",
+      "type": "€ 25M",
+      "team_out": "Bayern Munich",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Bayer 04 Leverkusen",
+    "Real Madrid Club de Fútbol"
+  ]
+}

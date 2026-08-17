@@ -1,0 +1,28 @@
+{
+  "player_id": 53630,
+  "full_name": "Ken Remi Stefan Strandberg",
+  "nationality": "Norway",
+  "birth_date": "1990-07-25",
+  "birth_place": "Lyngdal",
+  "career_transfers": [
+    {
+      "date": "2022-08-02",
+      "type": "Free",
+      "team_out": "Salernitana",
+      "team_in": "Valerenga"
+    },
+    {
+      "date": "2021-07-23",
+      "type": "Free",
+      "team_out": "Ural",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "FK Mandalskameratene",
+    "Vålerenga Fotball",
+    "Bryne FK",
+    "Rosenborg BK",
+    "FC Krasnodar"
+  ]
+}

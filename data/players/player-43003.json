@@ -1,0 +1,38 @@
+{
+  "player_id": 43003,
+  "full_name": "Júlio César Clement Baptista",
+  "nationality": "Brazil",
+  "birth_date": "1981-10-01",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "10M €",
+      "team_out": "Real Madrid",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2005-07-01",
+      "type": "20M €",
+      "team_out": "Sevilla",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Sevilla FC",
+    "Real Madrid Club de Fútbol",
+    "Arsenal F.C.",
+    "AS Roma",
+    "Málaga CF",
+    "Cruzeiro E.C.",
+    "Orlando City SC",
+    "CFR Cluj"
+  ]
+}

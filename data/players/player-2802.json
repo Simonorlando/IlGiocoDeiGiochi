@@ -1,0 +1,30 @@
+{
+  "player_id": 2802,
+  "full_name": "Yann Sommer",
+  "nationality": "Switzerland",
+  "birth_date": "1988-12-17",
+  "birth_place": "Morges",
+  "career_transfers": [
+    {
+      "date": "2026-07-13",
+      "type": "Free agent",
+      "team_out": "Inter",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Inter",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "FC Vaduz",
+    "Grasshopper Club Zürich",
+    "Borussia Mönchengladbach",
+    "FC Bayern Munich",
+    "Inter Milan",
+    "Club Brugge K.V."
+  ]
+}

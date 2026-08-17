@@ -1,0 +1,43 @@
+{
+  "player_id": 8648,
+  "full_name": "Danijel Miličević",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1986-01-05",
+  "birth_place": "Bellinzona",
+  "career_transfers": [
+    {
+      "date": "2018-06-22",
+      "type": "N/A",
+      "team_out": "Gent",
+      "team_in": "AS Eupen"
+    },
+    {
+      "date": "2018-06-21",
+      "type": "N/A",
+      "team_out": "Metz",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2018-01-05",
+      "type": "Loan",
+      "team_out": "Gent",
+      "team_in": "Metz"
+    },
+    {
+      "date": "2014-01-14",
+      "type": "N/A",
+      "team_out": "Charleroi",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "FC Lugano",
+    "Yverdon-Sport FC",
+    "K.A.S. Eupen",
+    "Royal Charleroi S.C.",
+    "KAA Gent",
+    "FC Metz",
+    "K.A.S. Eupen",
+    "RFC Seraing"
+  ]
+}

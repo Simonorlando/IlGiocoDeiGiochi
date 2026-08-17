@@ -1,0 +1,32 @@
+{
+  "player_id": 30559,
+  "full_name": "Valter Birsa",
+  "nationality": "Slovenia",
+  "birth_date": "1986-08-07",
+  "birth_place": "Šempeter pri Gorici",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "NK Primorje",
+    "ND Gorica",
+    "FC Sochaux-Montbéliard",
+    "AJ Auxerre",
+    "Genoa CFC",
+    "Torino FC",
+    "AC Milan",
+    "AC ChievoVerona",
+    "Cagliari Calcio"
+  ]
+}

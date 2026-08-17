@@ -1,0 +1,30 @@
+{
+  "player_id": 382,
+  "full_name": "Héctor Miguel Herrera López",
+  "nationality": "Mexico",
+  "birth_date": "1990-04-19",
+  "birth_place": "Tijuana",
+  "career_transfers": [
+    {
+      "date": "2022-07-07",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Houston Dynamo"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "CF Pachuca",
+    "FC Porto",
+    "FC Porto B",
+    "Atlético Madrid",
+    "Houston Dynamo FC",
+    "Toluca FC",
+    "Houston Dynamo FC"
+  ]
+}

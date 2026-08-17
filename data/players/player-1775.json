@@ -1,0 +1,33 @@
+{
+  "player_id": 1775,
+  "full_name": "Samuel Florent Thomas Gigot",
+  "nationality": "France",
+  "birth_date": "1993-10-12",
+  "birth_place": "Avignon",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Marseille",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "AC Arles",
+    "K.V. Kortrijk",
+    "KAA Gent",
+    "Spartak Moscow"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 31273,
+  "full_name": "Tommaso Pobega",
+  "nationality": "Italy",
+  "birth_date": "1999-07-15",
+  "birth_place": "Trieste",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2020-09-23",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 36899,
+  "full_name": "Teun Koopmeiners",
+  "nationality": "Netherlands",
+  "birth_date": "1998-02-28",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "€ 52M",
+      "team_out": "Atalanta",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "€ 12M",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Jong AZ",
+    "AZ Alkmaar",
+    "Atalanta BC",
+    "Juventus FC"
+  ]
+}

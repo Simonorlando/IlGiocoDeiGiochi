@@ -1,0 +1,28 @@
+{
+  "player_id": 30657,
+  "full_name": "Simone Pasa",
+  "nationality": "Italy",
+  "birth_date": "1994-01-21",
+  "birth_place": "Montebelluna",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Cittadella"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Varese"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Varese Calcio",
+    "Calcio Padova",
+    "A.C. Prato",
+    "Pordenone FC"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 18774,
+  "full_name": "Wes Morgan",
+  "nationality": "Jamaica",
+  "birth_date": "1984-01-21",
+  "birth_place": "Nottingham",
+  "career_transfers": [
+    {
+      "date": "2012-01-30",
+      "type": "€ 1.1M",
+      "team_out": "Nottingham Forest",
+      "team_in": "Leicester"
+    }
+  ],
+  "career_clubs": [
+    "Kidderminster Harriers F.C.",
+    "Nottingham Forest F.C.",
+    "Kidderminster Harriers F.C.",
+    "Leicester City F.C."
+  ]
+}

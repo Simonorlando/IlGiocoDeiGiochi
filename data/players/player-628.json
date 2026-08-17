@@ -1,0 +1,20 @@
+{
+  "player_id": 628,
+  "full_name": "Adrián Bernabé García",
+  "nationality": "Spain",
+  "birth_date": "2001-05-26",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol de Barcelona",
+    "FC Barcelona",
+    "Manchester City F.C."
+  ]
+}

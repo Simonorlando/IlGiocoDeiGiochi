@@ -1,0 +1,23 @@
+{
+  "player_id": 468,
+  "full_name": "Vedran Ćorluka",
+  "nationality": "Croatia",
+  "birth_date": "1986-02-05",
+  "birth_place": "Derventa",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Inter Zaprešić",
+    "Manchester City F.C.",
+    "Tottenham Hotspur F.C.",
+    "Bayer 04 Leverkusen",
+    "FC Lokomotiv Moscow"
+  ]
+}

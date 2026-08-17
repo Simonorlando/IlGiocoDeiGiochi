@@ -1,0 +1,26 @@
+{
+  "player_id": 30623,
+  "full_name": "Massimo Volta",
+  "nationality": "Italy",
+  "birth_date": "1987-05-14",
+  "birth_place": "Desenzano del Garda",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Carpenedolo S.S.D.",
+    "U.C. Sampdoria",
+    "Foligno Calcio",
+    "Vicenza Calcio",
+    "AC Cesena",
+    "Levante UD",
+    "AC Cesena",
+    "A.C. Perugia Calcio",
+    "Parma Calcio 1913"
+  ]
+}

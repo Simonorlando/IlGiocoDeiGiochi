@@ -1,0 +1,31 @@
+{
+  "player_id": 30940,
+  "full_name": "Ryder Matos Santos Pinto",
+  "nationality": "Brazil",
+  "birth_date": "1993-02-27",
+  "birth_place": "San Juan",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2020-10-04",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Esporte Clube Bahia",
+    "ACF Fiorentina",
+    "Córdoba CF",
+    "Sociedade Esportiva Palmeiras",
+    "A.C. Carpi",
+    "Udinese Calcio",
+    "Hellas Verona FC"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 115297,
+  "full_name": "Michele Ferri",
+  "nationality": "Italy",
+  "birth_date": "1981-05-29",
+  "birth_place": "Busto Arsizio",
+  "career_transfers": [
+    {
+      "date": "2006-01-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "€ 500K",
+      "team_out": "Triestina",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Milan U20",
+    "AC Milan",
+    "Cesena",
+    "Triestina",
+    "Palermo",
+    "Cagliari",
+    "Sampdoria",
+    "L.R. Vicenza",
+    "Atalanta",
+    "Trapani",
+    "Pro Vercelli",
+    "Aurora Pro Patria",
+    "Varese"
+  ]
+}

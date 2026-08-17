@@ -1,0 +1,44 @@
+{
+  "player_id": 1459,
+  "full_name": "Aaron James Ramsey",
+  "nationality": "Wales",
+  "birth_date": "1990-12-26",
+  "birth_place": "Caerphilly",
+  "career_transfers": [
+    {
+      "date": "2022-08-01",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Rangers",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Rangers"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Arsenal",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Cardiff City F.C.",
+    "Arsenal F.C.",
+    "Nottingham Forest F.C.",
+    "Cardiff City F.C.",
+    "Juventus FC",
+    "Rangers F.C.",
+    "OGC Nice",
+    "Cardiff City F.C.",
+    "Pumas UNAM"
+  ]
+}

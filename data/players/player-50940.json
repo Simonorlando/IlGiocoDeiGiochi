@@ -1,0 +1,36 @@
+{
+  "player_id": 50940,
+  "full_name": "Luís Carlos Almeida da Cunha",
+  "nationality": "Portugal",
+  "birth_date": "1986-11-17",
+  "birth_place": "Praia",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-07-05",
+      "type": "€ 8.5M",
+      "team_out": "Fenerbahce",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Manchester United F.C.",
+    "Sporting CP",
+    "Fenerbahçe Istanbul",
+    "Valencia CF",
+    "SS Lazio",
+    "Sporting CP",
+    "Orlando City SC",
+    "Venezia F.C.",
+    "Melbourne Victory FC",
+    "Adana Demirspor",
+    "C.F. Estrela da Amadora",
+    "FC Aktobe"
+  ]
+}

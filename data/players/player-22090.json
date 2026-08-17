@@ -1,0 +1,52 @@
+{
+  "player_id": 22090,
+  "full_name": "William Alain André Gabriel Saliba",
+  "nationality": "France",
+  "birth_date": "2001-03-24",
+  "birth_place": "Bondy",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Marseille",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2021-07-15",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2021-01-04",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Saint Etienne",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2019-07-26",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Saint Etienne"
+    },
+    {
+      "date": "2019-07-25",
+      "type": "€ 30M",
+      "team_out": "Saint Etienne",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Arsenal F.C.",
+    "AS Saint-Étienne",
+    "OGC Nice",
+    "Olympique de Marseille"
+  ]
+}

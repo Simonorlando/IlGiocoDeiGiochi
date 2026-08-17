@@ -1,0 +1,25 @@
+{
+  "player_id": 123,
+  "full_name": "Pietro Pellegri",
+  "nationality": "Italy",
+  "birth_date": "2001-03-17",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": null,
+      "team_out": "Empoli",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "AS Monaco FC"
+  ]
+}

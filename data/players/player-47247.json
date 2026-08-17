@@ -1,0 +1,22 @@
+{
+  "player_id": 47247,
+  "full_name": "David Soria Solís",
+  "nationality": "Spain",
+  "birth_date": "1993-04-04",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2018-07-13",
+      "type": "€ 3M",
+      "team_out": "Sevilla",
+      "team_in": "Getafe"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla FC C",
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Getafe CF",
+    "Real Madrid Club de Fútbol"
+  ]
+}

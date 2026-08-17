@@ -1,0 +1,41 @@
+{
+  "player_id": 793,
+  "full_name": "Diego Perotti",
+  "nationality": "Argentina",
+  "birth_date": "1988-07-26",
+  "birth_place": "Moreno",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Boca Juniors",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2014-02-06",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 200K",
+      "team_out": "Deportivo Moron",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Morón",
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Boca Juniors",
+    "Genoa CFC",
+    "AS Roma"
+  ]
+}

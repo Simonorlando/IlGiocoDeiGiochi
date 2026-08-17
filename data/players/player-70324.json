@@ -1,0 +1,58 @@
+{
+  "player_id": 70324,
+  "full_name": "Ibson",
+  "nationality": "Brazil",
+  "birth_date": "1983-11-07",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2014-08-12",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Sport Recife"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Corinthians",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2013-05-23",
+      "type": "Free",
+      "team_out": "Flamengo",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2011-07-19",
+      "type": "€ 5M",
+      "team_out": "Spartak Moscow",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2009-08-01",
+      "type": "€ 4M",
+      "team_out": "FC Porto",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2007-08-24",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Flamengo"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "FC Porto",
+    "Clube de Regatas do Flamengo",
+    "Spartak Moscow",
+    "Santos F.C.",
+    "Clube de Regatas do Flamengo",
+    "S.C. Corinthians Paulista",
+    "Bologna F.C. 1909",
+    "Sport Club do Recife",
+    "Minnesota United FC",
+    "Tombense Futebol Clube"
+  ]
+}

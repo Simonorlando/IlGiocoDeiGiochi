@@ -1,0 +1,28 @@
+{
+  "player_id": 1436,
+  "full_name": "Petr Čech",
+  "nationality": "Czech Republic",
+  "birth_date": "1982-05-20",
+  "birth_place": "Plzeň",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 15M",
+      "team_out": "Chelsea",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "€ 13M",
+      "team_out": "Rennes",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "FK Chmel Blšany",
+    "AC Sparta Prague",
+    "Stade Rennais F.C.",
+    "Chelsea F.C.",
+    "Arsenal F.C."
+  ]
+}

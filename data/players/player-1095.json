@@ -1,0 +1,22 @@
+{
+  "player_id": 1095,
+  "full_name": "Xaver Schlager",
+  "nationality": "Austria",
+  "birth_date": "1997-09-28",
+  "birth_place": "Linz",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 15M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "VfL Wolfsburg",
+    "RB Leipzig",
+    "Nottingham Forest F.C."
+  ]
+}

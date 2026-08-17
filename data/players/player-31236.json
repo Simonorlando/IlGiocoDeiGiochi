@@ -1,0 +1,33 @@
+{
+  "player_id": 31236,
+  "full_name": "Mamadou Coulibaly",
+  "nationality": "Senegal",
+  "birth_date": "1999-02-03",
+  "birth_place": "Thies",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2017-07-10",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2017-07-09",
+      "type": "2M",
+      "team_out": "Pescara",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Pescara",
+    "Udinese",
+    "Pescara",
+    "Udinese"
+  ]
+}

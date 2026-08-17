@@ -1,0 +1,28 @@
+{
+  "player_id": 2986,
+  "full_name": "Édouard Osoque Mendy",
+  "nationality": "Senegal",
+  "birth_date": "1992-03-01",
+  "birth_place": "Montivilliers",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 18.5M",
+      "team_out": "Chelsea",
+      "team_in": "Al-Ahli Jeddah"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "N/A",
+      "team_out": "Rennes",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "AS Cherbourg Football",
+    "Stade de Reims",
+    "Stade Rennais F.C.",
+    "Chelsea F.C.",
+    "Al Ahli FC"
+  ]
+}

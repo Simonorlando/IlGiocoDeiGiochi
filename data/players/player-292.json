@@ -1,0 +1,30 @@
+{
+  "player_id": 292,
+  "full_name": "Jordan Brian Henderson",
+  "nationality": "England",
+  "birth_date": "1990-06-17",
+  "birth_place": "Sunderland",
+  "career_transfers": [
+    {
+      "date": "2024-01-18",
+      "type": "Free",
+      "team_out": "Al-Ettifaq",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Free Transfer",
+      "team_out": "Ajax",
+      "team_in": "Brentford"
+    }
+  ],
+  "career_clubs": [
+    "Sunderland A.F.C.",
+    "Coventry City F.C.",
+    "Liverpool F.C.",
+    "Al-Ettifaq FC",
+    "AFC Ajax",
+    "Brentford F.C.",
+    "Chelsea F.C."
+  ]
+}

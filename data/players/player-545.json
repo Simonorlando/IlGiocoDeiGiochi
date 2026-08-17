@@ -1,0 +1,25 @@
+{
+  "player_id": 545,
+  "full_name": "Noussair Mazraoui",
+  "nationality": "Morocco",
+  "birth_date": "1997-11-14",
+  "birth_place": "Leiderdorp",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Jong Ajax",
+      "team_in": "Ajax"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "AFC Ajax"
+  ]
+}

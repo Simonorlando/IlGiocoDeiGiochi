@@ -1,0 +1,34 @@
+{
+  "player_id": 630,
+  "full_name": "Fabian Delph",
+  "nationality": "England",
+  "birth_date": "1989-11-21",
+  "birth_place": "Bradford",
+  "career_transfers": [
+    {
+      "date": "2015-07-17",
+      "type": "€ 11.5M",
+      "team_out": "Aston Villa",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2012-01-20",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2009-08-05",
+      "type": "€ 9.5M",
+      "team_out": "Leeds",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Leeds United F.C.",
+    "Aston Villa F.C.",
+    "Leeds United F.C.",
+    "Manchester City F.C.",
+    "Everton F.C."
+  ]
+}

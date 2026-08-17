@@ -1,0 +1,19 @@
+{
+  "player_id": 443141,
+  "full_name": "Kevin Maussi Martins",
+  "nationality": "Italy",
+  "birth_date": "2005-01-31",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Sambenedettese"
+    }
+  ],
+  "career_clubs": [
+    "Monza",
+    "Sambenedettese"
+  ]
+}

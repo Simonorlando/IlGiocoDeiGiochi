@@ -1,0 +1,36 @@
+{
+  "player_id": 30780,
+  "full_name": "Luca Mazzitelli",
+  "nationality": "Italy",
+  "birth_date": "1995-11-15",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2022-08-23",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2021-07-09",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "F.C. Südtirol",
+    "Brescia Calcio",
+    "US Sassuolo Calcio",
+    "Brescia Calcio",
+    "Genoa CFC",
+    "Virtus Entella"
+  ]
+}

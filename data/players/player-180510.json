@@ -1,0 +1,41 @@
+{
+  "player_id": 180510,
+  "full_name": "Mattia Viti",
+  "nationality": "Italy",
+  "birth_date": "2002-01-24",
+  "birth_place": "Borgo San Lorenzo",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2024-07-22",
+      "type": "Loan",
+      "team_out": "Nice",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2022-08-03",
+      "type": "€ 11.7M",
+      "team_out": "Empoli",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Empoli",
+      "team_in": "Nice"
+    }
+  ],
+  "career_clubs": [
+    "Empoli",
+    "Nice",
+    "Sassuolo",
+    "Empoli",
+    "Fiorentina",
+    "Sampdoria"
+  ]
+}

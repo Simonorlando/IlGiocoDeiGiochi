@@ -1,0 +1,21 @@
+{
+  "player_id": 334925,
+  "full_name": "Oumar Ngom",
+  "nationality": "France",
+  "birth_date": "2004-03-09",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-12",
+      "type": "Transfer",
+      "team_out": "Estrela",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Niort",
+    "Pau",
+    "Estrela da Amadora",
+    "Lecce"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "player_id": 266813,
+  "full_name": "Warren Pierre Bondo",
+  "nationality": "France",
+  "birth_date": "2003-09-15",
+  "birth_place": "Evry",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2022-07-28",
+      "type": "Free",
+      "team_out": "Nancy",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Nancy",
+    "Monza",
+    "Reggina",
+    "AC Milan",
+    "Cremonese"
+  ]
+}

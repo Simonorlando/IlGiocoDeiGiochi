@@ -1,0 +1,29 @@
+{
+  "player_id": 48844,
+  "full_name": "Davide Brivio",
+  "nationality": "Italy",
+  "birth_date": "1988-03-17",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2012-07-09",
+      "type": "€ 2.7M",
+      "team_out": "Lecce",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "Vicenza Calcio",
+    "Genoa CFC",
+    "US Lecce",
+    "Atalanta BC",
+    "Hellas Verona FC"
+  ]
+}

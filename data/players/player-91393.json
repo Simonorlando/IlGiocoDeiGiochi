@@ -1,0 +1,34 @@
+{
+  "player_id": 91393,
+  "full_name": "Rolando Bianchi",
+  "nationality": "Italy",
+  "birth_date": "1983-02-15",
+  "birth_place": "Lovere",
+  "career_transfers": [
+    {
+      "date": "2013-07-09",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "7M €",
+      "team_out": "Manchester City",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Cagliari Calcio",
+    "AS Reggina 1914",
+    "Manchester City F.C.",
+    "SS Lazio",
+    "Torino FC",
+    "Bologna F.C. 1909",
+    "Atalanta BC",
+    "RCD Mallorca",
+    "A.C. Perugia Calcio",
+    "F.C. Pro Vercelli 1892"
+  ]
+}

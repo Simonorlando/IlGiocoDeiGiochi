@@ -1,0 +1,27 @@
+{
+  "player_id": 18971,
+  "full_name": "Beram Kayal",
+  "nationality": "Israel",
+  "birth_date": "1988-05-02",
+  "birth_place": "Jadeidi",
+  "career_transfers": [
+    {
+      "date": "2015-01-23",
+      "type": "N/A",
+      "team_out": "Celtic",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2010-07-29",
+      "type": "€ 1.8M",
+      "team_out": "Maccabi Haifa",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Haifa F.C.",
+    "Celtic F.C.",
+    "Brighton & Hove Albion F.C.",
+    "Bnei Sakhnin F.C."
+  ]
+}

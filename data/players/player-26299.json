@@ -1,0 +1,37 @@
+{
+  "player_id": 26299,
+  "full_name": "Emiliano Adrián Insúa Zapata",
+  "nationality": "Argentina",
+  "birth_date": "1989-01-07",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2015-07-11",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Rayo Vallecano"
+    },
+    {
+      "date": "2013-01-26",
+      "type": "€ 3.5M",
+      "team_out": "Sporting CP",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Liverpool F.C.",
+    "Galatasaray S.K.",
+    "Sporting CP",
+    "Atlético Madrid",
+    "Rayo Vallecano",
+    "VfB Stuttgart",
+    "Granada CF"
+  ]
+}

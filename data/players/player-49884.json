@@ -1,0 +1,18 @@
+{
+  "player_id": 49884,
+  "full_name": "Ogenyi Eddy Onazi",
+  "nationality": "Nigeria",
+  "birth_date": "1992-12-25",
+  "birth_place": "Benue",
+  "career_transfers": [
+    {
+      "date": "2016-08-03",
+      "type": "€ 5M",
+      "team_out": "Lazio",
+      "team_in": "Trabzonspor"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio"
+  ]
+}

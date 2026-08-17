@@ -1,0 +1,19 @@
+{
+  "player_id": 286894,
+  "full_name": "Jamie Jermaine Bynoe-Gittens",
+  "nationality": "England",
+  "birth_date": "2004-08-08",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2025-07-05",
+      "type": "Transfer",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Chelsea F.C."
+  ]
+}

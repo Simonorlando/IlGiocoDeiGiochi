@@ -1,0 +1,29 @@
+{
+  "player_id": 304,
+  "full_name": "Sadio Mané",
+  "nationality": "Senegal",
+  "birth_date": "1992-04-10",
+  "birth_place": "Sedhiou",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "€ 15M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "€ 4M",
+      "team_out": "Metz",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz",
+    "FC Red Bull Salzburg",
+    "Southampton F.C.",
+    "Liverpool F.C.",
+    "FC Bayern Munich",
+    "Al-Nassr"
+  ]
+}

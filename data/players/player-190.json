@@ -1,0 +1,31 @@
+{
+  "player_id": 190,
+  "full_name": "Cédric Ricardo Alves Soares",
+  "nationality": "Portugal",
+  "birth_date": "1991-08-31",
+  "birth_place": "Singen",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2019-01-26",
+      "type": "Loan",
+      "team_out": "Southampton",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Associação Académica de Coimbra – O.A.F.",
+    "Sporting CP B",
+    "Southampton F.C.",
+    "Inter Milan",
+    "Arsenal F.C.",
+    "Fulham F.C.",
+    "São Paulo FC"
+  ]
+}

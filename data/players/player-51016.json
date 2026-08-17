@@ -1,0 +1,29 @@
+{
+  "player_id": 51016,
+  "full_name": "Tajon Trevor Buchanan",
+  "nationality": "Canada",
+  "birth_date": "1999-02-08",
+  "birth_place": "Brampton",
+  "career_transfers": [
+    {
+      "date": "2024-01-05",
+      "type": "€ 7M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2022-01-01",
+      "type": "N/A",
+      "team_out": "New England Revolution",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Syracuse Orange men's soccer",
+    "Sigma FC",
+    "New England Revolution",
+    "Club Brugge K.V.",
+    "Inter Milan",
+    "Villarreal CF"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 97676,
+  "full_name": "Sergey Chepchugov",
+  "nationality": "Russia",
+  "birth_date": "1985-07-15",
+  "birth_place": "Krasnoyarsk",
+  "career_transfers": [
+    {
+      "date": "2017-06-14",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": "Enisey"
+    },
+    {
+      "date": "2010-01-01",
+      "type": "Free",
+      "team_out": "Sibir",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "FC Yenisey Krasnoyarsk",
+    "FC Sibiryak Bratsk",
+    "FK Rīga",
+    "FC Sibir Novosibirsk",
+    "PFC CSKA Moscow"
+  ]
+}

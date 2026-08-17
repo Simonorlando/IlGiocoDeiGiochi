@@ -1,0 +1,37 @@
+{
+  "player_id": 115284,
+  "full_name": "Christian Terlizzi",
+  "nationality": "Italy",
+  "birth_date": "1979-11-22",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Atletico Roma F.C.",
+    "A.S. Lodigiani",
+    "S.S.D. Tivoli Calcio 1919",
+    "A.S.D. Selargius Calcio",
+    "A.S.D. Termoli Calcio 1920",
+    "S.S. Teramo Calcio",
+    "AC Cesena",
+    "Palermo F.C.",
+    "U.C. Sampdoria",
+    "Catania FC",
+    "Varese Calcio",
+    "Delfino Pescara 1936",
+    "Siena FC",
+    "F.C. Trapani 1905"
+  ]
+}

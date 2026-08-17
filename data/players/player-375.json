@@ -1,0 +1,25 @@
+{
+  "player_id": 375,
+  "full_name": "Chancel Mbemba Mangulu",
+  "nationality": "Congo DR",
+  "birth_date": "1994-08-08",
+  "birth_place": "Kinshasa",
+  "career_transfers": [
+    {
+      "date": "2022-07-15",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2018-07-23",
+      "type": "€ 7.8M",
+      "team_out": "Newcastle",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "Newcastle United F.C."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 2914,
+  "full_name": "Seung-Woo Lee",
+  "nationality": "Korea Republic",
+  "birth_date": "1998-01-06",
+  "birth_place": "Suwon",
+  "career_transfers": [
+    {
+      "date": "2019-08-30",
+      "type": "€ 1.2M",
+      "team_out": "Verona",
+      "team_in": "St. Truiden"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "€ 195K",
+      "team_out": "Barcelona U19",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona",
+    "Hellas Verona FC",
+    "Sint-Truidense V.V.",
+    "Portimonense S.C.",
+    "Suwon FC"
+  ]
+}

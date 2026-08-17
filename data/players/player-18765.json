@@ -1,0 +1,36 @@
+{
+  "player_id": 18765,
+  "full_name": "André Filipe Tavares Gomes",
+  "nationality": "Portugal",
+  "birth_date": "1993-07-30",
+  "birth_place": "Grijó",
+  "career_transfers": [
+    {
+      "date": "2016-07-26",
+      "type": "€ 35M",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 15M",
+      "team_out": "Benfica",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2014-07-17",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Valencia CF",
+    "FC Barcelona",
+    "Everton F.C.",
+    "Lille OSC",
+    "Columbus Crew"
+  ]
+}

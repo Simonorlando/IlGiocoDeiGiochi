@@ -1,0 +1,29 @@
+{
+  "player_id": 908,
+  "full_name": "Anthony Jordan Martial",
+  "nationality": "France",
+  "birth_date": "1995-12-05",
+  "birth_place": "Massy",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2022-01-25",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "AS Monaco FC",
+    "Manchester United F.C.",
+    "Sevilla FC",
+    "AEK Athens F.C.",
+    "Club de Fútbol Monterrey"
+  ]
+}

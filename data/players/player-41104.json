@@ -1,0 +1,55 @@
+{
+  "player_id": 41104,
+  "full_name": "João Maria Lobo Alves Palhinha Gonçalves",
+  "nationality": "Portugal",
+  "birth_date": "1995-07-09",
+  "birth_place": "Lisbon",
+  "career_transfers": [
+    {
+      "date": "2022-07-04",
+      "type": "€ 20M",
+      "team_out": "Sporting CP",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2020-08-03",
+      "type": "N/A",
+      "team_out": "SC Braga",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2018-08-07",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2017-01-05",
+      "type": "N/A",
+      "team_out": "Belenenses",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Belenenses"
+    },
+    {
+      "date": "2015-08-12",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Moreirense"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "Moreirense F.C.",
+    "Sporting CP",
+    "B-SAD",
+    "S.C. Braga",
+    "Fulham F.C.",
+    "FC Bayern Munich",
+    "Tottenham Hotspur F.C."
+  ]
+}

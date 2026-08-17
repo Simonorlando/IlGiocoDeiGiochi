@@ -1,0 +1,33 @@
+{
+  "player_id": 182280,
+  "full_name": "Kacper Urbański",
+  "nationality": "Poland",
+  "birth_date": "2004-09-07",
+  "birth_place": "Gdańsk",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-01-25",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "KS Lechia Gdańsk",
+    "Bologna F.C. 1909",
+    "AC Monza",
+    "Legia Warsaw"
+  ]
+}

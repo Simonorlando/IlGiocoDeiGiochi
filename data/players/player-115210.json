@@ -1,0 +1,32 @@
+{
+  "player_id": 115210,
+  "full_name": "Giuseppe Gemiti",
+  "nationality": "Germany",
+  "birth_date": "1981-05-03",
+  "birth_place": "Frankfurt am Main",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2012-07-13",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Eintracht Frankfurt",
+    "Udinese Calcio",
+    "Genoa CFC",
+    "Modena F.C.",
+    "Piacenza Calcio",
+    "AC ChievoVerona",
+    "Novara Calcio",
+    "US Livorno 1915",
+    "SSC Bari"
+  ]
+}

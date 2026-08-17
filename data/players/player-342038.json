@@ -1,0 +1,52 @@
+{
+  "player_id": 342038,
+  "full_name": "Felix Ohene Afena-Gyan",
+  "nationality": "Ghana",
+  "birth_date": "2003-01-19",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2022-08-29",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Juventus U23",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Amed"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Iğdır FK"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Amed",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-07-23",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Iğdır FK"
+    }
+  ],
+  "career_clubs": [
+    "Roma",
+    "Cremonese",
+    "Juventus Next Gen",
+    "Amedspor",
+    "Iğdır FK"
+  ]
+}

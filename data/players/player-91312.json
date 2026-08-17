@@ -1,0 +1,31 @@
+{
+  "player_id": 91312,
+  "full_name": "Ferdinando Coppola",
+  "nationality": "Italy",
+  "birth_date": "1978-06-10",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2010-08-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Bologna F.C. 1909",
+    "Ascoli Calcio 1898 FC",
+    "AS Reggina 1914",
+    "A.C. Reggiana 1919",
+    "Piacenza Calcio",
+    "AC Milan",
+    "Atalanta BC",
+    "Siena FC",
+    "AC Milan",
+    "Torino FC",
+    "AC Milan",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC"
+  ]
+}

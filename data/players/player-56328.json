@@ -1,0 +1,42 @@
+{
+  "player_id": 56328,
+  "full_name": "Daniele Ragatzu",
+  "nationality": "Italy",
+  "birth_date": "1991-09-21",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2014-07-10",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "PRO Vercelli"
+    },
+    {
+      "date": "2014-01-20",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": null
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "PRO Vercelli"
+    },
+    {
+      "date": "2013-01-10",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "A.S. Gubbio 1910",
+    "Hellas Verona FC",
+    "F.C. Pro Vercelli 1892",
+    "Lanciano Calcio 1920",
+    "F.C. Pro Vercelli 1892",
+    "Rimini FC"
+  ]
+}

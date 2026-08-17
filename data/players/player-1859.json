@@ -1,0 +1,32 @@
+{
+  "player_id": 1859,
+  "full_name": "Luis Alberto Romero Alconchel",
+  "nationality": "Spain",
+  "birth_date": "1992-09-28",
+  "birth_place": "San José del Valle",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 8M",
+      "team_out": "Sevilla",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2012-08-15",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "FC Barcelona Atlètic",
+    "Liverpool F.C.",
+    "Málaga CF",
+    "Deportivo de A Coruña",
+    "Al-Duhail SC",
+    "FC Barcelona",
+    "SS Lazio"
+  ]
+}

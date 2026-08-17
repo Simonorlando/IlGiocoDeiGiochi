@@ -1,0 +1,42 @@
+{
+  "player_id": 331678,
+  "full_name": "Henrik Wendel Meister",
+  "nationality": "Denmark",
+  "birth_date": "2003-11-17",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "1926-01-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2025-01-13",
+      "type": "Loan",
+      "team_out": "Rennes",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-08-10",
+      "type": "Transfer",
+      "team_out": "Rennes",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "Rennes",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2025-08-08",
+      "type": "Return from loan",
+      "team_out": "Pisa",
+      "team_in": "Rennes"
+    }
+  ],
+  "career_clubs": [
+    "Sarpsborg 08 FF"
+  ]
+}

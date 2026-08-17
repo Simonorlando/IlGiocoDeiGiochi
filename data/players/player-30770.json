@@ -1,0 +1,60 @@
+{
+  "player_id": 30770,
+  "full_name": "Antonio Candela",
+  "nationality": "Italy",
+  "birth_date": "2000-04-27",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2022-08-27",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Valladolid",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Valladolid",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-08-16",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Return from loan",
+      "team_out": "Spezia",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio"
+  ]
+}

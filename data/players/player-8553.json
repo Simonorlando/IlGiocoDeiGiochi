@@ -1,0 +1,30 @@
+{
+  "player_id": 8553,
+  "full_name": "Maxime Busi",
+  "nationality": "Belgium",
+  "birth_date": "1999-10-14",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Reims"
+    },
+    {
+      "date": "2022-01-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Reims"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "N/A",
+      "team_out": "Charleroi",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Royal Charleroi S.C."
+  ]
+}

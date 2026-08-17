@@ -1,0 +1,19 @@
+{
+  "player_id": 346866,
+  "full_name": "Samuel-Germain Kinduelu Mbangula Tshifunda",
+  "nationality": "Belgium",
+  "birth_date": "2004-01-16",
+  "birth_place": "Bruxelles",
+  "career_transfers": [
+    {
+      "date": "2025-07-23",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Werder Bremen"
+    }
+  ],
+  "career_clubs": [
+    "Juventus",
+    "Werder Bremen"
+  ]
+}

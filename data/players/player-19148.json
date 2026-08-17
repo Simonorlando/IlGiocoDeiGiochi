@@ -1,0 +1,27 @@
+{
+  "player_id": 19148,
+  "full_name": "Kieran James Ricardo Gibbs",
+  "nationality": "England",
+  "birth_date": "1989-09-26",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2017-08-30",
+      "type": "€ 7.5M",
+      "team_out": "Arsenal",
+      "team_in": "West Brom"
+    },
+    {
+      "date": "2008-01-31",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Norwich"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Norwich City F.C.",
+    "West Bromwich Albion F.C.",
+    "Inter Miami CF"
+  ]
+}

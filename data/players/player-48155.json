@@ -1,0 +1,34 @@
+{
+  "player_id": 48155,
+  "full_name": "Chinedu Ogbuke Obasi",
+  "nationality": "Nigeria",
+  "birth_date": "1986-06-01",
+  "birth_place": "Enugu",
+  "career_transfers": [
+    {
+      "date": "2016-08-04",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "AIK stockholm"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 5M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "Loan",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Lyn 1896 FK",
+    "TSG 1899 Hoffenheim",
+    "Schalke 04",
+    "IF Elfsborg",
+    "AIK Fotboll"
+  ]
+}

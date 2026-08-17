@@ -1,0 +1,33 @@
+{
+  "player_id": 30735,
+  "full_name": "Marco Andreolli",
+  "nationality": "Italy",
+  "birth_date": "1986-06-10",
+  "birth_place": "Ponte dell'Olio",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "AS Roma",
+    "Vicenza Calcio",
+    "US Sassuolo Calcio",
+    "AC ChievoVerona",
+    "Inter Milan",
+    "Sevilla FC",
+    "Calcio Padova",
+    "Ascoli Calcio 1898 FC",
+    "Cagliari Calcio"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 335051,
+  "full_name": "João Pedro Gonçalves Neves",
+  "nationality": "Portugal",
+  "birth_date": "2004-09-27",
+  "birth_place": "Tavira",
+  "career_transfers": [
+    {
+      "date": "2024-08-05",
+      "type": "€ 60M",
+      "team_out": "Benfica",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Paris Saint-Germain FC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 1,
+  "full_name": "Roman Bürki",
+  "nationality": "Switzerland",
+  "birth_date": "1990-11-14",
+  "birth_place": "Münsingen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "St. Louis City"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3.5M",
+      "team_out": "SC Freiburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "BSC Young Boys",
+    "FC Thun",
+    "FC Schaffhausen",
+    "Grasshopper Club Zürich",
+    "SC Freiburg",
+    "Borussia Dortmund",
+    "St. Louis City SC"
+  ]
+}

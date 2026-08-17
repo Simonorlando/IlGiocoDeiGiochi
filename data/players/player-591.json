@@ -1,0 +1,49 @@
+{
+  "player_id": 591,
+  "full_name": "Uroš Ćosić",
+  "nationality": "Serbia",
+  "birth_date": "1992-10-24",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2015-01-27",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 800K",
+      "team_out": "CSKA Moscow",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2012-07-23",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "PFC CSKA Moscow",
+    "FK Crvena zvezda",
+    "Delfino Pescara 1936",
+    "Empoli FC",
+    "Frosinone Calcio",
+    "AEK Athens F.C.",
+    "CS Universitatea Craiova",
+    "FC Shakhtyor Salihorsk"
+  ]
+}

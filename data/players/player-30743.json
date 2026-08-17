@@ -1,0 +1,26 @@
+{
+  "player_id": 30743,
+  "full_name": "Matías Ezequiel Schelotto",
+  "nationality": "Italy",
+  "birth_date": "1989-05-23",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-01-21",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "Atalanta BC",
+    "AC Cesena",
+    "Catania FC",
+    "Inter Milan",
+    "US Sassuolo Calcio",
+    "Parma Calcio 1913",
+    "AC ChievoVerona",
+    "Sporting CP"
+  ]
+}

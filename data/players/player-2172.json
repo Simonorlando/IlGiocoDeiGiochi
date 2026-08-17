@@ -1,0 +1,25 @@
+{
+  "player_id": 2172,
+  "full_name": "Vitalii Buyalskyi",
+  "nationality": "Ukraine",
+  "birth_date": "1993-01-06",
+  "birth_place": "Kalynivka",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Hoverla",
+      "team_in": "Dynamo Kyiv"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Hoverla"
+    }
+  ],
+  "career_clubs": [
+    "FC Dynamo Kyiv",
+    "FC Hoverla Uzhhorod"
+  ]
+}

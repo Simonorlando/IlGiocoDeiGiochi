@@ -1,0 +1,35 @@
+{
+  "player_id": 31035,
+  "full_name": "Bartłomiej Drągowski",
+  "nationality": "Poland",
+  "birth_date": "1997-08-19",
+  "birth_place": "Białystok",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 2M",
+      "team_out": "Spezia",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2024-01-19",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2022-08-11",
+      "type": "€ 2M",
+      "team_out": "Fiorentina",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Jagiellonia Białystok",
+    "ACF Fiorentina",
+    "Empoli FC",
+    "Spezia Calcio",
+    "Panathinaikos F.C.",
+    "RTS Widzew Łódź"
+  ]
+}

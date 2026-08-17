@@ -1,0 +1,23 @@
+{
+  "player_id": 2677,
+  "full_name": "João Filipe Iria Santos Moutinho",
+  "nationality": "Portugal",
+  "birth_date": "1986-09-08",
+  "birth_place": "Portimão",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "€ 11M",
+      "team_out": "Sporting CP",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "Sporting CP",
+    "FC Porto",
+    "AS Monaco FC",
+    "Wolverhampton Wanderers F.C.",
+    "S.C. Braga"
+  ]
+}

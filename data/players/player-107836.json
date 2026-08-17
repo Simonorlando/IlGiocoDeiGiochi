@@ -1,0 +1,57 @@
+{
+  "player_id": 107836,
+  "full_name": "Michele Paolucci",
+  "nationality": "Italy",
+  "birth_date": "1986-02-06",
+  "birth_place": "Recanati",
+  "career_transfers": [
+    {
+      "date": "2014-01-28",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Robur Siena"
+    },
+    {
+      "date": "2011-08-30",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2011-01-31",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2010-01-11",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Ascoli Calcio 1898 FC",
+    "Udinese Calcio",
+    "Atalanta BC",
+    "Catania FC",
+    "Siena FC",
+    "Juventus FC",
+    "Palermo F.C.",
+    "Vicenza Calcio",
+    "Latina Calcio 1932",
+    "FC Petrolul Ploiești",
+    "Catania FC",
+    "SSC Ancona",
+    "S.S. Monopoli 1966",
+    "Floriana F.C.",
+    "Tarxien Rainbows F.C."
+  ]
+}

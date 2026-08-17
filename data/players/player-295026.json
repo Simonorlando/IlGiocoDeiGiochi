@@ -1,0 +1,19 @@
+{
+  "player_id": 295026,
+  "full_name": "Martin Baturina",
+  "nationality": "Croatia",
+  "birth_date": "2003-02-16",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Dinamo Zagreb",
+    "Como"
+  ]
+}

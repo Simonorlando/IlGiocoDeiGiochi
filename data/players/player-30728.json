@@ -1,0 +1,21 @@
+{
+  "player_id": 30728,
+  "full_name": "Gaetano Vittorio Masucci",
+  "nationality": "Italy",
+  "birth_date": "1984-10-26",
+  "birth_place": "Avellino",
+  "career_transfers": [
+    {
+      "date": "2017-01-27",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "US Sassuolo Calcio",
+    "Frosinone Calcio",
+    "Virtus Entella"
+  ]
+}

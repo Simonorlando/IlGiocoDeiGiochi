@@ -1,0 +1,25 @@
+{
+  "player_id": 30486,
+  "full_name": "Mattia Destro",
+  "nationality": "Italy",
+  "birth_date": "1991-03-20",
+  "birth_place": "Ascoli",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Genoa CFC",
+    "Siena FC",
+    "AS Roma",
+    "AC Milan",
+    "Bologna F.C. 1909",
+    "Alianza Petrolera F.C.",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

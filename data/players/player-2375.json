@@ -1,0 +1,31 @@
+{
+  "player_id": 2375,
+  "full_name": "Sérgio Miguel Relvas de Oliveira",
+  "nationality": "Portugal",
+  "birth_date": "1992-06-02",
+  "birth_place": "Paços de Brandão",
+  "career_transfers": [
+    {
+      "date": "2024-09-04",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2022-07-09",
+      "type": "€ 3M",
+      "team_out": "FC Porto",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto",
+    "S.C. Beira-Mar",
+    "KV Mechelen",
+    "F.C. Penafiel",
+    "FC Porto B",
+    "F.C. Paços de Ferreira",
+    "FC Porto",
+    "Galatasaray S.K."
+  ]
+}

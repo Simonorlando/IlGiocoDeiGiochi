@@ -1,0 +1,41 @@
+{
+  "player_id": 11501,
+  "full_name": "Carlos Alfredo Labrín Candia",
+  "nationality": "Chile",
+  "birth_date": "1990-12-02",
+  "birth_place": "Mulchén",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "San Marcos de Arica"
+    },
+    {
+      "date": "2013-01-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Huachipato"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 400K",
+      "team_out": "Huachipato",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Huachipato",
+    "Palermo F.C.",
+    "Novara Calcio",
+    "Club Deportivo Huachipato",
+    "San Marcos de Arica",
+    "Audax Italiano"
+  ]
+}

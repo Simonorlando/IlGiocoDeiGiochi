@@ -1,0 +1,38 @@
+{
+  "player_id": 18947,
+  "full_name": "Mario René Junior Lemina",
+  "nationality": "Gabon",
+  "birth_date": "1993-09-01",
+  "birth_place": "Libreville",
+  "career_transfers": [
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Southampton",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-02-05",
+      "type": "Transfer",
+      "team_out": "Wolves",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Galatasaray",
+      "team_in": "Lemina Mario"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Lorient",
+    "Olympique de Marseille",
+    "Juventus FC",
+    "Southampton F.C.",
+    "Galatasaray S.K.",
+    "Fulham F.C.",
+    "OGC Nice",
+    "Wolverhampton Wanderers F.C.",
+    "Galatasaray S.K."
+  ]
+}

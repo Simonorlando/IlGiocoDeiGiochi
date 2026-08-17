@@ -1,0 +1,23 @@
+{
+  "player_id": 108519,
+  "full_name": "Mateu Jaume Morey Bauzà",
+  "nationality": "Spain",
+  "birth_date": "2000-03-02",
+  "birth_place": "Petra",
+  "career_transfers": [
+    {
+      "date": "2024-07-05",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Mallorca"
+    }
+  ],
+  "career_clubs": [
+    "RCD Mallorca",
+    "FC Barcelona Juvenil B",
+    "FC Barcelona Juvenil A",
+    "Borussia Dortmund",
+    "RCD Mallorca",
+    "CD Manacor"
+  ]
+}

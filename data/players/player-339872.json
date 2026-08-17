@@ -1,0 +1,27 @@
+{
+  "player_id": 339872,
+  "full_name": "Vasilije Adžić",
+  "nationality": "Montenegro",
+  "birth_date": "2006-05-12",
+  "birth_place": "Nikšić",
+  "career_transfers": [
+    {
+      "date": "2024-07-11",
+      "type": "N/A",
+      "team_out": "Buducnost Podgorica",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Budućnost",
+    "Juventus Next Gen",
+    "Juventus",
+    "Sassuolo"
+  ]
+}

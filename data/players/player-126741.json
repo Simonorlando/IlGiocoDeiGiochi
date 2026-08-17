@@ -1,0 +1,52 @@
+{
+  "player_id": 126741,
+  "full_name": "Bruno Agustín Amione",
+  "nationality": "Argentina",
+  "birth_date": "2002-01-03",
+  "birth_place": "Calchaquí",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "€ 3M",
+      "team_out": "Verona",
+      "team_in": "Santos Laguna"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2021-08-30",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "€ 1.7M",
+      "team_out": "Belgrano Cordoba",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Belgrano",
+    "Hellas Verona FC",
+    "AS Reggina 1914",
+    "U.C. Sampdoria",
+    "Santos Laguna"
+  ]
+}

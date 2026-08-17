@@ -1,0 +1,24 @@
+{
+  "player_id": 19264,
+  "full_name": "Eros Pisano",
+  "nationality": "Italy",
+  "birth_date": "1987-03-31",
+  "birth_place": "Busto Arsizio",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Feralpisalo"
+    }
+  ],
+  "career_clubs": [
+    "Varese Calcio",
+    "Italy Lega Pro representative teams",
+    "Pisa SC",
+    "Varese Calcio",
+    "Palermo F.C.",
+    "Genoa CFC",
+    "Hellas Verona FC"
+  ]
+}

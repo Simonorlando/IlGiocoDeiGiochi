@@ -1,0 +1,34 @@
+{
+  "player_id": 30864,
+  "full_name": "Marko Janković",
+  "nationality": "Montenegro",
+  "birth_date": "1995-07-09",
+  "birth_place": "Cetinje",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2020-01-31",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Partizan",
+    "Teleoptik",
+    "Olympiacos",
+    "OFK Beograd",
+    "Maribor",
+    "Partizan",
+    "SPAL",
+    "Crotone",
+    "Beitar Jerusalem",
+    "Hapoel Tel Aviv",
+    "Qarabağ"
+  ]
+}

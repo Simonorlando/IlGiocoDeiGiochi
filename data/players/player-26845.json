@@ -1,0 +1,18 @@
+{
+  "player_id": 26845,
+  "full_name": "Anastasios Douvikas",
+  "nationality": "Greece",
+  "birth_date": "1999-08-02",
+  "birth_place": "Tripoli",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Celta Vigo",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Asteras Tripoli F.C."
+  ]
+}

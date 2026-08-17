@@ -1,0 +1,24 @@
+{
+  "player_id": 125171,
+  "full_name": "Josip Stanišić",
+  "nationality": "Croatia",
+  "birth_date": "2000-04-02",
+  "birth_place": "München",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2023-08-20",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich"
+  ]
+}

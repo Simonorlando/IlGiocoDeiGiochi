@@ -1,0 +1,30 @@
+{
+  "player_id": 341234,
+  "full_name": "Elias Jelert Kristensen",
+  "nationality": "Denmark",
+  "birth_date": "2003-06-12",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-25",
+      "type": "€ 9M",
+      "team_out": "FC Copenhagen",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-08-31",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Southampton",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen"
+  ]
+}

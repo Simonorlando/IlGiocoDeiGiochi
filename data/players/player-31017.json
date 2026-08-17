@@ -1,0 +1,28 @@
+{
+  "player_id": 31017,
+  "full_name": "Antonino Barillà",
+  "nationality": "Italy",
+  "birth_date": "1988-04-01",
+  "birth_place": "Reggio Calabria",
+  "career_transfers": [
+    {
+      "date": "2022-03-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 1.2M",
+      "team_out": "Parma",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "S.C. Ravenna Sport",
+    "U.C. Sampdoria",
+    "F.C. Trapani 1905",
+    "Parma Calcio 1913"
+  ]
+}

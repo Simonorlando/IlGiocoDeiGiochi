@@ -1,0 +1,25 @@
+{
+  "player_id": 31191,
+  "full_name": "Demba Thiam Ngagne",
+  "nationality": "Senegal",
+  "birth_date": "1998-03-05",
+  "birth_place": "Dakar",
+  "career_transfers": [
+    {
+      "date": "2025-07-08",
+      "type": "Free Transfer",
+      "team_out": "Spal",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Free agent",
+      "team_out": "Spal",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Spal",
+    "Monza"
+  ]
+}

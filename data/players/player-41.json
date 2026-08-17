@@ -1,0 +1,30 @@
+{
+  "player_id": 41,
+  "full_name": "Juan Francisco Torres Belén",
+  "nationality": "Spain",
+  "birth_date": "1985-01-09",
+  "birth_place": "Crevillente",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 400K",
+      "team_out": "Real Madrid",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "RCD Espanyol de Barcelona",
+    "Club Atlético Osasuna",
+    "Atlético Madrid",
+    "São Paulo FC"
+  ]
+}

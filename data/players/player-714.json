@@ -1,0 +1,28 @@
+{
+  "player_id": 714,
+  "full_name": "Nadiem Amiri",
+  "nationality": "Germany",
+  "birth_date": "1996-10-27",
+  "birth_place": "Ludwigshafen am Rhein",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2022-01-29",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim",
+    "1. FC Kaiserslautern",
+    "Genoa CFC",
+    "1. FSV Mainz 05",
+    "Bayer 04 Leverkusen"
+  ]
+}

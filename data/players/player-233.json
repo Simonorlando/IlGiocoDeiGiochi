@@ -1,0 +1,30 @@
+{
+  "player_id": 233,
+  "full_name": "Mauro Jaqueson Júnior Ferreira dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1999-05-06",
+  "birth_place": "Palmital",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Heracles",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2019-07-08",
+      "type": "Loan",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Heracles"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Desportivo Brasil",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV"
+  ]
+}

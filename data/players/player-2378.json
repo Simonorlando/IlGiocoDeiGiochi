@@ -1,0 +1,30 @@
+{
+  "player_id": 2378,
+  "full_name": "Adelino André Vieira Freitas",
+  "nationality": "Portugal",
+  "birth_date": "1986-01-24",
+  "birth_place": "Guimarães",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 300K",
+      "team_out": "FC Porto",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Leixoes"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "F.C. Marco",
+    "Leixões S.C.",
+    "PAOK FC",
+    "VfL Wolfsburg",
+    "PAOK FC"
+  ]
+}

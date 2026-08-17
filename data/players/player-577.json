@@ -1,0 +1,28 @@
+{
+  "player_id": 577,
+  "full_name": "Andreas Samaris",
+  "nationality": "Greece",
+  "birth_date": "1989-06-13",
+  "birth_place": "Patras",
+  "career_transfers": [
+    {
+      "date": "2021-11-26",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "Fortuna Sittard"
+    },
+    {
+      "date": "2014-08-22",
+      "type": "€ 10M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Panachaiki G.E.",
+    "Panachaiki F.C.",
+    "Panionios F.C.",
+    "Olympiacos F.C.",
+    "S.L. Benfica"
+  ]
+}

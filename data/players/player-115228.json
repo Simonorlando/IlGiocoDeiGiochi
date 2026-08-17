@@ -1,0 +1,49 @@
+{
+  "player_id": 115228,
+  "full_name": "Hélder Manuel Marques Postiga",
+  "nationality": "Portugal",
+  "birth_date": "1982-08-02",
+  "birth_place": "Povoa de Varzim",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Deportivo La Coruna"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2013-08-08",
+      "type": "3M €",
+      "team_out": "Zaragoza",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "Tottenham Hotspur F.C.",
+    "FC Porto",
+    "AS Saint-Étienne",
+    "Panathinaikos F.C.",
+    "Sporting CP",
+    "Real Zaragoza",
+    "Valencia CF",
+    "SS Lazio",
+    "Deportivo de A Coruña",
+    "ATK",
+    "Rio Ave F.C.",
+    "ATK"
+  ]
+}

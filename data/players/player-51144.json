@@ -1,0 +1,47 @@
+{
+  "player_id": 51144,
+  "full_name": "Bryan Keith Reynolds Jr.",
+  "nationality": "USA",
+  "birth_date": "2001-06-28",
+  "birth_place": "Fort Worth",
+  "career_transfers": [
+    {
+      "date": "2023-07-30",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "KVC Westerlo"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "KVC Westerlo",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2022-06-22",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "KVC Westerlo"
+    },
+    {
+      "date": "2022-01-23",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Kortrijk"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "FC Dallas",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "FC Dallas",
+    "North Texas SC",
+    "Roma",
+    "Kortrijk",
+    "Westerlo",
+    "Rennes"
+  ]
+}

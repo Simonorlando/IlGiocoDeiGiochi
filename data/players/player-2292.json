@@ -1,0 +1,21 @@
+{
+  "player_id": 2292,
+  "full_name": "Ruben Ira Loftus-Cheek",
+  "nationality": "England",
+  "birth_date": "1996-01-23",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 16M",
+      "team_out": "Chelsea",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Crystal Palace F.C.",
+    "Fulham F.C.",
+    "AC Milan"
+  ]
+}

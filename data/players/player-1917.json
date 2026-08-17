@@ -1,0 +1,38 @@
+{
+  "player_id": 1917,
+  "full_name": "Mario Barwuah Balotelli",
+  "nationality": "Italy",
+  "birth_date": "1990-08-12",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2021-07-07",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "Adana Demirspor"
+    },
+    {
+      "date": "2020-12-08",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Lumezzane",
+    "Inter Milan",
+    "Manchester City F.C.",
+    "AC Milan",
+    "Liverpool F.C.",
+    "AC Milan",
+    "OGC Nice",
+    "Olympique de Marseille",
+    "Brescia Calcio",
+    "AC Monza",
+    "Adana Demirspor",
+    "FC Sion",
+    "Adana Demirspor",
+    "Genoa CFC",
+    "Al-Ittifaq F. C."
+  ]
+}

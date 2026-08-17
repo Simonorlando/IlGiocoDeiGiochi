@@ -1,0 +1,32 @@
+{
+  "player_id": 1134,
+  "full_name": "Vakoun Issouf Bayo",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1997-01-10",
+  "birth_place": "Daloa",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2024-08-29",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent",
+    "Royal Charleroi S.C.",
+    "Celtic F.C."
+  ]
+}

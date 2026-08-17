@@ -1,0 +1,32 @@
+{
+  "player_id": 6656,
+  "full_name": "Franco Zuculini",
+  "nationality": "Argentina",
+  "birth_date": "1990-09-05",
+  "birth_place": "La Rioja",
+  "career_transfers": [
+    {
+      "date": "2020-10-01",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Defensor Sporting"
+    },
+    {
+      "date": "2019-07-27",
+      "type": "Free",
+      "team_out": "Colon Santa Fe",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "TSG 1899 Hoffenheim",
+    "Genoa CFC",
+    "Real Zaragoza",
+    "Racing Club",
+    "Real Zaragoza",
+    "Bologna F.C. 1909",
+    "Arsenal Fútbol Club",
+    "Hellas Verona FC"
+  ]
+}

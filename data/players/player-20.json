@@ -1,0 +1,30 @@
+{
+  "player_id": 20,
+  "full_name": "Axel Laurent Angel Lambert Witsel",
+  "nationality": "Belgium",
+  "birth_date": "1989-01-12",
+  "birth_place": "Liège",
+  "career_transfers": [
+    {
+      "date": "2022-07-06",
+      "type": "Free",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2025-08-12",
+      "type": "Free Transfer",
+      "team_out": "Atletico Madrid",
+      "team_in": "Girona"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "S.L. Benfica",
+    "FC Zenit Saint Petersburg",
+    "Tianjin Tianhai F.C.",
+    "Borussia Dortmund",
+    "Atlético Madrid",
+    "Girona FC"
+  ]
+}

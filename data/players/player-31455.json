@@ -1,0 +1,25 @@
+{
+  "player_id": 31455,
+  "full_name": "Enrico Bearzotti",
+  "nationality": "Italy",
+  "birth_date": "1996-10-20",
+  "birth_place": "Palmanova",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2019-01-05",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Hellas Verona FC"
+  ]
+}

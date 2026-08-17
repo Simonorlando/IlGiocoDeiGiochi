@@ -1,0 +1,32 @@
+{
+  "player_id": 25079,
+  "full_name": "Silvere Ganvoula M'boussy",
+  "nationality": "Congo",
+  "birth_date": "1996-06-29",
+  "birth_place": "Brazzaville",
+  "career_transfers": [
+    {
+      "date": "2025-02-02",
+      "type": "Transfer",
+      "team_out": "BSC Young Boys",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-08-25",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2025-08-24",
+      "type": "-",
+      "team_out": "Monza",
+      "team_in": "Al-Fayha"
+    }
+  ],
+  "career_clubs": [
+    "Patronage Sainte-Anne",
+    "Raja Club Athletic",
+    "Elazığspor"
+  ]
+}

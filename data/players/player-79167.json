@@ -1,0 +1,43 @@
+{
+  "player_id": 79167,
+  "full_name": "Brayan Emanuel Vera Ramírez",
+  "nationality": "Colombia",
+  "birth_date": "1999-01-15",
+  "birth_place": "San Luis",
+  "career_transfers": [
+    {
+      "date": "2023-01-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "America de Cali"
+    },
+    {
+      "date": "2022-03-04",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "America de Cali"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Cosenza",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 835K",
+      "team_out": "Leones FC",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Leones F.C.",
+    "US Lecce"
+  ]
+}

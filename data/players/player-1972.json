@@ -1,0 +1,29 @@
+{
+  "player_id": 1972,
+  "full_name": "Loris Sven Karius",
+  "nationality": "Germany",
+  "birth_date": "1993-06-22",
+  "birth_place": "Biberach an der Riß",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2018-08-25",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05",
+    "Liverpool F.C.",
+    "Beşiktaş J.K. (Football)",
+    "1. FC Union Berlin",
+    "Newcastle United F.C.",
+    "Schalke 04"
+  ]
+}

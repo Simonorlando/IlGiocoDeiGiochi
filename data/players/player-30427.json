@@ -1,0 +1,28 @@
+{
+  "player_id": 30427,
+  "full_name": "Memeh Caleb Okoli",
+  "nationality": "Italy",
+  "birth_date": "2001-07-13",
+  "birth_place": "Vicenza",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2021-07-12",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta",
+    "SPAL",
+    "Cremonese",
+    "Frosinone",
+    "Leicester City"
+  ]
+}

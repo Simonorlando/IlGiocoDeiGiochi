@@ -1,0 +1,28 @@
+{
+  "player_id": 1188,
+  "full_name": "Erik Botheim",
+  "nationality": "Norway",
+  "birth_date": "2000-01-10",
+  "birth_place": "Oslo",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "Free",
+      "team_out": "Salernitana",
+      "team_in": "Malmo FF"
+    },
+    {
+      "date": "2022-07-07",
+      "type": "Free",
+      "team_out": "FC Krasnodar",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "FC Krasnodar",
+    "Lyn 1896 FK",
+    "Rosenborg BK",
+    "FK Bodø/Glimt",
+    "Malmö FF"
+  ]
+}

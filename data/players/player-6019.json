@@ -1,0 +1,44 @@
+{
+  "player_id": 6019,
+  "full_name": "Mathías Nicolás Abero Villan",
+  "nationality": "Uruguay",
+  "birth_date": "1990-04-09",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2015-08-03",
+      "type": "€ Free",
+      "team_out": "Bologna",
+      "team_in": "Club Nacional"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Avellino",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2012-07-19",
+      "type": "€ 710.7K",
+      "team_out": "Club Nacional",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "Racing Club de Montevideo",
+    "Bologna F.C. 1909",
+    "U.S. Avellino 1912",
+    "Club Nacional de Football",
+    "Atlético de Rafaela",
+    "Club Atlético Tigre",
+    "C.A. Rentistas",
+    "C.A. Cerro"
+  ]
+}

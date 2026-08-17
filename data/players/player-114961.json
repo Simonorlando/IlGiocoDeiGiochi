@@ -1,0 +1,30 @@
+{
+  "player_id": 114961,
+  "full_name": "Manuel Friedrich",
+  "nationality": "Germany",
+  "birth_date": "1979-09-13",
+  "birth_place": "Bad Kreuznach",
+  "career_transfers": [
+    {
+      "date": "2013-11-20",
+      "type": "Free",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 2.5M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05",
+    "SV Werder Bremen",
+    "1. FSV Mainz 05",
+    "Team 2006",
+    "Bayer 04 Leverkusen",
+    "Borussia Dortmund",
+    "Mumbai City FC"
+  ]
+}

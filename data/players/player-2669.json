@@ -1,0 +1,36 @@
+{
+  "player_id": 2669,
+  "full_name": "Mario Hermoso Canseco",
+  "nationality": "Spain",
+  "birth_date": "1995-06-18",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2017-07-12",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Valladolid",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2015-07-17",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Valladolid"
+    }
+  ],
+  "career_clubs": [
+    "Concepción Fútbol Club",
+    "Real Madrid Club de Fútbol",
+    "Cádiz Club de Fútbol",
+    "Real Madrid Castilla",
+    "Real Valladolid",
+    "RCD Espanyol de Barcelona",
+    "Atlético Madrid"
+  ]
+}

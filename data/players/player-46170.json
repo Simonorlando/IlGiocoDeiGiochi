@@ -1,0 +1,42 @@
+{
+  "player_id": 46170,
+  "full_name": "Ivan Ilić",
+  "nationality": "Serbia",
+  "birth_date": "2001-03-17",
+  "birth_place": "Niš",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 15.7M",
+      "team_out": "Verona",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-01-30",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2021-08-12",
+      "type": "N/A",
+      "team_out": "Manchester City U23",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Manchester City U23"
+    },
+    {
+      "date": "2020-09-08",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C."
+  ]
+}

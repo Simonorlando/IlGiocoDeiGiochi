@@ -1,0 +1,34 @@
+{
+  "player_id": 31676,
+  "full_name": "Raffaele Pucino",
+  "nationality": "Italy",
+  "birth_date": "1991-05-03",
+  "birth_place": "Caserta",
+  "career_transfers": [
+    {
+      "date": "2014-07-25",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Napoli U20",
+    "Alessandria",
+    "Varese",
+    "Sassuolo",
+    "Chievo Verona",
+    "Pescara",
+    "Chievo Verona",
+    "Lanciano FC",
+    "Chievo Verona",
+    "US Avellino 1912",
+    "Chievo Verona",
+    "L.R. Vicenza",
+    "Chievo Verona",
+    "US Salernitana 1919",
+    "Ascoli",
+    "Bari",
+    "Monopoli"
+  ]
+}

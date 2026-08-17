@@ -1,0 +1,30 @@
+{
+  "player_id": 781,
+  "full_name": "Javier Matías Pastore",
+  "nationality": "Argentina",
+  "birth_date": "1989-06-20",
+  "birth_place": "Córdoba",
+  "career_transfers": [
+    {
+      "date": "2011-07-30",
+      "type": "€ 42M",
+      "team_out": "Palermo",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2009-07-11",
+      "type": "€ 7M",
+      "team_out": "Huracan",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Talleres de Córdoba",
+    "Club Atlético Huracán",
+    "Palermo F.C.",
+    "Paris Saint-Germain FC",
+    "AS Roma",
+    "Elche CF",
+    "Qatar SC"
+  ]
+}

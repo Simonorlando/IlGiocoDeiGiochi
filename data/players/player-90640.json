@@ -1,0 +1,20 @@
+{
+  "player_id": 90640,
+  "full_name": "Roman Weidenfeller",
+  "nationality": "Germany",
+  "birth_date": "1980-08-06",
+  "birth_place": "Diez",
+  "career_transfers": [
+    {
+      "date": "2002-07-01",
+      "type": "Free",
+      "team_out": "FC Kaiserslautern",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Kaiserslautern",
+    "Borussia Dortmund",
+    "Team 2006"
+  ]
+}

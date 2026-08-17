@@ -1,0 +1,20 @@
+{
+  "player_id": 19524,
+  "full_name": "Ché Zach Everton Fred Adams",
+  "nationality": "Scotland",
+  "birth_date": "1996-07-13",
+  "birth_place": "Leicester",
+  "career_transfers": [
+    {
+      "date": "2024-07-23",
+      "type": "Free",
+      "team_out": "Southampton",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Ilkeston F.C.",
+    "Sheffield United F.C.",
+    "Birmingham City F.C."
+  ]
+}

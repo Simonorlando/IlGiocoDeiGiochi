@@ -1,0 +1,27 @@
+{
+  "player_id": 626,
+  "full_name": "John Stones",
+  "nationality": "England",
+  "birth_date": "1994-05-28",
+  "birth_place": "Barnsley",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Manchester City",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Free agent",
+      "team_out": "Manchester City",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Barnsley F.C.",
+    "Everton F.C.",
+    "Manchester City F.C.",
+    "Inter Milan"
+  ]
+}

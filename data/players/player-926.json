@@ -1,0 +1,28 @@
+{
+  "player_id": 926,
+  "full_name": "Geoffrey Edwin Kondogbia",
+  "nationality": "Central African Republic",
+  "birth_date": "1993-02-15",
+  "birth_place": "Nemours",
+  "career_transfers": [
+    {
+      "date": "2013-09-01",
+      "type": "€ 20M",
+      "team_out": "Sevilla",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2012-07-25",
+      "type": "€ 4M",
+      "team_out": "Lens",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Sevilla FC",
+    "AS Monaco FC",
+    "Inter Milan",
+    "Valencia CF"
+  ]
+}

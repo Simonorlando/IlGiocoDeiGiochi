@@ -1,0 +1,27 @@
+{
+  "player_id": 318053,
+  "full_name": "Saba Goglichidze",
+  "nationality": "Georgia",
+  "birth_date": "2004-06-25",
+  "birth_place": "Kutaisi",
+  "career_transfers": [
+    {
+      "date": "2024-01-20",
+      "type": "€ 450K",
+      "team_out": "Torpedo Kutaisi",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-08-05",
+      "type": "Transfer",
+      "team_out": "Empoli",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Torpedo Kutaisi",
+    "Empoli",
+    "Udinese",
+    "Watford"
+  ]
+}

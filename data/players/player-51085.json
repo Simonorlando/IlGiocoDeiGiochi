@@ -1,0 +1,64 @@
+{
+  "player_id": 51085,
+  "full_name": "Aljaž Struna",
+  "nationality": "Slovenia",
+  "birth_date": "1990-08-04",
+  "birth_place": "Piran",
+  "career_transfers": [
+    {
+      "date": "2019-02-13",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Houston Dynamo"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2014-08-29",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Varese",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2012-07-04",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Varese"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Koper",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FC Koper",
+    "Palermo F.C.",
+    "Varese Calcio",
+    "Palermo F.C.",
+    "A.C. Carpi"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "player_id": 32052,
+  "full_name": "Alessandro Piu",
+  "nationality": "Italy",
+  "birth_date": "1996-07-30",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2018-07-10",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Spezia Calcio"
+  ]
+}

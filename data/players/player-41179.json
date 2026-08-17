@@ -1,0 +1,31 @@
+{
+  "player_id": 41179,
+  "full_name": "Matheus Reis de Lima",
+  "nationality": "Brazil",
+  "birth_date": "1995-02-18",
+  "birth_place": "São João da Boa Vista",
+  "career_transfers": [
+    {
+      "date": "2021-02-01",
+      "type": "Free",
+      "team_out": "Rio Ave",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Free agent",
+      "team_out": "Sporting CP",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Free agent",
+      "team_out": "Sporting CP",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Clube Atlético Sorocaba"
+  ]
+}

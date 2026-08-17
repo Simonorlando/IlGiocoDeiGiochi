@@ -1,0 +1,29 @@
+{
+  "player_id": 611,
+  "full_name": "Marko Livaja",
+  "nationality": "Croatia",
+  "birth_date": "1993-08-26",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Rubin",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "Inter Milan",
+    "FC Lugano",
+    "Inter Milan",
+    "AC Cesena",
+    "FC Lugano",
+    "Atalanta BC",
+    "Rubin Kazan",
+    "Empoli FC",
+    "UD Las Palmas",
+    "AEK Athens F.C.",
+    "HNK Hajduk Split"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 324,
+  "full_name": "Amadou Diawara",
+  "nationality": "Guinea",
+  "birth_date": "1997-07-17",
+  "birth_place": "Conakry",
+  "career_transfers": [
+    {
+      "date": "2016-08-26",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": null,
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "FC Séquence de Dixinn",
+    "San Marino Calcio",
+    "Bologna F.C. 1909",
+    "SSC Napoli",
+    "AS Roma"
+  ]
+}

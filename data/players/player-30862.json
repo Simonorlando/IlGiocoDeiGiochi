@@ -1,0 +1,27 @@
+{
+  "player_id": 30862,
+  "full_name": "Lorenco Šimić",
+  "nationality": "Croatia",
+  "birth_date": "1996-07-15",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2022-07-21",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2022-01-17",
+      "type": "N/A",
+      "team_out": "Zaglebie Lubin",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "FC Hoverla Uzhhorod",
+    "U.C. Sampdoria",
+    "Empoli FC"
+  ]
+}

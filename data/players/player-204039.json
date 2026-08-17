@@ -1,0 +1,27 @@
+{
+  "player_id": 204039,
+  "full_name": "Iyenoma Destiny Udogie",
+  "nationality": "Italy",
+  "birth_date": "2002-11-28",
+  "birth_place": "Verona",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 4M",
+      "team_out": "Verona",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2021-07-15",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "Udinese Calcio",
+    "Tottenham Hotspur F.C.",
+    "Udinese Calcio"
+  ]
+}

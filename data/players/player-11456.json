@@ -1,0 +1,24 @@
+{
+  "player_id": 11456,
+  "full_name": "Felipe Ignacio Seymour Dobud",
+  "nationality": "Chile",
+  "birth_date": "1987-07-23",
+  "birth_place": "Pirque",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Universidad de Chile",
+    "Genoa CFC",
+    "Catania FC",
+    "AC ChievoVerona",
+    "Spezia Calcio",
+    "Cruzeiro E.C.",
+    "CR Vasco da Gama"
+  ]
+}

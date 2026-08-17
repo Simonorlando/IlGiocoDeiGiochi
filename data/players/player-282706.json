@@ -1,0 +1,29 @@
+{
+  "player_id": 282706,
+  "full_name": "Demba Seck",
+  "nationality": "Senegal",
+  "birth_date": "2001-02-10",
+  "birth_place": "Guédiawaye",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2024-01-23",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "SPAL",
+    "Sasso Marconi",
+    "Torino",
+    "Frosinone",
+    "Catanzaro",
+    "Partizan"
+  ]
+}

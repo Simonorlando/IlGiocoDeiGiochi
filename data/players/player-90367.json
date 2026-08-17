@@ -1,0 +1,34 @@
+{
+  "player_id": 90367,
+  "full_name": "Gianluca Sansone",
+  "nationality": "Italy",
+  "birth_date": "1987-05-12",
+  "birth_place": "Teramo",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2009-07-10",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": null
+    }
+  ],
+  "career_clubs": [
+    "A.S. Pescina Valle del Giovenco",
+    "Siena FC",
+    "Lanciano Calcio 1920",
+    "A.S.D. Gallipoli Calcio",
+    "Frosinone Calcio",
+    "US Sassuolo Calcio",
+    "Torino FC",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909",
+    "SSC Bari",
+    "Novara Calcio"
+  ]
+}

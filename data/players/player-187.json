@@ -1,0 +1,29 @@
+{
+  "player_id": 187,
+  "full_name": "Tommaso Berni",
+  "nationality": "Italy",
+  "birth_date": "1983-03-06",
+  "birth_place": "Firenze",
+  "career_transfers": [
+    {
+      "date": "2009-01-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Wimbledon F.C.",
+    "Milton Keynes Dons F.C.",
+    "Ternana Calcio",
+    "SS Lazio",
+    "U.S. Salernitana 1919",
+    "S.C. Braga",
+    "U.C. Sampdoria",
+    "Torino FC",
+    "Inter Milan",
+    "ACF Fiorentina",
+    "Delfino Pescara 1936"
+  ]
+}

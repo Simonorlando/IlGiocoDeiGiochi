@@ -1,0 +1,40 @@
+{
+  "player_id": 1356,
+  "full_name": "Nabil Dirar",
+  "nationality": "Morocco",
+  "birth_date": "1986-02-25",
+  "birth_place": "Casablanca",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Club Brugge KV",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2021-01-30",
+      "type": "Loan",
+      "team_out": "Fenerbahce",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2012-01-31",
+      "type": "€ 7.5M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 1.8M",
+      "team_out": "KVC Westerlo",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "K. Diegem Sport",
+    "K.V.C. Westerlo",
+    "Club Brugge K.V.",
+    "AS Monaco FC",
+    "Fenerbahçe Istanbul"
+  ]
+}

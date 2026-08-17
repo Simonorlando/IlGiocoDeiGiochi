@@ -1,0 +1,29 @@
+{
+  "player_id": 138816,
+  "full_name": "Ian Ethan Maatsen",
+  "nationality": "Netherlands",
+  "birth_date": "2002-03-10",
+  "birth_place": "Vlaardingen",
+  "career_transfers": [
+    {
+      "date": "2024-06-03",
+      "type": "N/A",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2024-01-12",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Charlton Athletic F.C.",
+    "Coventry City F.C.",
+    "Burnley F.C.",
+    "Borussia Dortmund",
+    "Aston Villa F.C."
+  ]
+}

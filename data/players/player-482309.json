@@ -1,0 +1,38 @@
+{
+  "player_id": 482309,
+  "full_name": "Christ-Owen Kouassi Bathele",
+  "nationality": "France",
+  "birth_date": "2003-04-15",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Laval",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Transfer",
+      "team_out": "Laval",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Laval",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Laval"
+    }
+  ],
+  "career_clubs": [
+    "Laval",
+    "Lecce",
+    "Laval"
+  ]
+}

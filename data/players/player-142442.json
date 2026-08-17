@@ -1,0 +1,24 @@
+{
+  "player_id": 142442,
+  "full_name": "Rui Manuel Muati Modesto",
+  "nationality": "Angola",
+  "birth_date": "1999-10-07",
+  "birth_place": "Vendas Novas",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Palermo",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "AIK Fotboll"
+  ]
+}

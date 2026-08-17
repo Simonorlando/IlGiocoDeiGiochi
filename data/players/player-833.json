@@ -1,0 +1,34 @@
+{
+  "player_id": 833,
+  "full_name": "Jaka Bijol",
+  "nationality": "Slovenia",
+  "birth_date": "1999-02-05",
+  "birth_place": "Vuzenica",
+  "career_transfers": [
+    {
+      "date": "2022-07-14",
+      "type": "€ 4M",
+      "team_out": "CSKA Moscow",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-06-23",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Leeds"
+    }
+  ],
+  "career_clubs": [
+    "NK Rudar Velenje",
+    "PFC CSKA Moscow",
+    "Hannover 96",
+    "Udinese Calcio",
+    "Leeds United F.C."
+  ]
+}

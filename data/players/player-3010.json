@@ -1,0 +1,33 @@
+{
+  "player_id": 3010,
+  "full_name": "Arkadiusz Reca",
+  "nationality": "Poland",
+  "birth_date": "1995-06-17",
+  "birth_place": "Chojnicach",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 2M",
+      "team_out": "Atalanta",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-29",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-07-18",
+      "type": "Free Transfer",
+      "team_out": "Spezia",
+      "team_in": "Legia Warszawa"
+    }
+  ],
+  "career_clubs": [
+    "Chojniczanka Chojnice",
+    "Flota Świnoujście",
+    "Wisła Płock",
+    "Atalanta BC"
+  ]
+}

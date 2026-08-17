@@ -1,0 +1,26 @@
+{
+  "player_id": 30738,
+  "full_name": "Boštjan Cesar",
+  "nationality": "Slovenia",
+  "birth_date": "1982-07-09",
+  "birth_place": "Ljubljana",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Grenoble",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Croatia Sesvete",
+    "NK Olimpija Ljubljana",
+    "Olympique de Marseille",
+    "NK Olimpija Ljubljana",
+    "West Bromwich Albion F.C.",
+    "Grenoble Foot 38",
+    "AC ChievoVerona",
+    "AC Cesena"
+  ]
+}

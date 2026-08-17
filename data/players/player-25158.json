@@ -1,0 +1,20 @@
+{
+  "player_id": 25158,
+  "full_name": "David Raum",
+  "nationality": "Germany",
+  "birth_date": "1998-04-22",
+  "birth_place": "Nürnberg",
+  "career_transfers": [
+    {
+      "date": "2022-07-31",
+      "type": "€ 26M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "SpVgg Greuther Fürth",
+    "TSG 1899 Hoffenheim",
+    "RB Leipzig"
+  ]
+}

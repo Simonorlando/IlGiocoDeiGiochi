@@ -1,0 +1,35 @@
+{
+  "player_id": 10122,
+  "full_name": "Renan Augusto Lodi dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1998-04-08",
+  "birth_place": "Serrana",
+  "career_transfers": [
+    {
+      "date": "2023-07-14",
+      "type": "€ 13M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2022-08-29",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 20M",
+      "team_out": "Atletico Paranaense",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "Atlético Madrid",
+    "Nottingham Forest F.C.",
+    "Olympique de Marseille",
+    "Al Hilal SFC",
+    "Clube Atlético Mineiro"
+  ]
+}

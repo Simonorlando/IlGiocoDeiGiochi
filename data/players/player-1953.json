@@ -1,0 +1,35 @@
+{
+  "player_id": 1953,
+  "full_name": "Lasse Ladegaard Nielsen",
+  "nationality": "Denmark",
+  "birth_date": "1988-01-08",
+  "birth_place": "Aalborg",
+  "career_transfers": [
+    {
+      "date": "2017-01-20",
+      "type": "€ 650K",
+      "team_out": "Gent",
+      "team_in": "Malmo FF"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "NEC Nijmegen",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "NEC Nijmegen",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "AaB Fodbold",
+    "N.E.C.",
+    "KAA Gent",
+    "Malmö FF",
+    "Göztepe S.K.",
+    "Vejle Boldklub"
+  ]
+}

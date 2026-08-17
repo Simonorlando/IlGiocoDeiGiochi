@@ -1,0 +1,33 @@
+{
+  "player_id": 8793,
+  "full_name": "Thomas Michel David Henry",
+  "nationality": "France",
+  "birth_date": "1994-09-20",
+  "birth_place": "Argenteuil",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2024-07-16",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Beauvais",
+    "Fréjus Saint-Raphaël",
+    "Nantes",
+    "Chambly",
+    "Tubize",
+    "OH Leuven",
+    "Venezia",
+    "Hellas Verona",
+    "Palermo",
+    "Standard Liège"
+  ]
+}

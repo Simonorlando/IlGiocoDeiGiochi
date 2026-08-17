@@ -1,0 +1,25 @@
+{
+  "player_id": 1266,
+  "full_name": "Toma Bašić",
+  "nationality": "Croatia",
+  "birth_date": "1996-11-25",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Lazio",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Lazio",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "NK Rudeš"
+  ]
+}

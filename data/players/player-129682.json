@@ -1,0 +1,31 @@
+{
+  "player_id": 129682,
+  "full_name": "Amine Adli",
+  "nationality": "Morocco",
+  "birth_date": "2000-05-10",
+  "birth_place": "Béziers",
+  "career_transfers": [
+    {
+      "date": "2021-08-26",
+      "type": "N/A",
+      "team_out": "Toulouse",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2025-08-19",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Bournemouth"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC",
+    "Bayer 04 Leverkusen"
+  ]
+}

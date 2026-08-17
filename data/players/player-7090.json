@@ -1,0 +1,30 @@
+{
+  "player_id": 7090,
+  "full_name": "Michael Svoboda",
+  "nationality": "Austria",
+  "birth_date": "1998-10-15",
+  "birth_place": "Vienna",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "Free",
+      "team_out": "WSG Wattens",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "SV Schwechat"
+  ]
+}

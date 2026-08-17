@@ -1,0 +1,24 @@
+{
+  "player_id": 56313,
+  "full_name": "Simone Pinna",
+  "nationality": "Italy",
+  "birth_date": "1997-10-17",
+  "birth_place": "Oristano",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2020-01-09",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Olbia 1905"
+  ]
+}

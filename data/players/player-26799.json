@@ -1,0 +1,31 @@
+{
+  "player_id": 26799,
+  "full_name": "Vangelis Moras",
+  "nationality": "Greece",
+  "birth_date": "1981-08-26",
+  "birth_place": "Larissa",
+  "career_transfers": [
+    {
+      "date": "2012-08-09",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2012-01-13",
+      "type": "Free",
+      "team_out": "Swansea",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Athlitiki Enosi Larissa F.C.",
+    "Proodeftiki Neolaia F.C.",
+    "AEK Athens F.C.",
+    "A.E.K.",
+    "Bologna F.C. 1909",
+    "Swansea City A.F.C.",
+    "Hellas Verona FC",
+    "AC Cesena"
+  ]
+}

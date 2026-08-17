@@ -1,0 +1,52 @@
+{
+  "player_id": 30564,
+  "full_name": "Artur Ioniţă",
+  "nationality": "Moldova",
+  "birth_date": "1990-08-17",
+  "birth_place": "Chişinău",
+  "career_transfers": [
+    {
+      "date": "2024-09-30",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "Lecco"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Lecco"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Modena",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2022-08-11",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "FC Zimbru Chișinău",
+    "FC Iskra-Stal",
+    "FC Aarau",
+    "Hellas Verona FC",
+    "Cagliari Calcio",
+    "Benevento Calcio",
+    "Pisa SC",
+    "Modena F.C.",
+    "Calcio Lecco 1912",
+    "US Triestina Calcio 1918",
+    "S.S. Arezzo"
+  ]
+}

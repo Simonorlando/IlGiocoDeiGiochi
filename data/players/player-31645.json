@@ -1,0 +1,19 @@
+{
+  "player_id": 31645,
+  "full_name": "Marco Zambelli",
+  "nationality": "Italy",
+  "birth_date": "1985-08-22",
+  "birth_place": "Gavardo",
+  "career_transfers": [
+    {
+      "date": "2015-08-13",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Empoli FC"
+  ]
+}

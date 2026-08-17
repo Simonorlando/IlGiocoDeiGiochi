@@ -1,0 +1,48 @@
+{
+  "player_id": 10230,
+  "full_name": "Danilo Fernando Avelar",
+  "nationality": "Brazil",
+  "birth_date": "1989-06-09",
+  "birth_place": "Paranavaí",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 2M",
+      "team_out": "Torino",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Corinthians",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2018-07-16",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Amiens"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Joinville Esporte Clube",
+    "Paraná Clube",
+    "Rio Claro Futebol Clube",
+    "FC Karpaty Lviv",
+    "Schalke 04",
+    "Cagliari Calcio",
+    "Torino FC"
+  ]
+}

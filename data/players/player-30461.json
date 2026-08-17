@@ -1,0 +1,29 @@
+{
+  "player_id": 30461,
+  "full_name": "Grégoire André Defrel",
+  "nationality": "France",
+  "birth_date": "1991-06-17",
+  "birth_place": "Meudon",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2011-07-08",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Foggia"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Calcio Foggia 1920",
+    "AC Cesena",
+    "US Sassuolo Calcio",
+    "AS Roma",
+    "U.C. Sampdoria"
+  ]
+}

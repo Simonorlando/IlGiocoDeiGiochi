@@ -1,0 +1,39 @@
+{
+  "player_id": 30796,
+  "full_name": "Sebastien De Maio",
+  "nationality": "France",
+  "birth_date": "1987-03-05",
+  "birth_place": "Saint-Denis",
+  "career_transfers": [
+    {
+      "date": "2013-07-04",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2011-01-22",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Brescia U19",
+    "Brescia",
+    "Frosinone",
+    "Brescia",
+    "Genoa",
+    "RSC Anderlecht",
+    "Fiorentina",
+    "RSC Anderlecht",
+    "Bologna",
+    "Udinese",
+    "Bologna",
+    "Udinese",
+    "L.R. Vicenza",
+    "Modena",
+    "L.R. Vicenza",
+    "Mantova"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "player_id": 9273,
+  "full_name": "Neuton Sérgio Piccoli",
+  "nationality": "Brazil",
+  "birth_date": "1990-03-14",
+  "birth_place": "Erechim",
+  "career_transfers": [
+    {
+      "date": "2016-09-07",
+      "type": "Free",
+      "team_out": "Udinese",
+      "team_in": "Pistoiese"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Albacete"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2014-11-21",
+      "type": "N/A",
+      "team_out": "Chapecoense-sc",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2014-04-02",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Chapecoense-sc"
+    },
+    {
+      "date": "2013-05-30",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2011-07-27",
+      "type": "€ 3M",
+      "team_out": "Gremio",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "Associação Chapecoense de Futebol",
+    "Granada CF",
+    "Albacete Balompié"
+  ]
+}

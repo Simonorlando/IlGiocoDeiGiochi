@@ -1,0 +1,22 @@
+{
+  "player_id": 31324,
+  "full_name": "Luca Bittante",
+  "nationality": "Italy",
+  "birth_date": "1993-08-14",
+  "birth_place": "Bassano del Grappa",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Avellino 1912",
+    "Italy under-21 Serie B representative team",
+    "Empoli FC",
+    "ACF Fiorentina",
+    "Cagliari Calcio"
+  ]
+}

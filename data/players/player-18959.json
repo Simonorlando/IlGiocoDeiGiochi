@@ -1,0 +1,21 @@
+{
+  "player_id": 18959,
+  "full_name": "Robert Lynch Sánchez",
+  "nationality": "Spain",
+  "birth_date": "1997-11-18",
+  "birth_place": "Cartagena",
+  "career_transfers": [
+    {
+      "date": "2023-08-05",
+      "type": "€ 23M",
+      "team_out": "Brighton",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Brighton & Hove Albion F.C.",
+    "Forest Green Rovers F.C.",
+    "Rochdale A.F.C.",
+    "Chelsea F.C."
+  ]
+}

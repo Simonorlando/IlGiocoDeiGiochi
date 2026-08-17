@@ -1,0 +1,37 @@
+{
+  "player_id": 31604,
+  "full_name": "Antonio Aldo Caracciolo",
+  "nationality": "Italy",
+  "birth_date": "1990-06-30",
+  "birth_place": "Tempio Pausania",
+  "career_transfers": [
+    {
+      "date": "2020-09-02",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2020-01-27",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "AC Pavia 1911",
+    "SSC Bari",
+    "Genoa CFC",
+    "A.S. Gubbio 1910",
+    "Brescia Calcio",
+    "US Cremonese",
+    "Inter Milan",
+    "Hellas Verona FC"
+  ]
+}

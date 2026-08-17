@@ -1,0 +1,26 @@
+{
+  "player_id": 262845,
+  "full_name": "Eduardo Filipe Quaresma Vieira Coimbra Simões",
+  "nationality": "Portugal",
+  "birth_date": "2002-03-02",
+  "birth_place": "Barreiro",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2021-07-27",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Tondela"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Tondela",
+    "Sporting CP"
+  ]
+}

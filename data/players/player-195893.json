@@ -1,0 +1,34 @@
+{
+  "player_id": 195893,
+  "full_name": "Souleymane Isaak Touré",
+  "nationality": "France",
+  "birth_date": "2003-03-28",
+  "birth_place": "Gonesse",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Lorient",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Udinese",
+      "team_in": "Lorient"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Udinese",
+      "team_in": "Lorient"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre",
+    "Marseille",
+    "Auxerre",
+    "Lorient",
+    "Udinese"
+  ]
+}

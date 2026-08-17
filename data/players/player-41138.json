@@ -1,0 +1,42 @@
+{
+  "player_id": 41138,
+  "full_name": "Ânderson Miguel da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1983-07-28",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2017-07-13",
+      "type": "Free",
+      "team_out": "Spezia",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2015-02-01",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube São Bento",
+    "Clube Atlético Guaçuano",
+    "Riachuelo Futebol Clube",
+    "Sociedade Boca Júnior Futebol Clube",
+    "Associação Desportiva Confiança",
+    "Santa Cruz Futebol Clube",
+    "América Futebol Clube",
+    "Cruzeiro E.C.",
+    "Ipatinga Futebol Clube",
+    "C.D. Nacional",
+    "Cagliari Calcio",
+    "Hellas Verona FC",
+    "Spezia Calcio"
+  ]
+}

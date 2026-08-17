@@ -1,0 +1,41 @@
+{
+  "player_id": 393,
+  "full_name": "Moussa Marega",
+  "nationality": "Mali",
+  "birth_date": "1991-04-14",
+  "birth_place": "Les Ulis",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Al-Hilal Saudi FC"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Guimaraes",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2016-07-25",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Guimaraes"
+    },
+    {
+      "date": "2016-01-25",
+      "type": "N/A",
+      "team_out": "Maritimo",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "AS Evry",
+    "Vendée Poiré sur Vie Football",
+    "Amiens SC",
+    "Espérance Sportive de Tunis",
+    "C.S. Marítimo",
+    "FC Porto"
+  ]
+}

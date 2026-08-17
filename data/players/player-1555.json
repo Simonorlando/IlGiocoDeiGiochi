@@ -1,0 +1,43 @@
+{
+  "player_id": 1555,
+  "full_name": "Innocent Emeghara",
+  "nationality": "Switzerland",
+  "birth_date": "1989-05-27",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2014-10-06",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Qarabag"
+    },
+    {
+      "date": "2013-08-27",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 2.8M",
+      "team_out": "Lorient",
+      "team_in": "Robur Siena"
+    },
+    {
+      "date": "2013-01-22",
+      "type": "Loan",
+      "team_out": "Lorient",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "FC Winterthur",
+    "Grasshopper Club Zürich",
+    "F.C. Lorient",
+    "US Livorno 1915",
+    "Siena FC",
+    "Qarabağ FK",
+    "San Jose Earthquakes"
+  ]
+}

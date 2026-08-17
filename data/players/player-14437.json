@@ -1,0 +1,23 @@
+{
+  "player_id": 14437,
+  "full_name": "Ivan Kelava",
+  "nationality": "Croatia",
+  "birth_date": "1988-02-20",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "NK Lokomotiva",
+    "Udinese Calcio",
+    "A.C. Carpi",
+    "FC Spartak Trnava",
+    "Granada CF"
+  ]
+}

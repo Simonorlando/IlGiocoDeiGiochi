@@ -1,0 +1,21 @@
+{
+  "player_id": 48294,
+  "full_name": "Per Arvid Viking Brorsson",
+  "nationality": "Sweden",
+  "birth_date": "1999-05-08",
+  "birth_place": "Örebro",
+  "career_transfers": [
+    {
+      "date": "2025-01-29",
+      "type": "Transfer",
+      "team_out": "Mjallby AIF",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Örebro SK",
+    "Örgryte IS",
+    "Mjällby AIF",
+    "Monza"
+  ]
+}

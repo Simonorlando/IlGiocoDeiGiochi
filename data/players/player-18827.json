@@ -1,0 +1,59 @@
+{
+  "player_id": 18827,
+  "full_name": "Carlos Alberto Sánchez Moreno",
+  "nationality": "Colombia",
+  "birth_date": "1986-02-06",
+  "birth_place": "Quibdó",
+  "career_transfers": [
+    {
+      "date": "2018-08-09",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Espanyol",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 3M",
+      "team_out": "Aston Villa",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2017-06-30",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Club Atlético River Plate",
+    "Valenciennes F.C.",
+    "Elche CF",
+    "Aston Villa F.C.",
+    "ACF Fiorentina",
+    "RCD Espanyol de Barcelona",
+    "West Ham United F.C.",
+    "Watford F.C.",
+    "Independiente Santa Fe",
+    "San Lorenzo de Almagro",
+    "Real Madrid"
+  ]
+}

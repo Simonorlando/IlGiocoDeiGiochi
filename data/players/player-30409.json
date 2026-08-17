@@ -1,0 +1,37 @@
+{
+  "player_id": 30409,
+  "full_name": "Jordan Marcel Gilbert Veretout",
+  "nationality": "France",
+  "birth_date": "1993-03-01",
+  "birth_place": "Ancenis",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 16M",
+      "team_out": "Fiorentina",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-07-20",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2017-07-25",
+      "type": "€ 7M",
+      "team_out": "Aston Villa",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Aston Villa F.C.",
+    "AS Saint-Étienne",
+    "ACF Fiorentina",
+    "AS Roma",
+    "Olympique de Marseille",
+    "Olympique Lyonnais",
+    "Al-Arabi SC"
+  ]
+}

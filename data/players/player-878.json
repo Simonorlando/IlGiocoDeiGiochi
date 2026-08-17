@@ -1,0 +1,32 @@
+{
+  "player_id": 878,
+  "full_name": "Mario Mandžukić",
+  "nationality": "Croatia",
+  "birth_date": "1986-05-21",
+  "birth_place": "Slavonski Brod",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 19M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2014-07-10",
+      "type": "€ 22M",
+      "team_out": "Bayern Munich",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "NK Marsonia",
+    "N.K. Zagreb",
+    "GNK Dinamo Zagreb",
+    "VfL Wolfsburg",
+    "FC Bayern Munich",
+    "Atlético Madrid",
+    "Juventus FC",
+    "Al-Duhail SC",
+    "AC Milan"
+  ]
+}

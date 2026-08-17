@@ -1,0 +1,19 @@
+{
+  "player_id": 537,
+  "full_name": "Joël Ivo Veltman",
+  "nationality": "Netherlands",
+  "birth_date": "1992-01-15",
+  "birth_place": "Velsen",
+  "career_transfers": [
+    {
+      "date": "2020-07-30",
+      "type": "€ 1M",
+      "team_out": "Ajax",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Brighton & Hove Albion F.C."
+  ]
+}

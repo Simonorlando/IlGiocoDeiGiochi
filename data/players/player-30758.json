@@ -1,0 +1,28 @@
+{
+  "player_id": 30758,
+  "full_name": "Riccardo Meggiorini",
+  "nationality": "Italy",
+  "birth_date": "1985-09-04",
+  "birth_place": "Isola della Scala",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "AC Pavia 1911",
+    "Spezia Calcio",
+    "Associazione Sportiva Cittadella",
+    "SSC Bari",
+    "Bologna F.C. 1909",
+    "Novara Calcio",
+    "Genoa CFC",
+    "Torino FC",
+    "AC ChievoVerona",
+    "Hellas Verona FC"
+  ]
+}

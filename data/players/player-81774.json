@@ -1,0 +1,30 @@
+{
+  "player_id": 81774,
+  "full_name": "Joe Ledley",
+  "nationality": "Wales",
+  "birth_date": "1987-01-23",
+  "birth_place": "Cardiff",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Celtic",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Cardiff",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Cardiff City F.C.",
+    "Celtic F.C.",
+    "Crystal Palace F.C.",
+    "Derby County F.C.",
+    "Charlton Athletic F.C.",
+    "Newcastle Jets FC",
+    "Newport County A.F.C."
+  ]
+}

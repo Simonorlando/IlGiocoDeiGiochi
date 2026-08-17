@@ -1,0 +1,38 @@
+{
+  "player_id": 9975,
+  "full_name": "Brenner Souza da Silva",
+  "nationality": "Brazil",
+  "birth_date": "2000-01-16",
+  "birth_place": "Cuiabá",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 10M",
+      "team_out": "FC Cincinnati",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "FC Cincinnati"
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Return from loan",
+      "team_out": "FC Cincinnati",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Vasco DA Gama"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Fluminense F.C.",
+    "FC Cincinnati"
+  ]
+}

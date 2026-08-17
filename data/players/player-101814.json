@@ -1,0 +1,28 @@
+{
+  "player_id": 101814,
+  "full_name": "Ronald Federico Araújo da Silva",
+  "nationality": "Uruguay",
+  "birth_date": "1999-03-07",
+  "birth_place": "Rivera",
+  "career_transfers": [
+    {
+      "date": "2018-08-30",
+      "type": "€ 1.7M",
+      "team_out": "Boston River",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2026-08-09",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "C.A. Rentistas",
+    "Boston River",
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Liverpool F.C."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "player_id": 652,
+  "full_name": "Fernando Marçal de Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "1989-02-19",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2016-08-18",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Guingamp"
+    },
+    {
+      "date": "2015-08-20",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Gaziantepspor"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Nacional",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Guaratinguetá Futebol",
+    "S.C.U. Torreense",
+    "C.D. Nacional",
+    "Gaziantepspor",
+    "S.L. Benfica",
+    "En Avant de Guingamp",
+    "Olympique Lyonnais",
+    "Wolverhampton Wanderers F.C."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "player_id": 35706,
+  "full_name": "Santiago García",
+  "nationality": "Argentina",
+  "birth_date": "1988-07-08",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-08-31",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Rangers de Talca"
+    },
+    {
+      "date": "2011-07-27",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 1.6M",
+      "team_out": "Rosario Central",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Rosario Central Reserve",
+    "Rosario Central",
+    "Palermo",
+    "Novara",
+    "Palermo",
+    "Rangers de Talca",
+    "SV Werder Bremen",
+    "Rangers de Talca",
+    "SV Werder Bremen",
+    "CD Toluca",
+    "Unión La Calera",
+    "Alianza Lima"
+  ]
+}

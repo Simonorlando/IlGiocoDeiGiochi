@@ -1,0 +1,40 @@
+{
+  "player_id": 11834,
+  "full_name": "Matías Nicolás Rodríguez",
+  "nationality": "Argentina",
+  "birth_date": "1986-04-14",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Universidad de Chile"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Gremio"
+    },
+    {
+      "date": "2013-01-28",
+      "type": "€ 3.1M",
+      "team_out": "Universidad de Chile",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Sociedad Deportiva Aucas",
+    "Barcelona S.C.",
+    "LASK Linz",
+    "Boca Juniors",
+    "Club Nacional de Football",
+    "LASK Linz",
+    "Club Universidad de Chile",
+    "U.C. Sampdoria",
+    "Grêmio FBPA",
+    "Club Universidad de Chile"
+  ]
+}

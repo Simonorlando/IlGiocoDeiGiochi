@@ -1,0 +1,32 @@
+{
+  "player_id": 383267,
+  "full_name": "Tommaso Martinelli",
+  "nationality": "Italy",
+  "birth_date": "2006-01-06",
+  "birth_place": "Bagno a Ripoli",
+  "career_transfers": [
+    {
+      "date": "2026-01-06",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2026-07-09",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sampdoria",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Sampdoria",
+    "Avellino"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1604,
+  "full_name": "Mohamed Mady Camara",
+  "nationality": "Guinea",
+  "birth_date": "1997-02-28",
+  "birth_place": "Matam",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2022-08-31",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C."
+  ]
+}

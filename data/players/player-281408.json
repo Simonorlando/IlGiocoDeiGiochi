@@ -1,0 +1,27 @@
+{
+  "player_id": 281408,
+  "full_name": "Vítor Manuel Carvalho Oliveira",
+  "nationality": "Portugal",
+  "birth_date": "2000-03-15",
+  "birth_place": "Braga",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 16M",
+      "team_out": "Marseille",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga B",
+    "S.C. Braga",
+    "Olympique de Marseille",
+    "Genoa CFC"
+  ]
+}

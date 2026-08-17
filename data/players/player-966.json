@@ -1,0 +1,20 @@
+{
+  "player_id": 966,
+  "full_name": "Sven Bender",
+  "nationality": "Germany",
+  "birth_date": "1989-04-27",
+  "birth_place": "Rosenheim",
+  "career_transfers": [
+    {
+      "date": "2017-07-14",
+      "type": "€ 15M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "TSV 1860 München",
+    "Borussia Dortmund",
+    "Bayer 04 Leverkusen"
+  ]
+}

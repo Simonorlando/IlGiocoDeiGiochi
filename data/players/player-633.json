@@ -1,0 +1,23 @@
+{
+  "player_id": 633,
+  "full_name": "İlkay Gündoğan",
+  "nationality": "Germany",
+  "birth_date": "1990-10-24",
+  "birth_place": "Gelsenkirchen",
+  "career_transfers": [
+    {
+      "date": "2025-09-02",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Nürnberg",
+    "Borussia Dortmund",
+    "Manchester City F.C.",
+    "FC Barcelona",
+    "Manchester City F.C.",
+    "Galatasaray S.K."
+  ]
+}

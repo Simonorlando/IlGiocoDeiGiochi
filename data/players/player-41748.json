@@ -1,0 +1,38 @@
+{
+  "player_id": 41748,
+  "full_name": "Jean Emile Junior Onana Onana",
+  "nationality": "Cameroon",
+  "birth_date": "2000-01-08",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Genoa",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Loan",
+      "team_out": "Besiktas",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Beşiktaş",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "Leixões S.C.",
+    "Beşiktaş J.K. (Football)",
+    "Genoa CFC"
+  ]
+}

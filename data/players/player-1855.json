@@ -1,0 +1,22 @@
+{
+  "player_id": 1855,
+  "full_name": "Senad Lulić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1986-01-18",
+  "birth_place": "Motar",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 3M",
+      "team_out": "BSC Young Boys",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FC Chur 97",
+    "AC Bellinzona",
+    "Grasshopper Club Zürich",
+    "BSC Young Boys",
+    "SS Lazio"
+  ]
+}

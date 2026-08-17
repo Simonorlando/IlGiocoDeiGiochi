@@ -1,0 +1,29 @@
+{
+  "player_id": 368260,
+  "full_name": "Gift Emmanuel Orban",
+  "nationality": "Nigeria",
+  "birth_date": "2002-07-17",
+  "birth_place": "Benue",
+  "career_transfers": [
+    {
+      "date": "2025-08-27",
+      "type": "Loan",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Hellas Verona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "1899 Hoffenheim"
+    }
+  ],
+  "career_clubs": [
+    "Stabæk",
+    "Gent",
+    "Lyon",
+    "TSG Hoffenheim",
+    "Hellas Verona",
+    "Amedspor"
+  ]
+}

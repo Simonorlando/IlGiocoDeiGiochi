@@ -1,0 +1,19 @@
+{
+  "player_id": 455316,
+  "full_name": "Tiago Gabriel Coelho Oliveira",
+  "nationality": "Portugal",
+  "birth_date": "2004-12-26",
+  "birth_place": "Montauban",
+  "career_transfers": [
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Estrela",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Estrela da Amadora",
+    "Lecce"
+  ]
+}

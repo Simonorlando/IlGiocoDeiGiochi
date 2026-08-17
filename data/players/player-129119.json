@@ -1,0 +1,31 @@
+{
+  "player_id": 129119,
+  "full_name": "Ignace Van der Brempt",
+  "nationality": "Belgium",
+  "birth_date": "2002-04-01",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V.",
+    "FC Red Bull Salzburg"
+  ]
+}

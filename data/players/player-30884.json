@@ -1,0 +1,33 @@
+{
+  "player_id": 30884,
+  "full_name": "Ramzi Aya",
+  "nationality": "Italy",
+  "birth_date": "1990-02-08",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2020-08-31",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2020-01-21",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Catania",
+    "Pisa",
+    "Salernitana",
+    "Pisa"
+  ]
+}

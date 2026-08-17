@@ -1,0 +1,36 @@
+{
+  "player_id": 25349,
+  "full_name": "Ondrej Duda",
+  "nationality": "Slovakia",
+  "birth_date": "1994-12-05",
+  "birth_place": "Snina",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 2.7M",
+      "team_out": "1.FC Köln",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-01-29",
+      "type": "Loan",
+      "team_out": "1.FC Köln",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Free agent",
+      "team_out": "Hellas Verona",
+      "team_in": "Al-Ettifaq"
+    }
+  ],
+  "career_clubs": [
+    "FC VSS Košice",
+    "Legia Warsaw",
+    "Hertha BSC",
+    "Norwich City F.C.",
+    "1. FC Köln",
+    "Hellas Verona FC",
+    "Al-Ettifaq FC"
+  ]
+}

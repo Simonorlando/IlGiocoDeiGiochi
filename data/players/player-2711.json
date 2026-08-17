@@ -1,0 +1,33 @@
+{
+  "player_id": 2711,
+  "full_name": "Mehdi Bourabia",
+  "nationality": "Morocco",
+  "birth_date": "1991-08-07",
+  "birth_place": "Dijon",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-30",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Grenoble Foot 38",
+    "PFC Lokomotiv Plovdiv",
+    "PFC Cherno More Varna",
+    "PFC Levski Sofia"
+  ]
+}

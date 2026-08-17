@@ -1,0 +1,26 @@
+{
+  "player_id": 1651,
+  "full_name": "Krzysztof Piątek",
+  "nationality": "Poland",
+  "birth_date": "1995-07-01",
+  "birth_place": "Dzierżoniów",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Hertha BSC",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Zagłębie Lubin",
+    "KS Cracovia",
+    "Genoa CFC",
+    "AC Milan",
+    "Hertha BSC",
+    "ACF Fiorentina",
+    "U.S. Salernitana 1919",
+    "İstanbul Başakşehir F.K.",
+    "Al-Duhail SC"
+  ]
+}

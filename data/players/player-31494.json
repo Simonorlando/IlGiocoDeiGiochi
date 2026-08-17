@@ -1,0 +1,51 @@
+{
+  "player_id": 31494,
+  "full_name": "Ledian Memushaj",
+  "nationality": "Albania",
+  "birth_date": "1986-12-07",
+  "birth_place": "Vlorë",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 200K",
+      "team_out": "Lecce",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2013-07-29",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2012-07-27",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Sarzanese Calcio 1906",
+    "Valle d'Aosta Calcio",
+    "Paganese Calcio 1926",
+    "AC ChievoVerona",
+    "Calcio Portogruaro Summaga",
+    "A.C. Carpi",
+    "US Lecce",
+    "A.C. Carpi",
+    "Delfino Pescara 1936",
+    "Benevento Calcio"
+  ]
+}

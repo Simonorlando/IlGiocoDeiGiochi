@@ -1,0 +1,27 @@
+{
+  "player_id": 19586,
+  "full_name": "Eberechi Oluchi Eze",
+  "nationality": "England",
+  "birth_date": "1998-06-29",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2025-08-23",
+      "type": "Transfer",
+      "team_out": "Crystal Palace",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2025-08-22",
+      "type": "Transfer",
+      "team_out": "Crystal Palace",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Queens Park Rangers F.C.",
+    "Wycombe Wanderers F.C.",
+    "Crystal Palace F.C.",
+    "Arsenal F.C."
+  ]
+}

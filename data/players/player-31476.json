@@ -1,0 +1,36 @@
+{
+  "player_id": 31476,
+  "full_name": "Antonio Balzano",
+  "nationality": "Italy",
+  "birth_date": "1986-06-13",
+  "birth_place": "Bitonto",
+  "career_transfers": [
+    {
+      "date": "2017-08-30",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2014-07-09",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2011-07-15",
+      "type": "Free",
+      "team_out": null,
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "SSC Bari",
+    "Atletico Roma F.C.",
+    "FC Rieti 1936",
+    "Atletico Roma F.C.",
+    "Delfino Pescara 1936",
+    "Cagliari Calcio",
+    "AC Cesena"
+  ]
+}

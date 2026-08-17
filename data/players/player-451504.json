@@ -1,0 +1,25 @@
+{
+  "player_id": 451504,
+  "full_name": "Jeff Ekhator Osayuki",
+  "nationality": "Italy",
+  "birth_date": "2006-11-11",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Genoa",
+    "Juventus"
+  ]
+}

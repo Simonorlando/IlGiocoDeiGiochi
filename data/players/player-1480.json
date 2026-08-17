@@ -1,0 +1,28 @@
+{
+  "player_id": 1480,
+  "full_name": "Jérémy Mathieu",
+  "nationality": "France",
+  "birth_date": "1983-10-29",
+  "birth_place": "Luxeuil-les-Bains",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "€ 20M",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "Free",
+      "team_out": "Toulouse",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "FC Sochaux-Montbéliard",
+    "Toulouse FC",
+    "Valencia CF",
+    "FC Barcelona",
+    "Sporting CP"
+  ]
+}

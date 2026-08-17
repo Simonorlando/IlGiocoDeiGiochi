@@ -1,0 +1,18 @@
+{
+  "player_id": 18748,
+  "full_name": "Pedro António Pereira Gonçalves",
+  "nationality": "Portugal",
+  "birth_date": "1998-06-28",
+  "birth_place": "Chaves",
+  "career_transfers": [
+    {
+      "date": "2020-08-18",
+      "type": "N/A",
+      "team_out": "Famalicao",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF"
+  ]
+}

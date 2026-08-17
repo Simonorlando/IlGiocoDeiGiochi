@@ -1,0 +1,42 @@
+{
+  "player_id": 268341,
+  "full_name": "Federico Gatti",
+  "nationality": "Italy",
+  "birth_date": "1998-06-24",
+  "birth_place": "Rivoli",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-02-01",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "€ 4.5M",
+      "team_out": "Frosinone",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pro Patria",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "US Alessandria Calcio 1912",
+    "A.C.S.D. Saluzzo",
+    "A.S.D.C. Verbania",
+    "Aurora Pro Patria 1919",
+    "Frosinone Calcio",
+    "Juventus FC",
+    "Frosinone Calcio"
+  ]
+}

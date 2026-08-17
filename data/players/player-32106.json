@@ -1,0 +1,39 @@
+{
+  "player_id": 32106,
+  "full_name": "Filippo Porcari",
+  "nationality": "Italy",
+  "birth_date": "1984-04-28",
+  "birth_place": "Fidenza",
+  "career_transfers": [
+    {
+      "date": "2018-07-18",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Piacenza"
+    },
+    {
+      "date": "2017-08-24",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2016-07-12",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Calcio Padova",
+    "AC Milan",
+    "Pisa SC",
+    "Novara Calcio",
+    "U.S. Avellino 1912",
+    "Novara Calcio",
+    "Spezia Calcio",
+    "A.C. Carpi",
+    "SSC Bari"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 30949,
+  "full_name": "Michelangelo Albertazzi",
+  "nationality": "Italy",
+  "birth_date": "1991-01-07",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2018-08-03",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Getafe CF",
+    "Hellas Verona FC",
+    "Varese Calcio",
+    "Hellas Verona FC",
+    "AC Milan",
+    "Hellas Verona FC",
+    "Bologna F.C. 1909",
+    "US Livorno 1915"
+  ]
+}

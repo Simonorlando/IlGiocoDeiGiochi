@@ -1,0 +1,27 @@
+{
+  "player_id": 671,
+  "full_name": "Bertrand Isidore Traoré",
+  "nationality": "Burkina Faso",
+  "birth_date": "1995-09-06",
+  "birth_place": "Bobo-Dioulasso",
+  "career_transfers": [
+    {
+      "date": "2024-07-15",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Free",
+      "team_out": "Aston Villa",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "SBV Vitesse",
+    "Olympique Lyonnais",
+    "Aston Villa F.C."
+  ]
+}

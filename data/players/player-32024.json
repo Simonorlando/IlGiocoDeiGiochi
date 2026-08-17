@@ -1,0 +1,44 @@
+{
+  "player_id": 32024,
+  "full_name": "Daniele Paponi",
+  "nationality": "Italy",
+  "birth_date": "1988-04-16",
+  "birth_place": "Ancona",
+  "career_transfers": [
+    {
+      "date": "2010-07-02",
+      "type": "€ 500K",
+      "team_out": "Parma",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2009-09-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Rimini"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "Rimini FC",
+    "A.C. Perugia Calcio",
+    "Bologna F.C. 1909",
+    "CF Montréal",
+    "SSC Ancona",
+    "Latina Calcio 1932",
+    "ACF Fiorentina"
+  ]
+}

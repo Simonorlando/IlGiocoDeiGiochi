@@ -1,0 +1,27 @@
+{
+  "player_id": 20654,
+  "full_name": "Fabien Centonze",
+  "nationality": "France",
+  "birth_date": "1996-01-16",
+  "birth_place": "Voiron",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Nantes",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Evian Thonon Gaillard F.C.",
+    "Clermont Foot 63",
+    "R.C. Lens",
+    "FC Metz"
+  ]
+}

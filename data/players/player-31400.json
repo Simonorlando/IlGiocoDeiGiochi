@@ -1,0 +1,25 @@
+{
+  "player_id": 31400,
+  "full_name": "Kingsley Dogo Michael",
+  "nationality": "Nigeria",
+  "birth_date": "1999-08-26",
+  "birth_place": "Owerri",
+  "career_transfers": [
+    {
+      "date": "2020-08-02",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "A.C. Perugia Calcio"
+  ]
+}

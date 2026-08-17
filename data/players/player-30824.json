@@ -1,0 +1,39 @@
+{
+  "player_id": 30824,
+  "full_name": "Elio Capradossi",
+  "nationality": "Italy",
+  "birth_date": "1996-03-11",
+  "birth_place": "Kampala",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-20",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2018-07-20",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Spezia Calcio",
+    "SS Lazio",
+    "FC Universitatea Cluj"
+  ]
+}

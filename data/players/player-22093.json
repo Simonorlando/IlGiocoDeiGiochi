@@ -1,0 +1,29 @@
+{
+  "player_id": 22093,
+  "full_name": "Rémy Joseph Cabella",
+  "nationality": "France",
+  "birth_date": "1990-03-08",
+  "birth_place": "Ajaccio",
+  "career_transfers": [
+    {
+      "date": "2022-07-10",
+      "type": "Free",
+      "team_out": "Montpellier",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Lille",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Montpellier Hérault Sport Club",
+    "AC Arles",
+    "Newcastle United F.C.",
+    "Olympique de Marseille",
+    "AS Saint-Étienne",
+    "FC Krasnodar"
+  ]
+}

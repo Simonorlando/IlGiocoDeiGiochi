@@ -1,0 +1,28 @@
+{
+  "player_id": 123476,
+  "full_name": "Filip Stojilković",
+  "nationality": "Switzerland",
+  "birth_date": "2000-01-04",
+  "birth_place": "Zollikon",
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Cracovia Krakow",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Cracovia Krakow",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "FC Wil 1900",
+    "FC Sion",
+    "FC Aarau",
+    "SV Darmstadt 98",
+    "1. FC Kaiserslautern"
+  ]
+}

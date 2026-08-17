@@ -1,0 +1,26 @@
+{
+  "player_id": 15811,
+  "full_name": "Artem Dovbyk",
+  "nationality": "Ukraine",
+  "birth_date": "1997-06-21",
+  "birth_place": "Cherkasy",
+  "career_transfers": [
+    {
+      "date": "2026-07-29",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "FC Cherkashchyna",
+    "FC Dnipro",
+    "FC Bălți",
+    "FC Midtjylland",
+    "Sønderjyske Fodbold",
+    "SC Dnipro-1",
+    "Girona FC",
+    "AS Roma",
+    "Bologna F.C. 1909"
+  ]
+}

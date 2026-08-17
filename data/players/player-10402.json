@@ -1,0 +1,23 @@
+{
+  "player_id": 10402,
+  "full_name": "Nicolás Federico López Alonso",
+  "nationality": "Uruguay",
+  "birth_date": "1993-10-01",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2014-08-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Club Nacional de Football",
+    "AS Roma",
+    "Udinese Calcio",
+    "Hellas Verona FC",
+    "Granada CF",
+    "Club Nacional de Football"
+  ]
+}

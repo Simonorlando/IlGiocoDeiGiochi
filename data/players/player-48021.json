@@ -1,0 +1,30 @@
+{
+  "player_id": 48021,
+  "full_name": "John Erik Gunnar Friberg",
+  "nationality": "Sweden",
+  "birth_date": "1986-02-10",
+  "birth_place": "Göteborg",
+  "career_transfers": [
+    {
+      "date": "2015-01-03",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Esbjerg"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "N/A",
+      "team_out": "Malmo FF",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "BK Häcken",
+    "Seattle Sounders FC",
+    "Malmö FF",
+    "Bologna",
+    "Esbjerg FB",
+    "Seattle Sounders FC",
+    "BK Häcken"
+  ]
+}

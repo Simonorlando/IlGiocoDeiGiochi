@@ -1,0 +1,65 @@
+{
+  "player_id": 15666,
+  "full_name": "Charles Melker Otto Hallberg",
+  "nationality": "Sweden",
+  "birth_date": "1995-10-20",
+  "birth_place": "Ljungbyholm",
+  "career_transfers": [
+    {
+      "date": "2018-07-25",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Vejle"
+    },
+    {
+      "date": "2018-07-25",
+      "type": "N/A",
+      "team_out": "Kalmar FF",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2018-01-08",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Kalmar FF"
+    },
+    {
+      "date": "2017-01-27",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Kalmar FF"
+    },
+    {
+      "date": "2016-07-16",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2016-01-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Hammarby FF"
+    },
+    {
+      "date": "2015-08-06",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Valerenga"
+    },
+    {
+      "date": "2014-08-08",
+      "type": "N/A",
+      "team_out": "Kalmar FF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Kalmar FF",
+    "Udinese Calcio",
+    "Vålerenga Fotball",
+    "Hammarby Fotboll",
+    "Ascoli Calcio 1898 FC",
+    "Kalmar FF"
+  ]
+}

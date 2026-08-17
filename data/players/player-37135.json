@@ -1,0 +1,25 @@
+{
+  "player_id": 37135,
+  "full_name": "Tim Matavž",
+  "nationality": "Slovenia",
+  "birth_date": "1989-01-13",
+  "birth_place": "Šempeter pri Gorici",
+  "career_transfers": [
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "FC Augsburg",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "ND Gorica",
+    "FC Groningen",
+    "FC Emmen",
+    "PSV Eindhoven",
+    "Jong PSV",
+    "FC Augsburg",
+    "Genoa CFC",
+    "1. FC Nürnberg"
+  ]
+}

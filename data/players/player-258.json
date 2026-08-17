@@ -1,0 +1,36 @@
+{
+  "player_id": 258,
+  "full_name": "Juan Bernat Velasco",
+  "nationality": "Spain",
+  "birth_date": "1993-03-01",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Free Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Free Transfer",
+      "team_out": "Villarreal",
+      "team_in": "Getafe"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "FC Bayern Munich",
+    "Paris Saint-Germain FC",
+    "S.L. Benfica",
+    "Villarreal CF",
+    "Getafe CF"
+  ]
+}

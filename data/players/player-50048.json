@@ -1,0 +1,39 @@
+{
+  "player_id": 50048,
+  "full_name": "Vedat Muriqi",
+  "nationality": "Kosovo",
+  "birth_date": "1994-04-24",
+  "birth_place": "Prizren",
+  "career_transfers": [
+    {
+      "date": "2022-07-22",
+      "type": "€ 7.5M",
+      "team_out": "Lazio",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2020-09-15",
+      "type": "N/A",
+      "team_out": "Fenerbahce",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "KF Liria",
+    "KF Teuta Durrës",
+    "KF Besa Kavajë",
+    "Giresunspor",
+    "Gençlerbirliği S.K.",
+    "Çaykur Rizespor",
+    "Fenerbahçe Istanbul",
+    "SS Lazio",
+    "RCD Mallorca",
+    "Fenerbahçe Istanbul"
+  ]
+}

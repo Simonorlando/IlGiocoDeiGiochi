@@ -1,0 +1,41 @@
+{
+  "player_id": 31031,
+  "full_name": "Roberto Inglese",
+  "nationality": "Italy",
+  "birth_date": "1991-11-12",
+  "birth_place": "Lucera",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Lecco"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 18M",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2018-08-14",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "F.C.D. Pro Vasto",
+    "AC ChievoVerona",
+    "A.C. Lumezzane",
+    "A.C. Carpi",
+    "Delfino Pescara 1936",
+    "SSC Napoli"
+  ]
+}

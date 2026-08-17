@@ -1,0 +1,29 @@
+{
+  "player_id": 31369,
+  "full_name": "Andrea Schiavone",
+  "nationality": "Italy",
+  "birth_date": "1993-02-25",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2019-07-24",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2018-07-11",
+      "type": "Free",
+      "team_out": "Cesena",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Siena FC",
+    "Modena F.C.",
+    "Juventus FC",
+    "US Livorno 1915",
+    "AC Cesena"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 576,
+  "full_name": "Eduardo Antonio Salvio",
+  "nationality": "Argentina",
+  "birth_date": "1990-07-13",
+  "birth_place": "Avellaneda",
+  "career_transfers": [
+    {
+      "date": "2012-07-31",
+      "type": "€ 11M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Lanús",
+    "S.L. Benfica",
+    "Atlético Madrid",
+    "S.L. Benfica",
+    "Boca Juniors",
+    "Pumas UNAM",
+    "Club Atlético Lanús"
+  ]
+}

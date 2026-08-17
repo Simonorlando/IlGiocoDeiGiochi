@@ -1,0 +1,24 @@
+{
+  "player_id": 30560,
+  "full_name": "Luca Cigarini",
+  "nationality": "Italy",
+  "birth_date": "1986-06-20",
+  "birth_place": "Montecchi Emilia",
+  "career_transfers": [
+    {
+      "date": "2010-08-05",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "S.S. Sambenedettese Calcio",
+    "Atalanta BC",
+    "SSC Napoli",
+    "Sevilla FC",
+    "Atalanta BC",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 98019,
+  "full_name": "Kris Commons",
+  "nationality": "Scotland",
+  "birth_date": "1983-08-30",
+  "birth_place": "Nottingham",
+  "career_transfers": [
+    {
+      "date": "2017-01-16",
+      "type": "N/A",
+      "team_out": "Hibernian",
+      "team_in": "Celtic"
+    },
+    {
+      "date": "2016-12-16",
+      "type": "Loan",
+      "team_out": "Celtic",
+      "team_in": "Hibernian"
+    }
+  ],
+  "career_clubs": [
+    "Stoke City F.C.",
+    "Nottingham Forest F.C.",
+    "Derby County F.C.",
+    "Celtic F.C."
+  ]
+}

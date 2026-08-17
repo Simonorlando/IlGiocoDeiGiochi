@@ -1,0 +1,32 @@
+{
+  "player_id": 30491,
+  "full_name": "Federico Javier Santander Mereles",
+  "nationality": "Paraguay",
+  "birth_date": "1991-06-04",
+  "birth_place": "San Lorenzo",
+  "career_transfers": [
+    {
+      "date": "2022-08-02",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 5.4M",
+      "team_out": "FC Copenhagen",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Club Guaraní",
+    "Toulouse FC",
+    "Racing Club",
+    "Club Atlético Tigre",
+    "Racing Club",
+    "F.C. Copenhagen",
+    "Bologna F.C. 1909",
+    "AS Reggina 1914",
+    "Club Nacional de Football"
+  ]
+}

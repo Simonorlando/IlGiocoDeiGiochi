@@ -1,0 +1,28 @@
+{
+  "player_id": 91446,
+  "full_name": "Djamel Eddine Mesbah",
+  "nationality": "Algeria",
+  "birth_date": "1984-10-09",
+  "birth_place": "Zighoud Youcef",
+  "career_transfers": [
+    {
+      "date": "2012-01-18",
+      "type": "€ 550K",
+      "team_out": "Lecce",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Servette FC",
+    "FC Basel",
+    "FC Aarau",
+    "F.C. Lorient",
+    "FC Luzern",
+    "U.S. Avellino 1912",
+    "US Lecce",
+    "AC Milan",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "US Livorno 1915"
+  ]
+}

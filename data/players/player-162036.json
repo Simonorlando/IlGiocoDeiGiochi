@@ -1,0 +1,31 @@
+{
+  "player_id": 162036,
+  "full_name": "Marvin Çuni",
+  "nationality": "Albania",
+  "birth_date": "2001-07-10",
+  "birth_place": "Freising",
+  "career_transfers": [
+    {
+      "date": "2023-07-06",
+      "type": "€ 1M",
+      "team_out": "Bayern München",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2024-09-11",
+      "type": "€ 2M",
+      "team_out": "Frosinone",
+      "team_in": "Rubin"
+    }
+  ],
+  "career_clubs": [
+    "Sonnenhof Großaspach",
+    "SC Paderborn",
+    "1. FC Saarbrücken",
+    "Frosinone",
+    "Rubin Kazan",
+    "Sampdoria",
+    "Bari",
+    "Olimpija Ljubljana"
+  ]
+}

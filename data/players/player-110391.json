@@ -1,0 +1,33 @@
+{
+  "player_id": 110391,
+  "full_name": "Diego Forlán Corazo",
+  "nationality": "Uruguay",
+  "birth_date": "1979-05-19",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "21M €",
+      "team_out": "Villarreal",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2004-08-21",
+      "type": "3.2M €",
+      "team_out": "Manchester United",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Independiente",
+    "Manchester United F.C.",
+    "Villarreal CF",
+    "Atlético Madrid",
+    "Inter Milan",
+    "S.C. Internacional",
+    "Cerezo Osaka",
+    "Club Atlético Peñarol",
+    "Mumbai City FC",
+    "Kitchee SC"
+  ]
+}

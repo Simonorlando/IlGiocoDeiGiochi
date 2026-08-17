@@ -1,0 +1,30 @@
+{
+  "player_id": 31543,
+  "full_name": "Antonino Gallo",
+  "nationality": "Italy",
+  "birth_date": "2000-01-05",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Virtus Francavilla",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2020-01-21",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Virtus Francavilla"
+    },
+    {
+      "date": "2019-07-25",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 31151,
+  "full_name": "Alfredo Donnarumma",
+  "nationality": "Italy",
+  "birth_date": "1990-11-30",
+  "birth_place": "Torre Annunziata",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2012-07-12",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Catania FC",
+    "A.S. Gubbio 1910",
+    "Como 1907",
+    "Lanciano Calcio 1920",
+    "Associazione Sportiva Cittadella",
+    "Delfino Pescara 1936",
+    "S.S. Teramo Calcio",
+    "U.S. Salernitana 1919",
+    "Brescia Calcio",
+    "Empoli FC"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 47269,
+  "full_name": "Alejandro Remiro Gargallo",
+  "nationality": "Spain",
+  "birth_date": "1995-03-24",
+  "birth_place": "Cascante",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Athletic Club",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Athletic Club",
+    "Levante UD",
+    "Sociedad Deportiva Huesca",
+    "Real Sociedad",
+    "CD Aluvión"
+  ]
+}

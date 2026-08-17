@@ -1,0 +1,27 @@
+{
+  "player_id": 18908,
+  "full_name": "Charles Joseph John Hart",
+  "nationality": "England",
+  "birth_date": "1987-04-19",
+  "birth_place": "Shrewsbury",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Shrewsbury Town F.C.",
+    "Manchester City F.C.",
+    "Tranmere Rovers F.C.",
+    "Blackpool F.C.",
+    "Birmingham City F.C.",
+    "Torino FC",
+    "West Ham United F.C.",
+    "Burnley F.C.",
+    "Tottenham Hotspur F.C.",
+    "Celtic F.C."
+  ]
+}

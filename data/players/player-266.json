@@ -1,0 +1,31 @@
+{
+  "player_id": 266,
+  "full_name": "Ángel Fabián Di María Hernández",
+  "nationality": "Argentina",
+  "birth_date": "1988-02-14",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2014-08-26",
+      "type": "€ 75M",
+      "team_out": "Real Madrid",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 25M",
+      "team_out": "Benfica",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "S.L. Benfica",
+    "Real Madrid Club de Fútbol",
+    "Manchester United F.C.",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "S.L. Benfica",
+    "Club Atlético Rosario Central"
+  ]
+}

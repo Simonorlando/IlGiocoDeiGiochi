@@ -1,0 +1,26 @@
+{
+  "player_id": 2729,
+  "full_name": "Joachim Christian Andersen",
+  "nationality": "Denmark",
+  "birth_date": "1996-05-31",
+  "birth_place": "Frederiksberg",
+  "career_transfers": [
+    {
+      "date": "2019-07-12",
+      "type": "€ 26M",
+      "team_out": "Sampdoria",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2017-08-25",
+      "type": "€ 1.5M",
+      "team_out": "Twente",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Jong FC Twente",
+    "FC Twente",
+    "U.C. Sampdoria"
+  ]
+}

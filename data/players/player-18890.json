@@ -1,0 +1,35 @@
+{
+  "player_id": 18890,
+  "full_name": "Antonio Barreca",
+  "nationality": "Italy",
+  "birth_date": "1995-03-18",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Torino",
+    "Cittadella",
+    "Cagliari",
+    "Monaco",
+    "Newcastle United",
+    "Genoa",
+    "Fiorentina",
+    "Lecce",
+    "Cagliari",
+    "Sampdoria",
+    "Südtirol",
+    "Padova"
+  ]
+}

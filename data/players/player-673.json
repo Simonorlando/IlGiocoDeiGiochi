@@ -1,0 +1,22 @@
+{
+  "player_id": 673,
+  "full_name": "Andrii Pyatov",
+  "nationality": "Ukraine",
+  "birth_date": "1984-06-28",
+  "birth_place": "Kirovohrad",
+  "career_transfers": [
+    {
+      "date": "2020-08-26",
+      "type": null,
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Hirnyk"
+    }
+  ],
+  "career_clubs": [
+    "Vorskla Poltava U21",
+    "Vorskla Poltava",
+    "Shakhtar Donetsk",
+    "Vorskla Poltava",
+    "Shakhtar Donetsk"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 156490,
+  "full_name": "Niels Patrick Nkounkou",
+  "nationality": "France",
+  "birth_date": "2000-11-01",
+  "birth_place": "Pontoise",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Torino",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "Everton",
+    "Standard Liège",
+    "Cardiff City",
+    "Saint-Étienne",
+    "Eintracht Frankfurt",
+    "Torino"
+  ]
+}

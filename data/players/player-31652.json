@@ -1,0 +1,31 @@
+{
+  "player_id": 31652,
+  "full_name": "Oliver Kragl",
+  "nationality": "Germany",
+  "birth_date": "1990-05-12",
+  "birth_place": "Wolfsburg",
+  "career_transfers": [
+    {
+      "date": "2017-07-04",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2016-01-04",
+      "type": "N/A",
+      "team_out": "Ried",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Eintracht Braunschweig",
+    "VfB Germania Halberstadt",
+    "SV Babelsberg 03",
+    "SV Ried",
+    "Frosinone Calcio",
+    "F.C. Crotone",
+    "VfL Wolfsburg",
+    "Calcio Foggia 1920"
+  ]
+}

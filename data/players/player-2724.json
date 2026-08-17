@@ -1,0 +1,30 @@
+{
+  "player_id": 2724,
+  "full_name": "Lucas Digne",
+  "nationality": "France",
+  "birth_date": "1993-07-20",
+  "birth_place": "Meaux",
+  "career_transfers": [
+    {
+      "date": "2018-08-01",
+      "type": "€ 20M",
+      "team_out": "Barcelona",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2016-07-15",
+      "type": "€ 16.5M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Paris Saint-Germain FC",
+    "AS Roma",
+    "FC Barcelona",
+    "Everton F.C.",
+    "Aston Villa F.C.",
+    "Paris Saint-Germain FC"
+  ]
+}

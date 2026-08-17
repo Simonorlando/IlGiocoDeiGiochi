@@ -1,0 +1,36 @@
+{
+  "player_id": 31678,
+  "full_name": "Jean-Daniel Dave Lewis Akpa Akpro",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1992-10-11",
+  "birth_place": "Toulouse",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-08-26",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2025-01-02",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC"
+  ]
+}

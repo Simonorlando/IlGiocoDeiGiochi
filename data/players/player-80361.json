@@ -1,0 +1,37 @@
+{
+  "player_id": 80361,
+  "full_name": "Michel Fernandes Bastos",
+  "nationality": "Brazil",
+  "birth_date": "1983-08-02",
+  "birth_place": "Pelotas",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Al Ain"
+    },
+    {
+      "date": "2014-01-20",
+      "type": "Loan",
+      "team_out": "Al Ain",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "Excelsior Rotterdam",
+    "Club Athletico Paranaense",
+    "Grêmio FBPA",
+    "Figueirense Futebol Clube",
+    "Lille OSC",
+    "Olympique Lyonnais",
+    "Schalke 04",
+    "Al Ain FC",
+    "AS Roma",
+    "São Paulo FC",
+    "Sociedade Esportiva Palmeiras",
+    "Sport Club do Recife",
+    "América Futebol Clube"
+  ]
+}

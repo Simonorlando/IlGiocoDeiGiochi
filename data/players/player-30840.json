@@ -1,0 +1,42 @@
+{
+  "player_id": 30840,
+  "full_name": "Luca Vignali",
+  "nationality": "Italy",
+  "birth_date": "1996-01-11",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2024-01-09",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2022-08-19",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Como"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio"
+  ]
+}

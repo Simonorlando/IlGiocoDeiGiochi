@@ -1,0 +1,24 @@
+{
+  "player_id": 1626,
+  "full_name": "Ignazio Abate",
+  "nationality": "Italy",
+  "birth_date": "1986-11-12",
+  "birth_place": "Sant'Agata de' Goti",
+  "career_transfers": [
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "SSC Napoli",
+    "Piacenza Calcio",
+    "Modena F.C.",
+    "Empoli FC",
+    "Torino FC",
+    "AC Milan"
+  ]
+}

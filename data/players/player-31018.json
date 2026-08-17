@@ -1,0 +1,50 @@
+{
+  "player_id": 31018,
+  "full_name": "Jonathan Ludovic Biabiany",
+  "nationality": "France",
+  "birth_date": "1988-04-28",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2018-08-07",
+      "type": "€ 1.5M",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2015-07-10",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2012-07-05",
+      "type": "€ 3.5M",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2010-06-26",
+      "type": "€ 4.5M",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona",
+    "Inter Milan",
+    "AC ChievoVerona",
+    "Modena F.C.",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "Parma Calcio 1913",
+    "Inter Milan",
+    "AC Milan"
+  ]
+}

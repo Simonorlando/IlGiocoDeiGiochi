@@ -1,0 +1,34 @@
+{
+  "player_id": 91343,
+  "full_name": "Ivan Pelizzoli",
+  "nationality": "Italy",
+  "birth_date": "1980-11-18",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "N/A",
+      "team_out": "Padova",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "US Triestina Calcio 1918",
+    "AS Roma",
+    "AS Reggina 1914",
+    "FC Lokomotiv Moscow",
+    "U.C. AlbinoLeffe",
+    "Cagliari Calcio",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "Virtus Entella",
+    "Vicenza Calcio"
+  ]
+}

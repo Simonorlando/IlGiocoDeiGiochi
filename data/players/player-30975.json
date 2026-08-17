@@ -1,0 +1,19 @@
+{
+  "player_id": 30975,
+  "full_name": "Marco Festa",
+  "nationality": "Italy",
+  "birth_date": "1992-06-06",
+  "birth_place": "Montichiari",
+  "career_transfers": [
+    {
+      "date": "2026-07-23",
+      "type": "Free agent",
+      "team_out": "Mantova",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Mantova 1911",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

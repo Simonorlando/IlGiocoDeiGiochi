@@ -1,0 +1,43 @@
+{
+  "player_id": 87078,
+  "full_name": "Rod Fanni",
+  "nationality": "France",
+  "birth_date": "1981-12-06",
+  "birth_place": "Martigues",
+  "career_transfers": [
+    {
+      "date": "2018-03-05",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "Montreal Impact"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "N/A",
+      "team_out": "Al-Arabi SC",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Marseille",
+      "team_in": "Al-Arabi SC"
+    },
+    {
+      "date": "2010-12-13",
+      "type": "€ 4M",
+      "team_out": "Rennes",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "FC Martigues",
+    "R.C. Lens",
+    "LB Châteauroux",
+    "OGC Nice",
+    "Stade Rennais F.C.",
+    "Olympique de Marseille",
+    "Al-Arabi SC",
+    "Charlton Athletic F.C."
+  ]
+}

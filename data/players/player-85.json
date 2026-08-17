@@ -1,0 +1,24 @@
+{
+  "player_id": 85,
+  "full_name": "Cyril Ngonge",
+  "nationality": "Belgium",
+  "birth_date": "2000-05-26",
+  "birth_place": "Ukkel",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Club Brugge KV",
+      "team_in": "Waalwijk"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V."
+  ]
+}

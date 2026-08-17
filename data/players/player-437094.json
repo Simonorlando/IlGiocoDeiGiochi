@@ -1,0 +1,19 @@
+{
+  "player_id": 437094,
+  "full_name": "Riccardo Braschi",
+  "nationality": "Italy",
+  "birth_date": "2006-08-24",
+  "birth_place": "Firenze",
+  "career_transfers": [
+    {
+      "date": "2025-06-30",
+      "type": "Raise",
+      "team_out": "Fiorentina",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Thun"
+  ]
+}

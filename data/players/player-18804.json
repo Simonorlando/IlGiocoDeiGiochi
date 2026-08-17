@@ -1,0 +1,24 @@
+{
+  "player_id": 18804,
+  "full_name": "Thomas William Cleverley",
+  "nationality": "England",
+  "birth_date": "1989-08-12",
+  "birth_place": "Basingstoke",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Leicester City F.C.",
+    "Watford F.C.",
+    "Wigan Athletic F.C.",
+    "Aston Villa F.C.",
+    "Everton F.C.",
+    "Watford F.C."
+  ]
+}

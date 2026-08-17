@@ -1,0 +1,31 @@
+{
+  "player_id": 31071,
+  "full_name": "Nicolò Brighenti",
+  "nationality": "Italy",
+  "birth_date": "1989-08-01",
+  "birth_place": "Bussolengo",
+  "career_transfers": [
+    {
+      "date": "2022-07-16",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Catanzaro"
+    },
+    {
+      "date": "2016-07-29",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona",
+    "A.C. Mezzocorona",
+    "U.S. Pergolettese 1932",
+    "US Triestina Calcio 1918",
+    "Viareggio Calcio",
+    "Vicenza Calcio",
+    "AC ChievoVerona",
+    "Vicenza Calcio"
+  ]
+}

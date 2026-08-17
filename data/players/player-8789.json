@@ -1,0 +1,44 @@
+{
+  "player_id": 8789,
+  "full_name": "Kamal Deen Sowah",
+  "nationality": "Ghana",
+  "birth_date": "2000-01-09",
+  "birth_place": "Sabon Zango",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Standard Liege",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2023-09-06",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "AZ Alkmaar"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Free Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "NAC Breda"
+    }
+  ],
+  "career_clubs": [
+    "Leicester City F.C.",
+    "Oud-Heverlee Leuven",
+    "AZ Alkmaar"
+  ]
+}

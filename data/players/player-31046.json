@@ -1,0 +1,24 @@
+{
+  "player_id": 31046,
+  "full_name": "Manuel Pasqual",
+  "nationality": "Italy",
+  "birth_date": "1982-03-13",
+  "birth_place": "San Donà del Piave",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "ASD Derthona FBC 1908",
+    "Pordenone FC",
+    "Treviso F.B.C. 1993",
+    "S.S. Arezzo",
+    "ACF Fiorentina",
+    "Empoli FC",
+    "AS Reggina 1914"
+  ]
+}

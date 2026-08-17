@@ -1,0 +1,56 @@
+{
+  "player_id": 205,
+  "full_name": "Radja Nainggolan",
+  "nationality": "Belgium",
+  "birth_date": "1988-05-04",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2021-08-14",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Antwerp"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2021-01-04",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2019-08-05",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 38M",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Cagliari Calcio",
+    "AS Roma",
+    "Inter Milan",
+    "Cagliari Calcio",
+    "Royal Antwerp F.C.",
+    "SPAL",
+    "Bhayangkara F.C.",
+    "Stallions"
+  ]
+}

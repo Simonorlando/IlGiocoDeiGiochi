@@ -1,0 +1,33 @@
+{
+  "player_id": 2063,
+  "full_name": "André Miguel Valente da Silva",
+  "nationality": "Portugal",
+  "birth_date": "1995-11-06",
+  "birth_place": "Gondomar",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2023-08-02",
+      "type": "Loan",
+      "team_out": "RB Leipzig",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "AC Milan",
+    "Sevilla FC",
+    "Eintracht Frankfurt",
+    "RB Leipzig",
+    "Real Sociedad",
+    "SV Werder Bremen",
+    "Elche CF",
+    "FC Porto"
+  ]
+}

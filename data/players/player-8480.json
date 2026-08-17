@@ -1,0 +1,39 @@
+{
+  "player_id": 8480,
+  "full_name": "Renato Cardoso Porto Neto",
+  "nationality": "Brazil",
+  "birth_date": "1991-09-27",
+  "birth_place": "Camacan",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Gent",
+      "team_in": "Oostende"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "Sporting CP",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Gent"
+    },
+    {
+      "date": "2013-01-01",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Cercle Brugge K.S.V.",
+    "Fehérvár FC",
+    "KAA Gent"
+  ]
+}

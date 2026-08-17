@@ -1,0 +1,41 @@
+{
+  "player_id": 1219,
+  "full_name": "Oleg Shatov",
+  "nationality": "Russia",
+  "birth_date": "1990-07-29",
+  "birth_place": "Nizhniy Tagil",
+  "career_transfers": [
+    {
+      "date": "2020-07-29",
+      "type": "Free",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Krasnodar",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2018-02-08",
+      "type": "Loan",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Krasnodar"
+    },
+    {
+      "date": "2013-08-14",
+      "type": "€ 7M",
+      "team_out": "Anzhi",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Ural Yekaterinburg",
+    "FC Anzhi Makhachkala",
+    "FC Zenit Saint Petersburg",
+    "FC Krasnodar",
+    "Rubin Kazan",
+    "FC Ural Yekaterinburg"
+  ]
+}

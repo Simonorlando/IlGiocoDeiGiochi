@@ -1,0 +1,26 @@
+{
+  "player_id": 323936,
+  "full_name": "Matías Soulé Malvano",
+  "nationality": "Argentina",
+  "birth_date": "2003-04-15",
+  "birth_place": "Mar del Plata",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2023-08-28",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Juventus",
+    "Frosinone",
+    "Roma"
+  ]
+}

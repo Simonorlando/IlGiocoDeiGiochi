@@ -1,0 +1,45 @@
+{
+  "player_id": 31226,
+  "full_name": "Alessandro Buongiorno",
+  "nationality": "Italy",
+  "birth_date": "1999-06-06",
+  "birth_place": "Turin",
+  "career_transfers": [
+    {
+      "date": "2024-07-13",
+      "type": "€ 35M",
+      "team_out": "Torino",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2020-08-02",
+      "type": "N/A",
+      "team_out": "Trapani",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2020-01-11",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Trapani"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2018-08-10",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "A.C. Carpi",
+    "F.C. Trapani 1905",
+    "SSC Napoli"
+  ]
+}

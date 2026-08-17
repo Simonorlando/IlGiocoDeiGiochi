@@ -1,0 +1,43 @@
+{
+  "player_id": 15912,
+  "full_name": "Victor Enok Nelsson",
+  "nationality": "Denmark",
+  "birth_date": "1998-10-14",
+  "birth_place": "Hornbæk",
+  "career_transfers": [
+    {
+      "date": "2021-08-11",
+      "type": "€ 7M",
+      "team_out": "FC Copenhagen",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "AS Roma",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-08-21",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Hellas Verona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen",
+    "FC Nordsjælland"
+  ]
+}

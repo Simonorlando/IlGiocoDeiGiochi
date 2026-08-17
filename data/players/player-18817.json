@@ -1,0 +1,28 @@
+{
+  "player_id": 18817,
+  "full_name": "Angelo Obinze Ogbonna",
+  "nationality": "Italy",
+  "birth_date": "1988-05-23",
+  "birth_place": "Cassino",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "€ 13M",
+      "team_out": "Torino",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "F.C. Crotone",
+    "Juventus FC",
+    "West Ham United F.C.",
+    "Watford F.C."
+  ]
+}

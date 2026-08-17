@@ -1,0 +1,27 @@
+{
+  "player_id": 16367,
+  "full_name": "Willian Joel Pacho Tenorio",
+  "nationality": "Ecuador",
+  "birth_date": "2001-10-16",
+  "birth_place": "Quinindé",
+  "career_transfers": [
+    {
+      "date": "2024-08-09",
+      "type": "€ 40M",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 9M",
+      "team_out": "Antwerp",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "Independiente del Valle",
+    "Royal Antwerp F.C.",
+    "Eintracht Frankfurt",
+    "Paris Saint-Germain FC"
+  ]
+}

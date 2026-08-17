@@ -1,0 +1,25 @@
+{
+  "player_id": 31234,
+  "full_name": "Emanuele Suagher",
+  "nationality": "Italy",
+  "birth_date": "1992-11-26",
+  "birth_place": "Romano",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Tritium Calcio 1908",
+    "Pisa SC",
+    "F.C. Crotone",
+    "A.C. Carpi",
+    "Atalanta BC",
+    "A.C. Carpi",
+    "AC Cesena"
+  ]
+}

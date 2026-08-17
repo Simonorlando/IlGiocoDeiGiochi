@@ -1,0 +1,40 @@
+{
+  "player_id": 13790,
+  "full_name": "Brayan Andrés Perea Vargas",
+  "nationality": "Colombia",
+  "birth_date": "1993-02-25",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2015-08-13",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Estac Troyes"
+    },
+    {
+      "date": "2015-01-27",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2014-08-29",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Deportivo Cali",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Cali",
+    "SS Lazio",
+    "A.C. Perugia Calcio",
+    "ES Troyes AC",
+    "SS Lazio"
+  ]
+}

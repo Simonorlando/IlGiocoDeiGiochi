@@ -1,0 +1,31 @@
+{
+  "player_id": 2929,
+  "full_name": "Thorgan Ganael Francis Hazard",
+  "nationality": "Belgium",
+  "birth_date": "1993-03-29",
+  "birth_place": "La Louvière",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Chelsea F.C.",
+    "S.V. Zulte Waregem",
+    "Borussia Mönchengladbach",
+    "Borussia Dortmund",
+    "PSV Eindhoven",
+    "R.S.C. Anderlecht",
+    "R.C. Lens"
+  ]
+}

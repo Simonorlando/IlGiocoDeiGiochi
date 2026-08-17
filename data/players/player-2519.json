@@ -1,0 +1,30 @@
+{
+  "player_id": 2519,
+  "full_name": "Derlis Alberto González Galeano",
+  "nationality": "Paraguay",
+  "birth_date": "1994-03-20",
+  "birth_place": "Mariano Roque Alonso",
+  "career_transfers": [
+    {
+      "date": "2018-08-01",
+      "type": "Loan",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2015-07-30",
+      "type": "€ 9.4M",
+      "team_out": "FC Basel 1893",
+      "team_in": "Dynamo Kyiv"
+    }
+  ],
+  "career_clubs": [
+    "Club Rubio Ñu",
+    "S.L. Benfica",
+    "S.L. Benfica B",
+    "Club Guaraní",
+    "Club Olimpia",
+    "FC Basel",
+    "FC Dynamo Kyiv"
+  ]
+}

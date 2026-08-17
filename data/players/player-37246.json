@@ -1,0 +1,26 @@
+{
+  "player_id": 37246,
+  "full_name": "Janis Jonathan Blaswich",
+  "nationality": "Germany",
+  "birth_date": "1991-05-02",
+  "birth_place": "Willich",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Loan",
+      "team_out": "RB Leipzig",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-06-01",
+      "type": "Back from Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "Dynamo Dresden",
+    "Heracles Almelo"
+  ]
+}

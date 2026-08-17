@@ -1,0 +1,38 @@
+{
+  "player_id": 115384,
+  "full_name": "José Fernando Marqués Martín",
+  "nationality": "Spain",
+  "birth_date": "1984-12-04",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Iraklis"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "Free",
+      "team_out": "Racing Santander",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Rayo Vallecano B",
+    "Rayo Vallecano",
+    "Racing de Santander",
+    "Atlético Madrid B",
+    "CD Castellón",
+    "Atlético Madrid",
+    "Atlético Madrid B",
+    "G.S. Iraklis Thessalonikis (men's association football)",
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "RCD Espanyol de Barcelona",
+    "Parma Calcio 1913",
+    "Terrassa FC",
+    "Club Deportivo Guadalajara",
+    "New York Cosmos"
+  ]
+}

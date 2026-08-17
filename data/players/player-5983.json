@@ -1,0 +1,34 @@
+{
+  "player_id": 5983,
+  "full_name": "Mauro Matías Zárate Riga",
+  "nationality": "Argentina",
+  "birth_date": "1987-03-18",
+  "birth_place": "Haedo",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "Al Sadd Sports Club",
+    "Birmingham City F.C.",
+    "SS Lazio",
+    "Inter Milan",
+    "Club Atlético Vélez Sarsfield",
+    "West Ham United F.C.",
+    "Queens Park Rangers F.C.",
+    "ACF Fiorentina",
+    "Club Atlético Platense",
+    "The Strongest"
+  ]
+}

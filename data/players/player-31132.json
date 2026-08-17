@@ -1,0 +1,25 @@
+{
+  "player_id": 31132,
+  "full_name": "Daniele Gastaldello",
+  "nationality": "Italy",
+  "birth_date": "1983-06-25",
+  "birth_place": "Camposampiero",
+  "career_transfers": [
+    {
+      "date": "2017-08-25",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "Juventus FC",
+    "AC ChievoVerona",
+    "F.C. Crotone",
+    "Siena FC",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909",
+    "Brescia Calcio"
+  ]
+}

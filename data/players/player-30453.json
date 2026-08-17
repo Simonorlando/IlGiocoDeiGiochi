@@ -1,0 +1,34 @@
+{
+  "player_id": 30453,
+  "full_name": "Jakub Jankto",
+  "nationality": "Czech Republic",
+  "birth_date": "1996-01-19",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2021-08-20",
+      "type": "€ 6M",
+      "team_out": "Sampdoria",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 15M",
+      "team_out": "Udinese",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2018-07-06",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "Ascoli Calcio 1898 FC",
+    "U.C. Sampdoria",
+    "Getafe CF",
+    "AC Sparta Prague"
+  ]
+}

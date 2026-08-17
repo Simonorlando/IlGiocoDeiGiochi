@@ -1,0 +1,33 @@
+{
+  "player_id": 972,
+  "full_name": "Jonathan Glao Tah",
+  "nationality": "Germany",
+  "birth_date": "1996-02-11",
+  "birth_place": "Hamburg",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Free",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2015-07-16",
+      "type": "€ 10M",
+      "team_out": "Hamburger SV",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-06-09",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Hamburger SV",
+    "Fortuna Düsseldorf",
+    "Bayer 04 Leverkusen",
+    "FC Bayern Munich"
+  ]
+}

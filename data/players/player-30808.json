@@ -1,0 +1,35 @@
+{
+  "player_id": 30808,
+  "full_name": "Emil Hallfreðsson",
+  "nationality": "Iceland",
+  "birth_date": "1984-06-29",
+  "birth_place": "Hafnarfjörður",
+  "career_transfers": [
+    {
+      "date": "2019-03-01",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2018-07-31",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Fimleikafélag Hafnarfjarðar",
+    "Tottenham Hotspur F.C.",
+    "Malmö FF",
+    "Lyn 1896 FK",
+    "AS Reggina 1914",
+    "Barnsley F.C.",
+    "Hellas Verona FC",
+    "Udinese Calcio",
+    "Frosinone Calcio",
+    "Udinese Calcio",
+    "Calcio Padova",
+    "Virtus Verona"
+  ]
+}

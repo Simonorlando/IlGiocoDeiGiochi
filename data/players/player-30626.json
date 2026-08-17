@@ -1,0 +1,24 @@
+{
+  "player_id": 30626,
+  "full_name": "Lorenzo Del Pinto",
+  "nationality": "Italy",
+  "birth_date": "1990-06-17",
+  "birth_place": "L'Aquila",
+  "career_transfers": [
+    {
+      "date": "2021-01-14",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2015-07-07",
+      "type": "Free",
+      "team_out": "L'Aquila",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936"
+  ]
+}

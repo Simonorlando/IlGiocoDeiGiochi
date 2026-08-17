@@ -1,0 +1,27 @@
+{
+  "player_id": 202,
+  "full_name": "Antonio Candreva",
+  "nationality": "Italy",
+  "birth_date": "1987-02-28",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2010-08-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Ternana Calcio",
+    "Udinese Calcio",
+    "US Livorno 1915",
+    "Juventus FC",
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "SS Lazio",
+    "Inter Milan",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919"
+  ]
+}

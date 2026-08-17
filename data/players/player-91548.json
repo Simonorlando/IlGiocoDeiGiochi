@@ -1,0 +1,29 @@
+{
+  "player_id": 91548,
+  "full_name": "Stefano Mauri",
+  "nationality": "Italy",
+  "birth_date": "1980-01-08",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2017-01-11",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "Loan",
+      "team_out": "Modena",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Meda 1913",
+    "Modena F.C.",
+    "Brescia Calcio",
+    "Udinese Calcio",
+    "SS Lazio",
+    "Brescia Calcio"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 256,
+  "full_name": "Daniel Alves da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1983-05-06",
+  "birth_place": "Juazeiro",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 41.5M",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2002-07-01",
+      "type": "€ 550K",
+      "team_out": "Bahia",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Bahia",
+    "Sevilla FC",
+    "FC Barcelona",
+    "Juventus FC",
+    "Paris Saint-Germain FC",
+    "São Paulo FC",
+    "FC Barcelona",
+    "Pumas UNAM"
+  ]
+}

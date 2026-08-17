@@ -1,0 +1,20 @@
+{
+  "player_id": 372,
+  "full_name": "Éder Gabriel Militão",
+  "nationality": "Brazil",
+  "birth_date": "1998-01-18",
+  "birth_place": "Sertãozinho",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 50M",
+      "team_out": "FC Porto",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "FC Porto",
+    "Real Madrid Club de Fútbol"
+  ]
+}

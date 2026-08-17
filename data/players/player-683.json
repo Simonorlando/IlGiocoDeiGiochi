@@ -1,0 +1,41 @@
+{
+  "player_id": 683,
+  "full_name": "Ivan Ordets",
+  "nationality": "Ukraine",
+  "birth_date": "1992-07-08",
+  "birth_place": "Blyzhne",
+  "career_transfers": [
+    {
+      "date": "2019-06-19",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Dynamo"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "FC Mariupol",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2013-01-15",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "FC Mariupol"
+    },
+    {
+      "date": "2011-02-21",
+      "type": "Loan",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "FC Mariupol"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar Donetsk",
+    "FC Shakhtar-3 Donetsk",
+    "FC Mariupol",
+    "FC Shakhtar Donetsk",
+    "FC Mariupol",
+    "FC Shakhtar Donetsk"
+  ]
+}

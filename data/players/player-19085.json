@@ -1,0 +1,27 @@
+{
+  "player_id": 19085,
+  "full_name": "Teemu Eino Antero Pukki",
+  "nationality": "Finland",
+  "birth_date": "1990-03-29",
+  "birth_place": "Kotka",
+  "career_transfers": [
+    {
+      "date": "2010-08-15",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "HJK helsinki"
+    }
+  ],
+  "career_clubs": [
+    "FC KTP",
+    "Sevilla Atlético",
+    "Sevilla FC",
+    "Helsingin Jalkapalloklubi",
+    "Schalke 04",
+    "Celtic F.C.",
+    "Brøndby IF",
+    "Norwich City F.C.",
+    "Minnesota United FC",
+    "Helsingin Jalkapalloklubi"
+  ]
+}

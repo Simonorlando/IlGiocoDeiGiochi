@@ -1,0 +1,26 @@
+{
+  "player_id": 419603,
+  "full_name": "Francesco Coppola",
+  "nationality": "Italy",
+  "birth_date": "2005-04-11",
+  "birth_place": "Turin",
+  "career_transfers": [
+    {
+      "date": "2024-08-16",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Vis Pesaro"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Vis Pesaro",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Pisa",
+    "Vis Pesaro",
+    "Pisa"
+  ]
+}

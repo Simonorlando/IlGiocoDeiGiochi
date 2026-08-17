@@ -1,0 +1,23 @@
+{
+  "player_id": 77130,
+  "full_name": "Miloš Dimitrijević",
+  "nationality": "Serbia",
+  "birth_date": "1984-02-16",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2011-01-31",
+      "type": "Loan",
+      "team_out": "RAD",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Grenoble Foot 38",
+    "FK Rad",
+    "AC ChievoVerona",
+    "FK Crvena zvezda",
+    "Sydney FC"
+  ]
+}

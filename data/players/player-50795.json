@@ -1,0 +1,53 @@
+{
+  "player_id": 50795,
+  "full_name": "Saphir Sliti Taïder",
+  "nationality": "Algeria",
+  "birth_date": "1992-02-29",
+  "birth_place": "Castres",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 4M",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2014-08-06",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2013-08-20",
+      "type": "€ 5.5M",
+      "team_out": "Bologna",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Grenoble Foot 38",
+    "Bologna F.C. 1909",
+    "Inter Milan",
+    "US Sassuolo Calcio",
+    "Southampton F.C.",
+    "Bologna F.C. 1909"
+  ]
+}

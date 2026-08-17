@@ -1,0 +1,19 @@
+{
+  "player_id": 1974,
+  "full_name": "Tolga Zengin",
+  "nationality": "Turkey",
+  "birth_date": "1983-10-10",
+  "birth_place": "Hopa",
+  "career_transfers": [
+    {
+      "date": "2013-08-02",
+      "type": "2.8M €",
+      "team_out": "Trabzonspor",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Trabzonspor",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 30865,
+  "full_name": "Jasmin Kurtič",
+  "nationality": "Slovenia",
+  "birth_date": "1989-01-10",
+  "birth_place": "Novo Mesto",
+  "career_transfers": [
+    {
+      "date": "2021-07-18",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 3.5M",
+      "team_out": "Spal",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-01-10",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "NK Bela Krajina",
+    "ND Gorica",
+    "Palermo F.C.",
+    "Varese Calcio",
+    "US Sassuolo Calcio",
+    "Torino FC",
+    "ACF Fiorentina",
+    "Atalanta BC",
+    "SPAL",
+    "Parma Calcio 1913",
+    "PAOK FC",
+    "CS Universitatea Craiova",
+    "F.C. Südtirol"
+  ]
+}

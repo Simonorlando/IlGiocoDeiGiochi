@@ -1,0 +1,26 @@
+{
+  "player_id": 30525,
+  "full_name": "Pol Mikel Lirola Kosok",
+  "nationality": "Spain",
+  "birth_date": "1997-08-13",
+  "birth_place": "Mollet del Vallès",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2023-08-28",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "RCD Espanyol de Barcelona",
+    "Juventus FC"
+  ]
+}

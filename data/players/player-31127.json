@@ -1,0 +1,25 @@
+{
+  "player_id": 31127,
+  "full_name": "Lorenzo Andrenacci",
+  "nationality": "Italy",
+  "birth_date": "1995-01-02",
+  "birth_place": "Fermo",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "Brescia Calcio"
+  ]
+}

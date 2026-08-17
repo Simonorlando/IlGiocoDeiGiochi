@@ -1,0 +1,23 @@
+{
+  "player_id": 63542,
+  "full_name": "Martin Hongla Yma II",
+  "nationality": "Cameroon",
+  "birth_date": "1998-03-16",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2018-01-16",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Granada CF",
+    "FC Karpaty Lviv",
+    "Royal Antwerp F.C.",
+    "Hellas Verona FC",
+    "FC Barcelona Atlètic",
+    "FC Barcelona"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "player_id": 10261,
+  "full_name": "Vágner Silva de Souza",
+  "nationality": "Brazil",
+  "birth_date": "1984-06-11",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2013-07-24",
+      "type": "N/A",
+      "team_out": "CSKA Moscow",
+      "team_in": "Shandong Luneng"
+    },
+    {
+      "date": "2013-01-14",
+      "type": "€ 6M",
+      "team_out": "Flamengo",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2012-01-25",
+      "type": "€ 10M",
+      "team_out": "CSKA Moscow",
+      "team_in": "Flamengo"
+    },
+    {
+      "date": "2010-01-01",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Flamengo"
+    },
+    {
+      "date": "2009-09-01",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "€ 6.2M",
+      "team_out": "Palmeiras",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras",
+    "PFC CSKA Moscow",
+    "Sociedade Esportiva Palmeiras",
+    "Clube de Regatas do Flamengo",
+    "PFC CSKA Moscow",
+    "Shandong Taishan F.C.",
+    "S.C. Corinthians Paulista",
+    "AS Monaco FC",
+    "Alanyaspor",
+    "Beşiktaş J.K. (Football)",
+    "S.C. Corinthians Paulista",
+    "FC Kairat",
+    "FC Midtjylland",
+    "Sport Club do Recife",
+    "Atlético Clube Goianiense",
+    "Avaí Futebol Clube",
+    "Retrô Futebol Clube Brasil"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 114413,
+  "full_name": "Ronaldo de Assis Moreira",
+  "nationality": "Brazil",
+  "birth_date": "1980-03-21",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "€ 25M",
+      "team_out": "Barcelona",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "€ 32.3M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA",
+    "Paris Saint-Germain FC",
+    "FC Barcelona",
+    "AC Milan",
+    "Clube de Regatas do Flamengo",
+    "Clube Atlético Mineiro",
+    "Querétaro F.C.",
+    "Fluminense F.C.",
+    "S.C. Ravenna Sport"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 14268,
+  "full_name": "Ivor Pandur",
+  "nationality": "Croatia",
+  "birth_date": "2000-03-25",
+  "birth_place": "Rijeka",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Fortuna Sittard"
+    },
+    {
+      "date": "2022-07-07",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Fortuna Sittard"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 900K",
+      "team_out": "HNK Rijeka",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "HNK Rijeka",
+    "Hellas Verona FC"
+  ]
+}

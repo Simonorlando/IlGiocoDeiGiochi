@@ -1,0 +1,20 @@
+{
+  "player_id": 347265,
+  "full_name": "Benjamín Domínguez",
+  "nationality": "Argentina",
+  "birth_date": "2003-09-19",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "€ 5M",
+      "team_out": "Gimnasia L.P.",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Gimnasia LP",
+    "Bologna",
+    "Sassuolo"
+  ]
+}

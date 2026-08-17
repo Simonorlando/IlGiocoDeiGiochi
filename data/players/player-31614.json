@@ -1,0 +1,29 @@
+{
+  "player_id": 31614,
+  "full_name": "Michele Castagnetti",
+  "nationality": "Italy",
+  "birth_date": "1989-12-27",
+  "birth_place": "Montecchio Emilia",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Crociati Noceto",
+    "Feralpisalò",
+    "Cosenza Calcio",
+    "Carrarese Calcio",
+    "Mantova 1911",
+    "Empoli FC"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 2733,
+  "full_name": "Jens Stryger Larsen",
+  "nationality": "Denmark",
+  "birth_date": "1991-02-21",
+  "birth_place": "Sakskøbing",
+  "career_transfers": [
+    {
+      "date": "2017-08-24",
+      "type": "N/A",
+      "team_out": "Austria Vienna",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Brøndby IF",
+    "FC Nordsjælland",
+    "FK Austria Wien",
+    "Udinese Calcio",
+    "Malmö FF"
+  ]
+}

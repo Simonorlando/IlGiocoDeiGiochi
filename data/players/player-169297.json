@@ -1,0 +1,22 @@
+{
+  "player_id": 169297,
+  "full_name": "Andrias Edmundsson",
+  "nationality": "Faroe Islands",
+  "birth_date": "2000-12-18",
+  "birth_place": "Toftir",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Wisla Plock",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "B68 Toftir",
+    "Águilas",
+    "Chojniczanka Chojnice",
+    "Wisła Płock",
+    "Hellas Verona"
+  ]
+}

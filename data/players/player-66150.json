@@ -1,0 +1,44 @@
+{
+  "player_id": 66150,
+  "full_name": "Kamil Vacek",
+  "nationality": "Czechia",
+  "birth_date": "1987-05-18",
+  "birth_place": "Ústí nad Orlicí",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Piast Gliwice"
+    },
+    {
+      "date": "2015-01-01",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Mlada Boleslav"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Sparta Praha"
+    },
+    {
+      "date": "2011-08-29",
+      "type": "€ 2M",
+      "team_out": "Sparta Praha",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "SK Sigma Olomouc",
+    "Arminia Bielefeld",
+    "AC Sparta Prague",
+    "AC ChievoVerona",
+    "AC Sparta Prague",
+    "FK Mladá Boleslav",
+    "Piast Gliwice",
+    "FK Mladá Boleslav",
+    "Bohemians 1905"
+  ]
+}

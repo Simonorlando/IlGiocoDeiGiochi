@@ -1,0 +1,38 @@
+{
+  "player_id": 6386,
+  "full_name": "Julián Simón Carranza",
+  "nationality": "Argentina",
+  "birth_date": "2000-05-22",
+  "birth_place": "Oncativo",
+  "career_transfers": [
+    {
+      "date": "2024-06-30",
+      "type": "Free",
+      "team_out": "Philadelphia Union",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Return from loan",
+      "team_out": "Leicester",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2026-01-02",
+      "type": "Transfer",
+      "team_out": "Feyenoord",
+      "team_in": "Necaxa"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Banfield",
+    "Inter Miami CF",
+    "Club Atlético Banfield"
+  ]
+}

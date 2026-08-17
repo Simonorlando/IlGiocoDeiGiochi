@@ -1,0 +1,30 @@
+{
+  "player_id": 6931,
+  "full_name": "Liberato Gianpaolo Cacace",
+  "nationality": "New Zealand",
+  "birth_date": "2000-09-27",
+  "birth_place": "Wellington",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 3M",
+      "team_out": "St. Truiden",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "St. Truiden",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-18",
+      "type": "Transfer",
+      "team_out": "Empoli",
+      "team_in": "Wrexham"
+    }
+  ],
+  "career_clubs": [
+    "Wellington Phoenix FC"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 10077,
+  "full_name": "Luis Henrique Tomaz de Lima",
+  "nationality": "Brazil",
+  "birth_date": "2001-12-14",
+  "birth_place": "João Pessoa",
+  "career_transfers": [
+    {
+      "date": "2025-06-07",
+      "type": "Transfer",
+      "team_out": "Marseille",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Botafogo F.R."
+  ]
+}

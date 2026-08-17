@@ -1,0 +1,34 @@
+{
+  "player_id": 2460,
+  "full_name": "Josef Alexander Martínez Mencia",
+  "nationality": "Venezuela",
+  "birth_date": "1993-05-19",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2017-03-21",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Atlanta United FC"
+    },
+    {
+      "date": "2017-02-02",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Atlanta United FC"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "BSC Young Boys",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Caracas Fútbol Club",
+    "BSC Young Boys",
+    "FC Thun",
+    "Torino FC",
+    "Atlanta United FC"
+  ]
+}

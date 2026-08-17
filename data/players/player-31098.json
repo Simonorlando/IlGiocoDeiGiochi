@@ -1,0 +1,18 @@
+{
+  "player_id": 31098,
+  "full_name": "Federico Ravaglia",
+  "nationality": "Italy",
+  "birth_date": "1999-11-11",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2021-07-17",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909"
+  ]
+}

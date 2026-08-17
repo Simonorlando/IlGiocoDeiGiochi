@@ -1,0 +1,36 @@
+{
+  "player_id": 893,
+  "full_name": "Luis Antonio Valencia Mosquera",
+  "nationality": "Ecuador",
+  "birth_date": "1985-08-04",
+  "birth_place": "Lago Agrio",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 2M",
+      "team_out": "Villarreal",
+      "team_in": "Wigan"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Recreativo Huelva"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "€ 1.4M",
+      "team_out": "El Nacional",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo El Nacional",
+    "Villarreal CF",
+    "Recreativo de Huelva",
+    "Wigan Athletic F.C.",
+    "Manchester United F.C.",
+    "Liga Deportiva Universitaria de Quito",
+    "Querétaro F.C."
+  ]
+}

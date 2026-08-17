@@ -1,0 +1,31 @@
+{
+  "player_id": 91345,
+  "full_name": "Davide Bassi",
+  "nationality": "Italy",
+  "birth_date": "1985-04-12",
+  "birth_place": "Sarzana",
+  "career_transfers": [
+    {
+      "date": "2017-07-10",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2017-03-01",
+      "type": "Free",
+      "team_out": "Atalanta",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "S.S.D. Massese",
+    "Empoli FC",
+    "Torino FC",
+    "US Sassuolo Calcio",
+    "Atalanta BC",
+    "Genoa CFC",
+    "Spezia Calcio",
+    "Parma Calcio 1913"
+  ]
+}

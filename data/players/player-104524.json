@@ -1,0 +1,43 @@
+{
+  "player_id": 104524,
+  "full_name": "Luca Ceccarelli",
+  "nationality": "Italy",
+  "birth_date": "1983-03-24",
+  "birth_place": "Gambettola",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2016-01-13",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Cesena U20",
+    "Cesena",
+    "Sangiovannese",
+    "Cesena",
+    "Pavia Calcio",
+    "Cesena",
+    "Pavia Calcio",
+    "Cesena",
+    "San Marino",
+    "Cesena",
+    "Legnano",
+    "Cesena",
+    "Padova",
+    "Cesena",
+    "Bologna",
+    "US Salernitana 1919",
+    "Bologna",
+    "FC Dinamo București",
+    "San Marino",
+    "Cervia"
+  ]
+}

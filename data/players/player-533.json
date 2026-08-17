@@ -1,0 +1,25 @@
+{
+  "player_id": 533,
+  "full_name": "Rasmus Nissen Kristensen",
+  "nationality": "Denmark",
+  "birth_date": "1997-07-11",
+  "birth_place": "Brande",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 13M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2019-07-19",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Midtjylland",
+    "AFC Ajax"
+  ]
+}

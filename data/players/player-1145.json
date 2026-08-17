@@ -1,0 +1,27 @@
+{
+  "player_id": 1145,
+  "full_name": "Ibrahima Konaté",
+  "nationality": "France",
+  "birth_date": "1999-05-25",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Liverpool",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Liverpool",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Sochaux-Montbéliard",
+    "RB Leipzig",
+    "Liverpool F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

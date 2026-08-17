@@ -1,0 +1,29 @@
+{
+  "player_id": 162498,
+  "full_name": "Radu Matei Drăgușin",
+  "nationality": "Romania",
+  "birth_date": "2002-02-03",
+  "birth_place": "București",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919",
+    "Genoa CFC",
+    "Tottenham Hotspur F.C.",
+    "ACF Fiorentina"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "player_id": 36980,
+  "full_name": "Morten Thorsby",
+  "nationality": "Norway",
+  "birth_date": "1996-05-05",
+  "birth_place": "Oslo",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Stabæk Fotball",
+    "SC Heerenveen",
+    "U.C. Sampdoria",
+    "1. FC Union Berlin",
+    "Genoa CFC",
+    "US Cremonese"
+  ]
+}

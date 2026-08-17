@@ -1,0 +1,31 @@
+{
+  "player_id": 452,
+  "full_name": "Fernando Francisco Reges",
+  "nationality": "Brazil",
+  "birth_date": "1987-07-25",
+  "birth_place": "Goiás",
+  "career_transfers": [
+    {
+      "date": "2019-07-12",
+      "type": "€ 4.5M",
+      "team_out": "Galatasaray",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2017-08-10",
+      "type": "€ 4.5M",
+      "team_out": "Manchester City",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Vila Nova Futebol Clube",
+    "FC Porto",
+    "C.F. Estrela da Amadora",
+    "Manchester City F.C.",
+    "Galatasaray S.K.",
+    "Sevilla FC",
+    "Vila Nova Futebol Clube",
+    "S.C. Internacional"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 544,
+  "full_name": "Noa Noëll Lang",
+  "nationality": "Netherlands",
+  "birth_date": "1999-06-17",
+  "birth_place": "Capelle aan den IJssel",
+  "career_transfers": [
+    {
+      "date": "2026-01-22",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Galatasaray",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Jong Ajax",
+    "AFC Ajax",
+    "Club Brugge K.V.",
+    "PSV Eindhoven",
+    "SSC Napoli"
+  ]
+}

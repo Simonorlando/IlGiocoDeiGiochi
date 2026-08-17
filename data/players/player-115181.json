@@ -1,0 +1,34 @@
+{
+  "player_id": 115181,
+  "full_name": "Giorgio Frezzolini",
+  "nationality": "Italy",
+  "birth_date": "1976-01-21",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "Associazione Sportiva Dilettantistica Cerveteri Calcio",
+    "A.C. Carpi",
+    "Inter Milan",
+    "F.C. Trapani 1905",
+    "Fidelis Andria 2018",
+    "Cosenza Calcio",
+    "Udinese Calcio",
+    "Cosenza Calcio 1914",
+    "AC Milan",
+    "AC ChievoVerona",
+    "US Lecce",
+    "Venezia F.C.",
+    "AC ChievoVerona",
+    "Modena F.C.",
+    "Ascoli Calcio 1898 FC",
+    "Atalanta BC"
+  ]
+}

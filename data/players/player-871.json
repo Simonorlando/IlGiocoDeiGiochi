@@ -1,0 +1,19 @@
+{
+  "player_id": 871,
+  "full_name": "Matheus Pereira da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1998-02-25",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 2M",
+      "team_out": "Corinthians",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "Juventus FC"
+  ]
+}

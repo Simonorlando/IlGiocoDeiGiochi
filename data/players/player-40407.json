@@ -1,0 +1,27 @@
+{
+  "player_id": 40407,
+  "full_name": "Salvador José Milhazes Agra",
+  "nationality": "Portugal",
+  "birth_date": "1991-11-11",
+  "birth_place": "Vila do Conde",
+  "career_transfers": [
+    {
+      "date": "2013-01-21",
+      "type": "Loan",
+      "team_out": "Real Betis",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Varzim S.C.",
+    "S.C. Olhanense",
+    "Real Betis Balompié",
+    "Siena FC",
+    "S.C. Braga",
+    "Associação Académica de Coimbra – O.A.F.",
+    "S.C. Braga",
+    "S.C. Braga B",
+    "C.D. Nacional",
+    "Legia Warsaw"
+  ]
+}

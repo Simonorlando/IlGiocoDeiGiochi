@@ -1,0 +1,24 @@
+{
+  "player_id": 30615,
+  "full_name": "Luca Caldirola",
+  "nationality": "Italy",
+  "birth_date": "1991-02-01",
+  "birth_place": "Desio",
+  "career_transfers": [
+    {
+      "date": "2021-07-17",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "SBV Vitesse",
+    "Brescia Calcio",
+    "AC Cesena",
+    "Brescia Calcio",
+    "SV Werder Bremen",
+    "SV Darmstadt 98"
+  ]
+}

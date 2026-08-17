@@ -1,0 +1,24 @@
+{
+  "player_id": 30459,
+  "full_name": "Ronaldo Augusto Vieira Nan",
+  "nationality": "England",
+  "birth_date": "1998-07-19",
+  "birth_place": "Bissau",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria"
+  ]
+}

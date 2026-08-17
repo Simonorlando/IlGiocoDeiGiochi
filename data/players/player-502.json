@@ -1,0 +1,25 @@
+{
+  "player_id": 502,
+  "full_name": "Joshua Walter Kimmich",
+  "nationality": "Germany",
+  "birth_date": "1995-02-08",
+  "birth_place": "Rottweil",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "RB Leipzig",
+      "team_in": "VfB Stuttgart"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "RB Leipzig",
+    "FC Bayern Munich"
+  ]
+}

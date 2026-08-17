@@ -1,0 +1,30 @@
+{
+  "player_id": 7719,
+  "full_name": "Emanuel Aiwu",
+  "nationality": "Austria",
+  "birth_date": "2000-12-25",
+  "birth_place": "Innsbruck",
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Sturm Graz"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Birmingham"
+    },
+    {
+      "date": "2022-08-05",
+      "type": "N/A",
+      "team_out": "Rapid Vienna",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Admira Wacker"
+  ]
+}

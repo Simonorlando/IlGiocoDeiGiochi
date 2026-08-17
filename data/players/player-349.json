@@ -1,0 +1,18 @@
+{
+  "player_id": 349,
+  "full_name": "Aleksa Terzić",
+  "nationality": "Serbia",
+  "birth_date": "1999-08-17",
+  "birth_place": "Belgrade",
+  "career_transfers": [
+    {
+      "date": "2023-07-23",
+      "type": "€ 5.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FK Crvena zvezda"
+  ]
+}

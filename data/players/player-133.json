@@ -1,0 +1,30 @@
+{
+  "player_id": 133,
+  "full_name": "Clément Nicolas Laurent Lenglet",
+  "nationality": "France",
+  "birth_date": "1995-06-17",
+  "birth_place": "Beauvais",
+  "career_transfers": [
+    {
+      "date": "2018-07-12",
+      "type": "€ 35.9M",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2017-01-01",
+      "type": "N/A",
+      "team_out": "Nancy",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Nancy-Lorraine",
+    "Sevilla FC",
+    "FC Barcelona",
+    "Tottenham Hotspur F.C.",
+    "Aston Villa F.C.",
+    "Atlético Madrid",
+    "S.L. Benfica"
+  ]
+}

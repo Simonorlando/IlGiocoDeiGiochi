@@ -1,0 +1,25 @@
+{
+  "player_id": 43237,
+  "full_name": "Adriano Russo",
+  "nationality": "Italy",
+  "birth_date": "1987-06-06",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2013-08-05",
+      "type": "Free",
+      "team_out": "Perugia",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Siena FC",
+    "S.S.D. Massese",
+    "A.S.D. Olimpia Colligiana",
+    "Vico Equense Calcio 1958",
+    "A.S.D. Todi",
+    "A.C. Perugia Calcio",
+    "Frosinone Calcio",
+    "FC Voluntari"
+  ]
+}

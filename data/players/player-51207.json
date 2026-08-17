@@ -1,0 +1,39 @@
+{
+  "player_id": 51207,
+  "full_name": "Éverton Luiz Guimarães Bilher",
+  "nationality": "Brazil",
+  "birth_date": "1988-05-24",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2020-01-01",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Real Salt Lake"
+    },
+    {
+      "date": "2019-01-07",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Real Salt Lake"
+    },
+    {
+      "date": "2018-01-19",
+      "type": "€ 600K",
+      "team_out": "FK Partizan",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "Associação Atlética Ponte Preta",
+    "Sociedade Esportiva Palmeiras",
+    "Marília Atlético Clube",
+    "Red Bull Bragantino",
+    "Clube de Regatas Brasil",
+    "San Luis F.C.",
+    "Criciúma Esporte Clube",
+    "FC Lugano",
+    "FC St. Gallen",
+    "FK Partizan"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 56245,
+  "full_name": "Leonardo Fontanesi",
+  "nationality": "Italy",
+  "birth_date": "1996-02-20",
+  "birth_place": "Correggio",
+  "career_transfers": [
+    {
+      "date": "2016-01-22",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio",
+    "AC Cesena",
+    "Brescia Calcio"
+  ]
+}

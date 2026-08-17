@@ -1,0 +1,28 @@
+{
+  "player_id": 12,
+  "full_name": "Ömer Toprak",
+  "nationality": "Türkiye",
+  "birth_date": "1989-07-21",
+  "birth_place": "Ravensburg",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 12M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 3M",
+      "team_out": "SC Freiburg",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "Bayer 04 Leverkusen",
+    "Borussia Dortmund",
+    "SV Werder Bremen",
+    "Antalyaspor"
+  ]
+}

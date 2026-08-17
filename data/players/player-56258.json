@@ -1,0 +1,32 @@
+{
+  "player_id": 56258,
+  "full_name": "Daniele Mannini",
+  "nationality": "Italy",
+  "birth_date": "1983-10-25",
+  "birth_place": "Viareggio",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2011-08-08",
+      "type": "€ 400K",
+      "team_out": "Napoli",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Lucchese 1905",
+    "Viareggio Calcio",
+    "Pisa SC",
+    "Brescia Calcio",
+    "SSC Napoli",
+    "U.C. Sampdoria",
+    "Siena FC",
+    "Pisa SC",
+    "US Lecce"
+  ]
+}

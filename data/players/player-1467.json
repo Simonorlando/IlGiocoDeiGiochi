@@ -1,0 +1,39 @@
+{
+  "player_id": 1467,
+  "full_name": "Alexandre Armand Lacazette",
+  "nationality": "France",
+  "birth_date": "1991-05-28",
+  "birth_place": "Lyon",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Arsenal",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2017-07-05",
+      "type": "€ 53M",
+      "team_out": "Lyon",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Free Transfer",
+      "team_out": "Lyon",
+      "team_in": "NEOM"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Free agent",
+      "team_out": "Lyon",
+      "team_in": "NEOM"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais",
+    "Arsenal F.C.",
+    "Olympique Lyonnais",
+    "Neom Club"
+  ]
+}

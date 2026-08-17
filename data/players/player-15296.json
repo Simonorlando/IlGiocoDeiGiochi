@@ -1,0 +1,40 @@
+{
+  "player_id": 15296,
+  "full_name": "Lucas Vieira de Souza",
+  "nationality": "Brazil",
+  "birth_date": "1990-07-04",
+  "birth_place": "Santo André",
+  "career_transfers": [
+    {
+      "date": "2022-07-29",
+      "type": "Free",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Al Khaleej Saihat"
+    },
+    {
+      "date": "2021-08-23",
+      "type": "N/A",
+      "team_out": "Changchun Yatai",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2020-02-28",
+      "type": "€ 1M",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Changchun Yatai"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "AEL",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "Paraná Clube",
+    "S.C. Olhanense",
+    "Parma Calcio 1913",
+    "Moreirense F.C.",
+    "CD Tondela"
+  ]
+}

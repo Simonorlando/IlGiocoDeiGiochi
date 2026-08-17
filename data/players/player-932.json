@@ -1,0 +1,31 @@
+{
+  "player_id": 932,
+  "full_name": "Daniel Wass",
+  "nationality": "Denmark",
+  "birth_date": "1989-05-31",
+  "birth_place": "Gladsaxe",
+  "career_transfers": [
+    {
+      "date": "2022-01-27",
+      "type": "€ 2.7M",
+      "team_out": "Valencia",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2018-07-10",
+      "type": "€ 6M",
+      "team_out": "Celta Vigo",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Brøndby IF",
+    "Fredrikstad FK",
+    "S.L. Benfica",
+    "Evian Thonon Gaillard F.C.",
+    "RC Celta de Vigo",
+    "Valencia CF",
+    "Atlético Madrid",
+    "Brøndby IF"
+  ]
+}

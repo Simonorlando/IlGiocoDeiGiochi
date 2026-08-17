@@ -1,0 +1,29 @@
+{
+  "player_id": 90664,
+  "full_name": "Roberto Hilbert",
+  "nationality": "Germany",
+  "birth_date": "1984-10-16",
+  "birth_place": "Forchheim",
+  "career_transfers": [
+    {
+      "date": "2017-10-06",
+      "type": "Free",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "SpVgg Greuther Furth"
+    },
+    {
+      "date": "2013-07-13",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "1. SC Feucht",
+    "SpVgg Greuther Fürth",
+    "VfB Stuttgart",
+    "Beşiktaş J.K. (Football)",
+    "Bayer 04 Leverkusen",
+    "1. FC Nürnberg"
+  ]
+}

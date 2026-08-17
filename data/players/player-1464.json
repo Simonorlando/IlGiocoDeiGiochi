@@ -1,0 +1,28 @@
+{
+  "player_id": 1464,
+  "full_name": "Granit Xhaka",
+  "nationality": "Switzerland",
+  "birth_date": "1992-09-27",
+  "birth_place": "Basel",
+  "career_transfers": [
+    {
+      "date": "2023-07-06",
+      "type": "€ 25M",
+      "team_out": "Arsenal",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Sunderland"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Borussia Mönchengladbach",
+    "Arsenal F.C.",
+    "Bayer 04 Leverkusen",
+    "Sunderland A.F.C."
+  ]
+}

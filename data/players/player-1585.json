@@ -1,0 +1,30 @@
+{
+  "player_id": 1585,
+  "full_name": "Jesé Rodríguez Ruiz",
+  "nationality": "Spain",
+  "birth_date": "1993-02-26",
+  "birth_place": "Las Palmas de Gran Canaria",
+  "career_transfers": [
+    {
+      "date": "2016-08-08",
+      "type": "€ 25M",
+      "team_out": "Real Madrid",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "Paris Saint-Germain FC",
+    "UD Las Palmas",
+    "Stoke City F.C.",
+    "Real Betis Balompié",
+    "Sporting CP",
+    "UD Las Palmas",
+    "MKE Ankaragücü",
+    "U.C. Sampdoria",
+    "Coritiba F.C.",
+    "Johor Darul Ta'zim F.C.",
+    "UD Las Palmas"
+  ]
+}

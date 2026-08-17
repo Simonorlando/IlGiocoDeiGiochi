@@ -1,0 +1,32 @@
+{
+  "player_id": 1709,
+  "full_name": "Karl Louis-Brillant Toko Ekambi",
+  "nationality": "Cameroon",
+  "birth_date": "1992-09-14",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "€ 11.5M",
+      "team_out": "Villarreal",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2020-01-20",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "€ 18M",
+      "team_out": "Angers",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Paris FC",
+    "FC Sochaux-Montbéliard",
+    "Angers SCO"
+  ]
+}

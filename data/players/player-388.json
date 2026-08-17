@@ -1,0 +1,27 @@
+{
+  "player_id": 388,
+  "full_name": "Yacine Nasr Eddine Brahimi",
+  "nationality": "Algeria",
+  "birth_date": "1990-02-08",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2019-07-22",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Al-Rayyan SC"
+    },
+    {
+      "date": "2014-07-23",
+      "type": "€ 6.5M",
+      "team_out": "Granada CF",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Clermont Foot 63",
+    "Granada CF",
+    "FC Porto"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "player_id": 43221,
+  "full_name": "Diego Fabbrini",
+  "nationality": "Italy",
+  "birth_date": "1990-07-31",
+  "birth_place": "San Giuliano Terme",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Udinese Calcio",
+    "Palermo F.C.",
+    "Watford F.C.",
+    "Siena FC",
+    "Millwall F.C.",
+    "Birmingham City F.C.",
+    "Middlesbrough F.C.",
+    "Birmingham City F.C.",
+    "Spezia Calcio",
+    "Real Oviedo",
+    "FC Botoșani",
+    "PFC CSKA Sofia",
+    "FC Dinamo Bucharest",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

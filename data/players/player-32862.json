@@ -1,0 +1,25 @@
+{
+  "player_id": 32862,
+  "full_name": "Takefusa Kubo",
+  "nationality": "Japan",
+  "birth_date": "2001-06-04",
+  "birth_place": "Kawasaki",
+  "career_transfers": [
+    {
+      "date": "2022-07-19",
+      "type": "€ 6.5M",
+      "team_out": "Real Madrid",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "FC Tokyo",
+    "Yokohama F. Marinos",
+    "Real Madrid Club de Fútbol",
+    "RCD Mallorca",
+    "Villarreal CF",
+    "Getafe CF",
+    "RCD Mallorca",
+    "Real Sociedad"
+  ]
+}

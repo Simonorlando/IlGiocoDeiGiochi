@@ -1,0 +1,20 @@
+{
+  "player_id": 63274,
+  "full_name": "Barış Alper Yılmaz",
+  "nationality": "Türkiye",
+  "birth_date": "2000-05-23",
+  "birth_place": "Rize",
+  "career_transfers": [
+    {
+      "date": "2021-07-09",
+      "type": "N/A",
+      "team_out": "Keçiörengücü",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Ankara Demirspor",
+    "Ankara Keçiörengücü S.K.",
+    "Galatasaray S.K."
+  ]
+}

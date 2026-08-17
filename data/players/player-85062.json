@@ -1,0 +1,29 @@
+{
+  "player_id": 85062,
+  "full_name": "Thiago Motta",
+  "nationality": "Italy",
+  "birth_date": "1982-08-28",
+  "birth_place": "São Bernardo do Campo",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "2M €",
+      "team_out": "Barcelona",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "Atlético Madrid",
+    "Genoa CFC",
+    "Inter Milan",
+    "Paris Saint-Germain FC"
+  ]
+}

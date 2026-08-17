@@ -1,0 +1,43 @@
+{
+  "player_id": 53495,
+  "full_name": "Bakary Koné",
+  "nationality": "Burkina Faso",
+  "birth_date": "1988-04-27",
+  "birth_place": "Ouagadougou",
+  "career_transfers": [
+    {
+      "date": "2018-08-07",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Ankaragucu"
+    },
+    {
+      "date": "2018-06-30",
+      "type": "N/A",
+      "team_out": "Strasbourg",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2017-08-27",
+      "type": "Loan",
+      "team_out": "Malaga",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Lyon",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Étoile Filante de Ouagadougou",
+    "En Avant de Guingamp",
+    "Olympique Lyonnais",
+    "Málaga CF",
+    "RC Strasbourg Alsace",
+    "MKE Ankaragücü",
+    "FC Arsenal Tula",
+    "Kerala Blasters FC"
+  ]
+}

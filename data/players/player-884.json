@@ -1,0 +1,31 @@
+{
+  "player_id": 884,
+  "full_name": "Sergio Germán Romero",
+  "nationality": "Argentina",
+  "birth_date": "1987-02-22",
+  "birth_place": "Bernardo de Irigoyen",
+  "career_transfers": [
+    {
+      "date": "2022-08-09",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2021-10-12",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "AZ Alkmaar",
+    "U.C. Sampdoria",
+    "AS Monaco FC",
+    "Manchester United F.C.",
+    "Venezia F.C.",
+    "Boca Juniors",
+    "Argentinos Juniors"
+  ]
+}

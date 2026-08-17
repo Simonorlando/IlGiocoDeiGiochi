@@ -1,0 +1,28 @@
+{
+  "player_id": 176,
+  "full_name": "Erik Manuel Lamela Cordero",
+  "nationality": "Argentina",
+  "birth_date": "1992-03-04",
+  "birth_place": "Florida",
+  "career_transfers": [
+    {
+      "date": "2024-07-21",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2021-07-26",
+      "type": "N/A",
+      "team_out": "Tottenham",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "AS Roma",
+    "Tottenham Hotspur F.C.",
+    "Sevilla FC",
+    "AEK Athens F.C."
+  ]
+}

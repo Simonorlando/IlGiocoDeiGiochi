@@ -1,0 +1,41 @@
+{
+  "player_id": 26691,
+  "full_name": "Giannis Maniatis",
+  "nationality": "Greece",
+  "birth_date": "1986-10-12",
+  "birth_place": "Livadeia",
+  "career_transfers": [
+    {
+      "date": "2017-02-10",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Atromitos Athinon"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Standard Liege",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2011-01-15",
+      "type": "€ 800K",
+      "team_out": "Panionios",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Panionios F.C.",
+    "Olympiacos F.C.",
+    "Standard Liège",
+    "Atromitos F.C.",
+    "Alanyaspor",
+    "Panionios F.C."
+  ]
+}

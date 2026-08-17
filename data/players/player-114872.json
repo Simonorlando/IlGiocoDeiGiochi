@@ -1,0 +1,29 @@
+{
+  "player_id": 114872,
+  "full_name": "Zdenek Grygera",
+  "nationality": "Czech Republic",
+  "birth_date": "1980-05-14",
+  "birth_place": "Prílepy u Holesova",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "FC Zlín",
+    "FK Drnovice",
+    "AC Sparta Prague",
+    "AFC Ajax",
+    "Juventus FC",
+    "Fulham F.C."
+  ]
+}

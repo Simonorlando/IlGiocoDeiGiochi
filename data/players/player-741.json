@@ -1,0 +1,78 @@
+{
+  "player_id": 741,
+  "full_name": "Jesús Vallejo Lázaro",
+  "nationality": "Spain",
+  "birth_date": "1997-01-05",
+  "birth_place": "Zaragoza",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2023-07-15",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2020-01-24",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2019-07-27",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2016-07-12",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2015-07-31",
+      "type": "€ 5M",
+      "team_out": "Zaragoza",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2015-07-31",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2025-07-14",
+      "type": "Free Transfer",
+      "team_out": "Real Madrid",
+      "team_in": "Albacete"
+    }
+  ],
+  "career_clubs": [
+    "Real Zaragoza",
+    "Real Madrid Club de Fútbol",
+    "Real Zaragoza",
+    "Eintracht Frankfurt",
+    "Wolverhampton Wanderers F.C.",
+    "Granada CF",
+    "Albacete Balompié"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "player_id": 8540,
+  "full_name": "Felipe Nicolás Avenatti Dovillabichus",
+  "nationality": "Uruguay",
+  "birth_date": "1993-04-26",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2018-08-20",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Kortrijk"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Sportivo Luqueno",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2017-08-29",
+      "type": "Loan",
+      "team_out": "Sportivo Luqueno",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Ternana Calcio",
+    "Sportivo Luqueño",
+    "Bologna F.C. 1909",
+    "K.V. Kortrijk",
+    "Standard Liège",
+    "Royal Antwerp F.C.",
+    "Royale Union Saint-Gilloise"
+  ]
+}

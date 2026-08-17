@@ -1,0 +1,23 @@
+{
+  "player_id": 184,
+  "full_name": "Harry Edward Kane",
+  "nationality": "England",
+  "birth_date": "1993-07-28",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-08-12",
+      "type": "€ 100M",
+      "team_out": "Tottenham",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "Leyton Orient F.C.",
+    "Millwall F.C.",
+    "Norwich City F.C.",
+    "Leicester City F.C.",
+    "FC Bayern Munich"
+  ]
+}

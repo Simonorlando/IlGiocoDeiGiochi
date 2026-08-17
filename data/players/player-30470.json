@@ -1,0 +1,25 @@
+{
+  "player_id": 30470,
+  "full_name": "Gabriele Corbo",
+  "nationality": "Italy",
+  "birth_date": "2000-01-11",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2025-07-17",
+      "type": "Free Transfer",
+      "team_out": "Cordoba",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Free agent",
+      "team_out": "Cordoba",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Spezia Calcio"
+  ]
+}

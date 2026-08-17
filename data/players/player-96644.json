@@ -1,0 +1,25 @@
+{
+  "player_id": 96644,
+  "full_name": "Rodney Strasser",
+  "nationality": "Sierra Leone",
+  "birth_date": "1990-03-30",
+  "birth_place": "Freetown",
+  "career_transfers": [
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "US Lecce",
+    "Parma Calcio 1913",
+    "AS Reggina 1914",
+    "Genoa CFC",
+    "US Livorno 1915",
+    "S.S. Racing Club Roma",
+    "N.K. Zagreb"
+  ]
+}

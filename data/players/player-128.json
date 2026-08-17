@@ -1,0 +1,28 @@
+{
+  "player_id": 128,
+  "full_name": "Jordi Alba Ramos",
+  "nationality": "Spain",
+  "birth_date": "1989-03-21",
+  "birth_place": "L'Hospitalet de Llobregat",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 14M",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2008-07-05",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Gimnastic"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Gimnàstic de Tarragona",
+    "Valencia CF",
+    "FC Barcelona",
+    "Inter Miami CF"
+  ]
+}

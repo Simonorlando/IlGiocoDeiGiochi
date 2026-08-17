@@ -1,0 +1,30 @@
+{
+  "player_id": 30519,
+  "full_name": "Stefano Turati",
+  "nationality": "Italy",
+  "birth_date": "2001-09-05",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-08-23",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "US Sassuolo Calcio"
+  ]
+}

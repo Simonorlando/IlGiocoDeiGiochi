@@ -1,0 +1,21 @@
+{
+  "player_id": 410396,
+  "full_name": "Mattia Liberali",
+  "nationality": "Italy",
+  "birth_date": "2007-04-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-08-08",
+      "type": "Transfer",
+      "team_out": "AC Milan",
+      "team_in": "Catanzaro"
+    }
+  ],
+  "career_clubs": [
+    "Milan Futuro",
+    "AC Milan",
+    "Catanzaro",
+    "Como"
+  ]
+}

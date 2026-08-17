@@ -1,0 +1,32 @@
+{
+  "player_id": 1111,
+  "full_name": "Jack William Hendry",
+  "nationality": "Scotland",
+  "birth_date": "1995-05-07",
+  "birth_place": "Glasgow",
+  "career_transfers": [
+    {
+      "date": "2023-07-26",
+      "type": "€ 6.9M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Al-Ettifaq"
+    },
+    {
+      "date": "2023-01-26",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Partick Thistle F.C.",
+    "Wigan Athletic F.C.",
+    "Shrewsbury Town F.C."
+  ]
+}

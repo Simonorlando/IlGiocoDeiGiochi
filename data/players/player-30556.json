@@ -1,0 +1,26 @@
+{
+  "player_id": 30556,
+  "full_name": "Filippo Romagna",
+  "nationality": "Italy",
+  "birth_date": "1997-05-26",
+  "birth_place": "Fano",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio",
+    "Cagliari Calcio",
+    "Juventus FC"
+  ]
+}

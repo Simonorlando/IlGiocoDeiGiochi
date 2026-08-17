@@ -1,0 +1,28 @@
+{
+  "player_id": 32191,
+  "full_name": "Stefano Guberti",
+  "nationality": "Italy",
+  "birth_date": "1984-11-06",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "S.E.F. Torres 1903",
+    "Pol. Alghero",
+    "S.E.F. Torres 1903",
+    "Ascoli Calcio 1898 FC",
+    "AS Roma",
+    "SSC Bari",
+    "U.C. Sampdoria",
+    "Torino FC",
+    "AS Roma",
+    "A.C. Perugia Calcio",
+    "Siena FC"
+  ]
+}

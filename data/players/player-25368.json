@@ -1,0 +1,19 @@
+{
+  "player_id": 25368,
+  "full_name": "Waldemar Riptsov Anton",
+  "nationality": "Germany",
+  "birth_date": "1996-07-20",
+  "birth_place": "Almalyk",
+  "career_transfers": [
+    {
+      "date": "2024-07-08",
+      "type": "€ 22.5M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Hannover 96",
+    "VfB Stuttgart"
+  ]
+}

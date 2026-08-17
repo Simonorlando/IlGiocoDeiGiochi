@@ -1,0 +1,28 @@
+{
+  "player_id": 30508,
+  "full_name": "Vittorio Parigini",
+  "nationality": "Italy",
+  "birth_date": "1996-03-25",
+  "birth_place": "Moncalieri",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2021-07-31",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "S.S. Juve Stabia",
+    "A.C. Perugia Calcio",
+    "AC ChievoVerona",
+    "Como 1907"
+  ]
+}

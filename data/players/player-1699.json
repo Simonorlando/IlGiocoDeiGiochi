@@ -1,0 +1,27 @@
+{
+  "player_id": 1699,
+  "full_name": "Vicente Iborra de la Fuente",
+  "nationality": "Spain",
+  "birth_date": "1988-01-16",
+  "birth_place": "Moncada",
+  "career_transfers": [
+    {
+      "date": "2017-07-06",
+      "type": "€ 15M",
+      "team_out": "Sevilla",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2013-08-15",
+      "type": "€ 6M",
+      "team_out": "Levante",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Levante UD",
+    "Levante UD",
+    "Sevilla FC",
+    "Leicester City F.C."
+  ]
+}

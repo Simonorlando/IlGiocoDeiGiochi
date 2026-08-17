@@ -1,0 +1,40 @@
+{
+  "player_id": 18,
+  "full_name": "Jadon Malik Sancho",
+  "nationality": "England",
+  "birth_date": "2000-03-25",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2024-01-11",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2021-07-23",
+      "type": "€ 85M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "€ 8.7M",
+      "team_out": "Manchester City",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Manchester United F.C.",
+    "Borussia Dortmund",
+    "Chelsea F.C.",
+    "Aston Villa F.C."
+  ]
+}

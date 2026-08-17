@@ -1,0 +1,33 @@
+{
+  "player_id": 2708,
+  "full_name": "Medhi Amine El Mouttaqi Benatia",
+  "nationality": "Morocco",
+  "birth_date": "1987-04-17",
+  "birth_place": "Courcouronnes",
+  "career_transfers": [
+    {
+      "date": "2014-08-27",
+      "type": "€ 26M",
+      "team_out": "AS Roma",
+      "team_in": "Bayern Munich"
+    },
+    {
+      "date": "2013-07-13",
+      "type": "€ 13.5M",
+      "team_out": "Udinese",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Olympique de Marseille",
+    "Tours FC.",
+    "F.C. Lorient",
+    "Clermont Foot 63",
+    "Udinese Calcio",
+    "AS Roma",
+    "FC Bayern Munich",
+    "Juventus FC",
+    "Al-Duhail SC",
+    "Fatih Karagümrük S.K."
+  ]
+}

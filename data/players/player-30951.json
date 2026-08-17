@@ -1,0 +1,38 @@
+{
+  "player_id": 30951,
+  "full_name": "Luka Bogdan",
+  "nationality": "Croatia",
+  "birth_date": "1996-03-26",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2022-02-01",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2020-09-25",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "HB Køge",
+    "NK Zavrč",
+    "US Livorno 1915"
+  ]
+}

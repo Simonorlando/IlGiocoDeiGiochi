@@ -1,0 +1,38 @@
+{
+  "player_id": 91302,
+  "full_name": "Antonio Nocerino",
+  "nationality": "Italy",
+  "birth_date": "1985-04-09",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2015-01-15",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "U.S. Avellino 1912",
+    "Genoa CFC",
+    "Unione Sportiva Catanzaro",
+    "F.C. Crotone",
+    "A.C.R. Messina",
+    "Piacenza Calcio",
+    "Juventus FC",
+    "Palermo F.C.",
+    "AC Milan",
+    "West Ham United F.C.",
+    "Torino FC",
+    "Parma Calcio 1913",
+    "Orlando City SC",
+    "Benevento Calcio"
+  ]
+}

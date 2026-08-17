@@ -1,0 +1,46 @@
+{
+  "player_id": 22224,
+  "full_name": "Gabriel dos Santos Magalhães",
+  "nationality": "Brazil",
+  "birth_date": "1997-12-19",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 26.3M",
+      "team_out": "Lille",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2018-02-15",
+      "type": "Loan",
+      "team_out": "Lille",
+      "team_in": "Dinamo Zagreb"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "Loan",
+      "team_out": "Lille",
+      "team_in": "Troyes II"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "Loan",
+      "team_out": "Lille",
+      "team_in": "Estac Troyes"
+    }
+  ],
+  "career_clubs": [
+    "Avaí Futebol Clube",
+    "Lille OSC",
+    "ES Troyes AC",
+    "GNK Dinamo Zagreb",
+    "Arsenal F.C."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 30501,
+  "full_name": "Armando Izzo",
+  "nationality": "Italy",
+  "birth_date": "1992-03-02",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2023-07-05",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Avellino"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Avellino"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "US Triestina Calcio 1918",
+    "U.S. Avellino 1912",
+    "Genoa CFC",
+    "Italy under-21 Serie B representative team",
+    "Torino FC",
+    "AC Monza"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 933,
+  "full_name": "Kevin Dominique Gameiro",
+  "nationality": "France",
+  "birth_date": "1987-05-09",
+  "birth_place": "Senlis",
+  "career_transfers": [
+    {
+      "date": "2016-07-31",
+      "type": "€ 32M",
+      "team_out": "Sevilla",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2013-07-25",
+      "type": "€ 7.5M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "RC Strasbourg Alsace",
+    "F.C. Lorient",
+    "Paris Saint-Germain FC",
+    "Sevilla FC",
+    "Atlético Madrid",
+    "Valencia CF",
+    "RC Strasbourg Alsace"
+  ]
+}

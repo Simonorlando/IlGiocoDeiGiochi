@@ -1,0 +1,39 @@
+{
+  "player_id": 1479,
+  "full_name": "Tiago Emanuel Embaló Djaló",
+  "nationality": "Portugal",
+  "birth_date": "2000-04-09",
+  "birth_place": "Amadora",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2024-01-22",
+      "type": "€ 5.1M",
+      "team_out": "Lille",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "FC Porto",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-08-27",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "Lille OSC",
+    "Juventus FC",
+    "FC Porto"
+  ]
+}

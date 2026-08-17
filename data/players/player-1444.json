@@ -1,0 +1,29 @@
+{
+  "player_id": 1444,
+  "full_name": "Stephan Lichtsteiner",
+  "nationality": "Switzerland",
+  "birth_date": "1984-01-16",
+  "birth_place": "Adligenswil",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 10M",
+      "team_out": "Lazio",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Grasshopper Club Zürich",
+    "Lille OSC",
+    "SS Lazio",
+    "Juventus FC",
+    "Arsenal F.C.",
+    "FC Augsburg"
+  ]
+}

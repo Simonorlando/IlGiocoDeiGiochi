@@ -1,0 +1,21 @@
+{
+  "player_id": 136,
+  "full_name": "Gerard Piqué Bernabéu",
+  "nationality": "Spain",
+  "birth_date": "1987-02-02",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2008-07-01",
+      "type": "€ 5M",
+      "team_out": "Manchester United",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona",
+    "Manchester United F.C.",
+    "Real Zaragoza",
+    "FC Barcelona"
+  ]
+}

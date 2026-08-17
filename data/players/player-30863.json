@@ -1,0 +1,25 @@
+{
+  "player_id": 30863,
+  "full_name": "Francesco Vicari",
+  "nationality": "Italy",
+  "birth_date": "1994-08-03",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2022-07-09",
+      "type": "&pound; N/A",
+      "team_out": "Spal",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2016-08-11",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio",
+    "AS Roma"
+  ]
+}

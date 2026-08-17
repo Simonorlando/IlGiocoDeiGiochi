@@ -1,0 +1,30 @@
+{
+  "player_id": 31384,
+  "full_name": "Gabriel Vasconcelos Ferreira",
+  "nationality": "Brazil",
+  "birth_date": "1992-09-27",
+  "birth_place": "Unaí",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Coritiba"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "Free",
+      "team_out": "Perugia",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "AC Milan",
+    "A.C. Carpi",
+    "SSC Napoli",
+    "Cagliari Calcio",
+    "Empoli FC",
+    "A.C. Perugia Calcio"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "player_id": 56560,
+  "full_name": "Youssef Maleh",
+  "nationality": "Morocco",
+  "birth_date": "1998-08-22",
+  "birth_place": "Castel San Pietro Terme",
+  "career_transfers": [
+    {
+      "date": "2024-08-12",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 5.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2023-01-03",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-30",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cremonese",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 37890,
+  "full_name": "Jerdy Schouten",
+  "nationality": "Netherlands",
+  "birth_date": "1997-01-12",
+  "birth_place": "Spijkenisse",
+  "career_transfers": [
+    {
+      "date": "2023-08-16",
+      "type": "€ 12M",
+      "team_out": "Bologna",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2019-07-04",
+      "type": "€ 3M",
+      "team_out": "Excelsior",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "ADO Den Haag",
+    "SC Telstar",
+    "Excelsior Rotterdam",
+    "Bologna F.C. 1909",
+    "PSV Eindhoven"
+  ]
+}

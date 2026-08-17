@@ -1,0 +1,35 @@
+{
+  "player_id": 21148,
+  "full_name": "Thomas Mathieu Romain Mangani",
+  "nationality": "France",
+  "birth_date": "1987-04-29",
+  "birth_place": "Carpentras",
+  "career_transfers": [
+    {
+      "date": "2015-07-04",
+      "type": "N/A",
+      "team_out": "Chievo",
+      "team_in": "Angers"
+    },
+    {
+      "date": "2015-02-01",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Angers"
+    },
+    {
+      "date": "2014-07-06",
+      "type": "Free",
+      "team_out": "Nancy",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Stade Brestois 29",
+    "A.C. Ajaccio",
+    "A.S. Nancy-Lorraine",
+    "AC ChievoVerona",
+    "Angers SCO"
+  ]
+}

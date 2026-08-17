@@ -1,0 +1,25 @@
+{
+  "player_id": 161939,
+  "full_name": "Tomás Lemos Araújo",
+  "nationality": "Portugal",
+  "birth_date": "2002-05-16",
+  "birth_place": "Famalicão",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "GIL Vicente",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2022-07-27",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "GIL Vicente"
+    }
+  ],
+  "career_clubs": [
+    "Benfica",
+    "Gil Vicente"
+  ]
+}

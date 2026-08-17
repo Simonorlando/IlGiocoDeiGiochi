@@ -1,0 +1,27 @@
+{
+  "player_id": 18769,
+  "full_name": "Theo James Walcott",
+  "nationality": "England",
+  "birth_date": "1989-03-16",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2018-01-17",
+      "type": "€ 22.6M",
+      "team_out": "Arsenal",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "€ 10.5M",
+      "team_out": "Southampton",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Southampton F.C.",
+    "Arsenal F.C.",
+    "Everton F.C.",
+    "Southampton F.C."
+  ]
+}

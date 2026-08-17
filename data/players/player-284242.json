@@ -1,0 +1,19 @@
+{
+  "player_id": 284242,
+  "full_name": "Omari Nathan Forson",
+  "nationality": "England",
+  "birth_date": "2004-07-20",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United",
+    "Monza"
+  ]
+}

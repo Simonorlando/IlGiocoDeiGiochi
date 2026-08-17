@@ -1,0 +1,25 @@
+{
+  "player_id": 31237,
+  "full_name": "Giovanni Crociata",
+  "nationality": "Italy",
+  "birth_date": "1997-08-11",
+  "birth_place": "Palermo",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2016-07-18",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Brescia Calcio"
+  ]
+}

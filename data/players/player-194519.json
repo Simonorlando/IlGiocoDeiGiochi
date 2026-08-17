@@ -1,0 +1,20 @@
+{
+  "player_id": 194519,
+  "full_name": "Jaume Albert Cuéllar Mendoza",
+  "nationality": "Bolivia",
+  "birth_date": "2001-08-23",
+  "birth_place": "Granollers",
+  "career_transfers": [
+    {
+      "date": "2021-08-11",
+      "type": "Free",
+      "team_out": "Spal",
+      "team_in": "Lugo"
+    }
+  ],
+  "career_clubs": [
+    "S.P.A.L.",
+    "Lugo",
+    "Arenteiro"
+  ]
+}

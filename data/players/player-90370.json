@@ -1,0 +1,33 @@
+{
+  "player_id": 90370,
+  "full_name": "Giuseppe Vives",
+  "nationality": "Italy",
+  "birth_date": "1980-07-14",
+  "birth_place": "Afragola",
+  "career_transfers": [
+    {
+      "date": "2011-07-15",
+      "type": "€ 480K",
+      "team_out": "Lecce",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "N/A",
+      "team_out": "Giugliano",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Associazione Sportiva Dilettantistica Stasia Calcio",
+    "S.S. Juve Stabia",
+    "SSC Ancona",
+    "Taranto Sport",
+    "A.S.D. Nardò Calcio",
+    "S.S.C. Giugliano",
+    "Taranto Sport",
+    "US Lecce",
+    "Torino FC",
+    "F.C. Pro Vercelli 1892"
+  ]
+}

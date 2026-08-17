@@ -1,0 +1,33 @@
+{
+  "player_id": 271,
+  "full_name": "Leandro Daniel Paredes",
+  "nationality": "Argentina",
+  "birth_date": "1994-06-29",
+  "birth_place": "San Justo",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "AS Roma",
+    "AC ChievoVerona",
+    "AS Roma",
+    "Empoli FC",
+    "FC Zenit Saint Petersburg",
+    "Paris Saint-Germain FC",
+    "Juventus FC",
+    "AS Roma",
+    "Boca Juniors"
+  ]
+}

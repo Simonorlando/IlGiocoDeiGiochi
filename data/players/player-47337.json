@@ -1,0 +1,37 @@
+{
+  "player_id": 47337,
+  "full_name": "Esteban Félix Granero Molina",
+  "nationality": "Spain",
+  "birth_date": "1987-07-02",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2017-07-07",
+      "type": "Free",
+      "team_out": "Real Sociedad",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2014-07-28",
+      "type": "N/A",
+      "team_out": "QPR",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2013-08-16",
+      "type": "Loan",
+      "team_out": "QPR",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "Getafe CF",
+    "Real Madrid Club de Fútbol",
+    "Queens Park Rangers F.C.",
+    "Real Sociedad",
+    "RCD Espanyol de Barcelona",
+    "UD Marbella"
+  ]
+}

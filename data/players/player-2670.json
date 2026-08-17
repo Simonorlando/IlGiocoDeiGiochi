@@ -1,0 +1,23 @@
+{
+  "player_id": 2670,
+  "full_name": "Íñigo Martínez Berridi",
+  "nationality": "Spain",
+  "birth_date": "1991-05-17",
+  "birth_place": "Ondarroa",
+  "career_transfers": [
+    {
+      "date": "2018-01-30",
+      "type": "€ 32M",
+      "team_out": "Real Sociedad",
+      "team_in": "Athletic Club"
+    }
+  ],
+  "career_clubs": [
+    "Real Sociedad B",
+    "Real Sociedad",
+    "Basque Country regional football team",
+    "Athletic Club",
+    "FC Barcelona",
+    "Al-Nassr"
+  ]
+}

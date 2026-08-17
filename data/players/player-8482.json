@@ -1,0 +1,33 @@
+{
+  "player_id": 8482,
+  "full_name": "Brecht Dejaegere",
+  "nationality": "Belgium",
+  "birth_date": "1991-05-29",
+  "birth_place": "Handzame",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Gent",
+      "team_in": "Toulouse"
+    },
+    {
+      "date": "2020-09-11",
+      "type": "Loan",
+      "team_out": "Gent",
+      "team_in": "Toulouse"
+    },
+    {
+      "date": "2013-08-09",
+      "type": "N/A",
+      "team_out": "Kortrijk",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "K.V. Kortrijk",
+    "KAA Gent",
+    "Toulouse FC",
+    "Charlotte FC"
+  ]
+}

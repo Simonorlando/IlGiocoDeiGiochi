@@ -1,0 +1,35 @@
+{
+  "player_id": 30436,
+  "full_name": "Matteo Pessina",
+  "nationality": "Italy",
+  "birth_date": "1997-04-21",
+  "birth_place": "Monza",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 12M",
+      "team_out": "Atalanta",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-07-06",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "AC Monza",
+    "AC Milan",
+    "US Lecce",
+    "Catania FC",
+    "AC Monza",
+    "Spezia Calcio"
+  ]
+}

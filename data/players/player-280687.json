@@ -1,0 +1,35 @@
+{
+  "player_id": 280687,
+  "full_name": "Hugo Bueno López",
+  "nationality": "Spain",
+  "birth_date": "2002-09-18",
+  "birth_place": "Vigo",
+  "career_transfers": [
+    {
+      "date": "2024-08-13",
+      "type": "Loan",
+      "team_out": "Wolves",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Feyenoord",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Feyenoord",
+      "team_in": "Wolves"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Areosa",
+    "ED Val Miñor",
+    "Club Deportivo Areosa",
+    "Wolverhampton Wanderers F.C.",
+    "Feyenoord Rotterdam",
+    "Gondomar CF"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 30877,
+  "full_name": "Sergio Floccari",
+  "nationality": "Italy",
+  "birth_date": "1981-11-12",
+  "birth_place": "Vibo Valentia",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Forza e Coraggio Avezzano",
+    "Calcio Montebelluna 1919",
+    "A.S.D. Mestrina 1929",
+    "Faenza Calcio",
+    "Genoa CFC",
+    "Rimini FC",
+    "A.C.R. Messina",
+    "Atalanta BC",
+    "Genoa CFC",
+    "SS Lazio",
+    "Parma Calcio 1913",
+    "US Sassuolo Calcio",
+    "Bologna F.C. 1909",
+    "Unione Sportiva Catanzaro"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "player_id": 31092,
+  "full_name": "Daniel Ciofani",
+  "nationality": "Italy",
+  "birth_date": "1985-07-31",
+  "birth_place": "Avezzano",
+  "career_transfers": [
+    {
+      "date": "2012-08-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2011-07-25",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Gubbio"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": null,
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Celano F.C. Marsica",
+    "Società Calcistica Gela",
+    "Atletico Roma F.C.",
+    "Parma Calcio 1913",
+    "A.S. Gubbio 1910",
+    "A.C. Perugia Calcio",
+    "Frosinone Calcio"
+  ]
+}

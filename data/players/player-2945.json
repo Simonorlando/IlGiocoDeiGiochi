@@ -1,0 +1,36 @@
+{
+  "player_id": 2945,
+  "full_name": "Dylan Daniel Mahmoud Bronn",
+  "nationality": "Tunisia",
+  "birth_date": "1995-06-19",
+  "birth_place": "Cannes",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Servette FC",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2024-02-15",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Servette FC"
+    },
+    {
+      "date": "2022-08-12",
+      "type": "€ 1M",
+      "team_out": "Metz",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-02",
+      "type": "Free Transfer",
+      "team_out": "Salernitana",
+      "team_in": "Servette FC"
+    }
+  ],
+  "career_clubs": [
+    "KAA Gent"
+  ]
+}

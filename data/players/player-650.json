@@ -1,0 +1,37 @@
+{
+  "player_id": 650,
+  "full_name": "Léo Michel Joseph Claude Dubois",
+  "nationality": "France",
+  "birth_date": "1994-09-14",
+  "birth_place": "Segré",
+  "career_transfers": [
+    {
+      "date": "2024-09-06",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Eyüpspor"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2023-09-16",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2022-07-21",
+      "type": "€ 2.5M",
+      "team_out": "Lyon",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Olympique Lyonnais"
+  ]
+}

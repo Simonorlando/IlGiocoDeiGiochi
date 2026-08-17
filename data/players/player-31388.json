@@ -1,0 +1,39 @@
+{
+  "player_id": 31388,
+  "full_name": "Gian Filippo Felicioli",
+  "nationality": "Italy",
+  "birth_date": "1997-09-30",
+  "birth_place": "San Severino Marche",
+  "career_transfers": [
+    {
+      "date": "2022-07-23",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Cittadella"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2019-07-18",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Ascoli Calcio 1898 FC",
+    "Hellas Verona FC",
+    "A.C. Perugia Calcio"
+  ]
+}

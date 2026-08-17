@@ -1,0 +1,26 @@
+{
+  "player_id": 30533,
+  "full_name": "Manuel Locatelli",
+  "nationality": "Italy",
+  "birth_date": "1998-01-08",
+  "birth_place": "Lecco",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 25M",
+      "team_out": "Sassuolo",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2021-08-18",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "US Sassuolo Calcio",
+    "Juventus FC"
+  ]
+}

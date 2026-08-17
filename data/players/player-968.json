@@ -1,0 +1,40 @@
+{
+  "player_id": 968,
+  "full_name": "Aleksandar Dragović",
+  "nationality": "Austria",
+  "birth_date": "1991-03-06",
+  "birth_place": "Wien",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "FK Crvena Zvezda"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Leicester",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2016-08-23",
+      "type": "€ 18M",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "FK Austria Wien",
+    "FC Basel",
+    "FC Dynamo Kyiv",
+    "Bayer 04 Leverkusen",
+    "Leicester City F.C."
+  ]
+}

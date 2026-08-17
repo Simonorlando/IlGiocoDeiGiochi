@@ -1,0 +1,20 @@
+{
+  "player_id": 69140,
+  "full_name": "Víctor Hugo Mareco",
+  "nationality": "Paraguay",
+  "birth_date": "1984-02-26",
+  "birth_place": "Asunción",
+  "career_transfers": [
+    {
+      "date": "2011-08-31",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Hellas Verona FC",
+    "Cerro Porteño"
+  ]
+}

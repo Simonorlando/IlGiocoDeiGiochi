@@ -1,0 +1,31 @@
+{
+  "player_id": 30418,
+  "full_name": "Pierluigi Gollini",
+  "nationality": "Italy",
+  "birth_date": "1995-03-18",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2016-07-08",
+      "type": "€ 5M",
+      "team_out": "Verona",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2014-08-13",
+      "type": "N/A",
+      "team_out": "Manchester United",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "Aston Villa F.C.",
+    "Atalanta BC",
+    "Tottenham Hotspur F.C.",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Genoa CFC",
+    "AS Roma"
+  ]
+}

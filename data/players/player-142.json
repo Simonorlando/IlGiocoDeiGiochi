@@ -1,0 +1,26 @@
+{
+  "player_id": 142,
+  "full_name": "Rafael Alcântara do Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1992-02-12",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-01-01",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint Germain",
+    "Real Sociedad",
+    "Paris Saint Germain"
+  ]
+}

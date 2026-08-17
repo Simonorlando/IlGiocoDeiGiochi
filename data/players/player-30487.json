@@ -1,0 +1,33 @@
+{
+  "player_id": 30487,
+  "full_name": "Diego Falcinelli",
+  "nationality": "Italy",
+  "birth_date": "1991-06-26",
+  "birth_place": "Perugia",
+  "career_transfers": [
+    {
+      "date": "2024-01-22",
+      "type": "N/A",
+      "team_out": "Modena",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-10-16",
+      "type": "Free agent",
+      "team_out": "Spezia",
+      "team_in": "Cittadella"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Pontevecchio",
+    "US Sassuolo Calcio",
+    "Foligno Calcio",
+    "US Sassuolo Calcio",
+    "Lanciano Calcio 1920",
+    "S.S. Juve Stabia",
+    "Italy under-21 Serie B representative team",
+    "A.C. Perugia Calcio",
+    "Inter Milan",
+    "ACF Fiorentina"
+  ]
+}

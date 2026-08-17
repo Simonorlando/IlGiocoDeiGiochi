@@ -1,0 +1,38 @@
+{
+  "player_id": 10160,
+  "full_name": "Leonardo Campos Duarte da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1996-07-17",
+  "birth_place": "Mococa",
+  "career_transfers": [
+    {
+      "date": "2022-07-08",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2021-01-11",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2019-08-07",
+      "type": "€ 11M",
+      "team_out": "Flamengo",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "İstanbul Başakşehir F.K.",
+    "AC Milan"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "player_id": 30812,
+  "full_name": "Ignacio Pussetto",
+  "nationality": "Argentina",
+  "birth_date": "1995-12-21",
+  "birth_place": "Cañada Rosquín",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Watford",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Atlético de Rafaela",
+    "Udinese Calcio"
+  ]
+}

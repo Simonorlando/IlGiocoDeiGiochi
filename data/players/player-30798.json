@@ -1,0 +1,22 @@
+{
+  "player_id": 30798,
+  "full_name": "Hidde Willem ter Avest",
+  "nationality": "Netherlands",
+  "birth_date": "1997-05-20",
+  "birth_place": "Wierden",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Twente",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Jong FC Twente",
+    "FC Twente",
+    "Jong FC Twente",
+    "FC Twente",
+    "Udinese Calcio"
+  ]
+}

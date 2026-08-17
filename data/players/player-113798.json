@@ -1,0 +1,35 @@
+{
+  "player_id": 113798,
+  "full_name": "Bakaye Traoré",
+  "nationality": "Mali",
+  "birth_date": "1985-05-06",
+  "birth_place": "Bondy",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Bursaspor"
+    },
+    {
+      "date": "2013-09-05",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Kayseri Erciyesspor"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Nancy",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Amiens SC",
+    "Nancy",
+    "AC Milan",
+    "Kayseri Erciyesspor",
+    "AC Milan",
+    "Bursaspor"
+  ]
+}

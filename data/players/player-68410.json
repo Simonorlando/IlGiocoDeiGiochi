@@ -1,0 +1,30 @@
+{
+  "player_id": 68410,
+  "full_name": "Musa Juwara",
+  "nationality": "Gambia",
+  "birth_date": "2001-12-26",
+  "birth_place": "Tujereng",
+  "career_transfers": [
+    {
+      "date": "2022-02-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2021-07-13",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona",
+    "Bologna F.C. 1909",
+    "Boavista F.C.",
+    "F.C. Crotone",
+    "Odense Boldklub",
+    "Vejle Boldklub",
+    "Pogoń Szczecin"
+  ]
+}

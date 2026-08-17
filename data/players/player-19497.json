@@ -1,0 +1,28 @@
+{
+  "player_id": 19497,
+  "full_name": "Rolando Maximiliano Martins Indi",
+  "nationality": "Netherlands",
+  "birth_date": "1992-02-08",
+  "birth_place": "Barreiro",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Stoke City"
+    },
+    {
+      "date": "2014-07-15",
+      "type": "€ 7.7M",
+      "team_out": "Feyenoord",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "FC Porto",
+    "Stoke City F.C.",
+    "AZ Alkmaar",
+    "Sparta Rotterdam"
+  ]
+}

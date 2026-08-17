@@ -1,0 +1,39 @@
+{
+  "player_id": 2771,
+  "full_name": "Temitayo Olufisayo Olaoluwa Aina",
+  "nationality": "Nigeria",
+  "birth_date": "1996-10-08",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-07-22",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Fulham",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2020-09-11",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2018-08-14",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Torino FC",
+    "Nottingham Forest F.C.",
+    "Hull City A.F.C."
+  ]
+}

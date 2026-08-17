@@ -1,0 +1,26 @@
+{
+  "player_id": 301763,
+  "full_name": "Petar Ratkov",
+  "nationality": "Serbia",
+  "birth_date": "2003-08-18",
+  "birth_place": "Belgrade",
+  "career_transfers": [
+    {
+      "date": "2023-06-21",
+      "type": "N/A",
+      "team_out": "TSC Backa Topola",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Transfer",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "TSC",
+    "Red Bull Salzburg",
+    "Lazio"
+  ]
+}

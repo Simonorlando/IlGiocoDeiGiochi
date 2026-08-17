@@ -1,0 +1,25 @@
+{
+  "player_id": 203224,
+  "full_name": "Florian Richard Wirtz",
+  "nationality": "Germany",
+  "birth_date": "2003-05-03",
+  "birth_place": "Pulheim",
+  "career_transfers": [
+    {
+      "date": "2025-06-20",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "Liverpool F.C."
+  ]
+}

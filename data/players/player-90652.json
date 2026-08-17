@@ -1,0 +1,30 @@
+{
+  "player_id": 90652,
+  "full_name": "Marvin Compper",
+  "nationality": "Germany",
+  "birth_date": "1985-06-14",
+  "birth_place": "Tübingen",
+  "career_transfers": [
+    {
+      "date": "2014-08-02",
+      "type": "€ 500K",
+      "team_out": "Fiorentina",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2013-01-25",
+      "type": "€ 200K",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Mönchengladbach",
+    "TSG 1899 Hoffenheim",
+    "ACF Fiorentina",
+    "RB Leipzig",
+    "MSV Duisburg",
+    "VfB Stuttgart",
+    "Celtic F.C."
+  ]
+}

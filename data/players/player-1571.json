@@ -1,0 +1,32 @@
+{
+  "player_id": 1571,
+  "full_name": "Francisco Javier García Fernández",
+  "nationality": "Spain",
+  "birth_date": "1987-02-08",
+  "birth_place": "Mula",
+  "career_transfers": [
+    {
+      "date": "2017-08-14",
+      "type": "€ 1.5M",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2014-08-14",
+      "type": "€ 16.8M",
+      "team_out": "Manchester City",
+      "team_in": "Zenit Saint Petersburg"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Real Madrid Club de Fútbol",
+    "Club Atlético Osasuna",
+    "Real Madrid Club de Fútbol",
+    "S.L. Benfica",
+    "Manchester City F.C.",
+    "FC Zenit Saint Petersburg",
+    "Real Betis Balompié",
+    "Boavista F.C."
+  ]
+}

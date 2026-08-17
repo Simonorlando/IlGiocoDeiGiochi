@@ -1,0 +1,25 @@
+{
+  "player_id": 278133,
+  "full_name": "Oscar Bobb",
+  "nationality": "Norway",
+  "birth_date": "2003-07-12",
+  "birth_place": "Oslo",
+  "career_transfers": [
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Fulham"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City",
+    "Fulham"
+  ]
+}

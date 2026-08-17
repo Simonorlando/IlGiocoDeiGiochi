@@ -1,0 +1,46 @@
+{
+  "player_id": 91448,
+  "full_name": "Hrvoje Miličević",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1993-04-20",
+  "birth_place": "Mostar",
+  "career_transfers": [
+    {
+      "date": "2018-02-02",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Aktobe"
+    },
+    {
+      "date": "2017-01-01",
+      "type": "N/A",
+      "team_out": "L'Aquila",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "L'Aquila"
+    },
+    {
+      "date": "2015-01-21",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Teramo"
+    },
+    {
+      "date": "2014-02-01",
+      "type": "Free",
+      "team_out": "Zrinjski",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "HŠK Zrinjski Mostar",
+    "Delfino Pescara 1936",
+    "S.S. Teramo Calcio",
+    "L'Aquila Calcio 1927",
+    "AEK Larnaca F.C."
+  ]
+}

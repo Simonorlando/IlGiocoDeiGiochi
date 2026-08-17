@@ -1,0 +1,38 @@
+{
+  "player_id": 31473,
+  "full_name": "Vincenzo Fiorillo",
+  "nationality": "Italy",
+  "birth_date": "1990-01-13",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2021-08-06",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2015-07-24",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2014-07-23",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "AS Reggina 1914",
+    "Spezia Calcio",
+    "Italy under-21 Serie B representative team",
+    "US Livorno 1915",
+    "Italy under-21 Serie B representative team",
+    "Juventus FC",
+    "Delfino Pescara 1936",
+    "US Livorno 1915"
+  ]
+}

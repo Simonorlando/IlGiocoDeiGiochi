@@ -1,0 +1,28 @@
+{
+  "player_id": 5908,
+  "full_name": "Iván Alexis Pillud",
+  "nationality": "Argentina",
+  "birth_date": "1986-04-24",
+  "birth_place": "Santa Fe",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Racing Club"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Racing Club",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Tiro al aire",
+    "Newell's Old Boys",
+    "RCD Espanyol de Barcelona",
+    "Hellas Verona FC"
+  ]
+}

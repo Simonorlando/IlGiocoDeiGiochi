@@ -1,0 +1,30 @@
+{
+  "player_id": 30856,
+  "full_name": "Felipe Dias da Silva dal Belo",
+  "nationality": "Brazil",
+  "birth_date": "1984-07-31",
+  "birth_place": "Guarantiguetà",
+  "career_transfers": [
+    {
+      "date": "2015-02-26",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2013-07-07",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "ACF Fiorentina",
+    "AC Cesena",
+    "Siena FC",
+    "Parma Calcio 1913",
+    "Inter Milan",
+    "Udinese Calcio"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 2050,
+  "full_name": "Éver Maximiliano David Banega",
+  "nationality": "Argentina",
+  "birth_date": "1988-06-29",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2020-10-01",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Al Shabab"
+    },
+    {
+      "date": "2017-07-03",
+      "type": "€ 7.7M",
+      "team_out": "Inter",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2016-07-06",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2014-08-19",
+      "type": "€ 2.5M",
+      "team_out": "Valencia",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Valencia CF",
+    "Atlético Madrid",
+    "Newell's Old Boys",
+    "Sevilla FC",
+    "Inter Milan",
+    "Sevilla FC",
+    "Al-Shabab Football Club",
+    "Newell's Old Boys",
+    "Defensa y Justicia"
+  ]
+}

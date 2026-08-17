@@ -1,0 +1,26 @@
+{
+  "player_id": 30740,
+  "full_name": "Paweł Kamil Jaroszyński",
+  "nationality": "Poland",
+  "birth_date": "1994-10-02",
+  "birth_place": "Lublin",
+  "career_transfers": [
+    {
+      "date": "2020-09-21",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "KS Cracovia",
+    "AC ChievoVerona",
+    "Genoa CFC",
+    "U.S. Salernitana 1919",
+    "Delfino Pescara 1936",
+    "U.S. Salernitana 1919",
+    "KS Cracovia",
+    "U.S. Salernitana 1919",
+    "Górnik Łęczna"
+  ]
+}

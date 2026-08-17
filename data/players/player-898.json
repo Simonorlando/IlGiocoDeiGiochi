@@ -1,0 +1,37 @@
+{
+  "player_id": 898,
+  "full_name": "Ander Herrera Agüera",
+  "nationality": "Spain",
+  "birth_date": "1989-08-14",
+  "birth_place": "Bilbao",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "N/A",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Athletic Club"
+    },
+    {
+      "date": "2022-08-27",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Athletic Club"
+    },
+    {
+      "date": "2019-07-04",
+      "type": "Free",
+      "team_out": "Manchester United",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Aragón",
+    "Real Zaragoza",
+    "Athletic Club",
+    "Manchester United F.C.",
+    "Paris Saint-Germain FC",
+    "Athletic Club",
+    "Boca Juniors",
+    "Real Zaragoza"
+  ]
+}

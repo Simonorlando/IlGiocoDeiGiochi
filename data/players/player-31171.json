@@ -1,0 +1,26 @@
+{
+  "player_id": 31171,
+  "full_name": "Amato Ciciretti",
+  "nationality": "Italy",
+  "birth_date": "1993-12-31",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Pordenone"
+    },
+    {
+      "date": "2022-01-29",
+      "type": "Loan",
+      "team_out": "Pordenone",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Parma Calcio 1913",
+    "SSC Napoli"
+  ]
+}

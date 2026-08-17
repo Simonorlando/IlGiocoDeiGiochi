@@ -1,0 +1,24 @@
+{
+  "player_id": 30527,
+  "full_name": "Rogério Oliveira da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1998-01-13",
+  "birth_place": "Nobres",
+  "career_transfers": [
+    {
+      "date": "2018-07-17",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2017-08-25",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC"
+  ]
+}

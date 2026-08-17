@@ -1,0 +1,25 @@
+{
+  "player_id": 432057,
+  "full_name": "Mohamed Anas Haj",
+  "nationality": "Morocco",
+  "birth_date": "2005-03-26",
+  "birth_place": "Chieti",
+  "career_transfers": [
+    {
+      "date": "2025-09-08",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Beerschot VA"
+    },
+    {
+      "date": "2025-09-07",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Beerschot VA"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Beerschot VA"
+  ]
+}

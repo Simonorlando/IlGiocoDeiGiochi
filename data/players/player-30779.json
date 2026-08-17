@@ -1,0 +1,32 @@
+{
+  "player_id": 30779,
+  "full_name": "Oscar Hiljemark",
+  "nationality": "Sweden",
+  "birth_date": "1992-06-28",
+  "birth_place": "Gislaved",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Palermo",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2017-01-26",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2015-07-13",
+      "type": "€ 2.5M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "IF Elfsborg",
+    "PSV Eindhoven",
+    "Palermo F.C."
+  ]
+}

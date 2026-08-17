@@ -1,0 +1,43 @@
+{
+  "player_id": 9474,
+  "full_name": "Thiago Ribeiro Cardoso",
+  "nationality": "Brazil",
+  "birth_date": "1986-02-24",
+  "birth_place": "Pontes Gestal",
+  "career_transfers": [
+    {
+      "date": "2013-07-20",
+      "type": "€ 3.5M",
+      "team_out": "Cagliari",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2012-07-04",
+      "type": "€ 4M",
+      "team_out": "Rentistas",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2011-08-17",
+      "type": "Loan",
+      "team_out": "Rentistas",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "Rio Branco Esporte Clube",
+    "FC Girondins de Bordeaux",
+    "Rio Branco Football Club",
+    "São Paulo FC",
+    "C.A. Rentistas",
+    "Al-Rayyan",
+    "Cruzeiro E.C.",
+    "Cagliari Calcio",
+    "Santos F.C.",
+    "Clube Atlético Mineiro",
+    "Esporte Clube Bahia",
+    "Londrina E.C.",
+    "Red Bull Bragantino",
+    "Grêmio Novorizontino"
+  ]
+}

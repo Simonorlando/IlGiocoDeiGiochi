@@ -1,0 +1,32 @@
+{
+  "player_id": 47182,
+  "full_name": "José Antonio Morente Oliva",
+  "nationality": "Spain",
+  "birth_date": "1996-12-04",
+  "birth_place": "La Línea de la Concepción",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Elche",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Elche"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Elche"
+    }
+  ],
+  "career_clubs": [
+    "Elche",
+    "Lecce",
+    "Elche"
+  ]
+}

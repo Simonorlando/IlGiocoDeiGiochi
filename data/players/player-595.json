@@ -1,0 +1,62 @@
+{
+  "player_id": 595,
+  "full_name": "Marios Oikonomou",
+  "nationality": "Greece",
+  "birth_date": "1992-10-06",
+  "birth_place": "Ioannina",
+  "career_transfers": [
+    {
+      "date": "2019-07-02",
+      "type": "€ 700K",
+      "team_out": "Bologna",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "AEK Athens FC",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "AEK Athens FC"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2018-01-11",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2017-07-03",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "PAS Giannina F.C.",
+    "Cagliari Calcio",
+    "Bologna F.C. 1909",
+    "SPAL",
+    "SSC Bari",
+    "AEK Athens F.C.",
+    "F.C. Copenhagen",
+    "U.C. Sampdoria",
+    "Panetolikos F.C."
+  ]
+}

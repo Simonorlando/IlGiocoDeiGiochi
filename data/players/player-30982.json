@@ -1,0 +1,31 @@
+{
+  "player_id": 30982,
+  "full_name": "Hrvoje Milić",
+  "nationality": "Croatia",
+  "birth_date": "1989-05-10",
+  "birth_place": "Osijek",
+  "career_transfers": [
+    {
+      "date": "2017-07-27",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2016-08-16",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "Djurgårdens IF Fotboll",
+    "NK Istra 1961",
+    "NK Istra",
+    "FC Rostov",
+    "HNK Hajduk Split",
+    "ACF Fiorentina",
+    "SSC Napoli"
+  ]
+}

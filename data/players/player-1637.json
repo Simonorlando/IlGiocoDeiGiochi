@@ -1,0 +1,30 @@
+{
+  "player_id": 1637,
+  "full_name": "Lucas Rodrigo Biglia",
+  "nationality": "Argentina",
+  "birth_date": "1986-01-30",
+  "birth_place": "Mercedes",
+  "career_transfers": [
+    {
+      "date": "2020-09-14",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2017-07-16",
+      "type": "€ 17M",
+      "team_out": "Lazio",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Argentinos Juniors",
+    "Club Atlético Independiente",
+    "R.S.C. Anderlecht",
+    "SS Lazio",
+    "AC Milan",
+    "Fatih Karagümrük S.K.",
+    "İstanbul Başakşehir F.K."
+  ]
+}

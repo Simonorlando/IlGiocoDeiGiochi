@@ -1,0 +1,26 @@
+{
+  "player_id": 182718,
+  "full_name": "Joan García Pons",
+  "nationality": "Spain",
+  "birth_date": "2001-05-04",
+  "birth_place": "Sallent",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Cultural Leonesa",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Espanyol",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol B",
+    "RCD Espanyol de Barcelona",
+    "FC Barcelona"
+  ]
+}

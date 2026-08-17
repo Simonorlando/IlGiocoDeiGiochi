@@ -1,0 +1,32 @@
+{
+  "player_id": 102731,
+  "full_name": "Didier Yves Drogba Tébily",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1978-03-11",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2014-07-25",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2013-01-28",
+      "type": "Free",
+      "team_out": "Shanghai Shenhua",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Le Mans F.C.",
+    "En Avant de Guingamp",
+    "Olympique de Marseille",
+    "Chelsea F.C.",
+    "Shanghai Shenhua F.C.",
+    "Galatasaray S.K.",
+    "Chelsea F.C.",
+    "CF Montréal",
+    "Phoenix Rising FC"
+  ]
+}

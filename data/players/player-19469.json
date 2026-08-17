@@ -1,0 +1,29 @@
+{
+  "player_id": 19469,
+  "full_name": "Charlie Patrick Mulgrew",
+  "nationality": "Scotland",
+  "birth_date": "1986-03-06",
+  "birth_place": "Glasgow",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "Celtic",
+      "team_in": "Blackburn"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "Free",
+      "team_out": "Aberdeen",
+      "team_in": "Celtic"
+    }
+  ],
+  "career_clubs": [
+    "Celtic F.C.",
+    "Wolverhampton Wanderers F.C.",
+    "Dundee United F.C.",
+    "Aberdeen F.C.",
+    "Southend United F.C.",
+    "Celtic F.C."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 853,
+  "full_name": "Leonardo Bonucci",
+  "nationality": "Italy",
+  "birth_date": "1987-05-01",
+  "birth_place": "Viterbo",
+  "career_transfers": [
+    {
+      "date": "2009-01-18",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Treviso F.B.C. 1993",
+    "Pisa SC",
+    "Genoa CFC",
+    "SSC Bari",
+    "Juventus FC",
+    "AC Milan",
+    "Juventus FC",
+    "1. FC Union Berlin",
+    "Fenerbahçe Istanbul"
+  ]
+}

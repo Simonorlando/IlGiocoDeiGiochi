@@ -1,0 +1,32 @@
+{
+  "player_id": 1770,
+  "full_name": "Salvatore Bocchetti",
+  "nationality": "Italy",
+  "birth_date": "1986-11-30",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2020-09-29",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Ascoli Calcio 1898 FC",
+    "Lanciano Calcio 1920",
+    "Frosinone Calcio",
+    "Genoa CFC",
+    "Rubin Kazan",
+    "Spartak Moscow",
+    "AC Milan",
+    "Hellas Verona FC",
+    "Delfino Pescara 1936"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 31417,
+  "full_name": "Alessandro Longhi",
+  "nationality": "Italy",
+  "birth_date": "1989-06-25",
+  "birth_place": "Desenzano del Garda",
+  "career_transfers": [
+    {
+      "date": "2017-08-23",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2016-07-11",
+      "type": "Free",
+      "team_out": "Sassuolo",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Salò",
+    "Feralpisalò",
+    "US Triestina Calcio 1918",
+    "Italy Lega Pro representative teams",
+    "US Sassuolo Calcio",
+    "Italy under-21 Serie B representative team",
+    "Brescia Calcio"
+  ]
+}

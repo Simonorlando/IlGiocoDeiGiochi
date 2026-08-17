@@ -1,0 +1,28 @@
+{
+  "player_id": 126936,
+  "full_name": "Samuel Dias Lino",
+  "nationality": "Brazil",
+  "birth_date": "1999-12-23",
+  "birth_place": "Santo André",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2022-07-28",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "São Bernardo Futebol Clube",
+    "Gil Vicente F.C.",
+    "Atlético Madrid",
+    "Valencia CF",
+    "Clube de Regatas do Flamengo"
+  ]
+}

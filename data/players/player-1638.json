@@ -1,0 +1,29 @@
+{
+  "player_id": 1638,
+  "full_name": "Giacomo Bonaventura",
+  "nationality": "Italy",
+  "birth_date": "1989-08-22",
+  "birth_place": "San Severino Marche",
+  "career_transfers": [
+    {
+      "date": "2024-08-05",
+      "type": "Free",
+      "team_out": "Fiorentina",
+      "team_in": "Al Shabab"
+    },
+    {
+      "date": "2020-09-08",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "U.S. Pergolettese 1932",
+    "Calcio Padova",
+    "AC Milan",
+    "ACF Fiorentina",
+    "Al-Shabab Football Club"
+  ]
+}

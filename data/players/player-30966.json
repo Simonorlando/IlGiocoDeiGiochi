@@ -1,0 +1,33 @@
+{
+  "player_id": 30966,
+  "full_name": "Francesco Valiani",
+  "nationality": "Italy",
+  "birth_date": "1980-10-29",
+  "birth_place": "Pistoia",
+  "career_transfers": [
+    {
+      "date": "2014-07-22",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2012-07-16",
+      "type": "€ 100K",
+      "team_out": "Parma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Pistoiese FC",
+    "S.S. Maceratese 1922",
+    "Imolese Calcio 1919",
+    "Rimini FC",
+    "Bologna F.C. 1909",
+    "Parma Calcio 1913",
+    "Siena FC",
+    "Latina Calcio 1932",
+    "SSC Bari",
+    "US Livorno 1915"
+  ]
+}

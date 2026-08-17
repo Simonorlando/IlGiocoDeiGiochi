@@ -1,0 +1,24 @@
+{
+  "player_id": 12774,
+  "full_name": "Gabriel Alejandro Paletta",
+  "nationality": "Italy",
+  "birth_date": "1986-02-15",
+  "birth_place": "Longchamps",
+  "career_transfers": [
+    {
+      "date": "2019-11-06",
+      "type": "Free",
+      "team_out": "Jiangsu Suning",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Banfield",
+    "Liverpool F.C.",
+    "Boca Juniors",
+    "Parma Calcio 1913",
+    "AC Milan",
+    "Atalanta BC",
+    "AC Milan"
+  ]
+}

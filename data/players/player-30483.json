@@ -1,0 +1,49 @@
+{
+  "player_id": 30483,
+  "full_name": "Roberto Soriano",
+  "nationality": "Italy",
+  "birth_date": "1991-02-08",
+  "birth_place": "Darmstadt",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 7.5M",
+      "team_out": "Villarreal",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2019-01-04",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2019-01-03",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2016-08-02",
+      "type": "€ 14M",
+      "team_out": "Sampdoria",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "Empoli FC"
+  ]
+}

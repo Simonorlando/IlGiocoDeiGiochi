@@ -1,0 +1,33 @@
+{
+  "player_id": 113977,
+  "full_name": "Javier Pedro Saviola Fernández",
+  "nationality": "Argentina",
+  "birth_date": "1981-12-11",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2013-07-24",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "FC Barcelona",
+    "AS Monaco FC",
+    "Sevilla FC",
+    "Real Madrid Club de Fútbol",
+    "S.L. Benfica",
+    "Málaga CF",
+    "Olympiacos F.C.",
+    "Hellas Verona FC",
+    "Club Atlético River Plate"
+  ]
+}

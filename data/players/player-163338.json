@@ -1,0 +1,26 @@
+{
+  "player_id": 163338,
+  "full_name": "Suf Podgoreanu",
+  "nationality": "Israel",
+  "birth_date": "2002-01-20",
+  "birth_place": "Hadera",
+  "career_transfers": [
+    {
+      "date": "2022-09-02",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Maccabi Haifa"
+    },
+    {
+      "date": "2021-08-11",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Haifa F.C.",
+    "AS Roma",
+    "Spezia Calcio"
+  ]
+}

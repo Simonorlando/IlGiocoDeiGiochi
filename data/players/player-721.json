@@ -1,0 +1,21 @@
+{
+  "player_id": 721,
+  "full_name": "Nico Schulz",
+  "nationality": "Germany",
+  "birth_date": "1993-04-01",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 25.5M",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Hertha BSC",
+    "Borussia Mönchengladbach",
+    "Borussia Dortmund",
+    "TSG 1899 Hoffenheim"
+  ]
+}

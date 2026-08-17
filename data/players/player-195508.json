@@ -1,0 +1,80 @@
+{
+  "player_id": 195508,
+  "full_name": "Enzo Joaquín Sosa Romañuk",
+  "nationality": "Uruguay",
+  "birth_date": "2002-01-10",
+  "birth_place": "Fray Bentos",
+  "career_transfers": [
+    {
+      "date": "2025-01-01",
+      "type": "N/A",
+      "team_out": "CF Montreal",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2024-01-15",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "CF Montreal"
+    },
+    {
+      "date": "2023-09-04",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Dinamo Zagreb"
+    },
+    {
+      "date": "2022-08-17",
+      "type": "€ 1.7M",
+      "team_out": "Club Nacional",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-01-10",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Reggiana",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-07-20",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Santa Fe"
+    },
+    {
+      "date": "2025-07-18",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Santa Fe"
+    },
+    {
+      "date": "2025-12-30",
+      "type": "Return from loan",
+      "team_out": "Santa Fe",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Colo Colo"
+    }
+  ],
+  "career_clubs": [
+    "Nacional",
+    "Rentistas",
+    "Liverpool Montevideo",
+    "Bologna",
+    "Dinamo Zagreb",
+    "CF Montréal",
+    "Reggiana",
+    "Santa Fe",
+    "Colo-Colo"
+  ]
+}

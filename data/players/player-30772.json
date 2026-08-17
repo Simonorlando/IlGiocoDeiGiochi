@@ -1,0 +1,31 @@
+{
+  "player_id": 30772,
+  "full_name": "Koray Günter",
+  "nationality": "Germany",
+  "birth_date": "1994-08-16",
+  "birth_place": "Höxter",
+  "career_transfers": [
+    {
+      "date": "2018-07-10",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "€ 2.5M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Borussia Dortmund",
+    "Galatasaray S.K.",
+    "Genoa CFC",
+    "Hellas Verona FC",
+    "U.C. Sampdoria",
+    "Fatih Karagümrük S.K.",
+    "Göztepe S.K.",
+    "Al Okhdood Club"
+  ]
+}

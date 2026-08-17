@@ -1,0 +1,20 @@
+{
+  "player_id": 25914,
+  "full_name": "Aarón Martín Caricol",
+  "nationality": "Spain",
+  "birth_date": "1997-04-22",
+  "birth_place": "Montmeló",
+  "career_transfers": [
+    {
+      "date": "2023-07-03",
+      "type": "Free",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "RCD Espanyol de Barcelona",
+    "1. FSV Mainz 05",
+    "Genoa CFC"
+  ]
+}

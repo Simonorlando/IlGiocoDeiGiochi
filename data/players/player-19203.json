@@ -1,0 +1,29 @@
+{
+  "player_id": 19203,
+  "full_name": "Ashley Cole",
+  "nationality": "England",
+  "birth_date": "1980-12-20",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2016-01-20",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Los Angeles Galaxy"
+    },
+    {
+      "date": "2014-07-07",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Crystal Palace F.C.",
+    "Chelsea F.C.",
+    "AS Roma",
+    "LA Galaxy",
+    "Derby County F.C."
+  ]
+}

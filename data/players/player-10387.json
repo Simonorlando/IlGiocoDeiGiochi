@@ -1,0 +1,43 @@
+{
+  "player_id": 10387,
+  "full_name": "Edenílson Andrade dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1989-12-18",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2017-03-31",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Internacional"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2014-08-11",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva e Recreativa Caxias do Sul",
+    "S.C. Corinthians Paulista",
+    "Genoa CFC",
+    "Udinese Calcio",
+    "Genoa CFC",
+    "S.C. Internacional",
+    "Clube Atlético Mineiro",
+    "Grêmio FBPA"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 31771,
+  "full_name": "Andrea Caracciolo",
+  "nationality": "Italy",
+  "birth_date": "1981-09-18",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Palermo",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2005-07-04",
+      "type": "€ 8M",
+      "team_out": "Brescia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Sancolombano Calcio",
+    "Como 1907",
+    "F.C. Pro Vercelli 1892",
+    "Brescia Calcio",
+    "A.C. Perugia Calcio",
+    "Palermo F.C.",
+    "U.C. Sampdoria",
+    "Brescia Calcio",
+    "Genoa CFC",
+    "Novara Calcio",
+    "Brescia Calcio",
+    "AC Milan"
+  ]
+}

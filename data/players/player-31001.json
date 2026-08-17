@@ -1,0 +1,26 @@
+{
+  "player_id": 31001,
+  "full_name": "Stefano Pettinari",
+  "nationality": "Italy",
+  "birth_date": "1992-01-27",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2016-01-13",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Siena FC",
+    "F.C. Crotone",
+    "Italy under-21 Serie B representative team",
+    "Latina Calcio 1932",
+    "Delfino Pescara 1936",
+    "Vicenza Calcio",
+    "Como 1907",
+    "US Lecce"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "player_id": 113953,
+  "full_name": "Pablo Daniel Osvaldo",
+  "nationality": "Italy",
+  "birth_date": "1986-01-12",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2007-06-30",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2006-07-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Huracán",
+    "US Lecce",
+    "Atalanta BC",
+    "ACF Fiorentina",
+    "Bologna F.C. 1909",
+    "RCD Espanyol de Barcelona",
+    "AS Roma",
+    "Southampton F.C.",
+    "Juventus FC",
+    "Inter Milan",
+    "Boca Juniors",
+    "FC Porto",
+    "Boca Juniors",
+    "Club Atlético Banfield"
+  ]
+}

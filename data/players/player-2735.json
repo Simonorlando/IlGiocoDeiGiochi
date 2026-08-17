@@ -1,0 +1,29 @@
+{
+  "player_id": 2735,
+  "full_name": "Pierre-Emile Kordt Højbjerg",
+  "nationality": "Denmark",
+  "birth_date": "1995-08-05",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "FC Augsburg",
+    "Schalke 04",
+    "Southampton F.C.",
+    "Tottenham Hotspur F.C.",
+    "Olympique de Marseille"
+  ]
+}

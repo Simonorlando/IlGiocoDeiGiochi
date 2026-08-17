@@ -1,0 +1,74 @@
+{
+  "player_id": 91251,
+  "full_name": "Alejandro Domínguez",
+  "nationality": "Argentina",
+  "birth_date": "1981-06-10",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2017-08-07",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Rayo Vallecano"
+    },
+    {
+      "date": "2013-07-02",
+      "type": "Free",
+      "team_out": "Rayo Vallecano",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2012-08-16",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Rayo Vallecano"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "River Plate",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2011-07-15",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "River Plate"
+    },
+    {
+      "date": "2010-01-01",
+      "type": null,
+      "team_out": "Rubin",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "4M €",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2007-01-01",
+      "type": "7M €",
+      "team_out": "Rubin",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2004-01-01",
+      "type": "1.5M €",
+      "team_out": "River Plate",
+      "team_in": "Rubin"
+    }
+  ],
+  "career_clubs": [
+    "Quilmes Atlético Club",
+    "Club Atlético River Plate",
+    "Rubin Kazan",
+    "FC Zenit Saint Petersburg",
+    "Rubin Kazan",
+    "Valencia CF",
+    "Club Atlético River Plate",
+    "Rayo Vallecano",
+    "Olympiacos F.C."
+  ]
+}

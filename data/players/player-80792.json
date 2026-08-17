@@ -1,0 +1,26 @@
+{
+  "player_id": 80792,
+  "full_name": "David Marcelo Pizarro Cortes",
+  "nationality": "Chile",
+  "birth_date": "1979-09-11",
+  "birth_place": "Valparaíso",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "13M €",
+      "team_out": "Inter",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Santiago Wanderers",
+    "Udinese Calcio",
+    "Club Universidad de Chile",
+    "Inter Milan",
+    "AS Roma",
+    "Manchester City F.C.",
+    "ACF Fiorentina",
+    "Santiago Wanderers",
+    "Club Universidad de Chile"
+  ]
+}

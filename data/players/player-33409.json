@@ -1,0 +1,28 @@
+{
+  "player_id": 33409,
+  "full_name": "Segundo Víctor Ibarbo Guerrero",
+  "nationality": "Colombia",
+  "birth_date": "1990-05-19",
+  "birth_place": "Cali",
+  "career_transfers": [
+    {
+      "date": "2015-07-03",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2015-02-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Nacional",
+    "Cagliari Calcio",
+    "AS Roma",
+    "Watford F.C.",
+    "Atlético Nacional"
+  ]
+}

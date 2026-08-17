@@ -1,0 +1,19 @@
+{
+  "player_id": 458543,
+  "full_name": "Matías Rodrigo Pérez Sepúlveda",
+  "nationality": "Chile",
+  "birth_date": "2005-04-13",
+  "birth_place": "Curicó",
+  "career_transfers": [
+    {
+      "date": "2025-07-19",
+      "type": "Transfer",
+      "team_out": "Curico Unido",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Curico Unido",
+    "Lecce"
+  ]
+}

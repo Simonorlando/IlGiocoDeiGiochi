@@ -1,0 +1,30 @@
+{
+  "player_id": 2426,
+  "full_name": "André Martín Carrillo Díaz",
+  "nationality": "Peru",
+  "birth_date": "1991-06-14",
+  "birth_place": "Lima",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Sporting CP",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 1M",
+      "team_out": "Alianza Lima",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Club Alianza Lima",
+    "Sporting CP",
+    "S.L. Benfica",
+    "Watford F.C.",
+    "Al Hilal SFC",
+    "Al Qadsiah FC",
+    "S.C. Corinthians Paulista"
+  ]
+}

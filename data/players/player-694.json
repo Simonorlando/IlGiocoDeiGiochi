@@ -1,0 +1,27 @@
+{
+  "player_id": 694,
+  "full_name": "Marlos Romero Bonfim",
+  "nationality": "Ukraine",
+  "birth_date": "1988-06-07",
+  "birth_place": "São José dos Pinhais",
+  "career_transfers": [
+    {
+      "date": "2022-02-01",
+      "type": "N/A",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Atletico Paranaense"
+    },
+    {
+      "date": "2014-07-04",
+      "type": "€ 8M",
+      "team_out": "Metalist",
+      "team_in": "Shakhtar Donetsk"
+    }
+  ],
+  "career_clubs": [
+    "Coritiba F.C.",
+    "São Paulo FC",
+    "FC Metalist Kharkiv",
+    "FC Shakhtar Donetsk"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 623,
+  "full_name": "Benjamin Mendy",
+  "nationality": "France",
+  "birth_date": "1994-07-17",
+  "birth_place": "Longjumeau",
+  "career_transfers": [
+    {
+      "date": "2017-07-24",
+      "type": "€ 57.5M",
+      "team_out": "Monaco",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 13M",
+      "team_out": "Marseille",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Le Havre AC",
+    "Olympique de Marseille",
+    "AS Monaco FC",
+    "Manchester City F.C.",
+    "F.C. Lorient",
+    "FC Zürich",
+    "Pogoń Szczecin"
+  ]
+}

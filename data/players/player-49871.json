@@ -1,0 +1,33 @@
+{
+  "player_id": 49871,
+  "full_name": "João Pedro da Silva Pereira",
+  "nationality": "Portugal",
+  "birth_date": "1984-02-25",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2015-01-29",
+      "type": "Free",
+      "team_out": "Valencia",
+      "team_in": "Hannover 96"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 3.7M",
+      "team_out": "Sporting CP",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Gil Vicente F.C.",
+    "S.C. Braga",
+    "Sporting CP",
+    "Valencia CF",
+    "Hannover 96",
+    "Sporting CP",
+    "Trabzonspor",
+    "Sporting CP"
+  ]
+}

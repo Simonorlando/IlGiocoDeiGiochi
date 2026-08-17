@@ -1,0 +1,39 @@
+{
+  "player_id": 288699,
+  "full_name": "Máximo Perrone",
+  "nationality": "Argentina",
+  "birth_date": "2003-01-07",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2024-08-25",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Como",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2025-07-17",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "Vélez Sarsfield",
+    "Manchester City",
+    "Las Palmas",
+    "Como"
+  ]
+}

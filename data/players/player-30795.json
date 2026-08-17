@@ -1,0 +1,27 @@
+{
+  "player_id": 30795,
+  "full_name": "Samir Caetano de Souza Santos",
+  "nationality": "Brazil",
+  "birth_date": "1994-12-05",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-01-18",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas do Flamengo",
+    "Granada CF",
+    "Watford F.C.",
+    "Tigres UANL"
+  ]
+}

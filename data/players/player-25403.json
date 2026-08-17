@@ -1,0 +1,19 @@
+{
+  "player_id": 25403,
+  "full_name": "Robin Knoche",
+  "nationality": "Germany",
+  "birth_date": "1992-05-22",
+  "birth_place": "Braunschweig",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "Free",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Union Berlin"
+    }
+  ],
+  "career_clubs": [
+    "VfL Wolfsburg",
+    "1. FC Union Berlin"
+  ]
+}

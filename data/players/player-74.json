@@ -1,0 +1,38 @@
+{
+  "player_id": 74,
+  "full_name": "Sofyan Amrabat",
+  "nationality": "Morocco",
+  "birth_date": "1996-08-21",
+  "birth_place": "Huizen",
+  "career_transfers": [
+    {
+      "date": "2020-01-30",
+      "type": "€ 3.2M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2019-08-22",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2018-08-24",
+      "type": "€ 2M",
+      "team_out": "Feyenoord",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "FC Utrecht",
+    "Feyenoord Rotterdam",
+    "Club Brugge K.V.",
+    "Hellas Verona FC",
+    "ACF Fiorentina",
+    "Manchester United F.C.",
+    "Fenerbahçe Istanbul",
+    "Real Betis Balompié",
+    "Fenerbahçe Istanbul"
+  ]
+}

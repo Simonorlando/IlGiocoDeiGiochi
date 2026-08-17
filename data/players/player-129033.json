@@ -1,0 +1,27 @@
+{
+  "player_id": 129033,
+  "full_name": "Joško Gvardiol",
+  "nationality": "Croatia",
+  "birth_date": "2002-01-23",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2023-08-05",
+      "type": "€ 90M",
+      "team_out": "RB Leipzig",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 18.8M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb",
+    "RB Leipzig",
+    "GNK Dinamo Zagreb",
+    "Manchester City F.C."
+  ]
+}

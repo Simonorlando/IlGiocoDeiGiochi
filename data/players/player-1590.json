@@ -1,0 +1,27 @@
+{
+  "player_id": 1590,
+  "full_name": "José Pedro Malheiro de Sá",
+  "nationality": "Portugal",
+  "birth_date": "1993-01-17",
+  "birth_place": "Braga",
+  "career_transfers": [
+    {
+      "date": "2021-07-15",
+      "type": "€ 8M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2018-08-31",
+      "type": "N/A",
+      "team_out": "FC Porto",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "C.S. Marítimo B",
+    "C.S. Marítimo",
+    "FC Porto B",
+    "FC Porto"
+  ]
+}

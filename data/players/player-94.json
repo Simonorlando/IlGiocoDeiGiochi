@@ -1,0 +1,29 @@
+{
+  "player_id": 94,
+  "full_name": "Ronaldo Aparecido Rodrigues",
+  "nationality": "Brazil",
+  "birth_date": "1982-09-10",
+  "birth_place": "Londrina",
+  "career_transfers": [
+    {
+      "date": "2019-01-03",
+      "type": "€ 2M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Pedrabranca Futebol Clube",
+    "Esporte Clube Juventude",
+    "SV Werder Bremen",
+    "VfL Wolfsburg",
+    "Schalke 04",
+    "Udinese Calcio"
+  ]
+}

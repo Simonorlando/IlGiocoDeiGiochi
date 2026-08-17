@@ -1,0 +1,31 @@
+{
+  "player_id": 15293,
+  "full_name": "Savvas Gentsoglou",
+  "nationality": "Greece",
+  "birth_date": "1990-09-19",
+  "birth_place": "Kavala",
+  "career_transfers": [
+    {
+      "date": "2018-07-17",
+      "type": "N/A",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2020-01-29",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Al-Adalah"
+    }
+  ],
+  "career_clubs": [
+    "AEK Athens F.C.",
+    "Panachaiki F.C.",
+    "A.O. Neas Ionias",
+    "U.C. Sampdoria",
+    "US Livorno 1915",
+    "Spezia Calcio",
+    "Ergotelis F.C.",
+    "SSC Bari"
+  ]
+}

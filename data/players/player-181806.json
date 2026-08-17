@@ -1,0 +1,24 @@
+{
+  "player_id": 181806,
+  "full_name": "Nicolò Savona",
+  "nationality": "Italy",
+  "birth_date": "2003-03-19",
+  "birth_place": "Aosta",
+  "career_transfers": [
+    {
+      "date": "2025-08-30",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Ashington AFC"
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Nottingham Forest"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC"
+  ]
+}

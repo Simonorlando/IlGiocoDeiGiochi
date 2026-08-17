@@ -1,0 +1,39 @@
+{
+  "player_id": 91385,
+  "full_name": "Giulio Migliaccio",
+  "nationality": "Italy",
+  "birth_date": "1981-06-23",
+  "birth_place": "Mugnano di Napoli",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "300K €",
+      "team_out": "Palermo",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "5M €",
+      "team_out": "Atalanta",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Savoia 1908 FC",
+    "Internapoli F.C.",
+    "S.S.D. Puteolana 1902 Internapoli",
+    "SSC Bari",
+    "S.S.C. Giugliano",
+    "Ternana Calcio",
+    "Atalanta BC",
+    "Palermo F.C.",
+    "ACF Fiorentina",
+    "Atalanta BC"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 134431,
+  "full_name": "Lorenzo Pirola",
+  "nationality": "Italy",
+  "birth_date": "2002-02-20",
+  "birth_place": "Carate Brianza",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

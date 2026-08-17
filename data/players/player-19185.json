@@ -1,0 +1,19 @@
+{
+  "player_id": 19185,
+  "full_name": "Keinan Vincent Joseph Davis",
+  "nationality": "England",
+  "birth_date": "1998-02-13",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "€ 2.3M",
+      "team_out": "Aston Villa",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Stevenage F.C.",
+    "Aston Villa F.C."
+  ]
+}

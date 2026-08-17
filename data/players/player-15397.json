@@ -1,0 +1,42 @@
+{
+  "player_id": 15397,
+  "full_name": "Ivan Vargić",
+  "nationality": "Croatia",
+  "birth_date": "1987-03-15",
+  "birth_place": "Osijek",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Koper"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Anorthosis",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2018-08-30",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Anorthosis"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "HNK Rijeka",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "NK Osijek",
+    "HNK Vukovar '91",
+    "FC Honka",
+    "HNK Rijeka",
+    "SS Lazio",
+    "Anorthosis Famagusta FC",
+    "FC Koper"
+  ]
+}

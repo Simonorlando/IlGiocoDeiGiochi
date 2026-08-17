@@ -1,0 +1,26 @@
+{
+  "player_id": 33071,
+  "full_name": "Atsuto Uchida",
+  "nationality": "Japan",
+  "birth_date": "1988-03-27",
+  "birth_place": "Kannami",
+  "career_transfers": [
+    {
+      "date": "2017-08-21",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Union Berlin"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 1.3M",
+      "team_out": "Kashima",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Kashima Antlers",
+    "Schalke 04",
+    "1. FC Union Berlin"
+  ]
+}

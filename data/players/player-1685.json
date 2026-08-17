@@ -1,0 +1,21 @@
+{
+  "player_id": 1685,
+  "full_name": "Daniele Bonera",
+  "nationality": "Italy",
+  "birth_date": "1981-05-31",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2015-09-01",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "Parma Calcio 1913",
+    "AC Milan",
+    "Villarreal CF"
+  ]
+}

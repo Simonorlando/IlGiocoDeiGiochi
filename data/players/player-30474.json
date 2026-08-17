@@ -1,0 +1,26 @@
+{
+  "player_id": 30474,
+  "full_name": "Federico Mattiello",
+  "nationality": "Italy",
+  "birth_date": "1995-07-14",
+  "birth_place": "Barga",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2020-09-15",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "AC ChievoVerona",
+    "Atalanta BC"
+  ]
+}

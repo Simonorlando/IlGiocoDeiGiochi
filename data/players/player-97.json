@@ -1,0 +1,38 @@
+{
+  "player_id": 97,
+  "full_name": "Kamil Jacek Glik",
+  "nationality": "Poland",
+  "birth_date": "1988-02-03",
+  "birth_place": "Jastrzębie Zdrój",
+  "career_transfers": [
+    {
+      "date": "2011-07-12",
+      "type": "€ 300K",
+      "team_out": "Palermo",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2011-01-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 1.5M",
+      "team_out": "Piast Gliwice",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "UD Horadada",
+    "Real Madrid C",
+    "Piast Gliwice",
+    "Palermo F.C.",
+    "SSC Bari",
+    "Torino FC",
+    "AS Monaco FC",
+    "Benevento Calcio",
+    "KS Cracovia"
+  ]
+}

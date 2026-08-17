@@ -1,0 +1,35 @@
+{
+  "player_id": 573,
+  "full_name": "Rafael Alexandre Fernandes Ferreira da Silva",
+  "nationality": "Portugal",
+  "birth_date": "1993-05-17",
+  "birth_place": "Forte da Casa",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "€ 16.4M",
+      "team_out": "SC Braga",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Transfer",
+      "team_out": "Beşiktaş",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "C.D. Feirense",
+    "S.C. Braga",
+    "S.C. Braga B",
+    "S.L. Benfica",
+    "Beşiktaş J.K. (Football)",
+    "S.L. Benfica"
+  ]
+}

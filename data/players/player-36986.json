@@ -1,0 +1,18 @@
+{
+  "player_id": 36986,
+  "full_name": "Dennis Tørset Johnsen",
+  "nationality": "Norway",
+  "birth_date": "1998-02-17",
+  "birth_place": "Skien",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax"
+  ]
+}

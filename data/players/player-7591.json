@@ -1,0 +1,24 @@
+{
+  "player_id": 7591,
+  "full_name": "Sandi Lovrić",
+  "nationality": "Slovenia",
+  "birth_date": "1998-03-28",
+  "birth_place": "Lienz",
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Hellas Verona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "SK Sturm Graz"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 91577,
+  "full_name": "Francesco Benussi",
+  "nationality": "Italy",
+  "birth_date": "1981-10-15",
+  "birth_place": "Mestre",
+  "career_transfers": [
+    {
+      "date": "2009-08-01",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C.",
+    "A.C. Lumezzane",
+    "Ascoli Calcio 1898 FC",
+    "S.S. Arezzo",
+    "US Lecce",
+    "Siena FC",
+    "US Livorno 1915",
+    "Palermo F.C.",
+    "Torino FC",
+    "Udinese Calcio",
+    "Hellas Verona FC",
+    "A.C. Carpi",
+    "Vicenza Calcio"
+  ]
+}

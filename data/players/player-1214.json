@@ -1,0 +1,20 @@
+{
+  "player_id": 1214,
+  "full_name": "Claudio Marchisio",
+  "nationality": "Italy",
+  "birth_date": "1986-01-19",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2007-08-24",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Empoli FC",
+    "FC Zenit Saint Petersburg"
+  ]
+}

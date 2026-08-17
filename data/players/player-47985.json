@@ -1,0 +1,48 @@
+{
+  "player_id": 47985,
+  "full_name": "Emil Alfons Holm",
+  "nationality": "Sweden",
+  "birth_date": "2000-05-13",
+  "birth_place": "Göteborg",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 7.7M",
+      "team_out": "Spezia",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Sonderjyske",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Sonderjyske"
+    },
+    {
+      "date": "2021-08-26",
+      "type": "N/A",
+      "team_out": "Sonderjyske",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "IFK Göteborg",
+    "SønderjyskE",
+    "Spezia",
+    "SønderjyskE",
+    "Atalanta",
+    "Bologna",
+    "Juventus"
+  ]
+}

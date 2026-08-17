@@ -1,0 +1,24 @@
+{
+  "player_id": 140831,
+  "full_name": "Zito André Sebastião Luvumbo",
+  "nationality": "Angola",
+  "birth_date": "2002-03-09",
+  "birth_place": "Luanda",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2021-07-27",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Clube Desportivo Primeiro de Agosto"
+  ]
+}

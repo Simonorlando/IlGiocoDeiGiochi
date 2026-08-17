@@ -1,0 +1,40 @@
+{
+  "player_id": 571,
+  "full_name": "Ljubomir Fejsa",
+  "nationality": "Serbia",
+  "birth_date": "1988-08-14",
+  "birth_place": "Vrbas",
+  "career_transfers": [
+    {
+      "date": "2020-09-24",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "Al-Ahli Jeddah"
+    },
+    {
+      "date": "2020-08-04",
+      "type": "N/A",
+      "team_out": "Alaves",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2020-01-29",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Alaves"
+    },
+    {
+      "date": "2013-08-24",
+      "type": "€ 3M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "FK Hajduk Kula",
+    "FK Partizan",
+    "Olympiacos F.C.",
+    "S.L. Benfica",
+    "S.L. Benfica B"
+  ]
+}

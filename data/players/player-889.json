@@ -1,0 +1,35 @@
+{
+  "player_id": 889,
+  "full_name": "Victor Jörgen Nilsson Lindelöf",
+  "nationality": "Sweden",
+  "birth_date": "1994-07-17",
+  "birth_place": "Västerås",
+  "career_transfers": [
+    {
+      "date": "2017-06-14",
+      "type": "€ 35M",
+      "team_out": "Benfica",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2012-04-15",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Vasteras SK FK"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "N/A",
+      "team_out": "Vasteras SK FK",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Västerås SK Fotboll",
+    "Västerås IK",
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Manchester United F.C.",
+    "Aston Villa F.C."
+  ]
+}

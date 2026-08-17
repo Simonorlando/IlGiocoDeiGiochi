@@ -1,0 +1,26 @@
+{
+  "player_id": 134432,
+  "full_name": "Edoardo Vergani",
+  "nationality": "Italy",
+  "birth_date": "2001-02-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Pescara",
+      "team_in": "Sudtirol"
+    }
+  ],
+  "career_clubs": [
+    "Salernitana",
+    "Pescara",
+    "Sudtirol"
+  ]
+}

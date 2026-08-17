@@ -1,0 +1,19 @@
+{
+  "player_id": 19617,
+  "full_name": "Michael Akpovie Olise",
+  "nationality": "France",
+  "birth_date": "2001-12-12",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2024-07-07",
+      "type": "€ 53M",
+      "team_out": "Crystal Palace",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Crystal Palace F.C.",
+    "FC Bayern Munich"
+  ]
+}

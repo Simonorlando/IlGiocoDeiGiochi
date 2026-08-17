@@ -1,0 +1,29 @@
+{
+  "player_id": 53702,
+  "full_name": "Bojan Jokić",
+  "nationality": "Slovenia",
+  "birth_date": "1986-05-17",
+  "birth_place": "Kranj",
+  "career_transfers": [
+    {
+      "date": "2016-01-01",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "NK Triglav Kranj",
+    "ND Gorica",
+    "FC Sochaux-Montbéliard",
+    "AC ChievoVerona",
+    "Villarreal CF",
+    "Nottingham Forest F.C."
+  ]
+}

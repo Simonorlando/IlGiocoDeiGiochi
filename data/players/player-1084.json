@@ -1,0 +1,30 @@
+{
+  "player_id": 1084,
+  "full_name": "Marin Pongračić",
+  "nationality": "Croatia",
+  "birth_date": "1997-09-11",
+  "birth_place": "Landshut",
+  "career_transfers": [
+    {
+      "date": "2024-07-19",
+      "type": "€ 15M",
+      "team_out": "Lecce",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 2M",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2022-08-22",
+      "type": "Loan",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "player_id": 2780,
+  "full_name": "Victor James Osimhen",
+  "nationality": "Nigeria",
+  "birth_date": "1998-12-29",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2024-09-04",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2025-07-31",
+      "type": "Transfer",
+      "team_out": "Napoli",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "VfL Wolfsburg",
+    "Royal Charleroi S.C.",
+    "Lille OSC",
+    "SSC Napoli",
+    "Galatasaray S.K."
+  ]
+}

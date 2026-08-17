@@ -1,0 +1,30 @@
+{
+  "player_id": 31624,
+  "full_name": "Gabriel Tadeu Strefezza Rebelato",
+  "nationality": "Brazil",
+  "birth_date": "1997-04-18",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 5M",
+      "team_out": "Lecce",
+      "team_in": "Como"
+    },
+    {
+      "date": "2024-01-29",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "SPAL"
+  ]
+}

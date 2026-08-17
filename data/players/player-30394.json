@@ -1,0 +1,25 @@
+{
+  "player_id": 30394,
+  "full_name": "Pietro Terracciano",
+  "nationality": "Italy",
+  "birth_date": "1990-03-08",
+  "birth_place": "San Felice a Cancello",
+  "career_transfers": [
+    {
+      "date": "2015-09-17",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Avellino 1912",
+    "Nocerina 1910",
+    "S.S. Milazzo",
+    "Catania FC",
+    "U.S. Avellino 1912",
+    "Catania FC",
+    "U.S. Salernitana 1919",
+    "Empoli FC"
+  ]
+}

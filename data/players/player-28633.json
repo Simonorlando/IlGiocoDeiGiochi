@@ -1,0 +1,60 @@
+{
+  "player_id": 28633,
+  "full_name": "Michael Rabušic",
+  "nationality": "Czechia",
+  "birth_date": "1989-09-17",
+  "birth_place": "Trebic",
+  "career_transfers": [
+    {
+      "date": "2016-08-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Vysočina Jihlava"
+    },
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "Slovan Liberec",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2015-07-20",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Slovan Liberec"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2014-08-12",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Slovan Liberec",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FC Vysočina Jihlava",
+    "FC Zbrojovka Brno",
+    "FC Slovan Liberec",
+    "Hellas Verona FC",
+    "A.C. Perugia Calcio",
+    "F.C. Crotone",
+    "FC Slovan Liberec"
+  ]
+}

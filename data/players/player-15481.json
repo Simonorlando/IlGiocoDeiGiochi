@@ -1,0 +1,27 @@
+{
+  "player_id": 15481,
+  "full_name": "Nektarios Alexandrou",
+  "nationality": "Cyprus",
+  "birth_date": "1983-12-19",
+  "birth_place": "Nicosia",
+  "career_transfers": [
+    {
+      "date": "2019-01-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Doxa"
+    },
+    {
+      "date": "2008-08-28",
+      "type": "N/A",
+      "team_out": "Larisa",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "APOEL F.C.",
+    "Athlitiki Enosi Larissa F.C.",
+    "APOEL F.C.",
+    "Doxa Katokopias F.C."
+  ]
+}

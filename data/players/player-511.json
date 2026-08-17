@@ -1,0 +1,26 @@
+{
+  "player_id": 511,
+  "full_name": "Leon Christoph Goretzka",
+  "nationality": "Germany",
+  "birth_date": "1995-02-06",
+  "birth_place": "Bochum",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2013-07-02",
+      "type": "€ 3.3M",
+      "team_out": "VfL Bochum",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "VfL Bochum",
+    "Schalke 04",
+    "FC Bayern Munich"
+  ]
+}

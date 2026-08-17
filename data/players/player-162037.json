@@ -1,0 +1,39 @@
+{
+  "player_id": 162037,
+  "full_name": "Malik Leon Tillman",
+  "nationality": "USA",
+  "birth_date": "2002-05-28",
+  "birth_place": "Nürnberg",
+  "career_transfers": [
+    {
+      "date": "2024-06-24",
+      "type": "€ 12M",
+      "team_out": "Bayern München",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2023-08-10",
+      "type": "Loan",
+      "team_out": "Bayern München",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-07-12",
+      "type": "Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Rangers F.C.",
+    "PSV Eindhoven",
+    "Bayer 04 Leverkusen"
+  ]
+}

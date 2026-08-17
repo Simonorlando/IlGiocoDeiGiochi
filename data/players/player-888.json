@@ -1,0 +1,19 @@
+{
+  "player_id": 888,
+  "full_name": "Phil Anthony Jones",
+  "nationality": "England",
+  "birth_date": "1992-02-21",
+  "birth_place": "Preston",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 19.3M",
+      "team_out": "Blackburn",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Blackburn Rovers F.C.",
+    "Manchester United F.C."
+  ]
+}

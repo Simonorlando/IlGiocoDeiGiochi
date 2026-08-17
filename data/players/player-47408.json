@@ -1,0 +1,23 @@
+{
+  "player_id": 47408,
+  "full_name": "Jonathan Cristian Silva",
+  "nationality": "Argentina",
+  "birth_date": "1994-06-29",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "Sporting CP",
+    "Sporting CP B",
+    "Sporting CP",
+    "Boca Juniors",
+    "AS Roma"
+  ]
+}

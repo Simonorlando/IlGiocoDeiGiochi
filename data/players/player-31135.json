@@ -1,0 +1,26 @@
+{
+  "player_id": 31135,
+  "full_name": "Aleš Matějů",
+  "nationality": "Czechia",
+  "birth_date": "1996-06-03",
+  "birth_place": "Příbram",
+  "career_transfers": [
+    {
+      "date": "2024-01-24",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2022-08-03",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FK Příbram",
+    "FC Viktoria Plzeň",
+    "Brescia Calcio"
+  ]
+}

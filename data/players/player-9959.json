@@ -1,0 +1,31 @@
+{
+  "player_id": 9959,
+  "full_name": "Anderson Hernanes de Carvalho Andrade",
+  "nationality": "Brazil",
+  "birth_date": "1985-05-29",
+  "birth_place": "Recife",
+  "career_transfers": [
+    {
+      "date": "2015-08-31",
+      "type": "€ 11M",
+      "team_out": "Inter",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "€ 15M",
+      "team_out": "Lazio",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Esporte Clube Santo André",
+    "SS Lazio",
+    "Inter Milan",
+    "Juventus FC",
+    "Hebei F.C.",
+    "São Paulo FC",
+    "Sport Club do Recife"
+  ]
+}

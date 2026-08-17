@@ -1,0 +1,26 @@
+{
+  "player_id": 67955,
+  "full_name": "Carles Pérez Sayol",
+  "nationality": "Spain",
+  "birth_date": "1998-02-16",
+  "birth_place": "Granollers",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 11M",
+      "team_out": "Barcelona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "RC Celta de Vigo"
+  ]
+}

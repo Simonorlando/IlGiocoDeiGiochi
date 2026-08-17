@@ -1,0 +1,30 @@
+{
+  "player_id": 11425,
+  "full_name": "Carlos Emilio Carmona Tello",
+  "nationality": "Chile",
+  "birth_date": "1987-02-21",
+  "birth_place": "Coquimbo",
+  "career_transfers": [
+    {
+      "date": "2017-02-14",
+      "type": "Free",
+      "team_out": "Atalanta",
+      "team_in": "Atlanta United FC"
+    },
+    {
+      "date": "2010-08-27",
+      "type": "€ 2.6M",
+      "team_out": "Reggina",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Coquimbo Unido",
+    "AS Reggina 1914",
+    "O'Higgins F.C.",
+    "Atalanta BC",
+    "Atlanta United FC",
+    "Club Social y Deportivo Colo Colo",
+    "Coquimbo Unido"
+  ]
+}

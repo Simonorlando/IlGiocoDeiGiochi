@@ -1,0 +1,19 @@
+{
+  "player_id": 453906,
+  "full_name": "Honest Ahanor",
+  "nationality": "Italy",
+  "birth_date": "2008-02-23",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-04",
+      "type": "Transfer",
+      "team_out": "Genoa",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Atalanta BC"
+  ]
+}

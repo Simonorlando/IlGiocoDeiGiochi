@@ -1,0 +1,31 @@
+{
+  "player_id": 40582,
+  "full_name": "Sebastian Wiktor Walukiewicz",
+  "nationality": "Poland",
+  "birth_date": "2000-04-05",
+  "birth_place": "Gorzów Wielkopolski",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 5M",
+      "team_out": "Empoli",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 1M",
+      "team_out": "Cagliari",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Legia Warsaw",
+    "Pogoń Szczecin"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "player_id": 31490,
+  "full_name": "Alessandro Bruno",
+  "nationality": "Italy",
+  "birth_date": "1983-07-04",
+  "birth_place": "Benevento",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Casarano"
+    },
+    {
+      "date": "2019-01-23",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Benevento",
+    "Pro Vasto",
+    "Taranto",
+    "Nocerina",
+    "Val Di Sangro",
+    "Catanzaro",
+    "Nocerina",
+    "Latina",
+    "Pescara",
+    "Livorno",
+    "Pescara",
+    "Casarano",
+    "San Nicolò Notaresco"
+  ]
+}

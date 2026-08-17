@@ -1,0 +1,34 @@
+{
+  "player_id": 551,
+  "full_name": "Klaas-Jan Huntelaar",
+  "nationality": "Netherlands",
+  "birth_date": "1983-08-12",
+  "birth_place": "Voor-Drempt",
+  "career_transfers": [
+    {
+      "date": "2009-08-07",
+      "type": "€ 15M",
+      "team_out": "Real Madrid",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "€ 27M",
+      "team_out": "Ajax",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "PSV Eindhoven",
+    "De Graafschap",
+    "AGOVV Apeldoorn",
+    "SC Heerenveen",
+    "AFC Ajax",
+    "Real Madrid Club de Fútbol",
+    "AC Milan",
+    "Schalke 04",
+    "AFC Ajax",
+    "Schalke 04",
+    "Hessen Combinatie '03"
+  ]
+}

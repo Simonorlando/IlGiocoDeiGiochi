@@ -1,0 +1,49 @@
+{
+  "player_id": 30605,
+  "full_name": "Giuseppe De Luca",
+  "nationality": "Italy",
+  "birth_date": "1991-10-11",
+  "birth_place": "Angera",
+  "career_transfers": [
+    {
+      "date": "2022-08-09",
+      "type": "Free",
+      "team_out": "Triestina",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2024-01-19",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Pergolettese"
+    },
+    {
+      "date": "2024-07-01",
+      "type": null,
+      "team_out": "Pergolettese",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Varese U19",
+    "Varese",
+    "Atalanta",
+    "Varese",
+    "Atalanta",
+    "Bari",
+    "Atalanta",
+    "L.R. Vicenza",
+    "Atalanta",
+    "Virtus Entella",
+    "Atalanta",
+    "Virtus Entella",
+    "CFR 1907 Cluj",
+    "Virtus Entella",
+    "Triestina",
+    "Catania",
+    "Pergolettese",
+    "Catania",
+    "Pompei",
+    "Legnano"
+  ]
+}

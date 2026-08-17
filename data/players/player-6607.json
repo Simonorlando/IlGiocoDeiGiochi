@@ -1,0 +1,26 @@
+{
+  "player_id": 6607,
+  "full_name": "Gonzalo Javier Rodríguez",
+  "nationality": "Argentina",
+  "birth_date": "1984-04-10",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2012-08-03",
+      "type": "€ 1.5M",
+      "team_out": "Villarreal",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "N/A",
+      "team_out": "San Lorenzo",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro",
+    "Villarreal CF",
+    "ACF Fiorentina"
+  ]
+}

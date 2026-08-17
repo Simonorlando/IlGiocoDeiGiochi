@@ -1,0 +1,54 @@
+{
+  "player_id": 387,
+  "full_name": "Fernando Andrade dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1993-01-08",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Casa Pia"
+    },
+    {
+      "date": "2022-01-01",
+      "type": "N/A",
+      "team_out": "Al-Fayha",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2021-08-01",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Rizespor",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2020-10-02",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Rizespor"
+    },
+    {
+      "date": "2019-08-09",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Sivasspor"
+    },
+    {
+      "date": "2019-01-04",
+      "type": "N/A",
+      "team_out": "Santa Clara",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Vissel Kobe"
+  ]
+}

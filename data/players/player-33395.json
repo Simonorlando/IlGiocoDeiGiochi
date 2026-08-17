@@ -1,0 +1,47 @@
+{
+  "player_id": 33395,
+  "full_name": "Juan Isaac Cuenca López",
+  "nationality": "Spain",
+  "birth_date": "1991-04-27",
+  "birth_place": "Reus",
+  "career_transfers": [
+    {
+      "date": "2014-07-11",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Deportivo La Coruna"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Ajax",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2010-09-02",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Sabadell"
+    }
+  ],
+  "career_clubs": [
+    "Barcelona Atlètic",
+    "CE Sabadell",
+    "Barcelona Atlètic",
+    "FC Barcelona",
+    "AFC Ajax",
+    "FC Barcelona",
+    "Deportivo de A Coruña",
+    "Bursaspor",
+    "Granada",
+    "Hapoel Be'er Sheva",
+    "Sagan Tosu",
+    "Vegalta Sendai"
+  ]
+}

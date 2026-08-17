@@ -1,0 +1,61 @@
+{
+  "player_id": 19194,
+  "full_name": "Tammy Bakumo-Abraham",
+  "nationality": "England",
+  "birth_date": "1997-10-02",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2021-08-17",
+      "type": "€ 40M",
+      "team_out": "Chelsea",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "AC Milan",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-01-24",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-01-24",
+      "type": "Return from loan",
+      "team_out": "Beşiktaş",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea",
+    "Bristol City",
+    "Swansea City",
+    "Aston Villa",
+    "Roma",
+    "AC Milan",
+    "Beşiktaş",
+    "Aston Villa"
+  ]
+}

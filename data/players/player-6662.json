@@ -1,0 +1,18 @@
+{
+  "player_id": 6662,
+  "full_name": "Santiago Daniel Pierotti",
+  "nationality": "Argentina",
+  "birth_date": "2001-04-03",
+  "birth_place": "Pilar",
+  "career_transfers": [
+    {
+      "date": "2024-01-16",
+      "type": "€ 1.2M",
+      "team_out": "Colon Santa Fe",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Colón"
+  ]
+}

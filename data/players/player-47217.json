@@ -1,0 +1,36 @@
+{
+  "player_id": 47217,
+  "full_name": "Salvador Ferrer Canals",
+  "nationality": "Spain",
+  "birth_date": "1998-01-21",
+  "birth_place": "Martorell",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Anorthosis",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-09-02",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Anorthosis"
+    },
+    {
+      "date": "2019-08-09",
+      "type": "N/A",
+      "team_out": "Gimnastic",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2025-07-13",
+      "type": "Free Transfer",
+      "team_out": "Spezia",
+      "team_in": "Europa Fc"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 22134,
+  "full_name": "Kelvin Amian Adou",
+  "nationality": "France",
+  "birth_date": "1998-02-08",
+  "birth_place": "Toulouse",
+  "career_transfers": [
+    {
+      "date": "2024-01-25",
+      "type": "€ 3M",
+      "team_out": "Spezia",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2021-07-22",
+      "type": "€ 3.9M",
+      "team_out": "Toulouse",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Balma SC",
+    "Toulouse FC"
+  ]
+}

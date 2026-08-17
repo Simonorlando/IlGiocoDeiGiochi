@@ -1,0 +1,35 @@
+{
+  "player_id": 50856,
+  "full_name": "Valentín Mariano José Castellanos Giménez",
+  "nationality": "Argentina",
+  "birth_date": "1998-10-03",
+  "birth_place": "Mendoza",
+  "career_transfers": [
+    {
+      "date": "2023-07-21",
+      "type": "€ 15M",
+      "team_out": "New York City FC",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2026-01-04",
+      "type": "Transfer",
+      "team_out": "Lazio",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2026-01-03",
+      "type": "Transfer",
+      "team_out": "Lazio",
+      "team_in": "West Ham"
+    }
+  ],
+  "career_clubs": [
+    "Club Universidad de Chile",
+    "Montevideo City Torque",
+    "New York City FC",
+    "Girona FC",
+    "SS Lazio",
+    "West Ham United F.C."
+  ]
+}

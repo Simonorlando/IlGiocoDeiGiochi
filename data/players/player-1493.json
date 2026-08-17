@@ -1,0 +1,22 @@
+{
+  "player_id": 1493,
+  "full_name": "Marcos Javier Acuña",
+  "nationality": "Argentina",
+  "birth_date": "1991-10-28",
+  "birth_place": "Zapala",
+  "career_transfers": [
+    {
+      "date": "2024-08-20",
+      "type": "€ 1M",
+      "team_out": "Sevilla",
+      "team_in": "River Plate"
+    }
+  ],
+  "career_clubs": [
+    "Ferro Carril Oeste",
+    "Racing Club",
+    "Boca Juniors",
+    "Sporting CP",
+    "Sevilla FC"
+  ]
+}

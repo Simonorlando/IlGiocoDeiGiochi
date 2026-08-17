@@ -1,0 +1,37 @@
+{
+  "player_id": 770,
+  "full_name": "Rick Karsdorp",
+  "nationality": "Netherlands",
+  "birth_date": "1995-02-11",
+  "birth_place": "Schoonhoven",
+  "career_transfers": [
+    {
+      "date": "2024-08-31",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Feyenoord",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-08-07",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Feyenoord"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 14M",
+      "team_out": "Feyenoord",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "AS Roma"
+  ]
+}

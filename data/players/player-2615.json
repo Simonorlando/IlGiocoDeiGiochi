@@ -1,0 +1,26 @@
+{
+  "player_id": 2615,
+  "full_name": "Maximiliano Gómez González",
+  "nationality": "Uruguay",
+  "birth_date": "1996-08-14",
+  "birth_place": "Paysandú",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "€ 3M",
+      "team_out": "Valencia",
+      "team_in": "Trabzonspor"
+    },
+    {
+      "date": "2019-07-14",
+      "type": "€ 14.5M",
+      "team_out": "Celta Vigo",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "RC Celta de Vigo",
+    "Valencia CF"
+  ]
+}

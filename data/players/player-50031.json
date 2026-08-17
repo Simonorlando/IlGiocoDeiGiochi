@@ -1,0 +1,22 @@
+{
+  "player_id": 50031,
+  "full_name": "Armand Traoré",
+  "nationality": "Senegal",
+  "birth_date": "1989-10-08",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2010-09-01",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal F.C.",
+    "Portsmouth F.C.",
+    "Juventus FC",
+    "Queens Park Rangers F.C.",
+    "Racing Club de France"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 6376,
+  "full_name": "Adrián Daniel Calello",
+  "nationality": "Argentina",
+  "birth_date": "1987-05-14",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2013-07-18",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2013-01-30",
+      "type": "N/A",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Independiente",
+    "GNK Dinamo Zagreb",
+    "Siena FC",
+    "AC ChievoVerona",
+    "Catania FC",
+    "Quilmes Atlético Club"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "player_id": 35142,
+  "full_name": "Maurício dos Santos Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1988-09-20",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2018-02-28",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Legia Warszawa"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Spartak Moscow",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-08-29",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 2.7M",
+      "team_out": "Sporting CP",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2015-01-21",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Clube de Regatas Brasil",
+    "Sociedade Esportiva Palmeiras",
+    "Associação Portuguesa de Desportos",
+    "Grêmio FBPA",
+    "E.C. Vitória",
+    "Joinville Esporte Clube",
+    "Sport Club do Recife",
+    "Sporting CP",
+    "SS Lazio",
+    "Sociedade Esportiva Palmeiras B"
+  ]
+}

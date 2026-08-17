@@ -1,0 +1,41 @@
+{
+  "player_id": 2472,
+  "full_name": "Rodrigo Javier De Paul",
+  "nationality": "Argentina",
+  "birth_date": "1994-05-24",
+  "birth_place": "Sarandí",
+  "career_transfers": [
+    {
+      "date": "2016-07-20",
+      "type": "€ 3M",
+      "team_out": "Valencia",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Racing Club",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Racing Club"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 4.7M",
+      "team_out": "Racing Club",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Valencia CF",
+    "Racing Club",
+    "Udinese Calcio",
+    "Atlético Madrid",
+    "Inter Miami CF"
+  ]
+}

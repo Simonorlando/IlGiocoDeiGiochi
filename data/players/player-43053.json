@@ -1,0 +1,42 @@
+{
+  "player_id": 43053,
+  "full_name": "Matteo Fedele",
+  "nationality": "Switzerland",
+  "birth_date": "1992-07-20",
+  "birth_place": "Lausanne",
+  "career_transfers": [
+    {
+      "date": "2017-08-17",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Foggia"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Carpi"
+    },
+    {
+      "date": "2016-08-30",
+      "type": "Loan",
+      "team_out": "Carpi",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "FC Sion",
+    "Grasshopper Club Zürich",
+    "A.C. Carpi",
+    "SSC Bari",
+    "Calcio Foggia 1920",
+    "AC Cesena",
+    "CS Universitatea Craiova",
+    "Valenciennes F.C.",
+    "CS Universitatea Craiova",
+    "Ħamrun Spartans F.C.",
+    "Birkirkara F.C.",
+    "AFC Chindia Târgoviște",
+    "US Atletico Uri"
+  ]
+}

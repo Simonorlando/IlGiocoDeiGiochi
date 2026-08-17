@@ -1,0 +1,29 @@
+{
+  "player_id": 189,
+  "full_name": "Daniele Padelli",
+  "nationality": "Italy",
+  "birth_date": "1985-10-25",
+  "birth_place": "Lecco",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "U.C. Sampdoria",
+    "U.S. Pergolettese 1932",
+    "A.S. Pizzighettone",
+    "F.C. Crotone",
+    "Liverpool F.C.",
+    "Pisa SC",
+    "U.S. Avellino 1912",
+    "SSC Bari",
+    "Udinese Calcio",
+    "Torino FC",
+    "Inter Milan"
+  ]
+}

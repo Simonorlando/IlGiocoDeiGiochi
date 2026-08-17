@@ -1,0 +1,32 @@
+{
+  "player_id": 181218,
+  "full_name": "Álex Sala Herrero",
+  "nationality": "Spain",
+  "birth_date": "2001-04-09",
+  "birth_place": "Barcelona",
+  "career_transfers": [
+    {
+      "date": "2025-08-24",
+      "type": "Transfer",
+      "team_out": "Cordoba",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-08-22",
+      "type": "Transfer",
+      "team_out": "Cordoba",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Mallorca"
+    }
+  ],
+  "career_clubs": [
+    "Cordoba",
+    "Lecce",
+    "Mallorca"
+  ]
+}

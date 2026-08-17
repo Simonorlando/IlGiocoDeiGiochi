@@ -1,0 +1,33 @@
+{
+  "player_id": 43036,
+  "full_name": "Dennis Man",
+  "nationality": "Romania",
+  "birth_date": "1998-08-26",
+  "birth_place": "Arad",
+  "career_transfers": [
+    {
+      "date": "2021-01-29",
+      "type": "N/A",
+      "team_out": "FCSB",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-08-12",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2025-08-11",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "FC UTA Arad",
+    "FCSB",
+    "Parma Calcio 1913",
+    "PSV Eindhoven"
+  ]
+}

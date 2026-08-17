@@ -1,0 +1,27 @@
+{
+  "player_id": 32133,
+  "full_name": "Accursio Bentivegna",
+  "nationality": "Italy",
+  "birth_date": "1996-06-21",
+  "birth_place": "Sciacca",
+  "career_transfers": [
+    {
+      "date": "2016-01-29",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Como 1907",
+    "Italy under-21 Serie B representative team",
+    "Ascoli Calcio 1898 FC"
+  ]
+}

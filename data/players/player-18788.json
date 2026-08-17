@@ -1,0 +1,22 @@
+{
+  "player_id": 18788,
+  "full_name": "Jamie Richard Vardy",
+  "nationality": "England",
+  "birth_date": "1987-01-11",
+  "birth_place": "Sheffield",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Free Transfer",
+      "team_out": "Leicester",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Stocksbridge Park Steels F.C.",
+    "FC Halifax Town",
+    "Fleetwood Town F.C.",
+    "Leicester City F.C.",
+    "US Cremonese"
+  ]
+}

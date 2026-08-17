@@ -1,0 +1,29 @@
+{
+  "player_id": 745,
+  "full_name": "Francisco Román Alarcón Suárez",
+  "nationality": "Spain",
+  "birth_date": "1992-04-21",
+  "birth_place": "Benalmádena",
+  "career_transfers": [
+    {
+      "date": "2022-08-07",
+      "type": "Free",
+      "team_out": "Real Madrid",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 30M",
+      "team_out": "Malaga",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "Valencia CF",
+    "Málaga CF",
+    "Real Madrid Club de Fútbol",
+    "Sevilla FC",
+    "Real Betis Balompié"
+  ]
+}

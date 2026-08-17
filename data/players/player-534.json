@@ -1,0 +1,28 @@
+{
+  "player_id": 534,
+  "full_name": "Lisandro Magallán",
+  "nationality": "Argentina",
+  "birth_date": "1993-09-27",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2020-09-04",
+      "type": "Loan",
+      "team_out": "Ajax",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Club de Gimnasia y Esgrima La Plata",
+    "Boca Juniors",
+    "Club Atlético Rosario Central",
+    "Boca Juniors",
+    "Defensa y Justicia"
+  ]
+}

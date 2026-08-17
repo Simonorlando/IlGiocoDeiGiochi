@@ -1,0 +1,19 @@
+{
+  "player_id": 328141,
+  "full_name": "Thomas Beelen",
+  "nationality": "Netherlands",
+  "birth_date": "2001-06-11",
+  "birth_place": "Harderwijk",
+  "career_transfers": [
+    {
+      "date": "2023-07-08",
+      "type": "€ 2.7M",
+      "team_out": "PEC Zwolle",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "PEC Zwolle",
+    "Feyenoord"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 37265,
+  "full_name": "Alexander Merkel",
+  "nationality": "Kazakhstan",
+  "birth_date": "1992-02-22",
+  "birth_place": "Almaty",
+  "career_transfers": [
+    {
+      "date": "2016-08-15",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "VfL Bochum"
+    },
+    {
+      "date": "2016-07-22",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Genoa CFC",
+    "AC Milan",
+    "Udinese Calcio",
+    "Watford F.C.",
+    "Grasshopper Club Zürich",
+    "VfB Stuttgart",
+    "Heracles Almelo"
+  ]
+}

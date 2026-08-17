@@ -1,0 +1,35 @@
+{
+  "player_id": 115454,
+  "full_name": "Davide Possanzini",
+  "nationality": "Italy",
+  "birth_date": "1976-02-09",
+  "birth_place": "Loreto",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "€ 1.9M",
+      "team_out": "Albinoleffe",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "U.S.D. Recanatese 1923",
+    "Torino FC",
+    "Calcio Lecco 1912",
+    "Varese Calcio",
+    "AS Reggina 1914",
+    "U.C. Sampdoria",
+    "Catania FC",
+    "U.C. AlbinoLeffe",
+    "Palermo F.C.",
+    "Brescia Calcio",
+    "FC Lugano",
+    "US Cremonese"
+  ]
+}

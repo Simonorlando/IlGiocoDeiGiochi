@@ -1,0 +1,21 @@
+{
+  "player_id": 730,
+  "full_name": "Thibaut Nicolas Marc Courtois",
+  "nationality": "Belgium",
+  "birth_date": "1992-05-11",
+  "birth_place": "Bree",
+  "career_transfers": [
+    {
+      "date": "2018-08-08",
+      "type": "€ 35M",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "K.R.C. Genk",
+    "Atlético Madrid",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol"
+  ]
+}

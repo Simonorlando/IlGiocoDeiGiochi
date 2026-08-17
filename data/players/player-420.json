@@ -1,0 +1,28 @@
+{
+  "player_id": 420,
+  "full_name": "Guido Burgstaller",
+  "nationality": "Austria",
+  "birth_date": "1989-04-29",
+  "birth_place": "Villach",
+  "career_transfers": [
+    {
+      "date": "2020-09-30",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "FC St. Pauli"
+    },
+    {
+      "date": "2017-01-12",
+      "type": "€ 1.5M",
+      "team_out": "1. FC Nürnberg",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Kärnten",
+    "SC Wiener Neustadt",
+    "SK Rapid Wien",
+    "Cardiff City F.C.",
+    "1. FC Nürnberg"
+  ]
+}

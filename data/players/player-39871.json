@@ -1,0 +1,32 @@
+{
+  "player_id": 39871,
+  "full_name": "Guillermo Daniel Rodríguez Pérez",
+  "nationality": "Uruguay",
+  "birth_date": "1984-03-21",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2012-08-04",
+      "type": "€ 1M",
+      "team_out": "Cesena",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2011-08-12",
+      "type": "N/A",
+      "team_out": "Penarol",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "Atlas F.C.",
+    "Club Atlético Independiente",
+    "R.C. Lens",
+    "Club Atlético Peñarol",
+    "AC Cesena",
+    "Torino FC",
+    "Hellas Verona FC",
+    "Club Atlético Peñarol"
+  ]
+}

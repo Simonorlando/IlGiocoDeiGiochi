@@ -1,0 +1,27 @@
+{
+  "player_id": 561,
+  "full_name": "Tyronne Efe Ebuehi",
+  "nationality": "Nigeria",
+  "birth_date": "1995-12-16",
+  "birth_place": "Haarlem",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "ADO Den Haag",
+    "S.L. Benfica",
+    "S.L. Benfica B",
+    "FC Twente"
+  ]
+}

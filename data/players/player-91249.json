@@ -1,0 +1,27 @@
+{
+  "player_id": 91249,
+  "full_name": "Giandomenico Mesto",
+  "nationality": "Italy",
+  "birth_date": "1982-02-25",
+  "birth_place": "Monopoli",
+  "career_transfers": [
+    {
+      "date": "2000-08-01",
+      "type": "Loan",
+      "team_out": "Reggina",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Reggina U20",
+    "Reggina 1914",
+    "Cremonese",
+    "Reggina 1914",
+    "Fermana",
+    "Reggina 1914",
+    "Udinese",
+    "Genoa",
+    "SSC Napoli",
+    "Panathinaikos FC"
+  ]
+}

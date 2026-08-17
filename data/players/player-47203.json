@@ -1,0 +1,31 @@
+{
+  "player_id": 47203,
+  "full_name": "Jaime Romero Gómez",
+  "nationality": "Spain",
+  "birth_date": "1990-07-31",
+  "birth_place": "Albacete",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2013-07-27",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Albacete Balompié",
+    "Udinese Calcio",
+    "SSC Bari",
+    "Granada CF",
+    "Orduspor",
+    "Real Madrid Castilla",
+    "Real Zaragoza",
+    "Real Madrid Club de Fútbol"
+  ]
+}

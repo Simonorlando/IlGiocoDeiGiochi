@@ -1,0 +1,28 @@
+{
+  "player_id": 31141,
+  "full_name": "Daniele Dessena",
+  "nationality": "Italy",
+  "birth_date": "1987-05-10",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2021-07-20",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Virtus Entella"
+    },
+    {
+      "date": "2021-02-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "Cagliari Calcio",
+    "U.C. Sampdoria",
+    "Cagliari Calcio"
+  ]
+}

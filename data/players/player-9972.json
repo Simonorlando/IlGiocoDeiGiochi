@@ -1,0 +1,27 @@
+{
+  "player_id": 9972,
+  "full_name": "Alexandre Rodrigues da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1989-09-02",
+  "birth_place": "Pato Branco",
+  "career_transfers": [
+    {
+      "date": "2017-02-01",
+      "type": "€ 18M",
+      "team_out": "Villarreal",
+      "team_in": "Tianjin Songjiang"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "AC Milan",
+    "S.C. Corinthians Paulista",
+    "São Paulo FC",
+    "Chelsea F.C.",
+    "Villarreal CF",
+    "Tianjin Tianhai F.C.",
+    "São Paulo FC",
+    "Orlando City SC",
+    "São Paulo FC"
+  ]
+}

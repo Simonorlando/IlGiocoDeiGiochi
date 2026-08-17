@@ -1,0 +1,32 @@
+{
+  "player_id": 380,
+  "full_name": "Otávio Edmilson da Silva Monteiro",
+  "nationality": "Portugal",
+  "birth_date": "1995-02-09",
+  "birth_place": "João Pessoa",
+  "career_transfers": [
+    {
+      "date": "2023-08-22",
+      "type": "€ 60M",
+      "team_out": "FC Porto",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Guimaraes"
+    },
+    {
+      "date": "2014-08-01",
+      "type": "N/A",
+      "team_out": "Internacional",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "FC Porto",
+    "Vitória S.C."
+  ]
+}

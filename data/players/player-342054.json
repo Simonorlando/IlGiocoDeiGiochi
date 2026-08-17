@@ -1,0 +1,40 @@
+{
+  "player_id": 342054,
+  "full_name": "Ryan Flamingo",
+  "nationality": "Netherlands",
+  "birth_date": "2002-12-31",
+  "birth_place": "Blaricum",
+  "career_transfers": [
+    {
+      "date": "2024-06-24",
+      "type": "2.8M",
+      "team_out": "Sassuolo",
+      "team_in": "Utrecht"
+    },
+    {
+      "date": "2023-08-18",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Utrecht"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Vitesse",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2022-07-18",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Vitesse"
+    }
+  ],
+  "career_clubs": [
+    "Almere City FC",
+    "US Sassuolo Calcio",
+    "SBV Vitesse",
+    "FC Utrecht",
+    "PSV Eindhoven"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "player_id": 30999,
+  "full_name": "Samuel Mráz",
+  "nationality": "Slovakia",
+  "birth_date": "1997-05-13",
+  "birth_place": "Malacky",
+  "career_transfers": [
+    {
+      "date": "2023-07-07",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Volos NFC"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Anorthosis",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2023-01-25",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Anorthosis"
+    },
+    {
+      "date": "2023-01-24",
+      "type": "N/A",
+      "team_out": "Mirandes",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Mirandes"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Slovan Bratislava",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2021-09-02",
+      "type": "Loan",
+      "team_out": "Spezia",
+      "team_in": "Slovan Bratislava"
+    },
+    {
+      "date": "2021-08-09",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "FK Senica",
+    "Empoli FC"
+  ]
+}

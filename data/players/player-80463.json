@@ -1,0 +1,23 @@
+{
+  "player_id": 80463,
+  "full_name": "Wallace Oliveira dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1994-05-01",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2015-07-22",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Fluminense F.C.",
+    "Inter Milan",
+    "Chelsea F.C.",
+    "SBV Vitesse",
+    "A.C. Carpi",
+    "Grêmio FBPA"
+  ]
+}

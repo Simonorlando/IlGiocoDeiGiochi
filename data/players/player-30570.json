@@ -1,0 +1,59 @@
+{
+  "player_id": 30570,
+  "full_name": "Alberto Cerri",
+  "nationality": "Italy",
+  "birth_date": "1996-04-16",
+  "birth_place": "Parma",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Como"
+    },
+    {
+      "date": "2024-01-19",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "€ 2M",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    },
+    {
+      "date": "2021-08-17",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Salernitana",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-01-07",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Lanciano Calcio 1920",
+    "Juventus FC",
+    "Hellas Verona FC",
+    "Delfino Pescara 1936",
+    "A.C. Perugia Calcio"
+  ]
+}

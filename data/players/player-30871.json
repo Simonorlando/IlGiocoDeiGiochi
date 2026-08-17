@@ -1,0 +1,30 @@
+{
+  "player_id": 30871,
+  "full_name": "Pasquale Schiattarella",
+  "nationality": "Italy",
+  "birth_date": "1987-05-30",
+  "birth_place": "Mugnano",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2021-08-07",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "SSC Ancona",
+    "US Livorno 1915",
+    "Spezia Calcio",
+    "SSC Bari",
+    "Latina Calcio 1932",
+    "U.C. Sampdoria"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 47524,
+  "full_name": "Seydou Doumbia",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1987-12-31",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2015-08-10",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2015-01-31",
+      "type": "€ 14.4M",
+      "team_out": "CSKA Moscow",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 10M",
+      "team_out": "BSC Young Boys",
+      "team_in": "CSKA Moscow"
+    }
+  ],
+  "career_clubs": [
+    "AS Athlétic Adjamé",
+    "Toumodi FC",
+    "ASEC Mimosas",
+    "AS Denguélé",
+    "Kashiwa Reysol",
+    "Tokushima Vortis",
+    "BSC Young Boys",
+    "PFC CSKA Moscow",
+    "AS Roma",
+    "PFC CSKA Moscow",
+    "Newcastle United F.C.",
+    "FC Basel",
+    "Sporting CP",
+    "Girona FC",
+    "FC Sion",
+    "Ħamrun Spartans F.C."
+  ]
+}

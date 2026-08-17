@@ -1,0 +1,29 @@
+{
+  "player_id": 41373,
+  "full_name": "Jackson Arley Martínez Valencia",
+  "nationality": "Colombia",
+  "birth_date": "1986-10-03",
+  "birth_place": "Quibdó",
+  "career_transfers": [
+    {
+      "date": "2016-02-03",
+      "type": "€ 42M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Guangzhou Evergrande FC"
+    },
+    {
+      "date": "2015-07-15",
+      "type": "€ 35M",
+      "team_out": "FC Porto",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Independiente Medellín",
+    "Chiapas F.C.",
+    "FC Porto",
+    "Atlético Madrid",
+    "Guangzhou F.C.",
+    "Portimonense S.C."
+  ]
+}

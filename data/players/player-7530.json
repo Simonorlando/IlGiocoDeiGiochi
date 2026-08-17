@@ -1,0 +1,37 @@
+{
+  "player_id": 7530,
+  "full_name": "Maximilian Ullmann",
+  "nationality": "Austria",
+  "birth_date": "1996-06-17",
+  "birth_place": "Linz",
+  "career_transfers": [
+    {
+      "date": "2024-07-30",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Wolfsberger AC"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "1. FC Magdeburg",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2023-01-25",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "1. FC Magdeburg"
+    },
+    {
+      "date": "2022-01-18",
+      "type": "€ 500K",
+      "team_out": "Rapid Vienna",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "FC Juniors OÖ",
+    "LASK Linz"
+  ]
+}

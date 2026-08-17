@@ -1,0 +1,38 @@
+{
+  "player_id": 18858,
+  "full_name": "Asmir Begović",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1987-06-20",
+  "birth_place": "Trebinje",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2020-01-13",
+      "type": "Loan",
+      "team_out": "Bournemouth",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Portsmouth F.C.",
+    "R.A.A. Louviéroise",
+    "Macclesfield Town F.C.",
+    "AFC Bournemouth",
+    "Yeovil Town F.C.",
+    "Ipswich Town F.C.",
+    "Stoke City F.C.",
+    "Chelsea F.C.",
+    "AFC Bournemouth",
+    "Qarabağ FK",
+    "AC Milan",
+    "Everton F.C.",
+    "Queens Park Rangers F.C.",
+    "Everton F.C.",
+    "Leicester City F.C."
+  ]
+}

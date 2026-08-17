@@ -1,0 +1,59 @@
+{
+  "player_id": 30902,
+  "full_name": "Giuseppe Rizzo",
+  "nationality": "Italy",
+  "birth_date": "1991-03-18",
+  "birth_place": "Messina",
+  "career_transfers": [
+    {
+      "date": "2022-08-08",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2020-08-10",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2018-07-16",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2018-01-19",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Reggina 1914",
+    "Pescara",
+    "Reggina 1914",
+    "Perugia",
+    "Reggina 1914",
+    "Perugia",
+    "L.R. Vicenza",
+    "Perugia",
+    "US Salernitana 1919",
+    "Catania",
+    "US Salernitana 1919",
+    "Catania",
+    "Triestina",
+    "Pescara",
+    "Messina",
+    "Pescara",
+    "Catania",
+    "Pompei"
+  ]
+}

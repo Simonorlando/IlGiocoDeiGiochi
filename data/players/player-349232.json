@@ -1,0 +1,26 @@
+{
+  "player_id": 349232,
+  "full_name": "Ali Dembélé",
+  "nationality": "France",
+  "birth_date": "2004-01-05",
+  "birth_place": "Villepinte",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2023-09-02",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Torino",
+    "Venezia",
+    "Mantova"
+  ]
+}

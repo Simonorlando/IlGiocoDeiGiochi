@@ -1,0 +1,34 @@
+{
+  "player_id": 31472,
+  "full_name": "Simone Farelli",
+  "nationality": "Italy",
+  "birth_date": "1983-02-19",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2014-07-20",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Astrea",
+    "Siena FC",
+    "Nocerina 1910",
+    "F.C. Vittoria",
+    "SSC Ancona",
+    "Lanciano Calcio 1920",
+    "F.C. Crotone",
+    "Siena FC",
+    "Latina Calcio 1932",
+    "Novara Calcio",
+    "Delfino Pescara 1936"
+  ]
+}

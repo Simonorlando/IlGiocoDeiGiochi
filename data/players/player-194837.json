@@ -1,0 +1,25 @@
+{
+  "player_id": 194837,
+  "full_name": "Tomáš Suslov",
+  "nationality": "Slovakia",
+  "birth_date": "2002-06-07",
+  "birth_place": "Spišská Nová Ves",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "€ 1M",
+      "team_out": "Groningen",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Groningen",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FC Groningen",
+    "Hellas Verona FC"
+  ]
+}

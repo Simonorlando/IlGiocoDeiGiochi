@@ -1,0 +1,31 @@
+{
+  "player_id": 30915,
+  "full_name": "Marco Silvestri",
+  "nationality": "Italy",
+  "birth_date": "1991-03-02",
+  "birth_place": "Castelnovo nè Monti",
+  "career_transfers": [
+    {
+      "date": "2025-08-13",
+      "type": "Free Transfer",
+      "team_out": "Empoli",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "Fatih Karagümrük"
+    }
+  ],
+  "career_clubs": [
+    "Modena F.C.",
+    "AC ChievoVerona",
+    "A.C. Reggiana 1919",
+    "Calcio Padova",
+    "Leeds United F.C.",
+    "Cagliari Calcio",
+    "Hellas Verona FC",
+    "AS Reggina 1914"
+  ]
+}

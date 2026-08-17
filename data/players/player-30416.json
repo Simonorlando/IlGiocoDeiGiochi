@@ -1,0 +1,30 @@
+{
+  "player_id": 30416,
+  "full_name": "Etrit Berisha",
+  "nationality": "Albania",
+  "birth_date": "1989-03-10",
+  "birth_place": "Prishtinë",
+  "career_transfers": [
+    {
+      "date": "2023-08-29",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-04-10",
+      "type": "Free agent",
+      "team_out": "Empoli",
+      "team_in": "BK Hacken"
+    }
+  ],
+  "career_clubs": [
+    "Kalmar FF",
+    "SS Lazio",
+    "Atalanta BC",
+    "SPAL",
+    "Torino FC",
+    "Empoli FC",
+    "BK Häcken"
+  ]
+}

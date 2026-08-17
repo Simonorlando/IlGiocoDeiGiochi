@@ -1,0 +1,19 @@
+{
+  "player_id": 217,
+  "full_name": "Lautaro Javier Martínez",
+  "nationality": "Argentina",
+  "birth_date": "1997-08-22",
+  "birth_place": "Bahía Blanca",
+  "career_transfers": [
+    {
+      "date": "2018-07-04",
+      "type": "€ 23M",
+      "team_out": "Racing Club",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Racing Club",
+    "Inter Milan"
+  ]
+}

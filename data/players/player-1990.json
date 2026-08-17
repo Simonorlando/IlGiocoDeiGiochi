@@ -1,0 +1,24 @@
+{
+  "player_id": 1990,
+  "full_name": "Atiba Hutchinson",
+  "nationality": "Canada",
+  "birth_date": "1983-02-08",
+  "birth_place": "Brampton",
+  "career_transfers": [
+    {
+      "date": "2013-07-31",
+      "type": "Free",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Toronto Lynx",
+    "Vaughan Shooters",
+    "Östers IF",
+    "Helsingborgs IF",
+    "F.C. Copenhagen",
+    "PSV Eindhoven",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

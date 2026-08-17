@@ -1,0 +1,29 @@
+{
+  "player_id": 1458,
+  "full_name": "Mesut Özil",
+  "nationality": "Germany",
+  "birth_date": "1988-10-15",
+  "birth_place": "Gelsenkirchen",
+  "career_transfers": [
+    {
+      "date": "2013-09-02",
+      "type": "€ 50M",
+      "team_out": "Real Madrid",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2010-08-17",
+      "type": "€ 18M",
+      "team_out": "Werder Bremen",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "SV Werder Bremen",
+    "Real Madrid Club de Fútbol",
+    "Arsenal F.C.",
+    "Fenerbahçe Istanbul",
+    "İstanbul Başakşehir F.K."
+  ]
+}

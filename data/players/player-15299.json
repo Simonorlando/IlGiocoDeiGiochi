@@ -1,0 +1,38 @@
+{
+  "player_id": 15299,
+  "full_name": "Norbert Sándor Balogh",
+  "nationality": "Hungary",
+  "birth_date": "1996-02-21",
+  "birth_place": "Hajdúböszörmény",
+  "career_transfers": [
+    {
+      "date": "2019-09-14",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Hull City"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2018-08-21",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2016-01-13",
+      "type": "€ 2.2M",
+      "team_out": "Debreceni VSC",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Debreceni VSC",
+    "Létavértes SC '97",
+    "Palermo F.C."
+  ]
+}

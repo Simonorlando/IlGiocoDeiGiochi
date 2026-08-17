@@ -1,0 +1,37 @@
+{
+  "player_id": 330,
+  "full_name": "José María Callejón Bueno",
+  "nationality": "Spain",
+  "birth_date": "1987-02-11",
+  "birth_place": "Motril",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "€ 9.5M",
+      "team_out": "Real Madrid",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 5M",
+      "team_out": "Espanyol",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "€ 1.2M",
+      "team_out": "Real Madrid",
+      "team_in": "Espanyol"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid C",
+    "Real Madrid Castilla",
+    "RCD Espanyol de Barcelona",
+    "Real Madrid Club de Fútbol",
+    "SSC Napoli",
+    "ACF Fiorentina",
+    "Granada CF",
+    "UD Marbella"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "player_id": 10573,
+  "full_name": "Bruno César Zanaki",
+  "nationality": "Brazil",
+  "birth_date": "1988-11-03",
+  "birth_place": "Santa Bárbara d'Oeste",
+  "career_transfers": [
+    {
+      "date": "2019-01-01",
+      "type": "N/A",
+      "team_out": "Sporting CP",
+      "team_in": "Vasco DA Gama"
+    },
+    {
+      "date": "2016-01-01",
+      "type": "Free",
+      "team_out": "Estoril",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Bahia",
+    "Grêmio FBPA",
+    "Esporte Clube Santo André",
+    "Canoas Sport Club",
+    "Esporte Clube Noroeste",
+    "S.C. Corinthians Paulista",
+    "S.L. Benfica",
+    "Al Ahli FC",
+    "Sociedade Esportiva Palmeiras",
+    "G.D. Estoril Praia",
+    "Sporting CP",
+    "S.C. Corinthians Paulista"
+  ]
+}

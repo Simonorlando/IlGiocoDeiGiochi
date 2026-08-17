@@ -1,0 +1,36 @@
+{
+  "player_id": 35570,
+  "full_name": "Stephen Antunes Eustáquio",
+  "nationality": "Canada",
+  "birth_date": "1996-12-21",
+  "birth_place": "Leamington",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "3.5M",
+      "team_out": "Pacos Ferreira",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2022-01-24",
+      "type": "Loan",
+      "team_out": "Pacos Ferreira",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Los Angeles FC"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Los Angeles FC",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "S.C.U. Torreense"
+  ]
+}

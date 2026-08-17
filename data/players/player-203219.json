@@ -1,0 +1,18 @@
+{
+  "player_id": 203219,
+  "full_name": "Jamil Siebert",
+  "nationality": "Germany",
+  "birth_date": "2002-04-02",
+  "birth_place": "Düsseldorf",
+  "career_transfers": [
+    {
+      "date": "2025-08-22",
+      "type": "Transfer",
+      "team_out": "Fortuna Düsseldorf",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Fortuna Düsseldorf"
+  ]
+}

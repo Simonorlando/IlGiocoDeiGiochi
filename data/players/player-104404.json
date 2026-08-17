@@ -1,0 +1,20 @@
+{
+  "player_id": 104404,
+  "full_name": "Ânderson Luís da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1981-02-13",
+  "birth_place": "Amparo",
+  "career_transfers": [
+    {
+      "date": "2003-08-01",
+      "type": "N/A",
+      "team_out": "Cruzeiro",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Juventus",
+    "Cruzeiro E.C.",
+    "S.L. Benfica"
+  ]
+}

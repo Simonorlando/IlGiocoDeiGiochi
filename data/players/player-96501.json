@@ -1,0 +1,43 @@
+{
+  "player_id": 96501,
+  "full_name": "Claudiano Bezerra da Silva",
+  "nationality": "Brazil",
+  "birth_date": "1981-05-16",
+  "birth_place": "São José do Belmonte",
+  "career_transfers": [
+    {
+      "date": "2015-07-14",
+      "type": "Free",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Tondela"
+    },
+    {
+      "date": "2014-01-29",
+      "type": "Free",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 250K",
+      "team_out": "Hertha Berlin",
+      "team_in": "Apoel Nicosia"
+    }
+  ],
+  "career_clubs": [
+    "União Bandeirante Futebol Clube",
+    "Associação Desportiva São Caetano",
+    "Boa Esporte Clube",
+    "Luverdense Esporte Clube",
+    "Associação Académica de Coimbra – O.A.F.",
+    "Grêmio Esportivo Jaciara",
+    "Hertha BSC",
+    "AC Omonia",
+    "S.C. Braga",
+    "APOEL F.C.",
+    "Fehérvár FC",
+    "Deportivo de A Coruña",
+    "APOEL F.C.",
+    "CD Tondela"
+  ]
+}

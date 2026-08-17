@@ -1,0 +1,33 @@
+{
+  "player_id": 30413,
+  "full_name": "Marko Pjaca",
+  "nationality": "Croatia",
+  "birth_date": "1995-05-06",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "NK Lokomotiva",
+    "GNK Dinamo Zagreb",
+    "Juventus FC",
+    "Schalke 04",
+    "ACF Fiorentina",
+    "R.S.C. Anderlecht",
+    "Genoa CFC",
+    "Torino FC",
+    "Empoli FC",
+    "HNK Rijeka"
+  ]
+}

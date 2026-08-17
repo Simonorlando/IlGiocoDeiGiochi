@@ -1,0 +1,47 @@
+{
+  "player_id": 28700,
+  "full_name": "Bjarki Steinn Bjarkason",
+  "nationality": "Iceland",
+  "birth_date": "2000-05-11",
+  "birth_place": "Reykjavik",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Foggia",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2023-01-20",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Foggia"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Catanzaro",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2022-01-14",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Catanzaro"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "IA Akranes",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Afturelding",
+    "ÍA",
+    "Venezia",
+    "Catanzaro",
+    "Foggia",
+    "Südtirol"
+  ]
+}

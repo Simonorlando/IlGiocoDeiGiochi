@@ -1,0 +1,20 @@
+{
+  "player_id": 354533,
+  "full_name": "Jayden Osei Addai",
+  "nationality": "Netherlands",
+  "birth_date": "2005-08-26",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-04",
+      "type": "Transfer",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Jong AZ",
+    "AZ",
+    "Como"
+  ]
+}

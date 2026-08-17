@@ -1,0 +1,34 @@
+{
+  "player_id": 1606,
+  "full_name": "Lazaros Christodoulopoulos",
+  "nationality": "Greece",
+  "birth_date": "1986-12-19",
+  "birth_place": "Thessaloniki",
+  "career_transfers": [
+    {
+      "date": "2020-09-28",
+      "type": "Free",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Atromitos"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "AEK Athens FC",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "PAOK FC",
+    "Panathinaikos F.C.",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "U.C. Sampdoria",
+    "AEK Athens F.C.",
+    "Olympiacos F.C.",
+    "Atromitos F.C.",
+    "Anorthosis Famagusta FC",
+    "Aris Thessaloniki F.C.",
+    "G.S. Iraklis Thessalonikis (men's association football)"
+  ]
+}

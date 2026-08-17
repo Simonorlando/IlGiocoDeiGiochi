@@ -1,0 +1,29 @@
+{
+  "player_id": 1448,
+  "full_name": "Shkodran Mustafi",
+  "nationality": "Germany",
+  "birth_date": "1992-04-17",
+  "birth_place": "Bad Hersfeld",
+  "career_transfers": [
+    {
+      "date": "2016-08-30",
+      "type": "€ 41M",
+      "team_out": "Valencia",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2014-08-06",
+      "type": "€ 8M",
+      "team_out": "Sampdoria",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Everton F.C.",
+    "U.C. Sampdoria",
+    "Valencia CF",
+    "Arsenal F.C.",
+    "Schalke 04",
+    "Levante UD"
+  ]
+}

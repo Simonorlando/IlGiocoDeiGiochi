@@ -1,0 +1,85 @@
+{
+  "player_id": 167,
+  "full_name": "Daniel Lee Rose",
+  "nationality": "England",
+  "birth_date": "1990-07-02",
+  "birth_place": "Doncaster",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Tottenham",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Newcastle",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Sunderland",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Sunderland"
+    },
+    {
+      "date": "2011-02-21",
+      "type": "N/A",
+      "team_out": "Bristol City",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2010-09-01",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Bristol City"
+    },
+    {
+      "date": "2009-09-29",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Peterborough"
+    },
+    {
+      "date": "2009-05-09",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2009-03-01",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 1M",
+      "team_out": "Leeds",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Leeds United F.C.",
+    "Tottenham Hotspur F.C.",
+    "Watford F.C.",
+    "Peterborough United F.C.",
+    "Bristol City F.C.",
+    "Sunderland A.F.C.",
+    "Newcastle United F.C.",
+    "Watford F.C."
+  ]
+}

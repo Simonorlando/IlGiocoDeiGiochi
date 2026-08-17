@@ -1,0 +1,46 @@
+{
+  "player_id": 30974,
+  "full_name": "Alex Cordaz",
+  "nationality": "Italy",
+  "birth_date": "1983-01-01",
+  "birth_place": "Vittorio Veneto",
+  "career_transfers": [
+    {
+      "date": "2015-07-08",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2015-01-09",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2013-07-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Gorica"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Cittadella",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Spezia Calcio",
+    "Acireale Football Club",
+    "Treviso F.B.C. 1993",
+    "A.S. Pizzighettone",
+    "FC Lugano",
+    "Associazione Sportiva Cittadella",
+    "Parma Calcio 1913",
+    "ND Gorica",
+    "F.C. Crotone",
+    "U.S. Pergolettese 1932"
+  ]
+}

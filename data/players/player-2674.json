@@ -1,0 +1,28 @@
+{
+  "player_id": 2674,
+  "full_name": "Rui Pedro dos Santos Patrício",
+  "nationality": "Portugal",
+  "birth_date": "1988-02-15",
+  "birth_place": "Marrazes",
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-05-31",
+      "type": "Free agent",
+      "team_out": "Atalanta",
+      "team_in": "Al Ain"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Wolverhampton Wanderers F.C.",
+    "AS Roma",
+    "Atalanta BC",
+    "Al Ain FC"
+  ]
+}

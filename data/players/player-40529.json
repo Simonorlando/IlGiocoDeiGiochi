@@ -1,0 +1,24 @@
+{
+  "player_id": 40529,
+  "full_name": "Filip Wojciech Jagiełło",
+  "nationality": "Poland",
+  "birth_date": "1997-08-08",
+  "birth_place": "Lubin",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Zagłębie Lubin"
+  ]
+}

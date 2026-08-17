@@ -1,0 +1,44 @@
+{
+  "player_id": 325387,
+  "full_name": "Gabriele Piccinini",
+  "nationality": "Italy",
+  "birth_date": "2001-04-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Fiorenzuola",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-01-07",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Fiorenzuola"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Fiorenzuola",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Fiorenzuola"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Reggiana 1919",
+    "Lentigione Calcio",
+    "A.C. Reggiana 1919",
+    "Lentigione Calcio",
+    "Pisa SC",
+    "US Fiorenzuola 1922",
+    "Pisa SC",
+    "US Fiorenzuola 1922",
+    "Pisa SC"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 295793,
+  "full_name": "Marc Pubill Pagès",
+  "nationality": "Spain",
+  "birth_date": "2003-06-20",
+  "birth_place": "Terrassa",
+  "career_transfers": [
+    {
+      "date": "2025-07-23",
+      "type": "Transfer",
+      "team_out": "Almeria",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Levante UD",
+    "Levante UD",
+    "Unión Deportiva Almería",
+    "Atlético Madrid"
+  ]
+}

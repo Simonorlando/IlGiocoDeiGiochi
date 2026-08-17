@@ -1,0 +1,33 @@
+{
+  "player_id": 39055,
+  "full_name": "Nikita Haikin",
+  "nationality": "Russia",
+  "birth_date": "1995-07-11",
+  "birth_place": "Netanya",
+  "career_transfers": [
+    {
+      "date": "2023-03-21",
+      "type": "Free",
+      "team_out": "Bristol City",
+      "team_in": "Bodo/Glimt"
+    },
+    {
+      "date": "2023-01-25",
+      "type": "Free",
+      "team_out": "Bodo/Glimt",
+      "team_in": "Bristol City"
+    },
+    {
+      "date": "2019-03-11",
+      "type": "N/A",
+      "team_out": "Hapoel Kfar Saba",
+      "team_in": "Bodo/Glimt"
+    }
+  ],
+  "career_clubs": [
+    "UD Marbella",
+    "FK Bodø/Glimt",
+    "Bnei Yehuda Tel Aviv F.C.",
+    "Bristol City F.C."
+  ]
+}

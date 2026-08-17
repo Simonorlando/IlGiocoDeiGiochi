@@ -1,0 +1,22 @@
+{
+  "player_id": 31389,
+  "full_name": "Norbert Gyömbér",
+  "nationality": "Slovakia",
+  "birth_date": "1992-07-03",
+  "birth_place": "Revúca",
+  "career_transfers": [
+    {
+      "date": "2016-08-12",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "FK Dukla Banská Bystrica",
+    "Catania FC",
+    "AS Roma",
+    "Delfino Pescara 1936",
+    "A.C. Perugia Calcio"
+  ]
+}

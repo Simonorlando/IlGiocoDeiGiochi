@@ -1,0 +1,22 @@
+{
+  "player_id": 849,
+  "full_name": "Mattia Perin",
+  "nationality": "Italy",
+  "birth_date": "1992-11-10",
+  "birth_place": "Latina",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Calcio Padova",
+    "Delfino Pescara 1936",
+    "Juventus FC",
+    "U.S. Salernitana 1919"
+  ]
+}

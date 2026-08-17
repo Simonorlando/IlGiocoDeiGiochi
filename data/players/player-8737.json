@@ -1,0 +1,32 @@
+{
+  "player_id": 8737,
+  "full_name": "Francesco Forte",
+  "nationality": "Italy",
+  "birth_date": "1993-05-01",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2014-07-15",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Forli"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Pisa SC",
+    "Inter Milan",
+    "Italy Lega Pro representative teams",
+    "Forlì F.C.",
+    "US Cremonese",
+    "Lucchese 1905",
+    "Spezia Calcio",
+    "A.C. Perugia Calcio",
+    "Sportkring Beveren"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "player_id": 30431,
+  "full_name": "Andrea Colpani",
+  "nationality": "Italy",
+  "birth_date": "1999-05-11",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2024-07-26",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 9M",
+      "team_out": "Atalanta",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Fiorentina",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "F.C. Trapani 1905",
+    "AC Monza"
+  ]
+}

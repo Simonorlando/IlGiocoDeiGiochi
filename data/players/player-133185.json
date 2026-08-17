@@ -1,0 +1,20 @@
+{
+  "player_id": 133185,
+  "full_name": "João Lucas de Souza Cardoso",
+  "nationality": "USA",
+  "birth_date": "2001-09-20",
+  "birth_place": "Denville",
+  "career_transfers": [
+    {
+      "date": "2025-07-16",
+      "type": "Transfer",
+      "team_out": "Real Betis",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "Atlético Madrid",
+    "Real Betis Balompié"
+  ]
+}

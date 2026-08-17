@@ -1,0 +1,23 @@
+{
+  "player_id": 162347,
+  "full_name": "Beanou-Junior Brandon Deflorent Soppy",
+  "nationality": "France",
+  "birth_date": "2002-02-21",
+  "birth_place": "Aubervilliers",
+  "career_transfers": [
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Rennes",
+    "Udinese",
+    "Atalanta",
+    "Torino",
+    "Schalke 04",
+    "Lausanne-Sport"
+  ]
+}

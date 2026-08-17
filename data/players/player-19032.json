@@ -1,0 +1,37 @@
+{
+  "player_id": 19032,
+  "full_name": "Kouassi Ryan Sessegnon",
+  "nationality": "England",
+  "birth_date": "2000-05-18",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2024-07-26",
+      "type": "Free",
+      "team_out": "Tottenham",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "1899 Hoffenheim"
+    },
+    {
+      "date": "2019-08-08",
+      "type": "€ 27M",
+      "team_out": "Fulham",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "Fulham F.C."
+  ]
+}

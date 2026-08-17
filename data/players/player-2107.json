@@ -1,0 +1,73 @@
+{
+  "player_id": 2107,
+  "full_name": "Zinho Vanheusden",
+  "nationality": "Belgium",
+  "birth_date": "1999-07-29",
+  "birth_place": "Hasselt",
+  "career_transfers": [
+    {
+      "date": "2024-07-25",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "KV Mechelen"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Standard Liege",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2023-07-08",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2022-07-25",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "AZ Alkmaar"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2021-07-20",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2021-07-13",
+      "type": "€ 16M",
+      "team_out": "Standard Liege",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2018-01-30",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "KV Mechelen",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-08-07",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Marbella"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "Inter Milan"
+  ]
+}

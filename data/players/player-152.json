@@ -1,0 +1,39 @@
+{
+  "player_id": 152,
+  "full_name": "Kevin-Prince Boateng",
+  "nationality": "Ghana",
+  "birth_date": "1987-03-06",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Monza",
+      "team_in": "Hertha Berlin"
+    },
+    {
+      "date": "2020-09-28",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Hertha BSC",
+    "Tottenham Hotspur F.C.",
+    "Borussia Dortmund",
+    "Portsmouth F.C.",
+    "AC Milan",
+    "Genoa CFC",
+    "Schalke 04",
+    "AC Milan",
+    "UD Las Palmas",
+    "Eintracht Frankfurt",
+    "US Sassuolo Calcio",
+    "FC Barcelona",
+    "ACF Fiorentina",
+    "Beşiktaş J.K. (Football)",
+    "AC Monza",
+    "Hertha BSC"
+  ]
+}

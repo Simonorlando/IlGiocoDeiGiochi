@@ -1,0 +1,34 @@
+{
+  "player_id": 91315,
+  "full_name": "Franco Brienza",
+  "nationality": "Italy",
+  "birth_date": "1979-03-19",
+  "birth_place": "Cantù",
+  "career_transfers": [
+    {
+      "date": "2012-07-01",
+      "type": "€ 1.3M",
+      "team_out": "Robur Siena",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2010-08-28",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Imolese Calcio 1919",
+    "Calcio Foggia 1920",
+    "Palermo F.C.",
+    "Ascoli Calcio 1898 FC",
+    "A.C. Perugia Calcio",
+    "AS Reggina 1914",
+    "Siena FC",
+    "Palermo F.C.",
+    "Atalanta BC",
+    "AC Cesena",
+    "Bologna F.C. 1909"
+  ]
+}

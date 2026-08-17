@@ -1,0 +1,26 @@
+{
+  "player_id": 184226,
+  "full_name": "Yeremy Jesús Pino Santos",
+  "nationality": "Spain",
+  "birth_date": "2002-10-20",
+  "birth_place": "Las Palmas de Gran Canaria",
+  "career_transfers": [
+    {
+      "date": "2025-08-29",
+      "type": "Transfer",
+      "team_out": "Villarreal",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2025-08-27",
+      "type": "Transfer",
+      "team_out": "Villarreal",
+      "team_in": "Crystal Palace"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal C",
+    "Villarreal",
+    "Crystal Palace"
+  ]
+}

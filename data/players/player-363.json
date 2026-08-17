@@ -1,0 +1,60 @@
+{
+  "player_id": 363,
+  "full_name": "Richmond Yiadom Boakye",
+  "nationality": "Ghana",
+  "birth_date": "1993-01-28",
+  "birth_place": "Agogo",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Latina",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 2M",
+      "team_out": "Atalanta",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2016-01-26",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2016-01-04",
+      "type": "N/A",
+      "team_out": "Roda",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Roda"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2014-07-22",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "US Sassuolo Calcio",
+    "Juventus FC",
+    "Elche CF",
+    "Atalanta BC",
+    "Roda JC Kerkrade",
+    "Latina Calcio 1932"
+  ]
+}

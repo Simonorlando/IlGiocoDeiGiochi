@@ -1,0 +1,28 @@
+{
+  "player_id": 91349,
+  "full_name": "Giampiero Pinzi",
+  "nationality": "Italy",
+  "birth_date": "1981-03-11",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2016-08-10",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "Udinese Calcio",
+    "AC ChievoVerona",
+    "Calcio Padova",
+    "Brescia Calcio"
+  ]
+}

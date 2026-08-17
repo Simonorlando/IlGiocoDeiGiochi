@@ -1,0 +1,27 @@
+{
+  "player_id": 105389,
+  "full_name": "Benoît Cheyrou",
+  "nationality": "France",
+  "birth_date": "1981-05-03",
+  "birth_place": "Suresnes",
+  "career_transfers": [
+    {
+      "date": "2015-01-29",
+      "type": "Free",
+      "team_out": "Marseille",
+      "team_in": "Toronto FC"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 5M",
+      "team_out": "Auxerre",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "AJ Auxerre",
+    "Olympique de Marseille",
+    "Toronto FC"
+  ]
+}

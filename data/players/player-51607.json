@@ -1,0 +1,28 @@
+{
+  "player_id": 51607,
+  "full_name": "Walter Alejandro Gargano Guevara",
+  "nationality": "Uruguay",
+  "birth_date": "1984-07-23",
+  "birth_place": "Paysandú",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-09-01",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "SSC Napoli",
+    "Inter Milan",
+    "Parma Calcio 1913",
+    "Club de Fútbol Monterrey"
+  ]
+}

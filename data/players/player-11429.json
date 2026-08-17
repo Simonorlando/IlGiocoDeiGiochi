@@ -1,0 +1,33 @@
+{
+  "player_id": 11429,
+  "full_name": "Jaime Andrés Valdés Zapata",
+  "nationality": "Chile",
+  "birth_date": "1981-01-11",
+  "birth_place": "Santiago",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "C.D. Palestino",
+    "SSC Bari",
+    "ACF Fiorentina",
+    "US Lecce",
+    "Atalanta BC",
+    "Sporting CP",
+    "Parma Calcio 1913",
+    "Club Social y Deportivo Colo Colo",
+    "Inter Milan",
+    "SV Werder Bremen"
+  ]
+}

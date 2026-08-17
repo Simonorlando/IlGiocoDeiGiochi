@@ -1,0 +1,31 @@
+{
+  "player_id": 43092,
+  "full_name": "Denis Mihai Drăguş",
+  "nationality": "Romania",
+  "birth_date": "1999-07-06",
+  "birth_place": "Bucureşti",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2020-09-15",
+      "type": "Loan",
+      "team_out": "Standard Liege",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "FC Viitorul Constanța",
+    "Standard Liège",
+    "F.C. Crotone",
+    "Genoa CFC",
+    "Gaziantep F.K.",
+    "Trabzonspor",
+    "Eyüpspor",
+    "Gaziantep F.K."
+  ]
+}

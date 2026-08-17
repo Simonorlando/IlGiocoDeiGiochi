@@ -1,0 +1,24 @@
+{
+  "player_id": 30747,
+  "full_name": "Fabio Depaoli",
+  "nationality": "Italy",
+  "birth_date": "1997-04-24",
+  "birth_place": "Riva del Garda",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2021-01-26",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "AC ChievoVerona"
+  ]
+}

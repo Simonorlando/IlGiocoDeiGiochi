@@ -1,0 +1,32 @@
+{
+  "player_id": 21081,
+  "full_name": "Anton Ciprian Tătărușanu",
+  "nationality": "Romania",
+  "birth_date": "1986-02-09",
+  "birth_place": "București",
+  "career_transfers": [
+    {
+      "date": "2017-07-27",
+      "type": "€ 2.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "Free",
+      "team_out": "FCSB",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Daco-Getica",
+    "Gloria Bistrița",
+    "FCSB",
+    "Gloria Bistrița",
+    "ACF Fiorentina",
+    "FC Nantes",
+    "Olympique Lyonnais",
+    "AC Milan",
+    "Abha"
+  ]
+}

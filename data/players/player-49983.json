@@ -1,0 +1,34 @@
+{
+  "player_id": 49983,
+  "full_name": "Souleymane Doukara",
+  "nationality": "Mauritania",
+  "birth_date": "1991-09-29",
+  "birth_place": "Meudon",
+  "career_transfers": [
+    {
+      "date": "2014-07-12",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2012-07-04",
+      "type": "Free",
+      "team_out": "Vibonese",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Rovigo Calcio",
+    "U.S. Vibonese Calcio",
+    "Catania FC",
+    "S.S. Juve Stabia",
+    "Leeds United F.C."
+  ]
+}

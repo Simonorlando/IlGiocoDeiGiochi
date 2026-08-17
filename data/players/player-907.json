@@ -1,0 +1,46 @@
+{
+  "player_id": 907,
+  "full_name": "Romelu Menama Lukaku Bolingoli",
+  "nationality": "Belgium",
+  "birth_date": "1993-05-13",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2021-08-12",
+      "type": "€ 115M",
+      "team_out": "Inter",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2019-08-08",
+      "type": "€ 65M",
+      "team_out": "Manchester United",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "Chelsea F.C.",
+    "West Bromwich Albion F.C.",
+    "Everton F.C.",
+    "Manchester United F.C.",
+    "Inter Milan",
+    "Chelsea F.C.",
+    "Inter Milan",
+    "AS Roma",
+    "SSC Napoli",
+    "Fenerbahçe Istanbul"
+  ]
+}

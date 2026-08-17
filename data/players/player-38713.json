@@ -1,0 +1,42 @@
+{
+  "player_id": 38713,
+  "full_name": "Sydney van Hooijdonk",
+  "nationality": "Netherlands",
+  "birth_date": "2000-02-06",
+  "birth_place": "Breda",
+  "career_transfers": [
+    {
+      "date": "2024-08-09",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Norwich",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Norwich"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Heerenveen",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2022-01-25",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Heerenveen"
+    }
+  ],
+  "career_clubs": [
+    "NAC Breda"
+  ]
+}

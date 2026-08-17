@@ -1,0 +1,43 @@
+{
+  "player_id": 31060,
+  "full_name": "Francesco Caputo",
+  "nationality": "Italy",
+  "birth_date": "1987-08-06",
+  "birth_place": "Altamura",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2023-01-02",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2019-07-13",
+      "type": "€ 7.5M",
+      "team_out": "Empoli",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2017-08-18",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Unione Sportiva Altamura",
+    "A.S. Noicattaro Calcio",
+    "SSC Bari",
+    "U.S. Salernitana 1919",
+    "SSC Bari",
+    "Siena FC",
+    "Virtus Entella",
+    "Empoli FC"
+  ]
+}

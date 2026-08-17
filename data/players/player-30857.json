@@ -1,0 +1,30 @@
+{
+  "player_id": 30857,
+  "full_name": "Lorenzo Maria Dickmann",
+  "nationality": "Italy",
+  "birth_date": "1996-09-24",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2023-08-31",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2025-07-09",
+      "type": "Transfer",
+      "team_out": "Brescia",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 37437,
+  "full_name": "Abdoulrahmane Harroui",
+  "nationality": "Morocco",
+  "birth_date": "1998-01-13",
+  "birth_place": "Leiden",
+  "career_transfers": [
+    {
+      "date": "2024-07-09",
+      "type": "€ 1.2M",
+      "team_out": "Frosinone",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-07-13",
+      "type": "€ 2.5M",
+      "team_out": "Sassuolo",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Sparta Rotterdam"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "player_id": 30437,
+  "full_name": "Musa Barrow",
+  "nationality": "Gambia",
+  "birth_date": "1998-11-14",
+  "birth_place": "Banjul",
+  "career_transfers": [
+    {
+      "date": "2023-09-04",
+      "type": "€ 8M",
+      "team_out": "Bologna",
+      "team_in": "Al Taawon"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 14.5M",
+      "team_out": "Atalanta",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2020-01-17",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC"
+  ]
+}

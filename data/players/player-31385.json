@@ -1,0 +1,20 @@
+{
+  "player_id": 31385,
+  "full_name": "Michele Cremonesi",
+  "nationality": "Italy",
+  "birth_date": "1988-04-15",
+  "birth_place": "Cremona",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "US Cremonese",
+    "F.C. Crotone",
+    "A.C. Perugia Calcio"
+  ]
+}

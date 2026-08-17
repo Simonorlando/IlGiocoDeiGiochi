@@ -1,0 +1,47 @@
+{
+  "player_id": 22222,
+  "full_name": "Mehmet Zeki Çelik",
+  "nationality": "Türkiye",
+  "birth_date": "1997-02-17",
+  "birth_place": "Bursa",
+  "career_transfers": [
+    {
+      "date": "2022-07-05",
+      "type": "€ 7M",
+      "team_out": "Lille",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "Celik Zeki"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-07-15",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2026-07-14",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Bursaspor",
+    "Karacabey Belediyespor",
+    "İstanbulspor A.Ş.",
+    "Lille OSC",
+    "AS Roma",
+    "Juventus FC"
+  ]
+}

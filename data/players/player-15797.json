@@ -1,0 +1,44 @@
+{
+  "player_id": 15797,
+  "full_name": "Jens-Lys Michel Cajuste",
+  "nationality": "Sweden",
+  "birth_date": "1999-08-10",
+  "birth_place": "Gothenburg",
+  "career_transfers": [
+    {
+      "date": "2024-08-19",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Ipswich"
+    },
+    {
+      "date": "2023-08-10",
+      "type": "€ 12M",
+      "team_out": "Reims",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Ipswich",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2025-08-07",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Ipswich"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Ipswich",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Örgryte IS",
+    "FC Midtjylland",
+    "Örgryte IS Fotboll"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1322,
+  "full_name": "Nikola Moro",
+  "nationality": "Croatia",
+  "birth_date": "1998-03-12",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2023-07-02",
+      "type": "€ 6M",
+      "team_out": "Dynamo",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2022-08-29",
+      "type": "Loan",
+      "team_out": "Dynamo",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "GNK Dinamo Zagreb"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "player_id": 1223,
+  "full_name": "Artem Dzyuba",
+  "nationality": "Russia",
+  "birth_date": "1988-08-22",
+  "birth_place": "Moskva",
+  "career_transfers": [
+    {
+      "date": "2022-08-18",
+      "type": "Free",
+      "team_out": "Zenit",
+      "team_in": "Adana Demirspor"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Arsenal Tula",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Arsenal Tula"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Spartak Moscow",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "Spartak Moscow",
+    "FC Tom Tomsk",
+    "FC Rostov",
+    "FC Zenit Saint Petersburg",
+    "FC Rostov",
+    "FC Arsenal Tula",
+    "Adana Demirspor",
+    "FC Lokomotiv Moscow",
+    "FC Akron Tolyatti"
+  ]
+}

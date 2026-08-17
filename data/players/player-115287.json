@@ -1,0 +1,44 @@
+{
+  "player_id": 115287,
+  "full_name": "Manuele Blasi",
+  "nationality": "Italy",
+  "birth_date": "1980-08-17",
+  "birth_place": "Civitavecchia",
+  "career_transfers": [
+    {
+      "date": "2012-08-07",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2012-01-26",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "1998-08-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "AS Roma",
+    "A.C. Perugia Calcio",
+    "Juventus FC",
+    "A.C. Perugia Calcio",
+    "Parma Calcio 1913",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Palermo F.C.",
+    "Parma Calcio 1913",
+    "US Lecce",
+    "Delfino Pescara 1936",
+    "Varese Calcio",
+    "Chennaiyin FC",
+    "S.S.D. Ischia Isolaverde"
+  ]
+}

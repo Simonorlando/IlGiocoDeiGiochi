@@ -1,0 +1,46 @@
+{
+  "player_id": 10087,
+  "full_name": "José Rodolfo Pires Ribeiro",
+  "nationality": "Brazil",
+  "birth_date": "1992-02-06",
+  "birth_place": "Campinas",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2016-08-18",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2016-01-21",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2014-07-08",
+      "type": "€ 7.8M",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "Esporte Clube Bahia",
+    "AS Roma",
+    "Inter Milan",
+    "U.C. Sampdoria"
+  ]
+}

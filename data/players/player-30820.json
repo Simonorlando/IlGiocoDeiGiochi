@@ -1,0 +1,29 @@
+{
+  "player_id": 30820,
+  "full_name": "Eugenio Lamanna",
+  "nationality": "Italy",
+  "birth_date": "1989-08-07",
+  "birth_place": "Como",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Lecco"
+    },
+    {
+      "date": "2019-07-13",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Como 1907",
+    "Genoa CFC",
+    "A.S. Gubbio 1910",
+    "SSC Bari",
+    "Siena FC",
+    "Spezia Calcio"
+  ]
+}

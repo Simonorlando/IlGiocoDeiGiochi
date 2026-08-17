@@ -1,0 +1,25 @@
+{
+  "player_id": 105370,
+  "full_name": "Marco Donadel",
+  "nationality": "Italy",
+  "birth_date": "1983-04-21",
+  "birth_place": "Conegliano",
+  "career_transfers": [
+    {
+      "date": "2002-08-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "US Lecce",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "ACF Fiorentina",
+    "SSC Napoli",
+    "Hellas Verona FC",
+    "CF Montréal"
+  ]
+}

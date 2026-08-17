@@ -1,0 +1,29 @@
+{
+  "player_id": 49,
+  "full_name": "Thomas Teye Partey",
+  "nationality": "Ghana",
+  "birth_date": "1993-06-13",
+  "birth_place": "Odumase Krobo",
+  "career_transfers": [
+    {
+      "date": "2025-08-07",
+      "type": "Free Transfer",
+      "team_out": "Arsenal",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Villarreal",
+      "team_in": "Partey Thomas"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "RCD Mallorca",
+    "Atlético Madrid",
+    "Unión Deportiva Almería",
+    "Arsenal F.C.",
+    "Villarreal CF"
+  ]
+}

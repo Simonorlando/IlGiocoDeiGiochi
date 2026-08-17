@@ -1,0 +1,43 @@
+{
+  "player_id": 51894,
+  "full_name": "Henry Damián Giménez Báez",
+  "nationality": "Uruguay",
+  "birth_date": "1986-03-13",
+  "birth_place": "Durazno",
+  "career_transfers": [
+    {
+      "date": "2014-01-09",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Nacional"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Grosseto",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2013-01-31",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Grosseto"
+    },
+    {
+      "date": "2010-08-01",
+      "type": "€ 2M",
+      "team_out": "River Plate",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Centro Atlético Fénix",
+    "Tacuarembó F.C.",
+    "Club Atlético River Plate",
+    "Bologna F.C. 1909",
+    "U.S. Grosseto 1912",
+    "Club Nacional de Football",
+    "Club Universitario de Deportes",
+    "Mushuc Runa Sporting Club"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 47255,
+  "full_name": "Vitorino Gabriel Pacheco Antunes",
+  "nationality": "Portugal",
+  "birth_date": "1987-04-01",
+  "birth_place": "Freamunde",
+  "career_transfers": [
+    {
+      "date": "2011-02-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Freamunde",
+    "F.C. Paços de Ferreira",
+    "AS Roma",
+    "US Lecce",
+    "AS Roma",
+    "Leixões S.C.",
+    "US Livorno 1915",
+    "Panionios F.C.",
+    "F.C. Paços de Ferreira",
+    "Málaga CF",
+    "FC Dynamo Kyiv",
+    "Getafe CF",
+    "Sporting CP",
+    "F.C. Paços de Ferreira"
+  ]
+}

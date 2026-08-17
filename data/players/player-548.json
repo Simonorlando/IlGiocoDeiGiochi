@@ -1,0 +1,36 @@
+{
+  "player_id": 548,
+  "full_name": "Hakim Ziyech",
+  "nationality": "Morocco",
+  "birth_date": "1993-03-19",
+  "birth_place": "Dronten",
+  "career_transfers": [
+    {
+      "date": "2024-06-28",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2023-08-19",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Free Transfer",
+      "team_out": "Galatasaray",
+      "team_in": "Al-Duhail SC"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "FC Twente",
+    "AFC Ajax",
+    "Chelsea F.C.",
+    "Galatasaray S.K.",
+    "Al-Duhail SC",
+    "Wydad Athletic Club"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "player_id": 1589,
+  "full_name": "Yuri Lodygin",
+  "nationality": "Russia",
+  "birth_date": "1990-05-26",
+  "birth_place": "Vladimir",
+  "career_transfers": [
+    {
+      "date": "2019-01-29",
+      "type": "N/A",
+      "team_out": "Zenit",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 800K",
+      "team_out": "Xanthi FC",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "Xanthi F.C.",
+    "Eordaikos F.C.",
+    "FC Zenit Saint Petersburg"
+  ]
+}

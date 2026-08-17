@@ -1,0 +1,26 @@
+{
+  "player_id": 44849,
+  "full_name": "Stéphane Richi Oméonga",
+  "nationality": "Belgium",
+  "birth_date": "1996-03-27",
+  "birth_place": "Rocourt",
+  "career_transfers": [
+    {
+      "date": "2021-08-28",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Livingston"
+    },
+    {
+      "date": "2020-09-07",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "U.S. Avellino 1912",
+    "Genoa CFC"
+  ]
+}

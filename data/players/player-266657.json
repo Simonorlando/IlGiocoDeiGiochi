@@ -1,0 +1,29 @@
+{
+  "player_id": 266657,
+  "full_name": "Sávio Moreira de Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "2004-04-10",
+  "birth_place": "São Mateus",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Estac Troyes"
+    },
+    {
+      "date": "2022-07-22",
+      "type": "Loan",
+      "team_out": "Estac Troyes",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "ES Troyes AC",
+    "Jong PSV",
+    "PSV Eindhoven",
+    "Girona FC",
+    "Manchester City F.C."
+  ]
+}

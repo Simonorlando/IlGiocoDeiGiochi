@@ -1,0 +1,27 @@
+{
+  "player_id": 341978,
+  "full_name": "Luca D'Andrea",
+  "nationality": "Italy",
+  "birth_date": "2004-09-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-02-01",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Brescia",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Sassuolo",
+    "Catanzaro",
+    "Brescia",
+    "Avellino"
+  ]
+}

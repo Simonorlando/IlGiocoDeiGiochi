@@ -1,0 +1,46 @@
+{
+  "player_id": 301772,
+  "full_name": "Mateusz Łęgowski",
+  "nationality": "Poland",
+  "birth_date": "2003-01-29",
+  "birth_place": "Brodnica",
+  "career_transfers": [
+    {
+      "date": "2024-09-09",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Yverdon Sport"
+    },
+    {
+      "date": "2023-08-17",
+      "type": "N/A",
+      "team_out": "Pogon Szczecin",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Yverdon Sport",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Free Transfer",
+      "team_out": "Salernitana",
+      "team_in": "Eyüpspor"
+    },
+    {
+      "date": "2025-09-08",
+      "type": "Free agent",
+      "team_out": "Salernitana",
+      "team_in": "Eyüpspor"
+    }
+  ],
+  "career_clubs": [
+    "Pogoń Szczecin",
+    "Salernitana",
+    "Yverdon-Sport",
+    "Eyüpspor",
+    "Motor Lublin"
+  ]
+}

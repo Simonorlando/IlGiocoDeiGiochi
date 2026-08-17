@@ -1,0 +1,36 @@
+{
+  "player_id": 61224,
+  "full_name": "Luka Lochoshvili",
+  "nationality": "Georgia",
+  "birth_date": "1998-05-29",
+  "birth_place": "Tbilisi",
+  "career_transfers": [
+    {
+      "date": "2022-08-10",
+      "type": "€ 1.6M",
+      "team_out": "Wolfsberger AC",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-01-10",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Salernitana",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2025-07-12",
+      "type": "Transfer",
+      "team_out": "Cremonese",
+      "team_in": "1. FC Nürnberg"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Tbilisi"
+  ]
+}

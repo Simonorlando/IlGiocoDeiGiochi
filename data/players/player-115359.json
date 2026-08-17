@@ -1,0 +1,30 @@
+{
+  "player_id": 115359,
+  "full_name": "Maurizio Lauro",
+  "nationality": "Italy",
+  "birth_date": "1981-03-12",
+  "birth_place": "Ischia",
+  "career_transfers": [
+    {
+      "date": "2012-07-16",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Ascoli Calcio 1898 FC",
+    "S.S. Chieti Calcio",
+    "San Marino Calcio",
+    "AS Reggina 1914",
+    "AC Cesena",
+    "Ternana Calcio",
+    "SSC Ancona"
+  ]
+}

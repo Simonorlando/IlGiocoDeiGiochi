@@ -1,0 +1,38 @@
+{
+  "player_id": 383018,
+  "full_name": "Marco Palestra",
+  "nationality": "Italy",
+  "birth_date": "2005-03-03",
+  "birth_place": "Buccinasco",
+  "career_transfers": [
+    {
+      "date": "2025-08-26",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Atalanta",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cagliari",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Cagliari Calcio",
+    "Chelsea F.C."
+  ]
+}

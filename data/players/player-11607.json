@@ -1,0 +1,29 @@
+{
+  "player_id": 11607,
+  "full_name": "Luis Antonio Jiménez Garcés",
+  "nationality": "Chile",
+  "birth_date": "1984-06-17",
+  "birth_place": "Santiago de Chile",
+  "career_transfers": [
+    {
+      "date": "2010-02-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "C.D. Palestino",
+    "Ternana Calcio",
+    "ACF Fiorentina",
+    "Ternana Calcio",
+    "SS Lazio",
+    "Inter Milan",
+    "West Ham United F.C.",
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "Ternana Calcio",
+    "Shabab AlAhli Dubai Club",
+    "Alshariqa"
+  ]
+}

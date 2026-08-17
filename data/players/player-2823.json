@@ -1,0 +1,41 @@
+{
+  "player_id": 2823,
+  "full_name": "Saša Lukić",
+  "nationality": "Serbia",
+  "birth_date": "1996-08-13",
+  "birth_place": "Šabac",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "€ 9.1M",
+      "team_out": "Torino",
+      "team_in": "Fulham"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Levante",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-08-15",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Levante"
+    },
+    {
+      "date": "2016-07-29",
+      "type": "€ 2M",
+      "team_out": "FK Partizan",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "FK Teleoptik",
+    "Torino FC",
+    "Levante UD",
+    "Fulham F.C.",
+    "Ipswich Town F.C."
+  ]
+}

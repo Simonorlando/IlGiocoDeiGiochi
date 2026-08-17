@@ -1,0 +1,45 @@
+{
+  "player_id": 44594,
+  "full_name": "Saud Abdullah Salem Abdulhamid",
+  "nationality": "Saudi Arabia",
+  "birth_date": "1999-07-18",
+  "birth_place": "Jeddah",
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "€ 2.5M",
+      "team_out": "Al-Hilal Saudi FC",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-08-03",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Lens"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Lens"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Lens",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Lens"
+    }
+  ],
+  "career_clubs": [
+    "Al Ittihad FC",
+    "Al Hilal SFC",
+    "AS Roma",
+    "R.C. Lens"
+  ]
+}

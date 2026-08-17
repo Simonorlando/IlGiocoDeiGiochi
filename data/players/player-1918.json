@@ -1,0 +1,35 @@
+{
+  "player_id": 1918,
+  "full_name": "Valère Bruno René Germain",
+  "nationality": "France",
+  "birth_date": "1990-04-17",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 8M",
+      "team_out": "Monaco",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Nice",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2015-07-07",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Nice"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "OGC Nice",
+    "Olympique de Marseille",
+    "Montpellier Hérault Sport Club",
+    "Macarthur FC",
+    "Sanfrecce Hiroshima"
+  ]
+}

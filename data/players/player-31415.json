@@ -1,0 +1,25 @@
+{
+  "player_id": 31415,
+  "full_name": "Pietro Ceccaroni",
+  "nationality": "Italy",
+  "birth_date": "1995-12-21",
+  "birth_place": "Sarzana",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "Calcio Padova"
+  ]
+}

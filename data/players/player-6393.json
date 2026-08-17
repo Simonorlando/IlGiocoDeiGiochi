@@ -1,0 +1,37 @@
+{
+  "player_id": 6393,
+  "full_name": "Mariano Gonzalo Andújar",
+  "nationality": "Argentina",
+  "birth_date": "1983-07-30",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "€ 2M",
+      "team_out": "Catania",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2012-01-16",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Estudiantes L.P."
+    },
+    {
+      "date": "2009-08-01",
+      "type": "€ 2.2M",
+      "team_out": "Estudiantes L.P.",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Huracán",
+    "Palermo F.C.",
+    "Estudiantes de La Plata",
+    "Catania FC",
+    "Estudiantes de La Plata",
+    "SSC Napoli",
+    "Catania FC",
+    "Estudiantes de La Plata"
+  ]
+}

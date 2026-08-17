@@ -1,0 +1,25 @@
+{
+  "player_id": 2553,
+  "full_name": "Guillermo Alfonso Maripán Loaysa",
+  "nationality": "Chile",
+  "birth_date": "1994-05-06",
+  "birth_place": "San Miguel",
+  "career_transfers": [
+    {
+      "date": "2024-08-29",
+      "type": "€ 2M",
+      "team_out": "Monaco",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Free agent",
+      "team_out": "Torino",
+      "team_in": "Internacional"
+    }
+  ],
+  "career_clubs": [
+    "Club Deportivo Universidad Católica",
+    "Deportivo Alavés"
+  ]
+}

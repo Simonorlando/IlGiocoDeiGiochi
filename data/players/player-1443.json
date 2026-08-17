@@ -1,0 +1,28 @@
+{
+  "player_id": 1443,
+  "full_name": "Laurent Koscielny",
+  "nationality": "France",
+  "birth_date": "1985-09-10",
+  "birth_place": "Tulle",
+  "career_transfers": [
+    {
+      "date": "2019-08-06",
+      "type": "€ 5M",
+      "team_out": "Arsenal",
+      "team_in": "Bordeaux"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 12.5M",
+      "team_out": "Lorient",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "En Avant de Guingamp",
+    "Tours FC.",
+    "F.C. Lorient",
+    "Arsenal F.C.",
+    "FC Girondins de Bordeaux"
+  ]
+}

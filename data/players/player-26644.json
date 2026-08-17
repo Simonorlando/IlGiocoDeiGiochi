@@ -1,0 +1,30 @@
+{
+  "player_id": 26644,
+  "full_name": "Christos Mandas",
+  "nationality": "Greece",
+  "birth_date": "2001-09-17",
+  "birth_place": "Pireás",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "N/A",
+      "team_out": "OFI",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Bournemouth"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Bournemouth",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Atromitos F.C."
+  ]
+}

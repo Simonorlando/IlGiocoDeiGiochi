@@ -1,0 +1,31 @@
+{
+  "player_id": 163,
+  "full_name": "Sèrge Alain Stéphane Aurier",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1992-12-24",
+  "birth_place": "Ouragahio",
+  "career_transfers": [
+    {
+      "date": "2024-02-02",
+      "type": "€ 100K",
+      "team_out": "Nottingham Forest",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Free agent",
+      "team_out": "Galatasaray",
+      "team_in": "Persepolis FC"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Toulouse FC",
+    "Paris Saint-Germain FC",
+    "Tottenham Hotspur F.C.",
+    "Villarreal CF",
+    "Nottingham Forest F.C.",
+    "Galatasaray S.K.",
+    "Persepolis F.C."
+  ]
+}

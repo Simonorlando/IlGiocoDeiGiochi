@@ -1,0 +1,21 @@
+{
+  "player_id": 421807,
+  "full_name": "Matías Agustín Moreno",
+  "nationality": "Argentina",
+  "birth_date": "2003-09-24",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-07-29",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Belgrano",
+    "Fiorentina",
+    "Levante",
+    "Venezia"
+  ]
+}

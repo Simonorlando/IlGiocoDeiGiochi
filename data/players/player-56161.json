@@ -1,0 +1,45 @@
+{
+  "player_id": 56161,
+  "full_name": "Marco Sala",
+  "nationality": "Italy",
+  "birth_date": "1999-06-04",
+  "birth_place": "Rho",
+  "career_transfers": [
+    {
+      "date": "2023-07-24",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Lecce",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2026-01-01",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Avellino"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Arezzo",
+    "Sassuolo",
+    "Virtus Entella",
+    "SPAL",
+    "Crotone",
+    "Palermo",
+    "Como",
+    "Lecce",
+    "Avellino"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 19298,
+  "full_name": "Matthew Stuart Cash",
+  "nationality": "Poland",
+  "birth_date": "1997-08-07",
+  "birth_place": "Slough",
+  "career_transfers": [
+    {
+      "date": "2020-09-03",
+      "type": "€ 15M",
+      "team_out": "Nottingham Forest",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Nottingham Forest F.C.",
+    "Dagenham & Redbridge F.C.",
+    "Aston Villa F.C."
+  ]
+}

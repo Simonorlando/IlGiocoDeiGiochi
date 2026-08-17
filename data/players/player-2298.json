@@ -1,0 +1,26 @@
+{
+  "player_id": 2298,
+  "full_name": "Callum James Hudson-Odoi",
+  "nationality": "England",
+  "birth_date": "2000-11-07",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2022-08-30",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Bayer 04 Leverkusen",
+    "Nottingham Forest F.C."
+  ]
+}

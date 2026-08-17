@@ -1,0 +1,31 @@
+{
+  "player_id": 30707,
+  "full_name": "Simone Benedetti",
+  "nationality": "Italy",
+  "birth_date": "1992-04-03",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2021-08-03",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2019-01-16",
+      "type": "N/A",
+      "team_out": "Virtus Entella",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Torino FC",
+    "A.S. Gubbio 1910",
+    "Spezia Calcio",
+    "Calcio Padova",
+    "Cagliari Calcio",
+    "SSC Bari",
+    "Virtus Entella"
+  ]
+}

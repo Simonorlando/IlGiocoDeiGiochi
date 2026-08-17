@@ -1,0 +1,26 @@
+{
+  "player_id": 31085,
+  "full_name": "Mirko Gori",
+  "nationality": "Italy",
+  "birth_date": "1993-02-04",
+  "birth_place": "Frosinone",
+  "career_transfers": [
+    {
+      "date": "2022-08-09",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2022-01-27",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Alessandria"
+    }
+  ],
+  "career_clubs": [
+    "Frosinone Calcio",
+    "Italy Lega Pro representative teams",
+    "Parma Calcio 1913"
+  ]
+}

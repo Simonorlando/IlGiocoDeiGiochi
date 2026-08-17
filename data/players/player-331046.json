@@ -1,0 +1,32 @@
+{
+  "player_id": 331046,
+  "full_name": "Issa Doumbia",
+  "nationality": "Italy",
+  "birth_date": "2003-10-16",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 1M",
+      "team_out": "Albinoleffe",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "AlbinoLeffe",
+    "Venezia",
+    "Sporting CP"
+  ]
+}

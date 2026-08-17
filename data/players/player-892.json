@@ -1,0 +1,40 @@
+{
+  "player_id": 892,
+  "full_name": "Christopher Lloyd Smalling",
+  "nationality": "England",
+  "birth_date": "1989-11-22",
+  "birth_place": "Greenwich",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Al-Fayha"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "€ 15M",
+      "team_out": "Manchester United",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2019-08-30",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Maidstone United F.C.",
+    "Fulham F.C.",
+    "Manchester United F.C.",
+    "AS Roma",
+    "Al-Feiha FC"
+  ]
+}

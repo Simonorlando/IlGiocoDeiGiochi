@@ -1,0 +1,28 @@
+{
+  "player_id": 46815,
+  "full_name": "Pau Francisco Torres",
+  "nationality": "Spain",
+  "birth_date": "1997-01-16",
+  "birth_place": "Villarreal",
+  "career_transfers": [
+    {
+      "date": "2023-07-12",
+      "type": "€ 33M",
+      "team_out": "Villarreal",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF B",
+    "Villarreal CF C",
+    "Villarreal CF",
+    "Málaga CF",
+    "Aston Villa F.C."
+  ]
+}

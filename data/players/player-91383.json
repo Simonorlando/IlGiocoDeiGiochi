@@ -1,0 +1,31 @@
+{
+  "player_id": 91383,
+  "full_name": "Abdoulay Konko",
+  "nationality": "France",
+  "birth_date": "1984-03-09",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2011-01-21",
+      "type": "6M €",
+      "team_out": "Sevilla",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "8.5M €",
+      "team_out": "Genoa",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "F.C. Crotone",
+    "Siena FC",
+    "Genoa CFC",
+    "Sevilla FC",
+    "SS Lazio",
+    "Genoa CFC",
+    "Atalanta BC"
+  ]
+}

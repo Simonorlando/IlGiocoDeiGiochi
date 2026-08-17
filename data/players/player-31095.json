@@ -1,0 +1,56 @@
+{
+  "player_id": 31095,
+  "full_name": "Marcello Trotta",
+  "nationality": "Italy",
+  "birth_date": "1992-09-29",
+  "birth_place": "Santa Maria Capua Vetere",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2021-01-23",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Famalicao"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2020-01-27",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2019-01-25",
+      "type": "Free",
+      "team_out": "Sassuolo",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Wycombe Wanderers F.C.",
+    "Fulham F.C.",
+    "Brentford F.C.",
+    "Watford F.C.",
+    "Barnsley F.C.",
+    "U.S. Avellino 1912",
+    "US Sassuolo Calcio",
+    "Manchester City F.C.",
+    "SSC Napoli"
+  ]
+}

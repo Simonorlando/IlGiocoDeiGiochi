@@ -1,0 +1,48 @@
+{
+  "player_id": 1573,
+  "full_name": "José Andrés Guardado Hernández",
+  "nationality": "Mexico",
+  "birth_date": "1986-09-28",
+  "birth_place": "Guadalajara",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 2.8M",
+      "team_out": "Valencia",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2014-08-26",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Deportivo La Coruna",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Atlas F.C.",
+    "Deportivo de A Coruña",
+    "Valencia CF",
+    "Bayer 04 Leverkusen",
+    "PSV Eindhoven",
+    "Real Betis Balompié",
+    "Club León"
+  ]
+}

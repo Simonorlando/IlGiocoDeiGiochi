@@ -1,0 +1,29 @@
+{
+  "player_id": 24790,
+  "full_name": "Frederik Hillersborg Sørensen",
+  "nationality": "Denmark",
+  "birth_date": "1992-04-14",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2021-08-04",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2021-01-20",
+      "type": "N/A",
+      "team_out": "1.FC Köln",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Lyngby Boldklub",
+    "Juventus FC",
+    "Bologna F.C. 1909",
+    "Juventus FC",
+    "Hellas Verona FC",
+    "1. FC Köln"
+  ]
+}

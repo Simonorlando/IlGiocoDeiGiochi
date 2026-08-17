@@ -1,0 +1,34 @@
+{
+  "player_id": 32107,
+  "full_name": "Alessio Sestu",
+  "nationality": "Italy",
+  "birth_date": "1983-09-29",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2013-07-11",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. G.C. Sora",
+    "Treviso F.B.C. 1993",
+    "F.C. Südtirol",
+    "Associazione Sportiva Cittadella",
+    "Mantova 1911",
+    "U.S. Salernitana 1919",
+    "U.S. Avellino 1912",
+    "AS Reggina 1914",
+    "Vicenza Calcio",
+    "SSC Bari",
+    "Siena FC",
+    "AC ChievoVerona",
+    "Brescia Calcio",
+    "U.C. Sampdoria",
+    "Virtus Entella",
+    "SS Lazio",
+    "US Alessandria Calcio 1912"
+  ]
+}

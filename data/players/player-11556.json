@@ -1,0 +1,55 @@
+{
+  "player_id": 11556,
+  "full_name": "Mauricio Ricardo Pinilla Ferreira",
+  "nationality": "Chile",
+  "birth_date": "1984-02-04",
+  "birth_place": "San Bernardo",
+  "career_transfers": [
+    {
+      "date": "2012-07-03",
+      "type": "€ 3.2M",
+      "team_out": "Palermo",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2012-01-25",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2010-06-03",
+      "type": "€ 5.1M",
+      "team_out": "Grosseto",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Universidad de Chile",
+    "Inter",
+    "Chievo Verona",
+    "Inter",
+    "Celta Vigo",
+    "Inter",
+    "Sporting CP",
+    "Real Racing Club",
+    "Sporting CP",
+    "Heart of Midlothian",
+    "Universidad de Chile",
+    "Heart of Midlothian",
+    "Vasco da Gama",
+    "Apollon Limassol",
+    "Grosseto",
+    "Palermo",
+    "Cagliari",
+    "Palermo",
+    "Cagliari",
+    "Genoa",
+    "Atalanta",
+    "Genoa",
+    "Atalanta",
+    "Genoa",
+    "Universidad de Chile",
+    "Coquimbo Unido"
+  ]
+}

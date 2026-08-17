@@ -1,0 +1,33 @@
+{
+  "player_id": 210647,
+  "full_name": "Evgeni Aldonin",
+  "nationality": "Russia",
+  "birth_date": "1980-01-22",
+  "birth_place": "Alupka",
+  "career_transfers": [
+    {
+      "date": "2013-09-02",
+      "type": "Free",
+      "team_out": "CSKA Moscow",
+      "team_in": null
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Mordovia Saransk",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2012-07-24",
+      "type": "Loan",
+      "team_out": "CSKA Moscow",
+      "team_in": "Mordovia Saransk"
+    }
+  ],
+  "career_clubs": [
+    "FC Rotor Volgograd",
+    "PFC CSKA Moscow",
+    "FC Mordovia Saransk",
+    "FC Volga Nizhny Novgorod"
+  ]
+}

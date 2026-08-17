@@ -1,0 +1,32 @@
+{
+  "player_id": 30607,
+  "full_name": "Matteo Mancosu",
+  "nationality": "Italy",
+  "birth_date": "1984-12-22",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2016-01-12",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Atletico Elmas",
+    "Nuorese Calcio",
+    "S.S. Villacidrese Calcio",
+    "Latina Calcio 1932",
+    "Vigor Lamezia",
+    "F.C. Trapani 1905",
+    "Bologna F.C. 1909",
+    "A.C. Carpi",
+    "CF Montréal"
+  ]
+}

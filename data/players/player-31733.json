@@ -1,0 +1,79 @@
+{
+  "player_id": 31733,
+  "full_name": "Filippo Falco",
+  "nationality": "Italy",
+  "birth_date": "1992-02-11",
+  "birth_place": "Taranto",
+  "career_transfers": [
+    {
+      "date": "2021-01-30",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "FK Crvena Zvezda"
+    },
+    {
+      "date": "2018-07-04",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2015-08-18",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Trapani",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2014-07-11",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Trapani"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Juve Stabia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2014-01-20",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Juve Stabia"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2011-08-10",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": null
+    }
+  ],
+  "career_clubs": [
+    "US Lecce",
+    "AC Pavia 1911",
+    "AS Reggina 1914",
+    "S.S. Juve Stabia",
+    "F.C. Trapani 1905",
+    "Bologna F.C. 1909",
+    "Cesena FC",
+    "Benevento Calcio",
+    "A.C. Perugia Calcio",
+    "Delfino Pescara 1936",
+    "US Lecce",
+    "FK Crvena zvezda",
+    "Cagliari Calcio",
+    "CFR Cluj"
+  ]
+}

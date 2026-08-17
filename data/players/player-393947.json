@@ -1,0 +1,26 @@
+{
+  "player_id": 393947,
+  "full_name": "Jacopo Seghetti",
+  "nationality": "Italy",
+  "birth_date": "2005-02-17",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-31",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Livorno",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Empoli",
+    "Livorno",
+    "Empoli"
+  ]
+}

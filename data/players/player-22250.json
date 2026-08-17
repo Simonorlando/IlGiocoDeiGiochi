@@ -1,0 +1,25 @@
+{
+  "player_id": 22250,
+  "full_name": "Mohamed Simakan",
+  "nationality": "France",
+  "birth_date": "2000-05-03",
+  "birth_place": "Marseille",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "€ 42M",
+      "team_out": "RB Leipzig",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 15M",
+      "team_out": "Strasbourg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "RC Strasbourg Alsace",
+    "RB Leipzig"
+  ]
+}

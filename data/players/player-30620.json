@@ -1,0 +1,38 @@
+{
+  "player_id": 30620,
+  "full_name": "Gaetano Letizia",
+  "nationality": "Italy",
+  "birth_date": "1990-06-29",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2025-07-21",
+      "type": "Free Transfer",
+      "team_out": "Feralpisalo",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-07-20",
+      "type": "Free agent",
+      "team_out": "FeralpiSalo",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Pescara",
+      "team_in": "Feralpisalo"
+    },
+    {
+      "date": "2025-01-09",
+      "type": "Loan",
+      "team_out": "Feralpisalo",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Pianura",
+    "S.F. Aversa Normanna",
+    "A.C. Carpi"
+  ]
+}

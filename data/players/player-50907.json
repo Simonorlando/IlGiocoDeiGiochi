@@ -1,0 +1,27 @@
+{
+  "player_id": 50907,
+  "full_name": "Osvaldo Nicolás Fabián Gaitán",
+  "nationality": "Argentina",
+  "birth_date": "1988-02-23",
+  "birth_place": "San Martín",
+  "career_transfers": [
+    {
+      "date": "2018-02-27",
+      "type": "€ 18M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Dalian Aerbin"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 25M",
+      "team_out": "Benfica",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica",
+    "Boca Juniors",
+    "S.L. Benfica",
+    "Atlético Madrid"
+  ]
+}

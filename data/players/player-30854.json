@@ -1,0 +1,27 @@
+{
+  "player_id": 30854,
+  "full_name": "Filippo Costa",
+  "nationality": "Italy",
+  "birth_date": "1995-05-21",
+  "birth_place": "Noventa Vicentina",
+  "career_transfers": [
+    {
+      "date": "2014-07-02",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Chievo",
+    "Pisa",
+    "Bournemouth",
+    "SPAL",
+    "Napoli",
+    "Bari",
+    "Virtus Entella",
+    "Parma",
+    "Foggia",
+    "Vicenza"
+  ]
+}

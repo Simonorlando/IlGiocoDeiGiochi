@@ -1,0 +1,22 @@
+{
+  "player_id": 47388,
+  "full_name": "Gonzalo Escalante",
+  "nationality": "Argentina",
+  "birth_date": "1993-03-27",
+  "birth_place": "Bella Vista",
+  "career_transfers": [
+    {
+      "date": "2022-08-09",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Catania FC",
+    "SD Eibar",
+    "Catania FC",
+    "SD Eibar"
+  ]
+}

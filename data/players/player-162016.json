@@ -1,0 +1,28 @@
+{
+  "player_id": 162016,
+  "full_name": "Xavier Quentin Shay Simons",
+  "nationality": "Netherlands",
+  "birth_date": "2003-04-21",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2023-07-18",
+      "type": "€ 6M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Paris Saint Germain",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "PSV Eindhoven",
+    "Paris Saint-Germain FC",
+    "RB Leipzig",
+    "Tottenham Hotspur F.C."
+  ]
+}

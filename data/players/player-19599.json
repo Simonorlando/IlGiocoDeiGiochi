@@ -1,0 +1,25 @@
+{
+  "player_id": 19599,
+  "full_name": "Damián Emiliano Martínez Romero",
+  "nationality": "Argentina",
+  "birth_date": "1992-09-02",
+  "birth_place": "Mar del Plata",
+  "career_transfers": [
+    {
+      "date": "2020-09-16",
+      "type": "€ 18.5M",
+      "team_out": "Arsenal",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal",
+    "Oxford United",
+    "Sheffield Wednesday",
+    "Rotherham United",
+    "Wolverhampton Wanderers",
+    "Getafe",
+    "Reading",
+    "Aston Villa"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 30719,
+  "full_name": "Robert Franz Gucher",
+  "nationality": "Austria",
+  "birth_date": "1991-02-20",
+  "birth_place": "Graz",
+  "career_transfers": [
+    {
+      "date": "2017-07-17",
+      "type": "Free",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2023-01-31",
+      "type": null,
+      "team_out": "Pisa",
+      "team_in": "Pordenone"
+    }
+  ],
+  "career_clubs": [
+    "Grazer AK",
+    "Frosinone Calcio",
+    "Genoa CFC",
+    "Frosinone Calcio",
+    "Kapfenberger SV",
+    "Frosinone Calcio",
+    "LR Vicenza",
+    "Pisa SC"
+  ]
+}

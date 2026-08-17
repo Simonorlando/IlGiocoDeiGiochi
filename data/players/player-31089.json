@@ -1,0 +1,33 @@
+{
+  "player_id": 31089,
+  "full_name": "Luca Valzania",
+  "nationality": "Italy",
+  "birth_date": "1996-03-05",
+  "birth_place": "Cesena",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2017-07-15",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "Atalanta BC",
+    "AC Cesena",
+    "Delfino Pescara 1936"
+  ]
+}

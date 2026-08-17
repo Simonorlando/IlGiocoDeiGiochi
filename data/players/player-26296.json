@@ -1,0 +1,21 @@
+{
+  "player_id": 26296,
+  "full_name": "Holger Badstuber",
+  "nationality": "Germany",
+  "birth_date": "1989-03-13",
+  "birth_place": "Memmingen",
+  "career_transfers": [
+    {
+      "date": "2017-01-12",
+      "type": "Loan",
+      "team_out": "Bayern Munich",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Schalke 04",
+    "VfB Stuttgart",
+    "FC Luzern"
+  ]
+}

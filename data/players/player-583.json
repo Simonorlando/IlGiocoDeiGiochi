@@ -1,0 +1,52 @@
+{
+  "player_id": 583,
+  "full_name": "João Félix Sequeira",
+  "nationality": "Portugal",
+  "birth_date": "1999-11-10",
+  "birth_place": "Viseu",
+  "career_transfers": [
+    {
+      "date": "2024-08-21",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Barcelona",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Chelsea",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2023-01-11",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2019-07-03",
+      "type": "€ 126M",
+      "team_out": "Benfica",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "FCSB",
+    "Chelsea F.C.",
+    "AC Milan",
+    "Al-Nassr"
+  ]
+}

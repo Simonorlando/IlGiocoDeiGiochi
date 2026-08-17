@@ -1,0 +1,35 @@
+{
+  "player_id": 413,
+  "full_name": "Yevhen Konoplyanka",
+  "nationality": "Ukraine",
+  "birth_date": "1989-09-29",
+  "birth_place": "Kirovohrad",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "12.5M",
+      "team_out": "Sevilla",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2016-08-30",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2015-07-03",
+      "type": "Free",
+      "team_out": "Dnipro Dnipropetrovsk",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "FC Dnipro",
+    "Sevilla FC",
+    "Schalke 04",
+    "FC Shakhtar Donetsk",
+    "KS Cracovia",
+    "CFR Cluj"
+  ]
+}

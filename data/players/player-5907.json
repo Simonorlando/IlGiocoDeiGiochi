@@ -1,0 +1,41 @@
+{
+  "player_id": 5907,
+  "full_name": "Lucas Alfonso Orbán Alegre",
+  "nationality": "Argentina",
+  "birth_date": "1989-02-03",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Levante",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2016-01-31",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Levante"
+    },
+    {
+      "date": "2014-08-11",
+      "type": "€ 3.5M",
+      "team_out": "Bordeaux",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Club Atlético Tigre",
+    "FC Girondins de Bordeaux",
+    "Valencia CF",
+    "Levante UD",
+    "Boca Juniors"
+  ]
+}

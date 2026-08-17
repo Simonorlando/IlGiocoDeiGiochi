@@ -1,0 +1,33 @@
+{
+  "player_id": 3000,
+  "full_name": "Bartosz Bereszyński",
+  "nationality": "Poland",
+  "birth_date": "1992-07-12",
+  "birth_place": "Poznań",
+  "career_transfers": [
+    {
+      "date": "2025-09-19",
+      "type": "Free agent",
+      "team_out": "Sampdoria",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "Free agent",
+      "team_out": "Palermo",
+      "team_in": "Motor Lublin"
+    },
+    {
+      "date": "2026-07-01",
+      "type": "Free agent",
+      "team_out": "Palermo",
+      "team_in": "Motor Lublin"
+    }
+  ],
+  "career_clubs": [
+    "Lech Poznań",
+    "Warta Poznań",
+    "Legia Warsaw",
+    "U.C. Sampdoria"
+  ]
+}

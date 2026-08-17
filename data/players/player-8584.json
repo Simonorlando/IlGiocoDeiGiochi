@@ -1,0 +1,27 @@
+{
+  "player_id": 8584,
+  "full_name": "Nikola Gulan",
+  "nationality": "Serbia",
+  "birth_date": "1989-03-23",
+  "birth_place": "Beograd",
+  "career_transfers": [
+    {
+      "date": "2009-08-21",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "FK Partizan",
+    "ACF Fiorentina",
+    "U.C. Sampdoria",
+    "Empoli FC",
+    "TSV 1860 München",
+    "AC ChievoVerona",
+    "Modena F.C.",
+    "FK Partizan",
+    "RCD Mallorca",
+    "Royal Excel Mouscron"
+  ]
+}

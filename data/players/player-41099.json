@@ -1,0 +1,52 @@
+{
+  "player_id": 41099,
+  "full_name": "Ricardo Sousa Esgaio",
+  "nationality": "Portugal",
+  "birth_date": "1993-05-16",
+  "birth_place": "Nazaré",
+  "career_transfers": [
+    {
+      "date": "2021-07-03",
+      "type": "€ 5.5M",
+      "team_out": "SC Braga",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Sporting CP",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Academica",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2015-01-30",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Academica"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Free Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2025-08-30",
+      "type": "Transfer",
+      "team_out": "Sporting CP",
+      "team_in": "Fatih Karagümrük"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Sporting CP B",
+    "Sporting CP",
+    "Associação Académica de Coimbra – O.A.F.",
+    "Sporting CP"
+  ]
+}

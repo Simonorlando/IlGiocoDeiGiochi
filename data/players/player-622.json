@@ -1,0 +1,32 @@
+{
+  "player_id": 622,
+  "full_name": "Aymeric Jean Louis Gérard Alph Laporte",
+  "nationality": "Spain",
+  "birth_date": "1994-05-27",
+  "birth_place": "Agen",
+  "career_transfers": [
+    {
+      "date": "2023-08-24",
+      "type": "€ 27.5M",
+      "team_out": "Manchester City",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2018-01-30",
+      "type": "€ 65M",
+      "team_out": "Athletic Club",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "SU Agen Football",
+    "Aviron Bayonnais FC",
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Athletic Club",
+    "Manchester City F.C.",
+    "Al-Nassr",
+    "Athletic Club"
+  ]
+}

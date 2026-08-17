@@ -1,0 +1,33 @@
+{
+  "player_id": 462,
+  "full_name": "Konstantinos Mitroglou",
+  "nationality": "Greece",
+  "birth_date": "1988-03-12",
+  "birth_place": "Kavala",
+  "career_transfers": [
+    {
+      "date": "2019-08-21",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Marseille",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos F.C.",
+    "Panionios F.C.",
+    "Atromitos F.C.",
+    "Fulham F.C.",
+    "Olympiacos F.C.",
+    "S.L. Benfica",
+    "Olympique de Marseille",
+    "Galatasaray S.K.",
+    "PSV Eindhoven",
+    "Aris Thessaloniki F.C."
+  ]
+}

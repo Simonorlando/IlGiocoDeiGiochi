@@ -1,0 +1,32 @@
+{
+  "player_id": 91301,
+  "full_name": "Antonino Ragusa",
+  "nationality": "Italy",
+  "birth_date": "1990-03-27",
+  "birth_place": "Messina",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Messina"
+    },
+    {
+      "date": "2022-01-30",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Treviso F.B.C. 1993",
+    "Genoa CFC",
+    "U.S. Salernitana 1919",
+    "AS Reggina 1914",
+    "Ternana Calcio",
+    "Delfino Pescara 1936",
+    "Vicenza Calcio",
+    "AC Cesena",
+    "Hellas Verona FC"
+  ]
+}

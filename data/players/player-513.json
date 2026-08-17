@@ -1,0 +1,32 @@
+{
+  "player_id": 513,
+  "full_name": "Renato Júnior Luz Sanches",
+  "nationality": "Portugal",
+  "birth_date": "1997-08-18",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2023-08-16",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "FC Bayern Munich",
+    "Swansea City A.F.C.",
+    "Lille OSC",
+    "Paris Saint-Germain FC",
+    "AS Roma",
+    "S.L. Benfica",
+    "Panathinaikos F.C."
+  ]
+}

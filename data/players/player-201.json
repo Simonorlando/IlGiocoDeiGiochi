@@ -1,0 +1,28 @@
+{
+  "player_id": 201,
+  "full_name": "Marcelo Brozović",
+  "nationality": "Croatia",
+  "birth_date": "1992-11-16",
+  "birth_place": "Zagreb",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 5M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2015-01-26",
+      "type": "Loan",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "NK Hrvatski Dragovoljac",
+    "NK Lokomotiva",
+    "GNK Dinamo Zagreb",
+    "Inter Milan",
+    "Al-Nassr"
+  ]
+}

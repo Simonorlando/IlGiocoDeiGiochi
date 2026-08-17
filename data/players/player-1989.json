@@ -1,0 +1,47 @@
+{
+  "player_id": 1989,
+  "full_name": "Ricardo Andrade Quaresma Bernardo",
+  "nationality": "Portugal",
+  "birth_date": "1983-09-26",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2019-08-29",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "Kasimpasa"
+    },
+    {
+      "date": "2015-08-14",
+      "type": "€ 1.2M",
+      "team_out": "FC Porto",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2013-01-08",
+      "type": "Free",
+      "team_out": "Besiktas",
+      "team_in": "Shabab Al Ahli Dubai"
+    },
+    {
+      "date": "2010-07-07",
+      "type": "€ 7.3M",
+      "team_out": "Inter",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP B",
+    "Sporting CP",
+    "FC Barcelona",
+    "FC Porto",
+    "Inter Milan",
+    "Chelsea F.C.",
+    "Beşiktaş J.K. (Football)",
+    "Shabab AlAhli Dubai Club",
+    "FC Porto",
+    "Beşiktaş J.K. (Football)",
+    "Kasımpaşa S.K.",
+    "Vitória S.C."
+  ]
+}

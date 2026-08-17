@@ -1,0 +1,43 @@
+{
+  "player_id": 48406,
+  "full_name": "Domen Črnigoj",
+  "nationality": "Slovenia",
+  "birth_date": "1995-11-18",
+  "birth_place": "Koper",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Reggiana",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2023-01-26",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Free",
+      "team_out": "FC Lugano",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-09-19",
+      "type": "Free agent",
+      "team_out": "Venezia",
+      "team_in": "Triestina"
+    }
+  ],
+  "career_clubs": [
+    "FC Koper",
+    "FC Lugano"
+  ]
+}

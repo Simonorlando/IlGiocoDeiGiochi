@@ -1,0 +1,25 @@
+{
+  "player_id": 263482,
+  "full_name": "Nuno Alexandre Tavares Mendes",
+  "nationality": "Portugal",
+  "birth_date": "2002-06-19",
+  "birth_place": "Sintra",
+  "career_transfers": [
+    {
+      "date": "2022-06-10",
+      "type": "€ 38M",
+      "team_out": "Sporting CP",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Paris Saint-Germain FC"
+  ]
+}

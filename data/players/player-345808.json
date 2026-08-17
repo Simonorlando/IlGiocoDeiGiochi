@@ -1,0 +1,19 @@
+{
+  "player_id": 345808,
+  "full_name": "Francesco Pio Esposito",
+  "nationality": "Italy",
+  "birth_date": "2005-06-28",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2025-06-16",
+      "type": "Back from Loan",
+      "team_out": "Spezia",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "Spezia"
+  ]
+}

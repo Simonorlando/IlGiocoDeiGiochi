@@ -1,0 +1,24 @@
+{
+  "player_id": 212842,
+  "full_name": "Marco Pellegrino",
+  "nationality": "Argentina",
+  "birth_date": "2002-07-18",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Platense"
+  ]
+}

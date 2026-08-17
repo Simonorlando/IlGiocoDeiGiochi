@@ -1,0 +1,24 @@
+{
+  "player_id": 105295,
+  "full_name": "Dejan Lazarević",
+  "nationality": "Slovenia",
+  "birth_date": "1990-02-15",
+  "birth_place": "Ljubljana",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Torino FC",
+    "Calcio Padova",
+    "Modena F.C.",
+    "AC ChievoVerona",
+    "US Sassuolo Calcio",
+    "Antalyaspor"
+  ]
+}

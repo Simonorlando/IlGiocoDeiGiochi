@@ -1,0 +1,26 @@
+{
+  "player_id": 1852,
+  "full_name": "Danilo Cataldi",
+  "nationality": "Italy",
+  "birth_date": "1994-08-06",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2017-07-19",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "F.C. Crotone",
+    "Italy under-21 Serie B representative team"
+  ]
+}

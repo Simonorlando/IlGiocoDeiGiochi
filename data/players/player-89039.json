@@ -1,0 +1,25 @@
+{
+  "player_id": 89039,
+  "full_name": "Gergely Rudolf",
+  "nationality": "Hungary",
+  "birth_date": "1985-03-09",
+  "birth_place": "Nyíregyháza",
+  "career_transfers": [
+    {
+      "date": "2011-01-14",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Nancy-Lorraine",
+    "Debreceni VSC",
+    "Genoa CFC",
+    "SSC Bari",
+    "Panathinaikos F.C.",
+    "Diósgyőri VTK",
+    "Győri ETO FC",
+    "Fehérvár FC"
+  ]
+}

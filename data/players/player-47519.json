@@ -1,0 +1,41 @@
+{
+  "player_id": 47519,
+  "full_name": "Pedro Antonio Porro Sauceda",
+  "nationality": "Spain",
+  "birth_date": "1999-09-13",
+  "birth_place": "Don Benito",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 40M",
+      "team_out": "Sporting CP",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 25M",
+      "team_out": "Manchester City",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2020-08-15",
+      "type": "Loan",
+      "team_out": "Valladolid",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona",
+    "Girona FC",
+    "Manchester City F.C.",
+    "Real Valladolid",
+    "Sporting CP",
+    "Tottenham Hotspur F.C."
+  ]
+}

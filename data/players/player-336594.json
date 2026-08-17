@@ -1,0 +1,19 @@
+{
+  "player_id": 336594,
+  "full_name": "Pablo Barrios Rivas",
+  "nationality": "Spain",
+  "birth_date": "2003-06-15",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2022-02-16",
+      "type": "N/A",
+      "team_out": "Atlético Madrid II",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Atlético Madrid"
+  ]
+}

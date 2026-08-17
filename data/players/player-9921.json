@@ -1,0 +1,28 @@
+{
+  "player_id": 9921,
+  "full_name": "Bruno Henrique Corsini",
+  "nationality": "Brazil",
+  "birth_date": "1989-10-21",
+  "birth_place": "Curitiba",
+  "career_transfers": [
+    {
+      "date": "2017-06-20",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Palmeiras"
+    },
+    {
+      "date": "2016-08-29",
+      "type": "€ 3.3M",
+      "team_out": "Corinthians",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Iraty Sport Club",
+    "Londrina E.C.",
+    "Associação Portuguesa de Desportos",
+    "S.C. Corinthians Paulista",
+    "Palermo F.C."
+  ]
+}

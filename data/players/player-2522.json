@@ -1,0 +1,23 @@
+{
+  "player_id": 2522,
+  "full_name": "Arnaldo Antonio Sanabria Ayala",
+  "nationality": "Paraguay",
+  "birth_date": "1996-03-04",
+  "birth_place": "San Lorenzo",
+  "career_transfers": [
+    {
+      "date": "2025-08-21",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "AS Roma",
+    "US Sassuolo Calcio",
+    "Sporting de Gijón",
+    "Real Betis Balompié",
+    "FC Barcelona"
+  ]
+}

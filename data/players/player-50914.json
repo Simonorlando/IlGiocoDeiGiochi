@@ -1,0 +1,20 @@
+{
+  "player_id": 50914,
+  "full_name": "Bastian Schweinsteiger",
+  "nationality": "Germany",
+  "birth_date": "1984-08-01",
+  "birth_place": "Kolbermoor",
+  "career_transfers": [
+    {
+      "date": "2015-07-13",
+      "type": "€ 9M",
+      "team_out": "Bayern Munich",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Manchester United F.C.",
+    "Chicago Fire FC"
+  ]
+}

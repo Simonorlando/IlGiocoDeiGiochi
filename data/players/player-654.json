@@ -1,0 +1,23 @@
+{
+  "player_id": 654,
+  "full_name": "Jérémy Michel Morel",
+  "nationality": "Madagascar",
+  "birth_date": "1984-04-02",
+  "birth_place": "Lorient",
+  "career_transfers": [
+    {
+      "date": "2011-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Lorient",
+      "team_in": "Marseille"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Lorient",
+    "Olympique de Marseille",
+    "Olympique Lyonnais",
+    "Stade Rennais F.C.",
+    "F.C. Lorient",
+    "US Montagnarde"
+  ]
+}

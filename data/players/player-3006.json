@@ -1,0 +1,28 @@
+{
+  "player_id": 3006,
+  "full_name": "Jakub Błaszczykowski",
+  "nationality": "Poland",
+  "birth_date": "1985-12-14",
+  "birth_place": "Truskolasy",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Fiorentina",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2015-08-31",
+      "type": "Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Wisła Kraków",
+    "Borussia Dortmund",
+    "ACF Fiorentina",
+    "VfL Wolfsburg",
+    "Wisła Kraków"
+  ]
+}

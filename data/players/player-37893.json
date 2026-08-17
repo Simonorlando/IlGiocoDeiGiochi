@@ -1,0 +1,32 @@
+{
+  "player_id": 37893,
+  "full_name": "Mounir El Hamdaoui",
+  "nationality": "Morocco",
+  "birth_date": "1984-07-14",
+  "birth_place": "Rotterdam",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Malaga",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2013-08-29",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Excelsior Rotterdam",
+    "Derby County F.C.",
+    "Tottenham Hotspur F.C.",
+    "AZ Alkmaar",
+    "AFC Ajax",
+    "ACF Fiorentina",
+    "Málaga CF",
+    "AZ Alkmaar",
+    "Umm Salal SC"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 1652,
+  "full_name": "Frank Cédric Tsadjout",
+  "nationality": "Italy",
+  "birth_date": "1999-07-28",
+  "birth_place": "Perugia",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pescara",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Royal Charleroi S.C."
+  ]
+}

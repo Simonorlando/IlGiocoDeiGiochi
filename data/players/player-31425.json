@@ -1,0 +1,48 @@
+{
+  "player_id": 31425,
+  "full_name": "Luca Belingheri",
+  "nationality": "Italy",
+  "birth_date": "1983-04-06",
+  "birth_place": "Lovere",
+  "career_transfers": [
+    {
+      "date": "2015-07-31",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Modena"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2014-01-24",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2011-01-28",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "F.C. AlzanoCene 1909",
+    "Como 1907",
+    "Siena FC",
+    "Genoa CFC",
+    "Como 1907",
+    "Ascoli Calcio 1898 FC",
+    "U.C. AlbinoLeffe",
+    "Ascoli Calcio 1898 FC",
+    "Torino FC",
+    "US Livorno 1915",
+    "AC Cesena",
+    "Modena F.C.",
+    "Calcio Padova"
+  ]
+}

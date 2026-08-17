@@ -1,0 +1,25 @@
+{
+  "player_id": 31390,
+  "full_name": "Pasquale Mazzocchi",
+  "nationality": "Italy",
+  "birth_date": "1995-07-27",
+  "birth_place": "Naples",
+  "career_transfers": [
+    {
+      "date": "2018-07-09",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2016-01-12",
+      "type": "N/A",
+      "team_out": "Rimini",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "A.C. Perugia Calcio"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 18975,
+  "full_name": "Davy Pröpper",
+  "nationality": "Netherlands",
+  "birth_date": "1991-09-02",
+  "birth_place": "Arnhem",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Brighton",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2017-08-07",
+      "type": "€ 13M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2015-07-13",
+      "type": "€ 4.5M",
+      "team_out": "Vitesse",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "SBV Vitesse",
+    "PSV Eindhoven"
+  ]
+}

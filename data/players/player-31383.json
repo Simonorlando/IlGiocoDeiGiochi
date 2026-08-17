@@ -1,0 +1,31 @@
+{
+  "player_id": 31383,
+  "full_name": "Simone Perilli",
+  "nationality": "Italy",
+  "birth_date": "1995-01-07",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Pisa",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2019-08-13",
+      "type": "N/A",
+      "team_out": "Pordenone",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Sassuolo",
+    "Pro Patria",
+    "Reggiana",
+    "Pordenone",
+    "Perugia",
+    "Pisa",
+    "Brescia",
+    "Hellas Verona"
+  ]
+}

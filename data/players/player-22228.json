@@ -1,0 +1,42 @@
+{
+  "player_id": 22228,
+  "full_name": "Miguel Ângelo da Silva Rocha",
+  "nationality": "Portugal",
+  "birth_date": "1994-11-10",
+  "birth_place": "Paredes",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Dijon",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Lille",
+      "team_in": "Dijon"
+    },
+    {
+      "date": "2017-06-09",
+      "type": "€ 5M",
+      "team_out": "SC Braga",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2017-06-09",
+      "type": "N/A",
+      "team_out": "Lille",
+      "team_in": "SC Braga"
+    },
+    {
+      "date": "2017-01-31",
+      "type": "Loan",
+      "team_out": "SC Braga",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC"
+  ]
+}

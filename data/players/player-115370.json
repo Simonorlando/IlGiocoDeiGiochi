@@ -1,0 +1,37 @@
+{
+  "player_id": 115370,
+  "full_name": "Houssine Kharja",
+  "nationality": "Morocco",
+  "birth_date": "1982-11-09",
+  "birth_place": "Poissy",
+  "career_transfers": [
+    {
+      "date": "2009-06-12",
+      "type": "€ 5.2M",
+      "team_out": "Robur Siena",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2008-01-01",
+      "type": "€ 1.2M",
+      "team_out": "Piacenza",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Gazélec Ajaccio",
+    "Sporting CP",
+    "Ternana Calcio",
+    "AS Roma",
+    "Piacenza Calcio",
+    "Siena FC",
+    "Genoa CFC",
+    "ACF Fiorentina",
+    "Inter Milan",
+    "Al-Arabi SC",
+    "FC Sochaux-Montbéliard",
+    "Novara Calcio",
+    "FCSB"
+  ]
+}

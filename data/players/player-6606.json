@@ -1,0 +1,27 @@
+{
+  "player_id": 6606,
+  "full_name": "Gino Peruzzi Lucchetti",
+  "nationality": "Argentina",
+  "birth_date": "1992-06-09",
+  "birth_place": "Corral de Bustos",
+  "career_transfers": [
+    {
+      "date": "2015-01-23",
+      "type": "€ 2.5M",
+      "team_out": "Catania",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2013-08-13",
+      "type": "€ 3.5M",
+      "team_out": "Velez Sarsfield",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "Catania FC",
+    "Boca Juniors",
+    "Grecia"
+  ]
+}

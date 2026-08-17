@@ -1,0 +1,42 @@
+{
+  "player_id": 1578,
+  "full_name": "Giovani Lo Celso",
+  "nationality": "Argentina",
+  "birth_date": "1996-04-09",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2022-08-14",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Villarreal",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "Paris Saint-Germain FC",
+    "Club Atlético Rosario Central",
+    "Real Betis Balompié",
+    "Tottenham Hotspur F.C.",
+    "Villarreal CF",
+    "Real Betis Balompié"
+  ]
+}

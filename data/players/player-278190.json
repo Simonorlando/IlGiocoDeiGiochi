@@ -1,0 +1,35 @@
+{
+  "player_id": 278190,
+  "full_name": "Agustín Álvarez Martínez",
+  "nationality": "Uruguay",
+  "birth_date": "2001-05-19",
+  "birth_place": "San Bautista",
+  "career_transfers": [
+    {
+      "date": "2025-08-27",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-08-26",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Peñarol",
+    "Sassuolo",
+    "Sampdoria",
+    "Elche",
+    "Monza",
+    "Talleres"
+  ]
+}

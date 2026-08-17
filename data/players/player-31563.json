@@ -1,0 +1,28 @@
+{
+  "player_id": 31563,
+  "full_name": "Aleksandar Trajkovski",
+  "nationality": "North Macedonia",
+  "birth_date": "1992-09-05",
+  "birth_place": "Skopje",
+  "career_transfers": [
+    {
+      "date": "2019-08-07",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Zulte Waregem",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "FK Cementarnica 55",
+    "NK Inter Zaprešić",
+    "S.V. Zulte Waregem",
+    "KV Mechelen",
+    "RCD Mallorca"
+  ]
+}

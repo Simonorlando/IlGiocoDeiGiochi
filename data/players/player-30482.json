@@ -1,0 +1,26 @@
+{
+  "player_id": 30482,
+  "full_name": "Andrea Poli",
+  "nationality": "Italy",
+  "birth_date": "1989-09-29",
+  "birth_place": "Vittorio Veneto",
+  "career_transfers": [
+    {
+      "date": "2011-08-29",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Treviso F.B.C. 1993",
+    "U.C. Sampdoria",
+    "US Sassuolo Calcio",
+    "Inter Milan",
+    "AC Milan",
+    "Bologna F.C. 1909",
+    "Antalyaspor",
+    "Modena F.C.",
+    "Pro Sesto 1913"
+  ]
+}

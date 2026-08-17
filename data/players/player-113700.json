@@ -1,0 +1,31 @@
+{
+  "player_id": 113700,
+  "full_name": "Jonathan Zebina",
+  "nationality": "France",
+  "birth_date": "1978-07-19",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2011-07-28",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Stade Brestois 29"
+    },
+    {
+      "date": "2010-09-01",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AS Cannes",
+    "Cagliari Calcio",
+    "AS Roma",
+    "Juventus FC",
+    "Brescia Calcio",
+    "Stade Brestois 29",
+    "Toulouse FC",
+    "AC Arles"
+  ]
+}

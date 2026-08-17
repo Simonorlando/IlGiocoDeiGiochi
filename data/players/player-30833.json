@@ -1,0 +1,71 @@
+{
+  "player_id": 30833,
+  "full_name": "Alessio Sergio Fernando Da Cruz",
+  "nationality": "Cape Verde",
+  "birth_date": "1997-01-18",
+  "birth_place": "Almere",
+  "career_transfers": [
+    {
+      "date": "2022-07-12",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "KV Mechelen"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Vicenza Virtus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2022-01-10",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2021-08-04",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Santos Laguna"
+    },
+    {
+      "date": "2021-06-19",
+      "type": "N/A",
+      "team_out": "Groningen",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2020-10-03",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Groningen"
+    },
+    {
+      "date": "2020-01-29",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Sheffield Wednesday"
+    },
+    {
+      "date": "2019-01-11",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2018-01-09",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Jong FC Twente",
+    "FC Twente",
+    "KV Mechelen",
+    "AFC Ajax",
+    "Novara Calcio",
+    "Parma Calcio 1913"
+  ]
+}

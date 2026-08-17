@@ -1,0 +1,29 @@
+{
+  "player_id": 1631,
+  "full_name": "Ricardo Iván Rodríguez Araya",
+  "nationality": "Switzerland",
+  "birth_date": "1992-08-25",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2024-08-05",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Real Betis"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "€ 3M",
+      "team_out": "AC Milan",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "VfL Wolfsburg",
+    "AC Milan",
+    "PSV Eindhoven",
+    "Torino FC",
+    "Real Betis Balompié"
+  ]
+}

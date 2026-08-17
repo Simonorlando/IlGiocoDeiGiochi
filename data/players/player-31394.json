@@ -1,0 +1,26 @@
+{
+  "player_id": 31394,
+  "full_name": "Raffaele Bianco",
+  "nationality": "Italy",
+  "birth_date": "1987-08-25",
+  "birth_place": "Aversa",
+  "career_transfers": [
+    {
+      "date": "2017-08-04",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Perugia"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Piacenza Calcio",
+    "SSC Bari",
+    "Modena F.C.",
+    "Benevento Calcio",
+    "Spezia Calcio",
+    "Juventus FC",
+    "A.C. Carpi",
+    "A.C. Perugia Calcio"
+  ]
+}

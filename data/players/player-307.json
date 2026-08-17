@@ -1,0 +1,25 @@
+{
+  "player_id": 307,
+  "full_name": "Xherdan Shaqiri",
+  "nationality": "Switzerland",
+  "birth_date": "1991-10-10",
+  "birth_place": "Gjilan",
+  "career_transfers": [
+    {
+      "date": "2015-01-08",
+      "type": "€ 15M",
+      "team_out": "Bayern München",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "FC Bayern Munich",
+    "Stoke City F.C.",
+    "Inter Milan",
+    "Liverpool F.C.",
+    "Olympique Lyonnais",
+    "Chicago Fire FC",
+    "FC Basel"
+  ]
+}

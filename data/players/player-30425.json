@@ -1,0 +1,20 @@
+{
+  "player_id": 30425,
+  "full_name": "Gianluca Mancini",
+  "nationality": "Italy",
+  "birth_date": "1996-04-17",
+  "birth_place": "Pontedera",
+  "career_transfers": [
+    {
+      "date": "2015-07-10",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Perugia"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Perugia Calcio",
+    "Atalanta BC",
+    "AS Roma"
+  ]
+}

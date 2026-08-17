@@ -1,0 +1,31 @@
+{
+  "player_id": 174,
+  "full_name": "Christian Dannemann Eriksen",
+  "nationality": "Denmark",
+  "birth_date": "1992-02-14",
+  "birth_place": "Middelfart",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Brentford"
+    },
+    {
+      "date": "2020-01-28",
+      "type": "€ 20M",
+      "team_out": "Tottenham",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Middelfart Boldklub",
+    "Odense Boldklub",
+    "AFC Ajax",
+    "Tottenham Hotspur F.C.",
+    "Inter Milan",
+    "Brentford F.C.",
+    "Manchester United F.C.",
+    "VfL Wolfsburg"
+  ]
+}

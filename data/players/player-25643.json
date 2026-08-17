@@ -1,0 +1,31 @@
+{
+  "player_id": 25643,
+  "full_name": "Josip Drmić",
+  "nationality": "Switzerland",
+  "birth_date": "1992-08-08",
+  "birth_place": "Freienbach",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 10M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Borussia Monchengladbach"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "FC Nurnberg",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich",
+    "1. FC Nürnberg",
+    "Bayer 04 Leverkusen",
+    "Borussia Mönchengladbach",
+    "Hamburger SV",
+    "Norwich City F.C.",
+    "HNK Rijeka",
+    "GNK Dinamo Zagreb"
+  ]
+}

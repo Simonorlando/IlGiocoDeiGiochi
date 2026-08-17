@@ -1,0 +1,42 @@
+{
+  "player_id": 30619,
+  "full_name": "Bright Gyamfi",
+  "nationality": "Ghana",
+  "birth_date": "1996-01-20",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2022-07-22",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "Potenza"
+    },
+    {
+      "date": "2022-01-19",
+      "type": "N/A",
+      "team_out": "Reggiana",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Reggiana"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2016-07-15",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan"
+  ]
+}

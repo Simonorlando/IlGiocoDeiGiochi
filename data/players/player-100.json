@@ -1,0 +1,43 @@
+{
+  "player_id": 100,
+  "full_name": "Andrea Raggi",
+  "nationality": "Italy",
+  "birth_date": "1984-06-24",
+  "birth_place": "La Spezia",
+  "career_transfers": [
+    {
+      "date": "2011-08-23",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2010-07-02",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2009-01-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "7M €",
+      "team_out": "Empoli",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Carrarese Calcio",
+    "Palermo F.C.",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909",
+    "SSC Bari",
+    "Bologna F.C. 1909",
+    "AS Monaco FC"
+  ]
+}

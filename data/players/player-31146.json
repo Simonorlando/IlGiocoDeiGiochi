@@ -1,0 +1,33 @@
+{
+  "player_id": 31146,
+  "full_name": "Sandro Tonali",
+  "nationality": "Italy",
+  "birth_date": "2000-05-08",
+  "birth_place": "Lodi",
+  "career_transfers": [
+    {
+      "date": "2021-07-08",
+      "type": "€ 6.9M",
+      "team_out": "Brescia",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2020-09-09",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "AC Milan",
+    "Newcastle United F.C.",
+    "Tottenham Hotspur F.C."
+  ]
+}

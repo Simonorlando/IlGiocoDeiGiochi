@@ -1,0 +1,25 @@
+{
+  "player_id": 275,
+  "full_name": "Eric Maxim Choupo-Moting",
+  "nationality": "Cameroon",
+  "birth_date": "1989-03-23",
+  "birth_place": "Hamburg",
+  "career_transfers": [
+    {
+      "date": "2014-07-05",
+      "type": "Free",
+      "team_out": "FSV Mainz 05",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Hamburger SV",
+    "1. FC Nürnberg",
+    "1. FSV Mainz 05",
+    "Schalke 04",
+    "Stoke City F.C.",
+    "Paris Saint-Germain FC",
+    "FC Bayern Munich",
+    "Red Bull New York"
+  ]
+}

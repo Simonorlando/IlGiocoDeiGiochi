@@ -1,0 +1,29 @@
+{
+  "player_id": 37127,
+  "full_name": "Martin Ødegaard",
+  "nationality": "Norway",
+  "birth_date": "1998-12-17",
+  "birth_place": "Drammen",
+  "career_transfers": [
+    {
+      "date": "2020-08-12",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2019-07-05",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Strømsgodset TF",
+    "Real Madrid Club de Fútbol",
+    "SC Heerenveen",
+    "SBV Vitesse",
+    "Real Sociedad",
+    "Arsenal F.C."
+  ]
+}

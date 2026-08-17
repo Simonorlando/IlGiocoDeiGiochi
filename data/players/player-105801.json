@@ -1,0 +1,28 @@
+{
+  "player_id": 105801,
+  "full_name": "György Garics",
+  "nationality": "Austria",
+  "birth_date": "1984-03-08",
+  "birth_place": "Szombathely",
+  "career_transfers": [
+    {
+      "date": "2015-08-14",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "SV Darmstadt 98"
+    },
+    {
+      "date": "2010-08-16",
+      "type": "€ 3M",
+      "team_out": "Atalanta",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "SK Rapid Wien",
+    "SSC Napoli",
+    "Atalanta BC",
+    "Bologna F.C. 1909",
+    "SV Darmstadt 98"
+  ]
+}

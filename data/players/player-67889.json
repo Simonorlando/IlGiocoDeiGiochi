@@ -1,0 +1,24 @@
+{
+  "player_id": 67889,
+  "full_name": "Hákon Arnar Haraldsson",
+  "nationality": "Iceland",
+  "birth_date": "2003-04-10",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-17",
+      "type": "€ 12M",
+      "team_out": "FC Copenhagen",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2021-05-01",
+      "type": "N/A",
+      "team_out": "IA Akranes",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen"
+  ]
+}

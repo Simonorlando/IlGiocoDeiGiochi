@@ -1,0 +1,29 @@
+{
+  "player_id": 48,
+  "full_name": "Saúl Ñíguez Esclapez",
+  "nationality": "Spain",
+  "birth_date": "1994-11-21",
+  "birth_place": "Elche",
+  "career_transfers": [
+    {
+      "date": "2024-07-15",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Sevilla",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Rayo Vallecano",
+    "Chelsea F.C.",
+    "Sevilla FC",
+    "Clube de Regatas do Flamengo"
+  ]
+}

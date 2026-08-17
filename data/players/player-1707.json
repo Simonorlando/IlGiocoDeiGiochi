@@ -1,0 +1,42 @@
+{
+  "player_id": 1707,
+  "full_name": "Gerard Moreno Balagueró",
+  "nationality": "Spain",
+  "birth_date": "1992-04-07",
+  "birth_place": "Santa Perpètua de Mogoda",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "€ 20M",
+      "team_out": "Espanyol",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2015-08-13",
+      "type": "€ 1.5M",
+      "team_out": "Villarreal",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Mallorca",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2013-07-08",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "Mallorca"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF C",
+    "Villarreal CF",
+    "Villarreal CF B",
+    "Villarreal CF",
+    "RCD Mallorca",
+    "RCD Espanyol de Barcelona",
+    "Villarreal CF"
+  ]
+}

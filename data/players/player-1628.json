@@ -1,0 +1,22 @@
+{
+  "player_id": 1628,
+  "full_name": "Mattia Caldara",
+  "nationality": "Italy",
+  "birth_date": "1994-05-05",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "F.C. Trapani 1905",
+    "AC Cesena",
+    "AC Milan",
+    "Juventus FC"
+  ]
+}

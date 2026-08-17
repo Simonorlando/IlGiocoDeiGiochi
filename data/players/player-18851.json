@@ -1,0 +1,30 @@
+{
+  "player_id": 18851,
+  "full_name": "Maximilian Meyer",
+  "nationality": "Germany",
+  "birth_date": "1995-09-18",
+  "birth_place": "Oberhausen",
+  "career_transfers": [
+    {
+      "date": "2024-07-04",
+      "type": "Free",
+      "team_out": "FC Luzern",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Meyer Max"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Crystal Palace F.C.",
+    "1. FC Köln",
+    "Fenerbahçe Istanbul",
+    "FC Midtjylland",
+    "FC Luzern",
+    "APOEL F.C."
+  ]
+}

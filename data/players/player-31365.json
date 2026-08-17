@@ -1,0 +1,38 @@
+{
+  "player_id": 31365,
+  "full_name": "Simone Bentivoglio",
+  "nationality": "Italy",
+  "birth_date": "1985-05-29",
+  "birth_place": "Pinerolo",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Virtus Verona"
+    },
+    {
+      "date": "2020-01-10",
+      "type": "Loan",
+      "team_out": "Robur Siena",
+      "team_in": "Virtus Verona"
+    },
+    {
+      "date": "2019-07-23",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Mantova 1911",
+    "AC ChievoVerona",
+    "Modena F.C.",
+    "U.C. Sampdoria",
+    "SSC Bari",
+    "Calcio Padova",
+    "Brescia Calcio",
+    "Modena F.C.",
+    "Juventus FC"
+  ]
+}

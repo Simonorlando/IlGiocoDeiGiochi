@@ -1,0 +1,30 @@
+{
+  "player_id": 30426,
+  "full_name": "Andrea Masiello",
+  "nationality": "Italy",
+  "birth_date": "1986-02-05",
+  "birth_place": "Viareggio",
+  "career_transfers": [
+    {
+      "date": "2020-01-29",
+      "type": "€ 3.4M",
+      "team_out": "Atalanta",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2011-07-27",
+      "type": "€ 3M",
+      "team_out": "Bari",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Lucchese 1905",
+    "Juventus FC",
+    "U.S. Avellino 1912",
+    "Siena FC",
+    "Genoa CFC",
+    "SSC Bari",
+    "Atalanta BC"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "player_id": 162266,
+  "full_name": "Lucas da Cunha",
+  "nationality": "France",
+  "birth_date": "2001-06-09",
+  "birth_place": "Roanne",
+  "career_transfers": [
+    {
+      "date": "2023-01-16",
+      "type": "€ 400K",
+      "team_out": "Nice",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Rennes",
+    "Nice",
+    "Lausanne-Sport",
+    "Clermont",
+    "Como"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 313,
+  "full_name": "David Ospina Ramírez",
+  "nationality": "Colombia",
+  "birth_date": "1988-08-31",
+  "birth_place": "Medellín",
+  "career_transfers": [
+    {
+      "date": "2022-07-11",
+      "type": "Free",
+      "team_out": "Napoli",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Arsenal",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Nacional",
+    "OGC Nice",
+    "Arsenal F.C.",
+    "SSC Napoli",
+    "Al-Nassr",
+    "Atlético Nacional",
+    "Atlante F.C."
+  ]
+}

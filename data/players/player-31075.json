@@ -1,0 +1,24 @@
+{
+  "player_id": 31075,
+  "full_name": "Cristian Molinaro",
+  "nationality": "Italy",
+  "birth_date": "1983-07-30",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2014-01-30",
+      "type": "Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Salernitana 1919",
+    "Italy under-21 Serie B representative team",
+    "Juventus FC",
+    "Siena FC",
+    "VfB Stuttgart",
+    "Torino FC",
+    "Parma Calcio 1913"
+  ]
+}

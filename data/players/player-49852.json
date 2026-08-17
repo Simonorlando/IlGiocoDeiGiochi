@@ -1,0 +1,34 @@
+{
+  "player_id": 49852,
+  "full_name": "Eljero George Rinaldo Elia",
+  "nationality": "Netherlands",
+  "birth_date": "1987-02-13",
+  "birth_place": "Voorburg",
+  "career_transfers": [
+    {
+      "date": "2012-07-09",
+      "type": "€ 5.5M",
+      "team_out": "Juventus",
+      "team_in": "Werder Bremen"
+    },
+    {
+      "date": "2011-08-31",
+      "type": "€ 9M",
+      "team_out": "Hamburger SV",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "ADO Den Haag",
+    "FC Twente",
+    "Hamburger SV",
+    "Juventus FC",
+    "SV Werder Bremen",
+    "Southampton F.C.",
+    "Feyenoord Rotterdam",
+    "İstanbul Başakşehir F.K.",
+    "FC Utrecht",
+    "ADO Den Haag",
+    "AFC Ajax"
+  ]
+}

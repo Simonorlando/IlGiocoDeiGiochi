@@ -1,0 +1,28 @@
+{
+  "player_id": 2059,
+  "full_name": "Wissam Ben Yedder",
+  "nationality": "France",
+  "birth_date": "1990-08-12",
+  "birth_place": "Sarcelles",
+  "career_transfers": [
+    {
+      "date": "2019-08-14",
+      "type": "€ 40M",
+      "team_out": "Sevilla",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2016-08-01",
+      "type": "€ 9M",
+      "team_out": "Toulouse",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC",
+    "Sevilla FC",
+    "AS Monaco FC",
+    "Sepahan F.C.",
+    "Sakaryaspor"
+  ]
+}

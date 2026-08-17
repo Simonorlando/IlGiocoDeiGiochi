@@ -1,0 +1,35 @@
+{
+  "player_id": 31047,
+  "full_name": "Jacob Vandsø Ryfeldt Rasmussen",
+  "nationality": "Denmark",
+  "birth_date": "1997-05-28",
+  "birth_place": "Odense",
+  "career_transfers": [
+    {
+      "date": "2025-06-09",
+      "type": "Transfer",
+      "team_out": "Brondby",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2025-06-07",
+      "type": "Transfer",
+      "team_out": "Brondby",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "1. FC Kaiserslautern"
+    }
+  ],
+  "career_clubs": [
+    "Næsby BK",
+    "Odense Boldklub",
+    "Schalke 04",
+    "FC St. Pauli",
+    "Rosenborg BK",
+    "Empoli FC"
+  ]
+}

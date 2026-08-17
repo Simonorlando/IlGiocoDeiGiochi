@@ -1,0 +1,19 @@
+{
+  "player_id": 46988,
+  "full_name": "Josep Martínez Riera",
+  "nationality": "Spain",
+  "birth_date": "1998-05-27",
+  "birth_place": "Alzira",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Barcelona",
+      "team_in": "Las Palmas"
+    }
+  ],
+  "career_clubs": [
+    "UD Las Palmas",
+    "RB Leipzig"
+  ]
+}

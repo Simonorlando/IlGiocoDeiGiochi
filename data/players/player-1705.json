@@ -1,0 +1,24 @@
+{
+  "player_id": 1705,
+  "full_name": "Manuel Trigueros Muñoz",
+  "nationality": "Spain",
+  "birth_date": "1991-10-17",
+  "birth_place": "Talavera de la Reina",
+  "career_transfers": [
+    {
+      "date": "2024-08-08",
+      "type": "Free",
+      "team_out": "Villarreal",
+      "team_in": "Granada CF"
+    }
+  ],
+  "career_clubs": [
+    "Villarreal CF C",
+    "Villarreal CF B",
+    "Villarreal CF",
+    "Granada CF",
+    "Talavera CF",
+    "FC Barcelona",
+    "Real Murcia"
+  ]
+}

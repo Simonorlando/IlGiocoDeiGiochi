@@ -1,0 +1,19 @@
+{
+  "player_id": 375321,
+  "full_name": "Richie Sagrado Sebastiao",
+  "nationality": "Belgium",
+  "birth_date": "2004-01-30",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-03",
+      "type": "€ 2M",
+      "team_out": "OH Leuven",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "OH Leuven",
+    "Venezia"
+  ]
+}

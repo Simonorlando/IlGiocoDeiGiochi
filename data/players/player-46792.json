@@ -1,0 +1,39 @@
+{
+  "player_id": 46792,
+  "full_name": "Pablo Marí Villar",
+  "nationality": "Spain",
+  "birth_date": "1993-08-31",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 4.9M",
+      "team_out": "Arsenal",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2022-08-11",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "RCD Mallorca B",
+    "RCD Mallorca",
+    "Gimnàstic de Tarragona",
+    "Manchester City F.C.",
+    "Girona FC",
+    "NAC Breda",
+    "Deportivo de A Coruña",
+    "Clube de Regatas do Flamengo",
+    "Arsenal F.C.",
+    "Udinese Calcio"
+  ]
+}

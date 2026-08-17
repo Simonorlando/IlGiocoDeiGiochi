@@ -1,0 +1,20 @@
+{
+  "player_id": 19354,
+  "full_name": "Ezri Konsa Ngoyo",
+  "nationality": "England",
+  "birth_date": "1997-10-23",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2019-07-11",
+      "type": "€ 12M",
+      "team_out": "Brentford",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Charlton Athletic F.C.",
+    "Brentford F.C.",
+    "Aston Villa F.C."
+  ]
+}

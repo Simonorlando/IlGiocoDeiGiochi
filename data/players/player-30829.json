@@ -1,0 +1,28 @@
+{
+  "player_id": 30829,
+  "full_name": "Claudio Terzi",
+  "nationality": "Italy",
+  "birth_date": "1984-06-19",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2015-08-04",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2013-07-19",
+      "type": "N/A",
+      "team_out": "Robur Siena",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "SSC Napoli",
+    "Siena FC",
+    "Palermo F.C.",
+    "Spezia Calcio"
+  ]
+}

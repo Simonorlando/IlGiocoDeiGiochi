@@ -1,0 +1,26 @@
+{
+  "player_id": 506,
+  "full_name": "Niklas Süle",
+  "nationality": "Germany",
+  "birth_date": "1995-09-03",
+  "birth_place": "Frankfurt am Main",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Bayern München",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "End of career",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Sule Niklas"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim",
+    "FC Bayern Munich",
+    "Borussia Dortmund"
+  ]
+}

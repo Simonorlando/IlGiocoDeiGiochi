@@ -1,0 +1,19 @@
+{
+  "player_id": 307835,
+  "full_name": "Lucas Lopes Beraldo",
+  "nationality": "Brazil",
+  "birth_date": "2003-11-24",
+  "birth_place": "Piracicaba",
+  "career_transfers": [
+    {
+      "date": "2024-01-01",
+      "type": "€ 20M",
+      "team_out": "Sao Paulo",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo FC",
+    "Paris Saint-Germain FC"
+  ]
+}

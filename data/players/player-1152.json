@@ -1,0 +1,27 @@
+{
+  "player_id": 1152,
+  "full_name": "Emil Peter Forsberg",
+  "nationality": "Sweden",
+  "birth_date": "1991-10-23",
+  "birth_place": "Sundsvall",
+  "career_transfers": [
+    {
+      "date": "2024-01-31",
+      "type": "€ 3M",
+      "team_out": "RB Leipzig",
+      "team_in": "New York Red Bulls"
+    },
+    {
+      "date": "2015-01-07",
+      "type": "€ 3.7M",
+      "team_out": "Malmo FF",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "GIF Sundsvall",
+    "Malmö FF",
+    "RB Leipzig",
+    "Red Bull New York"
+  ]
+}

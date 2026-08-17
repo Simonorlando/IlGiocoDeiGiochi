@@ -1,0 +1,27 @@
+{
+  "player_id": 162173,
+  "full_name": "Samuel Iling-Junior",
+  "nationality": "England",
+  "birth_date": "2003-10-04",
+  "birth_place": "London",
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pisa",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen",
+    "Juventus FC",
+    "Aston Villa F.C.",
+    "Bologna F.C. 1909"
+  ]
+}

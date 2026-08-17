@@ -1,0 +1,28 @@
+{
+  "player_id": 31539,
+  "full_name": "Alberto Pomini",
+  "nationality": "Italy",
+  "birth_date": "1981-03-17",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2019-07-24",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2017-08-07",
+      "type": "N/A",
+      "team_out": "Sassuolo",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "San Marino Calcio",
+    "A.C. Bellaria Igea Marina",
+    "US Sassuolo Calcio",
+    "Hellas Verona FC",
+    "Palermo F.C."
+  ]
+}

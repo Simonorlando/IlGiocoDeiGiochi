@@ -1,0 +1,25 @@
+{
+  "player_id": 455245,
+  "full_name": "Darryl Bakola",
+  "nationality": "France",
+  "birth_date": "2007-11-30",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Marseille",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Transfer",
+      "team_out": "Marseille",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Marseille",
+    "Sassuolo"
+  ]
+}

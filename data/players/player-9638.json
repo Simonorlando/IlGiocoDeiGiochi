@@ -1,0 +1,32 @@
+{
+  "player_id": 9638,
+  "full_name": "Maicon Douglas Sisenando",
+  "nationality": "Brazil",
+  "birth_date": "1981-07-26",
+  "birth_place": "Novo Hamburgo",
+  "career_transfers": [
+    {
+      "date": "2012-08-31",
+      "type": "€ 3.8M",
+      "team_out": "Inter",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 7M",
+      "team_out": "Monaco",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "AS Monaco FC",
+    "Inter Milan",
+    "Manchester City F.C.",
+    "AS Roma",
+    "Avaí Futebol Clube",
+    "Criciúma Esporte Clube",
+    "Villa Nova Atlético Clube",
+    "gil paja"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 50798,
+  "full_name": "Orji Okwonkwo",
+  "nationality": "Nigeria",
+  "birth_date": "1998-01-19",
+  "birth_place": "Benin City",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pescara",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "Brescia Calcio"
+  ]
+}

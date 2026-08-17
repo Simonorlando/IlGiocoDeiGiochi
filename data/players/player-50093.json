@@ -1,0 +1,53 @@
+{
+  "player_id": 50093,
+  "full_name": "Serhii Rybalka",
+  "nationality": "Ukraine",
+  "birth_date": "1990-04-01",
+  "birth_place": "Yamne",
+  "career_transfers": [
+    {
+      "date": "2018-07-21",
+      "type": "N/A",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Sivasspor"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Sivasspor",
+      "team_in": "Dynamo Kyiv"
+    },
+    {
+      "date": "2017-09-08",
+      "type": "Loan",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Sivasspor"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Slovan Liberec",
+      "team_in": "Dynamo Kyiv"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "Loan",
+      "team_out": "Dynamo Kyiv",
+      "team_in": "Slovan Liberec"
+    }
+  ],
+  "career_clubs": [
+    "Arsenal Kharkiv",
+    "Dynamo Kyiv 2",
+    "FC Slovan Liberec",
+    "Dynamo Kyiv 2",
+    "Dynamo Kyiv",
+    "Sivasspor",
+    "Dynamo Kyiv",
+    "Sivasspor",
+    "Oleksandria",
+    "LNZ Cherkasy",
+    "FC Lisne",
+    "FC Livyi Bereh Kyiv"
+  ]
+}

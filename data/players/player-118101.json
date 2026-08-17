@@ -1,0 +1,23 @@
+{
+  "player_id": 118101,
+  "full_name": "Marco Streller",
+  "nationality": "Switzerland",
+  "birth_date": "1981-06-18",
+  "birth_place": "Basel",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "€ 1.5M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "FC Basel 1893"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "FC Concordia Basel",
+    "FC Thun",
+    "VfB Stuttgart",
+    "1. FC Köln",
+    "FC Basel"
+  ]
+}

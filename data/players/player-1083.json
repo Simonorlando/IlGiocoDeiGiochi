@@ -1,0 +1,55 @@
+{
+  "player_id": 1083,
+  "full_name": "Jérôme Junior Onguéné",
+  "nationality": "Cameroon",
+  "birth_date": "1997-12-22",
+  "birth_place": "Mbalmayo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2023-01-05",
+      "type": "Loan",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Eintracht Frankfurt"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2021-01-15",
+      "type": "Loan",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 2M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Red Bull Salzburg"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Sochaux-Montbéliard",
+    "VfB Stuttgart"
+  ]
+}

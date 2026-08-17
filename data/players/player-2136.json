@@ -1,0 +1,34 @@
+{
+  "player_id": 2136,
+  "full_name": "Dany Achille Nounkeu Tchounkeu",
+  "nationality": "Cameroon",
+  "birth_date": "1986-04-11",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2014-02-03",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2012-08-10",
+      "type": "€ 3.3M",
+      "team_out": "Gaziantepspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz",
+    "CSO Amnéville",
+    "Pau Football Club",
+    "Toulouse FC",
+    "Gaziantepspor",
+    "Galatasaray S.K.",
+    "Granada CF",
+    "Beşiktaş J.K. (Football)",
+    "Granada CF",
+    "Evian Thonon Gaillard F.C.",
+    "Bursaspor"
+  ]
+}

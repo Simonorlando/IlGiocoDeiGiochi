@@ -1,0 +1,18 @@
+{
+  "player_id": 31871,
+  "full_name": "Alessio Iovine",
+  "nationality": "Italy",
+  "birth_date": "1991-02-01",
+  "birth_place": "Como",
+  "career_transfers": [
+    {
+      "date": "2019-07-05",
+      "type": "Free",
+      "team_out": "Giana Erminio",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "A.S. Giana Erminio"
+  ]
+}

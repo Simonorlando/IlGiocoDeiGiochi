@@ -1,0 +1,22 @@
+{
+  "player_id": 18842,
+  "full_name": "Mamadou Sakho",
+  "nationality": "France",
+  "birth_date": "1990-02-13",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2013-08-31",
+      "type": "€ 19M",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Liverpool F.C.",
+    "Crystal Palace F.C.",
+    "Montpellier Hérault Sport Club",
+    "FC Torpedo Kutaisi"
+  ]
+}

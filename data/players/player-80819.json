@@ -1,0 +1,39 @@
+{
+  "player_id": 80819,
+  "full_name": "Luciano Fabián Monzón",
+  "nationality": "Argentina",
+  "birth_date": "1987-04-13",
+  "birth_place": "Granadero Baigorria",
+  "career_transfers": [
+    {
+      "date": "2016-01-21",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Universidad de Chile"
+    },
+    {
+      "date": "2015-01-23",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2013-07-16",
+      "type": "€ 3.3M",
+      "team_out": "Lyon",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Real Betis Balompié",
+    "Boca Juniors",
+    "OGC Nice",
+    "Olympique Lyonnais",
+    "Fluminense F.C.",
+    "Catania FC",
+    "Boca Juniors",
+    "Club Universidad de Chile",
+    "Udinese Calcio"
+  ]
+}

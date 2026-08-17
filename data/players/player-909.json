@@ -1,0 +1,38 @@
+{
+  "player_id": 909,
+  "full_name": "Marcus Rashford",
+  "nationality": "England",
+  "birth_date": "1997-10-31",
+  "birth_place": "Manchester",
+  "career_transfers": [
+    {
+      "date": "2025-07-22",
+      "type": "Loan",
+      "team_out": "Manchester Utd",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2025-07-23",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Barcelona",
+      "team_in": "Manchester Utd"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Barcelona",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Manchester United F.C.",
+    "Aston Villa F.C.",
+    "FC Barcelona"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "player_id": 21996,
+  "full_name": "Abdul Rahman Baba",
+  "nationality": "Ghana",
+  "birth_date": "1994-07-02",
+  "birth_place": "Tamale",
+  "career_transfers": [
+    {
+      "date": "2018-01-29",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2016-08-02",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Asante Kotoko F.C.",
+    "SpVgg Greuther Fürth",
+    "FC Augsburg",
+    "Chelsea F.C.",
+    "PAOK FC"
+  ]
+}

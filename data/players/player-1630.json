@@ -1,0 +1,26 @@
+{
+  "player_id": 1630,
+  "full_name": "Mateo Pablo Musacchio",
+  "nationality": "Argentina",
+  "birth_date": "1990-08-26",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 18M",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2009-08-31",
+      "type": "N/A",
+      "team_out": "River Plate",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Villarreal CF B",
+    "Villarreal CF"
+  ]
+}

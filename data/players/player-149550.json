@@ -1,0 +1,31 @@
+{
+  "player_id": 149550,
+  "full_name": "Japhet Manzambi Tanganga",
+  "nationality": "England",
+  "birth_date": "1999-03-31",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "Free",
+      "team_out": "Tottenham",
+      "team_in": "Millwall"
+    },
+    {
+      "date": "2024-01-18",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Millwall"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "FC Augsburg"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "Millwall F.C."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 644,
+  "full_name": "Leroy Aziz Sané",
+  "nationality": "Germany",
+  "birth_date": "1996-01-11",
+  "birth_place": "Essen",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Bayern München",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Manchester City F.C.",
+    "FC Bayern Munich",
+    "Galatasaray S.K."
+  ]
+}

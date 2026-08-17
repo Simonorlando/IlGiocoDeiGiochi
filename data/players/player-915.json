@@ -1,0 +1,36 @@
+{
+  "player_id": 915,
+  "full_name": "Gabriel Armando de Abreu",
+  "nationality": "Brazil",
+  "birth_date": "1990-11-26",
+  "birth_place": "São Paulo",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Besiktas"
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Free agent",
+      "team_out": "Beşiktaş",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2026-01-11",
+      "type": "Free agent",
+      "team_out": "Beşiktaş",
+      "team_in": "Corinthians"
+    }
+  ],
+  "career_clubs": [
+    "E.C. Vitória",
+    "Villarreal CF",
+    "Arsenal F.C.",
+    "Valencia CF",
+    "Atlético Madrid",
+    "Beşiktaş J.K. (Football)",
+    "S.C. Corinthians Paulista"
+  ]
+}

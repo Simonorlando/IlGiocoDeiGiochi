@@ -1,0 +1,21 @@
+{
+  "player_id": 477,
+  "full_name": "Igor Denisov",
+  "nationality": "Russia",
+  "birth_date": "1984-05-17",
+  "birth_place": "Sankt-Peterburg",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "15M €",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Anzhi"
+    }
+  ],
+  "career_clubs": [
+    "FC Zenit Saint Petersburg",
+    "FC Anzhi Makhachkala",
+    "FC Dinamo Moscow",
+    "FC Lokomotiv Moscow"
+  ]
+}

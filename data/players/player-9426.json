@@ -1,0 +1,33 @@
+{
+  "player_id": 9426,
+  "full_name": "Maicosuel Reginaldo de Matos",
+  "nationality": "Brazil",
+  "birth_date": "1986-06-16",
+  "birth_place": "Cosmópolis",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2012-07-16",
+      "type": "€ 5.3M",
+      "team_out": "Botafogo",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Sorocaba",
+    "Paraná Clube",
+    "Cruzeiro E.C.",
+    "Sociedade Esportiva Palmeiras",
+    "Botafogo F.R.",
+    "TSG 1899 Hoffenheim",
+    "Botafogo F.R.",
+    "Udinese Calcio",
+    "Clube Atlético Mineiro",
+    "Sharjah FC"
+  ]
+}

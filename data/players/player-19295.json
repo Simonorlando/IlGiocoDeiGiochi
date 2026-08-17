@@ -1,0 +1,69 @@
+{
+  "player_id": 19295,
+  "full_name": "Molla Wagué",
+  "nationality": "Mali",
+  "birth_date": "1991-02-21",
+  "birth_place": "Verdon",
+  "career_transfers": [
+    {
+      "date": "2019-07-17",
+      "type": "€ 1.5M",
+      "team_out": "Udinese",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Nottingham Forest",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Leicester",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2017-01-30",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2014-07-10",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "Udinese Calcio",
+    "Granada CF",
+    "Udinese Calcio"
+  ]
+}

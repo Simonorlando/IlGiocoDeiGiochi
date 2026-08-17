@@ -1,0 +1,25 @@
+{
+  "player_id": 264857,
+  "full_name": "Lorenzo Bernasconi",
+  "nationality": "Italy",
+  "birth_date": "2003-11-16",
+  "birth_place": "Crema",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 950K",
+      "team_out": "Cremonese",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2023-04-16",
+      "type": "Loan",
+      "team_out": "Cremonese",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Cremonese",
+    "Atalanta"
+  ]
+}

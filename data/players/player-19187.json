@@ -1,0 +1,27 @@
+{
+  "player_id": 19187,
+  "full_name": "Jack Peter Grealish",
+  "nationality": "England",
+  "birth_date": "1995-09-10",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2021-08-05",
+      "type": "€ 117.5M",
+      "team_out": "Aston Villa",
+      "team_in": "Manchester City"
+    },
+    {
+      "date": "2013-09-14",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Notts County"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Notts County F.C.",
+    "Manchester City F.C.",
+    "Everton F.C."
+  ]
+}

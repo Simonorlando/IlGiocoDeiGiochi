@@ -1,0 +1,19 @@
+{
+  "player_id": 30449,
+  "full_name": "Carlos Eugênio Júnior Tavares dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1996-08-07",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2018-07-16",
+      "type": "Loan",
+      "team_out": "Sao Paulo",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA",
+    "U.C. Sampdoria"
+  ]
+}

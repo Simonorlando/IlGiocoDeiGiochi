@@ -1,0 +1,36 @@
+{
+  "player_id": 14327,
+  "full_name": "Domagoj Bradarić",
+  "nationality": "Croatia",
+  "birth_date": "1999-12-10",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Salernitana",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2022-07-15",
+      "type": "€ 5M",
+      "team_out": "Lille",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Verona",
+      "team_in": "Salernitana"
+    },
+    {
+      "date": "2025-08-03",
+      "type": "Transfer",
+      "team_out": "Salernitana",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split"
+  ]
+}

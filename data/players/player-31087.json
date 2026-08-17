@@ -1,0 +1,26 @@
+{
+  "player_id": 31087,
+  "full_name": "Luca Rudolf Paganini",
+  "nationality": "Italy",
+  "birth_date": "1993-06-08",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2022-01-27",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Ascoli"
+    },
+    {
+      "date": "2020-09-07",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Frosinone Calcio",
+    "S.S. Racing Club Fondi",
+    "AS Roma"
+  ]
+}

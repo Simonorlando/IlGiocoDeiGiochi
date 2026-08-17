@@ -1,0 +1,30 @@
+{
+  "player_id": 19031,
+  "full_name": "André Schürrle",
+  "nationality": "Germany",
+  "birth_date": "1990-11-06",
+  "birth_place": "Ludwigshafen",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 22M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 8M",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05",
+    "Bayer 04 Leverkusen",
+    "Chelsea F.C.",
+    "VfL Wolfsburg",
+    "Borussia Dortmund",
+    "Fulham F.C.",
+    "Spartak Moscow"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 50739,
+  "full_name": "Brenden Russell Aaronson",
+  "nationality": "USA",
+  "birth_date": "2000-10-22",
+  "birth_place": "Medford",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "€ 32.8M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2021-01-09",
+      "type": "€ 5.5M",
+      "team_out": "Philadelphia Union",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "Philadelphia Union"
+  ]
+}

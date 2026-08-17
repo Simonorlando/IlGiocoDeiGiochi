@@ -1,0 +1,25 @@
+{
+  "player_id": 30517,
+  "full_name": "Gianluca Pegolo",
+  "nationality": "Italy",
+  "birth_date": "1981-03-25",
+  "birth_place": "Bassano del Grappa",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "US Fiorenzuola 1922",
+    "Hellas Verona FC",
+    "Genoa CFC",
+    "Mantova 1911",
+    "Parma Calcio 1913",
+    "Siena FC",
+    "US Sassuolo Calcio"
+  ]
+}

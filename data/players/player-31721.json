@@ -1,0 +1,32 @@
+{
+  "player_id": 31721,
+  "full_name": "Marco Calderoni",
+  "nationality": "Italy",
+  "birth_date": "1989-02-18",
+  "birth_place": "Latisana",
+  "career_transfers": [
+    {
+      "date": "2021-07-17",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Vicenza Virtus"
+    },
+    {
+      "date": "2018-07-18",
+      "type": "N/A",
+      "team_out": "Novara",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Palermo F.C.",
+    "Ascoli Calcio 1898 FC",
+    "U.S. Grosseto 1912",
+    "SSC Bari",
+    "AC ChievoVerona",
+    "Latina Calcio 1932",
+    "US Lecce",
+    "Novara Calcio"
+  ]
+}

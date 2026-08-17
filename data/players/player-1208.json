@@ -1,0 +1,31 @@
+{
+  "player_id": 1208,
+  "full_name": "Hernani Azevedo Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1994-03-27",
+  "birth_place": "São Gonçalo do Sapucaí",
+  "career_transfers": [
+    {
+      "date": "2026-01-08",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-07-05",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "Joinville Esporte Clube"
+  ]
+}

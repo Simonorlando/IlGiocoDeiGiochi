@@ -1,0 +1,31 @@
+{
+  "player_id": 31136,
+  "full_name": "Simone Romagnoli",
+  "nationality": "Italy",
+  "birth_date": "1990-02-09",
+  "birth_place": "Cremona",
+  "career_transfers": [
+    {
+      "date": "2023-07-25",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Calcio Foggia 1920",
+    "Delfino Pescara 1936",
+    "A.C. Carpi",
+    "Spezia Calcio",
+    "US Cremonese",
+    "Brescia Calcio",
+    "Empoli FC"
+  ]
+}

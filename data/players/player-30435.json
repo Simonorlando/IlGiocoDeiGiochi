@@ -1,0 +1,35 @@
+{
+  "player_id": 30435,
+  "full_name": "Dejan Kulusevski",
+  "nationality": "Sweden",
+  "birth_date": "2000-04-25",
+  "birth_place": "Stockholm",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2020-01-03",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2019-07-18",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Parma Calcio 1913",
+    "Juventus FC",
+    "Parma Calcio 1913",
+    "Tottenham Hotspur F.C.",
+    "IF Brommapojkarna"
+  ]
+}

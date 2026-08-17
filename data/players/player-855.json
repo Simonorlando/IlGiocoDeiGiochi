@@ -1,0 +1,45 @@
+{
+  "player_id": 855,
+  "full_name": "João Pedro Cavaco Cancelo",
+  "nationality": "Portugal",
+  "birth_date": "1994-05-27",
+  "birth_place": "Barreiro",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 40.4M",
+      "team_out": "Valencia",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2017-08-22",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 15M",
+      "team_out": "Benfica",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2014-08-20",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Valencia CF",
+    "Inter Milan",
+    "Juventus FC",
+    "Manchester City F.C.",
+    "FC Bayern Munich",
+    "FC Barcelona",
+    "Al Hilal SFC",
+    "FC Barcelona"
+  ]
+}

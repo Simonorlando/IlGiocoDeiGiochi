@@ -1,0 +1,41 @@
+{
+  "player_id": 47326,
+  "full_name": "Roberto Jiménez Gago",
+  "nationality": "Spain",
+  "birth_date": "1986-02-10",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 3M",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2014-02-06",
+      "type": "€ 6M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2013-07-26",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Atlético Madrid",
+    "Gimnàstic de Tarragona",
+    "Recreativo de Huelva",
+    "Atlético Madrid",
+    "Real Zaragoza",
+    "S.L. Benfica",
+    "Real Zaragoza",
+    "Olympiacos F.C.",
+    "Atlético Madrid",
+    "Olympiacos F.C.",
+    "RCD Espanyol de Barcelona"
+  ]
+}

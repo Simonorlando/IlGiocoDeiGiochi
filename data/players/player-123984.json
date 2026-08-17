@@ -1,0 +1,23 @@
+{
+  "player_id": 123984,
+  "full_name": "Konstantinos Charalambidis",
+  "nationality": "Cyprus",
+  "birth_date": "1981-07-25",
+  "birth_place": "Nicosia",
+  "career_transfers": [
+    {
+      "date": "2016-06-01",
+      "type": "N/A",
+      "team_out": "Apoel Nicosia",
+      "team_in": "AEK Larnaca"
+    }
+  ],
+  "career_clubs": [
+    "APOEL F.C.",
+    "Panathinaikos F.C.",
+    "PAOK FC",
+    "FC Carl Zeiss Jena",
+    "APOEL F.C.",
+    "AEK Larnaca F.C."
+  ]
+}

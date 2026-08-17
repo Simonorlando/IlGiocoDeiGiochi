@@ -1,0 +1,31 @@
+{
+  "player_id": 30994,
+  "full_name": "Salvatore Andrea Molina",
+  "nationality": "Italy",
+  "birth_date": "1992-01-01",
+  "birth_place": "Garbagnate Milanese",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2022-01-05",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Calcio Foggia 1920",
+    "A.S.D. Barletta 1922",
+    "Modena F.C.",
+    "Atalanta BC",
+    "A.C. Carpi",
+    "AC Cesena",
+    "A.C. Perugia Calcio"
+  ]
+}

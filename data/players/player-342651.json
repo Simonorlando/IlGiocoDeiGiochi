@@ -1,0 +1,27 @@
+{
+  "player_id": 342651,
+  "full_name": "Romano Floriani Mussolini",
+  "nationality": "Italy",
+  "birth_date": "2003-01-27",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-08-03",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Lazio",
+    "Pescara",
+    "Juve Stabia",
+    "Cremonese"
+  ]
+}

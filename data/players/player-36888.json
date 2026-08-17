@@ -1,0 +1,24 @@
+{
+  "player_id": 36888,
+  "full_name": "Thomas Ouwejan",
+  "nationality": "Netherlands",
+  "birth_date": "1996-09-30",
+  "birth_place": "Alkmaar",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "AZ Alkmaar"
+    },
+    {
+      "date": "2020-09-03",
+      "type": "Loan",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "AZ Alkmaar"
+  ]
+}

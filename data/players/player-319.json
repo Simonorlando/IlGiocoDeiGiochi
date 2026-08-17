@@ -1,0 +1,27 @@
+{
+  "player_id": 319,
+  "full_name": "Sebastiano Luperto",
+  "nationality": "Italy",
+  "birth_date": "1996-09-06",
+  "birth_place": "Lecce",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-08-23",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "US Lecce",
+    "F.C. Pro Vercelli 1892",
+    "Empoli FC"
+  ]
+}

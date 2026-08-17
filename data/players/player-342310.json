@@ -1,0 +1,25 @@
+{
+  "player_id": 342310,
+  "full_name": "Rosen Petkov Bozhinov",
+  "nationality": "Bulgaria",
+  "birth_date": "2005-01-23",
+  "birth_place": "Knezha",
+  "career_transfers": [
+    {
+      "date": "2026-01-13",
+      "type": "Transfer",
+      "team_out": "Antwerp",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2026-01-12",
+      "type": "Transfer",
+      "team_out": "Antwerp",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "OFC Etar Veliko Tarnovo",
+    "PFC CSKA Sofia"
+  ]
+}

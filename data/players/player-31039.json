@@ -1,0 +1,24 @@
+{
+  "player_id": 31039,
+  "full_name": "Luca Antonelli",
+  "nationality": "Italy",
+  "birth_date": "1987-02-11",
+  "birth_place": "Milano",
+  "career_transfers": [
+    {
+      "date": "2011-01-03",
+      "type": "€ 7M",
+      "team_out": "Parma",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "SSC Bari",
+    "Parma Calcio 1913",
+    "Genoa CFC",
+    "AC Milan",
+    "AC Monza",
+    "Empoli FC"
+  ]
+}

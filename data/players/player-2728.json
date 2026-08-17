@@ -1,0 +1,47 @@
+{
+  "player_id": 2728,
+  "full_name": "Kasper Peter Schmeichel",
+  "nationality": "Denmark",
+  "birth_date": "1986-11-05",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2009-08-18",
+      "type": "€ 1.8M",
+      "team_out": "Manchester City",
+      "team_in": "Notts County"
+    },
+    {
+      "date": "2008-03-13",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Coventry"
+    },
+    {
+      "date": "2007-10-25",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Cardiff"
+    },
+    {
+      "date": "2006-01-01",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Darlington"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "Darlington F.C.",
+    "Bury F.C.",
+    "Falkirk F.C.",
+    "Cardiff City F.C.",
+    "Coventry City F.C.",
+    "Notts County F.C.",
+    "Leeds United F.C.",
+    "Leicester City F.C.",
+    "OGC Nice",
+    "R.S.C. Anderlecht",
+    "Celtic F.C."
+  ]
+}

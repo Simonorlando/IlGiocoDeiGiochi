@@ -1,0 +1,54 @@
+{
+  "player_id": 18967,
+  "full_name": "Leo Skiri Østigård",
+  "nationality": "Norway",
+  "birth_date": "1999-11-28",
+  "birth_place": "Molde",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2022-01-06",
+      "type": "Loan",
+      "team_out": "Brighton",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-29",
+      "type": "Loan",
+      "team_out": "Rennes",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Transfer",
+      "team_out": "Rennes",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2026-01-31",
+      "type": "Transfer",
+      "team_out": "Rennes",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Molde FK",
+    "Viking FK",
+    "Brighton & Hove Albion F.C.",
+    "SSC Napoli",
+    "Stade Rennais F.C.",
+    "TSG 1899 Hoffenheim",
+    "Genoa CFC"
+  ]
+}

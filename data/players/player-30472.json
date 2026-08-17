@@ -1,0 +1,24 @@
+{
+  "player_id": 30472,
+  "full_name": "Danilo Larangeira",
+  "nationality": "Brazil",
+  "birth_date": "1984-05-10",
+  "birth_place": "São Bernardo do Campo",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "Free",
+      "team_out": "Bologna",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Ituano Futebol Clube",
+    "Paulista Futebol Clube",
+    "Club Athletico Paranaense",
+    "Sociedade Esportiva Palmeiras",
+    "Udinese Calcio",
+    "Bologna",
+    "Parma"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 1204,
+  "full_name": "Yaroslav Rakitskyi",
+  "nationality": "Ukraine",
+  "birth_date": "1989-08-03",
+  "birth_place": "Pershotravensk",
+  "career_transfers": [
+    {
+      "date": "2022-04-18",
+      "type": "Free",
+      "team_out": "Zenit",
+      "team_in": "Shakhtar Donetsk"
+    },
+    {
+      "date": "2019-01-28",
+      "type": "€ 10M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "FC Shakhtar Donetsk",
+    "FC Zenit Saint Petersburg",
+    "Adana Demirspor",
+    "FC Shakhtar Donetsk"
+  ]
+}

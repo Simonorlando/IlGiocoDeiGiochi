@@ -1,0 +1,25 @@
+{
+  "player_id": 31255,
+  "full_name": "Modibo Diakité",
+  "nationality": "France",
+  "birth_date": "1987-03-02",
+  "birth_place": "Bourg-la-Reine",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 300K",
+      "team_out": "Pescara",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "SS Lazio",
+    "Sunderland A.F.C.",
+    "Deportivo de A Coruña",
+    "ACF Fiorentina",
+    "Cagliari Calcio",
+    "Frosinone Calcio",
+    "U.C. Sampdoria"
+  ]
+}

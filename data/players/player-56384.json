@@ -1,0 +1,48 @@
+{
+  "player_id": 56384,
+  "full_name": "Massimiliano Mangraviti",
+  "nationality": "Italy",
+  "birth_date": "1998-01-24",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2024-07-09",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Gozzano",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2019-01-22",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Gozzano"
+    },
+    {
+      "date": "2018-07-22",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "PRO Piacenza"
+    },
+    {
+      "date": "2019-01-03",
+      "type": null,
+      "team_out": "PRO Piacenza",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Fondi"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio"
+  ]
+}

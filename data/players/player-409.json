@@ -1,0 +1,36 @@
+{
+  "player_id": 409,
+  "full_name": "Nabil Bentaleb",
+  "nationality": "Algeria",
+  "birth_date": "1994-11-24",
+  "birth_place": "Lille",
+  "career_transfers": [
+    {
+      "date": "2020-08-01",
+      "type": "N/A",
+      "team_out": "Newcastle",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2020-01-21",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Newcastle"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 19M",
+      "team_out": "Tottenham",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2016-08-25",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C."
+  ]
+}

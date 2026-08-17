@@ -1,0 +1,28 @@
+{
+  "player_id": 15374,
+  "full_name": "Marco Motta",
+  "nationality": "Italy",
+  "birth_date": "1986-05-14",
+  "birth_place": "Merate",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Udinese Calcio",
+    "Torino FC",
+    "AS Roma",
+    "Juventus FC",
+    "Catania FC",
+    "Bologna F.C. 1909",
+    "Catania FC",
+    "Genoa CFC",
+    "Watford F.C.",
+    "Charlton Athletic F.C."
+  ]
+}

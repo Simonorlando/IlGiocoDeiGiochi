@@ -1,0 +1,34 @@
+{
+  "player_id": 311360,
+  "full_name": "Tiago Tomás Palacios",
+  "nationality": "Argentina",
+  "birth_date": "2003-04-28",
+  "birth_place": "General Pico",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-06-16",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-01-29",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Talleres",
+    "Independiente Rivadavia",
+    "Inter Milan",
+    "Monza",
+    "Estudiantes"
+  ]
+}

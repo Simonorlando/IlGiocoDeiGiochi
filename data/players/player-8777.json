@@ -1,0 +1,24 @@
+{
+  "player_id": 8777,
+  "full_name": "Ahmed Touba",
+  "nationality": "Algeria",
+  "birth_date": "1998-03-13",
+  "birth_place": "Roubaix",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2023-08-27",
+      "type": "Loan",
+      "team_out": "Istanbul Basaksehir",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V."
+  ]
+}

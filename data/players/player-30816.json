@@ -1,0 +1,39 @@
+{
+  "player_id": 30816,
+  "full_name": "Stefano Okaka Chuka",
+  "nationality": "Italy",
+  "birth_date": "1989-08-09",
+  "birth_place": "Castiglione del Lago",
+  "career_transfers": [
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2012-08-21",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Spezia"
+    },
+    {
+      "date": "2012-01-26",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Modena F.C.",
+    "Brescia Calcio",
+    "Fulham F.C.",
+    "SSC Bari",
+    "Parma Calcio 1913",
+    "Spezia Calcio",
+    "Parma Calcio 1913",
+    "U.C. Sampdoria",
+    "R.S.C. Anderlecht"
+  ]
+}

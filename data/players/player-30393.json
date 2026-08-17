@@ -1,0 +1,32 @@
+{
+  "player_id": 30393,
+  "full_name": "Alban-Marc Lafont",
+  "nationality": "France",
+  "birth_date": "1999-01-23",
+  "birth_place": "Ouagadougou",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 7.5M",
+      "team_out": "Fiorentina",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2018-07-02",
+      "type": "€ 8.5M",
+      "team_out": "Toulouse",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Toulouse FC",
+    "ACF Fiorentina",
+    "FC Nantes"
+  ]
+}

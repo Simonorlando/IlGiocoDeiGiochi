@@ -1,0 +1,20 @@
+{
+  "player_id": 287564,
+  "full_name": "Martin Vitík",
+  "nationality": "Czechia",
+  "birth_date": "2003-01-21",
+  "birth_place": "Beroun",
+  "career_transfers": [
+    {
+      "date": "2025-07-06",
+      "type": "Transfer",
+      "team_out": "Sparta Praha",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "AC Sparta Prague",
+    "AC Sparta Prague B",
+    "Bologna F.C. 1909"
+  ]
+}

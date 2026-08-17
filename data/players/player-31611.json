@@ -1,0 +1,37 @@
+{
+  "player_id": 31611,
+  "full_name": "Emanuele Terranova",
+  "nationality": "Italy",
+  "birth_date": "1987-04-14",
+  "birth_place": "Mazara del Vallo",
+  "career_transfers": [
+    {
+      "date": "2010-07-18",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Livorno"
+    },
+    {
+      "date": "2007-09-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Vicenza Virtus"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Campobello",
+    "Palermo F.C.",
+    "Vicenza Calcio",
+    "US Livorno 1915",
+    "US Lecce",
+    "Frosinone Calcio",
+    "US Sassuolo Calcio",
+    "Frosinone Calcio"
+  ]
+}

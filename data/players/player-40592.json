@@ -1,0 +1,45 @@
+{
+  "player_id": 40592,
+  "full_name": "Adrian Dawid Benedyczak",
+  "nationality": "Poland",
+  "birth_date": "2000-11-24",
+  "birth_place": "Kamień Pomorski",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Pogon Szczecin",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-02-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Kasımpaşa"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Kasımpaşa"
+    },
+    {
+      "date": "2026-07-27",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Kasımpaşa"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Kasımpaşa",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Pogoń Szczecin",
+    "Chrobry Głogów",
+    "Parma Calcio 1913",
+    "Kasımpaşa S.K."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 2887,
+  "full_name": "Raúl Alonso Jiménez Rodríguez",
+  "nationality": "Mexico",
+  "birth_date": "1991-05-05",
+  "birth_place": "Tepeji del Río Ocampo",
+  "career_transfers": [
+    {
+      "date": "2015-08-13",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2014-08-13",
+      "type": "€ 10M",
+      "team_out": "Club America",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Club América",
+    "Atlético Madrid",
+    "S.L. Benfica",
+    "Wolverhampton Wanderers F.C.",
+    "Fulham F.C.",
+    "Wolverhampton Wanderers F.C."
+  ]
+}

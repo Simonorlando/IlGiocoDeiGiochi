@@ -1,0 +1,27 @@
+{
+  "player_id": 186,
+  "full_name": "Heung-Min Son",
+  "nationality": "Korea Republic",
+  "birth_date": "1992-07-08",
+  "birth_place": "Chuncheon",
+  "career_transfers": [
+    {
+      "date": "2015-08-28",
+      "type": "€ 25M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 10M",
+      "team_out": "Hamburger SV",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Hamburger SV",
+    "Bayer 04 Leverkusen",
+    "Tottenham Hotspur F.C.",
+    "Los Angeles FC"
+  ]
+}

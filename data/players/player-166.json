@@ -1,0 +1,32 @@
+{
+  "player_id": 166,
+  "full_name": "Juan Marcos Foyth",
+  "nationality": "Argentina",
+  "birth_date": "1998-01-12",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 15M",
+      "team_out": "Tottenham",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2020-10-04",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Villarreal",
+      "team_in": "Foyth Juan"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "Tottenham Hotspur F.C.",
+    "Villarreal CF"
+  ]
+}

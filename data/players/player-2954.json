@@ -1,0 +1,27 @@
+{
+  "player_id": 2954,
+  "full_name": "Wajdi Kechrida",
+  "nationality": "Tunisia",
+  "birth_date": "1995-11-05",
+  "birth_place": "Nice",
+  "career_transfers": [
+    {
+      "date": "2022-08-29",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Atromitos"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "ES Sahel",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Étoile Sportive du Sahel",
+    "U.S. Salernitana 1919",
+    "Atromitos F.C.",
+    "Al-Gharafa SC"
+  ]
+}

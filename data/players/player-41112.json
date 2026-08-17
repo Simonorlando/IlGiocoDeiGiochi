@@ -1,0 +1,47 @@
+{
+  "player_id": 41112,
+  "full_name": "Francisco António Machado Mota de Castro Trincão",
+  "nationality": "Portugal",
+  "birth_date": "1999-12-29",
+  "birth_place": "Viana do Castelo",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 7M",
+      "team_out": "Barcelona",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2022-07-13",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Wolves",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2021-07-04",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Wolves"
+    },
+    {
+      "date": "2020-08-04",
+      "type": "€ 31M",
+      "team_out": "SC Braga",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga B",
+    "S.C. Braga",
+    "FC Barcelona",
+    "Wolverhampton Wanderers F.C.",
+    "Sporting CP",
+    "Al Ahli FC"
+  ]
+}

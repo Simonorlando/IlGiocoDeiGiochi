@@ -1,0 +1,29 @@
+{
+  "player_id": 31636,
+  "full_name": "Deian Boldor",
+  "nationality": "Romania",
+  "birth_date": "1995-02-03",
+  "birth_place": "Timişoara",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Delfino Pescara 1936",
+    "Lanciano Calcio 1920",
+    "Bologna F.C. 1909",
+    "Hellas Verona FC",
+    "CF Montréal",
+    "Hellas Verona FC",
+    "Calcio Foggia 1920",
+    "Partizani Tirana",
+    "Potenza Calcio",
+    "FC Argeș",
+    "AFC Chindia Târgoviște"
+  ]
+}

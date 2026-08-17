@@ -1,0 +1,39 @@
+{
+  "player_id": 89520,
+  "full_name": "Mikael Egill Ellertsson",
+  "nationality": "Iceland",
+  "birth_date": "2002-03-11",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-01-26",
+      "type": "€ 850K",
+      "team_out": "Spezia",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Transfer",
+      "team_out": "Venezia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Venezia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-02-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Knattspyrnufélagið Fram",
+    "Spezia Calcio",
+    "Venezia F.C.",
+    "Genoa CFC"
+  ]
+}

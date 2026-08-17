@@ -1,0 +1,24 @@
+{
+  "player_id": 361,
+  "full_name": "Miloš Vulić",
+  "nationality": "Serbia",
+  "birth_date": "1996-08-19",
+  "birth_place": "Kruševac",
+  "career_transfers": [
+    {
+      "date": "2022-07-20",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2020-09-05",
+      "type": "€ 800K",
+      "team_out": "FK Crvena Zvezda",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "FK Napredak Kruševac"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 30499,
+  "full_name": "Lévy Koffi Djidji",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1992-11-30",
+  "birth_place": "Bagnolet",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Nantes",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Nantes",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes"
+  ]
+}

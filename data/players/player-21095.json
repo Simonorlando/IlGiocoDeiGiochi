@@ -1,0 +1,55 @@
+{
+  "player_id": 21095,
+  "full_name": "Lucas Evangelista Santana de Oliveir",
+  "nationality": "Brazil",
+  "birth_date": "1995-02-06",
+  "birth_place": "Limeira",
+  "career_transfers": [
+    {
+      "date": "2018-07-27",
+      "type": "€ 4M",
+      "team_out": "Udinese",
+      "team_in": "Nantes"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Estoril"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Panathinaikos",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-01-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2014-08-28",
+      "type": "€ 4M",
+      "team_out": "Sao Paulo",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "São Paulo U20",
+    "São Paulo",
+    "Udinese",
+    "Panathinaikos FC",
+    "Udinese",
+    "Estoril Praia",
+    "Udinese",
+    "Nantes",
+    "Vitória SC",
+    "Nantes",
+    "Red Bull Bragantino",
+    "Nantes",
+    "Red Bull Bragantino",
+    "Palmeiras"
+  ]
+}

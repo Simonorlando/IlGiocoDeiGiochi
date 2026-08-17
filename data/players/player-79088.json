@@ -1,0 +1,46 @@
+{
+  "player_id": 79088,
+  "full_name": "Sotiris Ninis",
+  "nationality": "Greece",
+  "birth_date": "1990-04-03",
+  "birth_place": "Himarë",
+  "career_transfers": [
+    {
+      "date": "2014-11-06",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Panathinaikos"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "PAOK",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-08-31",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "PAOK"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Panathinaikos",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Panathinaikos F.C.",
+    "Parma Calcio 1913",
+    "PAOK FC",
+    "Panathinaikos F.C.",
+    "Royal Charleroi S.C.",
+    "KV Mechelen",
+    "Maccabi Petah Tikva F.C.",
+    "Hapoel Ashkelon F.C.",
+    "Volos N.F.C.",
+    "PAS Giannina F.C.",
+    "A.E. Kifisia F.C."
+  ]
+}

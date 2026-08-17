@@ -1,0 +1,24 @@
+{
+  "player_id": 39271,
+  "full_name": "Ola Selvaag Solbakken",
+  "nationality": "Norway",
+  "birth_date": "1998-09-07",
+  "birth_place": "Oslo",
+  "career_transfers": [
+    {
+      "date": "2024-08-14",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Empoli",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Ranheim Fotball"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "player_id": 382945,
+  "full_name": "Kevin Zeroli",
+  "nationality": "Italy",
+  "birth_date": "2005-01-11",
+  "birth_place": "Busto Arsizio",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Monza",
+    "Juve Stabia"
+  ]
+}

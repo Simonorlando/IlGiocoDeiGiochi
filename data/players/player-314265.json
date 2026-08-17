@@ -1,0 +1,18 @@
+{
+  "player_id": 314265,
+  "full_name": "Bjorn Thomas Meijer",
+  "nationality": "Netherlands",
+  "birth_date": "2003-03-18",
+  "birth_place": "Groningen",
+  "career_transfers": [
+    {
+      "date": "2022-06-15",
+      "type": "N/A",
+      "team_out": "Groningen",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V."
+  ]
+}

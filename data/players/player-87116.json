@@ -1,0 +1,25 @@
+{
+  "player_id": 87116,
+  "full_name": "Morgan De Sanctis",
+  "nationality": "Italy",
+  "birth_date": "1977-03-26",
+  "birth_place": "Guardiagrele",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Juventus FC",
+    "Udinese Calcio",
+    "Sevilla FC",
+    "Galatasaray S.K.",
+    "SSC Napoli",
+    "AS Roma",
+    "AS Monaco FC"
+  ]
+}

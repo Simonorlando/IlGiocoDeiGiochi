@@ -1,0 +1,30 @@
+{
+  "player_id": 30496,
+  "full_name": "Cristian Daniel Ansaldi",
+  "nationality": "Argentina",
+  "birth_date": "1986-09-20",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Zenit"
+    },
+    {
+      "date": "2014-08-01",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "Rubin Kazan",
+    "FC Zenit Saint Petersburg",
+    "Atlético Madrid",
+    "Genoa CFC",
+    "Inter Milan",
+    "FC Bayern Munich"
+  ]
+}

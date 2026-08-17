@@ -1,0 +1,28 @@
+{
+  "player_id": 1706,
+  "full_name": "Carlos Arturo Bacca Ahumada",
+  "nationality": "Colombia",
+  "birth_date": "1986-09-08",
+  "birth_place": "Puerto Colombia",
+  "career_transfers": [
+    {
+      "date": "2013-07-09",
+      "type": "€ 7M",
+      "team_out": "Club Brugge KV",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2012-01-10",
+      "type": "€ 2.5M",
+      "team_out": "Junior",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Barranquilla F.C.",
+    "Asociación Civil Minervén Fútbol Club",
+    "Barranquilla F.C.",
+    "Club Brugge K.V.",
+    "Sevilla FC"
+  ]
+}

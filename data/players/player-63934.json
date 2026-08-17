@@ -1,0 +1,38 @@
+{
+  "player_id": 63934,
+  "full_name": "Alessio Furlanetto",
+  "nationality": "Italy",
+  "birth_date": "2002-02-07",
+  "birth_place": "Motta di Livenza",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Fermana",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2023-09-02",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Fermana"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Renate",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2022-08-18",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Renate"
+    }
+  ],
+  "career_clubs": [
+    "Lazio",
+    "Renate",
+    "Fermana"
+  ]
+}

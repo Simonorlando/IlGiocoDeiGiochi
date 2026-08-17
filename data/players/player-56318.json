@@ -1,0 +1,25 @@
+{
+  "player_id": 56318,
+  "full_name": "Fabrizio Caligara",
+  "nationality": "Italy",
+  "birth_date": "2000-04-12",
+  "birth_place": "Borgomanero",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Pescara",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Cagliari Calcio"
+  ]
+}

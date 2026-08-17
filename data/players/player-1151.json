@@ -1,0 +1,27 @@
+{
+  "player_id": 1151,
+  "full_name": "Diego Demme",
+  "nationality": "Germany",
+  "birth_date": "1991-11-21",
+  "birth_place": "Herford",
+  "career_transfers": [
+    {
+      "date": "2024-07-06",
+      "type": "Free",
+      "team_out": "Napoli",
+      "team_in": "Hertha BSC"
+    },
+    {
+      "date": "2020-01-11",
+      "type": "€ 12M",
+      "team_out": "RB Leipzig",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Arminia Bielefeld",
+    "SC Paderborn 07",
+    "RB Leipzig",
+    "SSC Napoli"
+  ]
+}

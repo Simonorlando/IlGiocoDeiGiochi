@@ -1,0 +1,19 @@
+{
+  "player_id": 1811,
+  "full_name": "Almamy Touré",
+  "nationality": "Mali",
+  "birth_date": "1996-04-28",
+  "birth_place": "Bamako",
+  "career_transfers": [
+    {
+      "date": "2019-01-31",
+      "type": "N/A",
+      "team_out": "Monaco",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Eintracht Frankfurt"
+  ]
+}

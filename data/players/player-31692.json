@@ -1,0 +1,42 @@
+{
+  "player_id": 31692,
+  "full_name": "Milan Đurić",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1990-05-22",
+  "birth_place": "Tuzla",
+  "career_transfers": [
+    {
+      "date": "2024-01-26",
+      "type": "€ 2M",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Cesena",
+    "Parma",
+    "Ascoli",
+    "Parma",
+    "FC Crotone",
+    "Parma",
+    "Cesena",
+    "Cremonese",
+    "Cesena",
+    "Trapani",
+    "Cesena",
+    "Cittadella",
+    "Cesena",
+    "Bristol City",
+    "US Salernitana 1919",
+    "Hellas Verona",
+    "Monza",
+    "Parma",
+    "Cremonese"
+  ]
+}

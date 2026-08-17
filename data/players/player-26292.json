@@ -1,0 +1,18 @@
+{
+  "player_id": 26292,
+  "full_name": "Alexander Niklas Meyer-Schade",
+  "nationality": "Germany",
+  "birth_date": "1991-04-13",
+  "birth_place": "Bad Oldesloe",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "SSV Jahn Regensburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart"
+  ]
+}

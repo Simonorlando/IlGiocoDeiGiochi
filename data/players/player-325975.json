@@ -1,0 +1,25 @@
+{
+  "player_id": 325975,
+  "full_name": "Tom Bischof",
+  "nationality": "Germany",
+  "birth_date": "2005-06-28",
+  "birth_place": "Aschaffenburg",
+  "career_transfers": [
+    {
+      "date": "2025-06-01",
+      "type": "Free",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2025-06-09",
+      "type": "Free Transfer",
+      "team_out": "1899 Hoffenheim",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim",
+    "FC Bayern Munich"
+  ]
+}

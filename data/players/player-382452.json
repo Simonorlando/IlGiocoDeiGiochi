@@ -1,0 +1,19 @@
+{
+  "player_id": 382452,
+  "full_name": "Patrick Chinazaekpere Dorgu",
+  "nationality": "Denmark",
+  "birth_date": "2004-10-26",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2025-02-02",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Lecce",
+    "Manchester United"
+  ]
+}

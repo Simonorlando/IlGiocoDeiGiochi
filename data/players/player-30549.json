@@ -1,0 +1,34 @@
+{
+  "player_id": 30549,
+  "full_name": "Luca Ceppitelli",
+  "nationality": "Italy",
+  "birth_date": "1989-08-11",
+  "birth_place": "Castiglione del lago",
+  "career_transfers": [
+    {
+      "date": "2014-08-07",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2013-09-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "A.C. Perugia Calcio",
+    "Fidelis Andria 2018",
+    "SSC Bari",
+    "Parma Calcio 1913",
+    "Cagliari Calcio"
+  ]
+}

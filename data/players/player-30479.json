@@ -1,0 +1,25 @@
+{
+  "player_id": 30479,
+  "full_name": "Simone Edera",
+  "nationality": "Italy",
+  "birth_date": "1997-01-09",
+  "birth_place": "Latisana",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-01-14",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C.",
+    "Parma Calcio 1913"
+  ]
+}

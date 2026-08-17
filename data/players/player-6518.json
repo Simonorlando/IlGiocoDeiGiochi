@@ -1,0 +1,57 @@
+{
+  "player_id": 6518,
+  "full_name": "Fabián Andrés Rinaudo",
+  "nationality": "Argentina",
+  "birth_date": "1987-05-08",
+  "birth_place": "Armstrong",
+  "career_transfers": [
+    {
+      "date": "2017-07-12",
+      "type": "€ 700K",
+      "team_out": "Catania",
+      "team_in": "Gimnasia L.P."
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Gimnasia L.P.",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2016-07-20",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Gimnasia L.P."
+    },
+    {
+      "date": "2015-07-16",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Gimnasia L.P."
+    },
+    {
+      "date": "2014-07-20",
+      "type": "€ 3M",
+      "team_out": "Sporting CP",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2014-01-10",
+      "type": "Loan",
+      "team_out": "Sporting CP",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Club de Gimnasia y Esgrima La Plata",
+    "Sporting CP",
+    "Catania FC",
+    "Boca Juniors"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 406,
+  "full_name": "Salif Sané",
+  "nationality": "Senegal",
+  "birth_date": "1990-08-25",
+  "birth_place": "Lormont",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 7M",
+      "team_out": "Hannover 96",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "FC Girondins de Bordeaux",
+    "A.S. Nancy-Lorraine",
+    "Hannover 96"
+  ]
+}

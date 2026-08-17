@@ -1,0 +1,38 @@
+{
+  "player_id": 246,
+  "full_name": "Luuk de Jong",
+  "nationality": "Netherlands",
+  "birth_date": "1990-08-27",
+  "birth_place": "Aigle",
+  "career_transfers": [
+    {
+      "date": "2022-07-02",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 12.5M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "De Graafschap",
+    "FC Twente",
+    "Borussia Mönchengladbach",
+    "Newcastle United F.C.",
+    "PSV Eindhoven",
+    "Sevilla FC",
+    "FC Barcelona",
+    "PSV Eindhoven",
+    "FC Porto"
+  ]
+}

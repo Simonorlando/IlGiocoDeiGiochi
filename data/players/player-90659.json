@@ -1,0 +1,28 @@
+{
+  "player_id": 90659,
+  "full_name": "Markus Steinhöfer",
+  "nationality": "Germany",
+  "birth_date": "1986-03-07",
+  "birth_place": "Weißenburg",
+  "career_transfers": [
+    {
+      "date": "2006-07-01",
+      "type": "Loan",
+      "team_out": "Bayern Munich",
+      "team_in": "Red Bull Salzburg"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "FC Red Bull Salzburg",
+    "Eintracht Frankfurt",
+    "1. FC Kaiserslautern",
+    "FC Basel",
+    "Real Betis Balompié",
+    "TSV 1860 München",
+    "AC Sparta Prague",
+    "VfR Aalen",
+    "VfB Eichstätt",
+    "1. FC Nürnberg"
+  ]
+}

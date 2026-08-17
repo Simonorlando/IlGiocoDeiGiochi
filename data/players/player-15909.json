@@ -1,0 +1,18 @@
+{
+  "player_id": 15909,
+  "full_name": "Martin Sønder Frese",
+  "nationality": "Denmark",
+  "birth_date": "1998-01-04",
+  "birth_place": "Rødovre",
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "Free",
+      "team_out": "FC Nordsjaelland",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Boldklubben Frem"
+  ]
+}

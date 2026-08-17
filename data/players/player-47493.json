@@ -1,0 +1,61 @@
+{
+  "player_id": 47493,
+  "full_name": "Duje Čop",
+  "nationality": "Croatia",
+  "birth_date": "1990-02-01",
+  "birth_place": "Vinkovci",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Sporting Gijon",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2016-07-27",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Sporting Gijon"
+    },
+    {
+      "date": "2015-07-16",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2015-01-13",
+      "type": "Loan",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "C.D. Nacional",
+    "HNK Hajduk Split",
+    "RNK Split",
+    "GNK Dinamo Zagreb",
+    "Cagliari Calcio",
+    "Málaga CF",
+    "Sporting de Gijón",
+    "Standard Liège",
+    "Real Valladolid",
+    "GNK Dinamo Zagreb",
+    "NK Celje",
+    "HNK Šibenik",
+    "NK Lokomotiva"
+  ]
+}

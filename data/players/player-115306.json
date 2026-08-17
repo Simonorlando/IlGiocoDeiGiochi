@@ -1,0 +1,24 @@
+{
+  "player_id": 115306,
+  "full_name": "Ignacio David Fideleff",
+  "nationality": "Argentina",
+  "birth_date": "1989-07-04",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2012-07-16",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "SSC Napoli",
+    "Parma Calcio 1913",
+    "Maccabi Tel Aviv F.C.",
+    "Club Atlético Tigre",
+    "Ergotelis F.C.",
+    "Club Nacional"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 2915,
+  "full_name": "Matthias Lukas Ginter",
+  "nationality": "Germany",
+  "birth_date": "1994-01-19",
+  "birth_place": "Freiburg",
+  "career_transfers": [
+    {
+      "date": "2017-07-04",
+      "type": "€ 17M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Borussia Mönchengladbach"
+    },
+    {
+      "date": "2014-07-17",
+      "type": "€ 10M",
+      "team_out": "SC Freiburg",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "SC Freiburg",
+    "Borussia Dortmund",
+    "Borussia Mönchengladbach",
+    "SC Freiburg"
+  ]
+}

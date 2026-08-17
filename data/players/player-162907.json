@@ -1,0 +1,27 @@
+{
+  "player_id": 162907,
+  "full_name": "Alessandro Zanoli",
+  "nationality": "Italy",
+  "birth_date": "2000-10-03",
+  "birth_place": "Carpi",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2024-01-17",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919",
+    "Genoa CFC"
+  ]
+}

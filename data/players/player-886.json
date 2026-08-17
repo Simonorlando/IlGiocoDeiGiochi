@@ -1,0 +1,26 @@
+{
+  "player_id": 886,
+  "full_name": "José Diogo Dalot Teixeira",
+  "nationality": "Portugal",
+  "birth_date": "1999-03-18",
+  "birth_place": "Braga",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "AC Milan",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2020-10-04",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto",
+    "Manchester United F.C.",
+    "AC Milan"
+  ]
+}

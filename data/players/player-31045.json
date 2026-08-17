@@ -1,0 +1,47 @@
+{
+  "player_id": 31045,
+  "full_name": "Dimitrios Nikolaou",
+  "nationality": "Greece",
+  "birth_date": "1998-08-13",
+  "birth_place": "Chalkida",
+  "career_transfers": [
+    {
+      "date": "2024-07-14",
+      "type": "€ 1.6M",
+      "team_out": "Spezia",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2025-07-18",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2025-07-16",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Bari",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "OFI"
+    }
+  ],
+  "career_clubs": [
+    "Olympiacos",
+    "Empoli",
+    "Spezia",
+    "Palermo",
+    "Bari",
+    "OFI"
+  ]
+}

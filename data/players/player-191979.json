@@ -1,0 +1,20 @@
+{
+  "player_id": 191979,
+  "full_name": "Jacob Axel Per Ondrejka",
+  "nationality": "Sweden",
+  "birth_date": "2002-09-02",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-23",
+      "type": "Transfer",
+      "team_out": "Antwerp",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "IF Elfsborg",
+    "Royal Antwerp F.C.",
+    "Landskrona BoIS"
+  ]
+}

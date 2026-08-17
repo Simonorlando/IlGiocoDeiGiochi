@@ -1,0 +1,34 @@
+{
+  "player_id": 2080,
+  "full_name": "Viktor Johan Anton Claesson",
+  "nationality": "Sweden",
+  "birth_date": "1992-01-02",
+  "birth_place": "Värnamo",
+  "career_transfers": [
+    {
+      "date": "2022-03-30",
+      "type": "N/A",
+      "team_out": "FC Krasnodar",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2026-07-05",
+      "type": "Free agent",
+      "team_out": "FC Copenhagen",
+      "team_in": "IFK Varnamo"
+    },
+    {
+      "date": "2026-07-06",
+      "type": "Free agent",
+      "team_out": "FC Copenhagen",
+      "team_in": "IFK Varnamo"
+    }
+  ],
+  "career_clubs": [
+    "IFK Värnamo",
+    "IF Elfsborg",
+    "FC Krasnodar",
+    "F.C. Copenhagen",
+    "IFK Värnamo"
+  ]
+}

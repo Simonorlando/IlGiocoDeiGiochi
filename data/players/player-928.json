@@ -1,0 +1,30 @@
+{
+  "player_id": 928,
+  "full_name": "Daniel Parejo Muñoz",
+  "nationality": "Spain",
+  "birth_date": "1989-04-16",
+  "birth_place": "Coslada",
+  "career_transfers": [
+    {
+      "date": "2009-07-25",
+      "type": "€ 3M",
+      "team_out": "Real Madrid",
+      "team_in": "Getafe"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "QPR"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Castilla",
+    "Queens Park Rangers F.C.",
+    "Real Murcia",
+    "Getafe CF",
+    "Real Madrid Club de Fútbol",
+    "Valencia CF",
+    "Villarreal CF"
+  ]
+}

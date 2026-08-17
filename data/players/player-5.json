@@ -1,0 +1,40 @@
+{
+  "player_id": 5,
+  "full_name": "Manuel Obafemi Akanji",
+  "nationality": "Switzerland",
+  "birth_date": "1995-07-19",
+  "birth_place": "Neftenbach",
+  "career_transfers": [
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Manchester City",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Inter",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "FC Winterthur",
+    "FC Basel",
+    "Borussia Dortmund",
+    "Manchester City F.C.",
+    "Inter Milan"
+  ]
+}

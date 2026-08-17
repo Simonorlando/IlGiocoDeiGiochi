@@ -1,0 +1,18 @@
+{
+  "player_id": 8637,
+  "full_name": "Cheick Keita",
+  "nationality": "Mali",
+  "birth_date": "1996-04-16",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Birmingham",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Paris FC"
+  ]
+}

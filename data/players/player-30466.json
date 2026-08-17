@@ -1,0 +1,22 @@
+{
+  "player_id": 30466,
+  "full_name": "Angelo Esmael da Costa Júnior",
+  "nationality": "Brazil",
+  "birth_date": "1983-11-12",
+  "birth_place": "São Bernardo do Campo",
+  "career_transfers": [
+    {
+      "date": "2015-01-20",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Santo André",
+    "Varese Calcio",
+    "SSC Ancona",
+    "U.C. Sampdoria",
+    "Bologna F.C. 1909"
+  ]
+}

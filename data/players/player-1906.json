@@ -1,0 +1,33 @@
+{
+  "player_id": 1906,
+  "full_name": "Adil Rami",
+  "nationality": "France",
+  "birth_date": "1985-12-27",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2017-07-11",
+      "type": "€ 6M",
+      "team_out": "Sevilla",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 3.5M",
+      "team_out": "AC Milan",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Étoile Fréjus Saint-Raphaël",
+    "Lille OSC",
+    "Valencia CF",
+    "AC Milan",
+    "Sevilla FC",
+    "Olympique de Marseille",
+    "Fenerbahçe Istanbul",
+    "PFC Sochi",
+    "Boavista F.C.",
+    "ES Troyes AC"
+  ]
+}

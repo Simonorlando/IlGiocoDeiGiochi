@@ -1,0 +1,26 @@
+{
+  "player_id": 56011,
+  "full_name": "Dor Peretz",
+  "nationality": "Israel",
+  "birth_date": "1995-05-17",
+  "birth_place": "Hod HaSharon",
+  "career_transfers": [
+    {
+      "date": "2022-08-16",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Maccabi Tel Aviv"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Maccabi Tel Aviv",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Tel Aviv F.C.",
+    "Venezia F.C.",
+    "Maccabi Tel Aviv F.C."
+  ]
+}

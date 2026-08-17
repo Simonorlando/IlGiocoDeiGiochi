@@ -1,0 +1,43 @@
+{
+  "player_id": 616,
+  "full_name": "Arijanet Murić",
+  "nationality": "Kosovo",
+  "birth_date": "1998-11-07",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2025-08-13",
+      "type": "Loan",
+      "team_out": "Ipswich",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Ipswich",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Sassuolo",
+      "team_in": "Ipswich"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Ipswich",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "NAC Breda",
+    "Nottingham Forest F.C.",
+    "Girona FC",
+    "Adana Demirspor",
+    "Burnley F.C.",
+    "Ipswich Town F.C.",
+    "US Sassuolo Calcio"
+  ]
+}

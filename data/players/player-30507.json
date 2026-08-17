@@ -1,0 +1,28 @@
+{
+  "player_id": 30507,
+  "full_name": "Soualiho Meïté",
+  "nationality": "France",
+  "birth_date": "1994-03-17",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Benfica",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "AJ Auxerre",
+    "Lille OSC",
+    "AJ Auxerre",
+    "S.V. Zulte Waregem",
+    "AC Milan"
+  ]
+}

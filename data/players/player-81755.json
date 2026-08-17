@@ -1,0 +1,29 @@
+{
+  "player_id": 81755,
+  "full_name": "Simon Busk Poulsen",
+  "nationality": "Denmark",
+  "birth_date": "1984-10-07",
+  "birth_place": "Sønderborg",
+  "career_transfers": [
+    {
+      "date": "2014-01-20",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "AZ Alkmaar"
+    },
+    {
+      "date": "2012-08-27",
+      "type": "Free",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Sønderjyske Fodbold",
+    "FC Midtjylland",
+    "AZ Alkmaar",
+    "U.C. Sampdoria",
+    "AZ Alkmaar",
+    "PSV Eindhoven"
+  ]
+}

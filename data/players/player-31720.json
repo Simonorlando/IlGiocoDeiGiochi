@@ -1,0 +1,48 @@
+{
+  "player_id": 31720,
+  "full_name": "Cesare Bovo",
+  "nationality": "Italy",
+  "birth_date": "1983-01-14",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2018-09-12",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2005-08-01",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2002-08-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "US Lecce",
+    "Parma Calcio 1913",
+    "AS Roma",
+    "Palermo F.C.",
+    "Torino FC",
+    "Genoa CFC",
+    "Palermo F.C.",
+    "Genoa CFC",
+    "Torino FC",
+    "Pescara Calcio a 5",
+    "Delfino Pescara 1936",
+    "US Lecce"
+  ]
+}

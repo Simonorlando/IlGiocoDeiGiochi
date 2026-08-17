@@ -1,0 +1,29 @@
+{
+  "player_id": 563,
+  "full_name": "Alejandro Grimaldo García",
+  "nationality": "Spain",
+  "birth_date": "1995-09-20",
+  "birth_place": "Valencia",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Valencia CF Mestalla",
+    "FC Barcelona Juvenil A",
+    "FC Barcelona Atlètic",
+    "S.L. Benfica",
+    "Bayer 04 Leverkusen",
+    "Atlético Madrid"
+  ]
+}

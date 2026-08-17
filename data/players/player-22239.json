@@ -1,0 +1,30 @@
+{
+  "player_id": 22239,
+  "full_name": "Cheikh Ahmet Tidiane Niasse",
+  "nationality": "Senegal",
+  "birth_date": "2000-01-19",
+  "birth_place": "Gossas",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Verona",
+      "team_in": "BSC Young Boys"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Loan",
+      "team_out": "BSC Young Boys",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "BSC Young Boys",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC"
+  ]
+}

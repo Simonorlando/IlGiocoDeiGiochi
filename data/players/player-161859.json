@@ -1,0 +1,24 @@
+{
+  "player_id": 161859,
+  "full_name": "Gaetano Pio Oristanio",
+  "nationality": "Italy",
+  "birth_date": "2002-09-28",
+  "birth_place": "Vallo della Lucania",
+  "career_transfers": [
+    {
+      "date": "2025-08-28",
+      "type": "Loan",
+      "team_out": "Venezia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Parma",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Venezia F.C."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "player_id": 440,
+  "full_name": "Yuto Nagatomo",
+  "nationality": "Japan",
+  "birth_date": "1986-09-12",
+  "birth_place": "Saijo",
+  "career_transfers": [
+    {
+      "date": "2020-08-31",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Marseille"
+    },
+    {
+      "date": "2018-02-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "FC Tokyo",
+    "AC Cesena",
+    "Inter Milan",
+    "Galatasaray S.K.",
+    "Olympique de Marseille",
+    "FC Tokyo"
+  ]
+}

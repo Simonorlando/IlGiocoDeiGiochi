@@ -1,0 +1,28 @@
+{
+  "player_id": 666,
+  "full_name": "Moussa Dembélé",
+  "nationality": "France",
+  "birth_date": "1996-07-12",
+  "birth_place": "Pontoise",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Lyon"
+    },
+    {
+      "date": "2021-01-13",
+      "type": "Loan",
+      "team_out": "Lyon",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Fulham",
+    "Celtic",
+    "Lyon",
+    "Atlético Madrid",
+    "Al-Ettifaq"
+  ]
+}

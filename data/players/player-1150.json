@@ -1,0 +1,27 @@
+{
+  "player_id": 1150,
+  "full_name": "Tyler Shaan Adams",
+  "nationality": "USA",
+  "birth_date": "1999-02-14",
+  "birth_place": "Wappingers Falls",
+  "career_transfers": [
+    {
+      "date": "2022-07-06",
+      "type": "€ 17M",
+      "team_out": "RB Leipzig",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2019-01-01",
+      "type": "N/A",
+      "team_out": "New York Red Bulls",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Red Bull New York",
+    "RB Leipzig",
+    "AFC Bournemouth",
+    "Leeds United F.C."
+  ]
+}

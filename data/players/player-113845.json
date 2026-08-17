@@ -1,0 +1,42 @@
+{
+  "player_id": 113845,
+  "full_name": "Mauro Cetto",
+  "nationality": "Argentina",
+  "birth_date": "1982-04-14",
+  "birth_place": "Rosario",
+  "career_transfers": [
+    {
+      "date": "2013-01-30",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "San Lorenzo"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "N/A",
+      "team_out": "Lille",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2012-01-27",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Lille"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 450K",
+      "team_out": "Toulouse",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Rosario Central",
+    "FC Nantes",
+    "Toulouse FC",
+    "Palermo F.C.",
+    "Lille OSC",
+    "San Lorenzo de Almagro",
+    "Club Atlético Rosario Central"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 31617,
+  "full_name": "Daniele Croce",
+  "nationality": "Italy",
+  "birth_date": "1982-09-09",
+  "birth_place": "Giulianova",
+  "career_transfers": [
+    {
+      "date": "2017-07-14",
+      "type": "Free",
+      "team_out": "Empoli",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "Taranto Sport",
+    "S.S. Arezzo",
+    "AC Cesena",
+    "US Alessandria Calcio 1912",
+    "Sorrento Calcio 1945",
+    "Empoli FC"
+  ]
+}

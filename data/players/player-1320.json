@@ -1,0 +1,25 @@
+{
+  "player_id": 1320,
+  "full_name": "Amer Gojak",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "1997-02-13",
+  "birth_place": "Sarajevo",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Dinamo Zagreb"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Dinamo Zagreb",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "FK Olimpik",
+    "GNK Dinamo Zagreb"
+  ]
+}

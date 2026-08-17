@@ -1,0 +1,33 @@
+{
+  "player_id": 2295,
+  "full_name": "Olivier Jonathan Giroud",
+  "nationality": "France",
+  "birth_date": "1986-09-30",
+  "birth_place": "Chambéry",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Los Angeles FC"
+    },
+    {
+      "date": "2021-07-17",
+      "type": "€ 1M",
+      "team_out": "Chelsea",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Grenoble Foot 38",
+    "FC Istres",
+    "Tours FC.",
+    "Montpellier Hérault Sport Club",
+    "Tours FC.",
+    "Arsenal F.C.",
+    "Chelsea F.C.",
+    "AC Milan",
+    "Los Angeles FC",
+    "Lille OSC"
+  ]
+}

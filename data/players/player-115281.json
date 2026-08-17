@@ -1,0 +1,32 @@
+{
+  "player_id": 115281,
+  "full_name": "Ângelo Mariano De Almeida",
+  "nationality": "Brazil",
+  "birth_date": "1981-06-12",
+  "birth_place": "Salvador",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "Free",
+      "team_out": "Robur Siena",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "Associação Desportiva São Caetano",
+    "Criciúma Esporte Clube",
+    "US Lecce",
+    "F.C. Crotone",
+    "Parma Calcio 1913",
+    "Siena FC",
+    "Latina Calcio 1932",
+    "Calcio Foggia 1920"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "player_id": 161585,
+  "full_name": "Francisco Fernandes da Conceição",
+  "nationality": "Portugal",
+  "birth_date": "2002-12-14",
+  "birth_place": "Coimbra",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Juventus",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2024-08-27",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2025-07-15",
+      "type": "Back from Loan",
+      "team_out": "Juventus",
+      "team_in": "FC Porto"
+    },
+    {
+      "date": "2025-07-22",
+      "type": "Transfer",
+      "team_out": "FC Porto",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto B",
+    "FC Porto",
+    "Jong Ajax",
+    "AFC Ajax",
+    "FC Porto",
+    "Juventus FC"
+  ]
+}

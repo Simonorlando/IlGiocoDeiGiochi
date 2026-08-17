@@ -1,0 +1,24 @@
+{
+  "player_id": 191,
+  "full_name": "Kwadwo Asamoah",
+  "nationality": "Ghana",
+  "birth_date": "1988-12-09",
+  "birth_place": "Accra",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "Free",
+      "team_out": "Juventus",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Liberty Professionals F.C.",
+    "AC Bellinzona",
+    "Udinese Calcio",
+    "Torino FC",
+    "Juventus FC",
+    "Inter Milan",
+    "Cagliari Calcio"
+  ]
+}

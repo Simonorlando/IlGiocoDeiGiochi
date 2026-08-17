@@ -1,0 +1,26 @@
+{
+  "player_id": 161897,
+  "full_name": "Ismael Saibari Ben El Basra",
+  "nationality": "Morocco",
+  "birth_date": "2001-01-28",
+  "birth_place": "Las Palmas",
+  "career_transfers": [
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Bayern München"
+    }
+  ],
+  "career_clubs": [
+    "Jong PSV",
+    "PSV Eindhoven",
+    "FC Bayern Munich"
+  ]
+}

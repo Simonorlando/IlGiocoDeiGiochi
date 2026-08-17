@@ -1,0 +1,28 @@
+{
+  "player_id": 2985,
+  "full_name": "Amigo Alfred Benjamin Junior Gomis",
+  "nationality": "Senegal",
+  "birth_date": "1993-09-05",
+  "birth_place": "Ziguinchor",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Rennes"
+    },
+    {
+      "date": "2023-01-27",
+      "type": "Loan",
+      "team_out": "Rennes",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Torino FC",
+    "F.C. Crotone",
+    "Italy under-21 Serie B representative team",
+    "U.S. Avellino 1912",
+    "AC Cesena"
+  ]
+}

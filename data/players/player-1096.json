@@ -1,0 +1,20 @@
+{
+  "player_id": 1096,
+  "full_name": "Dominik Szoboszlai",
+  "nationality": "Hungary",
+  "birth_date": "2000-10-25",
+  "birth_place": "Budapest",
+  "career_transfers": [
+    {
+      "date": "2021-01-02",
+      "type": "€ 20M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "FC Liefering",
+    "FC Red Bull Salzburg",
+    "Liverpool F.C."
+  ]
+}

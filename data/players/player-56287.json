@@ -1,0 +1,18 @@
+{
+  "player_id": 56287,
+  "full_name": "Alessandro Di Pardo",
+  "nationality": "Italy",
+  "birth_date": "1999-07-18",
+  "birth_place": "Rimini",
+  "career_transfers": [
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Cagliari",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Juventus F.C. Next Gen"
+  ]
+}

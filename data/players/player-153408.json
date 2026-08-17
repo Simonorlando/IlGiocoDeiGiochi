@@ -1,0 +1,22 @@
+{
+  "player_id": 153408,
+  "full_name": "Daniel Oladele Akinbiyi Oyegoke",
+  "nationality": "England",
+  "birth_date": "2003-01-03",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-01-28",
+      "type": "Transfer",
+      "team_out": "Heart Of Midlothian",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Brentford",
+    "Milton Keynes Dons",
+    "Bradford City",
+    "Heart of Midlothian",
+    "Hellas Verona"
+  ]
+}

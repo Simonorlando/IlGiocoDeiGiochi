@@ -1,0 +1,36 @@
+{
+  "player_id": 36885,
+  "full_name": "Pantelis Hatzidiakos",
+  "nationality": "Greece",
+  "birth_date": "1997-01-18",
+  "birth_place": "Rhodes",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "FC Copenhagen",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2024-09-02",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "FC Copenhagen"
+    },
+    {
+      "date": "2023-09-01",
+      "type": "€ 2M",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Cagliari",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "AZ Alkmaar"
+  ]
+}

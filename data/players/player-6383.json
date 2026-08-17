@@ -1,0 +1,24 @@
+{
+  "player_id": 6383,
+  "full_name": "Martín Ismael Payero",
+  "nationality": "Argentina",
+  "birth_date": "1998-09-11",
+  "birth_place": "Pascanas",
+  "career_transfers": [
+    {
+      "date": "2025-08-22",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cremonese",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors"
+  ]
+}

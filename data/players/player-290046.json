@@ -1,0 +1,27 @@
+{
+  "player_id": 290046,
+  "full_name": "Antoine Makoumbou",
+  "nationality": "Congo",
+  "birth_date": "1998-07-18",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2022-07-15",
+      "type": "N/A",
+      "team_out": "Maribor",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2025-07-02",
+      "type": "Transfer",
+      "team_out": "Cagliari",
+      "team_in": "Samsunspor"
+    }
+  ],
+  "career_clubs": [
+    "Tabor Sežana",
+    "Maribor",
+    "Cagliari",
+    "Samsunspor"
+  ]
+}

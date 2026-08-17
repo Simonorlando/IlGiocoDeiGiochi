@@ -1,0 +1,32 @@
+{
+  "player_id": 2098,
+  "full_name": "Francisco Guillermo Ochoa Magaña",
+  "nationality": "Mexico",
+  "birth_date": "1985-07-13",
+  "birth_place": "Guadalajara",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "Free",
+      "team_out": "Salernitana",
+      "team_in": "AVS"
+    },
+    {
+      "date": "2023-01-02",
+      "type": "N/A",
+      "team_out": "Club America",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Club América",
+    "A.C. Ajaccio",
+    "Málaga CF",
+    "Granada CF",
+    "Standard Liège",
+    "Club América",
+    "U.S. Salernitana 1919",
+    "AVS Futebol SAD",
+    "AEL Limassol FC"
+  ]
+}

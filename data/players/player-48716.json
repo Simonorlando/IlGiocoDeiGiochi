@@ -1,0 +1,45 @@
+{
+  "player_id": 48716,
+  "full_name": "José Eduardo de Araújo",
+  "nationality": "Brazil",
+  "birth_date": "1991-08-16",
+  "birth_place": "Uberaba",
+  "career_transfers": [
+    {
+      "date": "2014-07-22",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Cesena"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "OFI",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-08-07",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "OFI"
+    },
+    {
+      "date": "2012-01-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Cruzeiro E.C.",
+    "AFC Ajax",
+    "Jong Ajax",
+    "Parma Calcio 1913",
+    "Calcio Padova",
+    "Empoli FC",
+    "OFI Crete F.C.",
+    "AC Cesena",
+    "Lanciano Calcio 1920",
+    "AC Cesena"
+  ]
+}

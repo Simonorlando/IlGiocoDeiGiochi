@@ -1,0 +1,30 @@
+{
+  "player_id": 371,
+  "full_name": "Felipe Augusto de Almeida Monteiro",
+  "nationality": "Brazil",
+  "birth_date": "1989-05-16",
+  "birth_place": "Mogi das Cruzes",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "€ 2.3M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 20M",
+      "team_out": "FC Porto",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "União Futebol Clube",
+    "Red Bull Bragantino",
+    "Coimbra Esporte Clube",
+    "S.C. Corinthians Paulista",
+    "FC Porto",
+    "Atlético Madrid",
+    "Nottingham Forest F.C."
+  ]
+}

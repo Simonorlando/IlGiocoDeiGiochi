@@ -1,0 +1,33 @@
+{
+  "player_id": 12705,
+  "full_name": "Givanildo Vieira de Souza",
+  "nationality": "Brazil",
+  "birth_date": "1986-07-25",
+  "birth_place": "Campina Grande",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 55M",
+      "team_out": "Zenit",
+      "team_in": "SHANGHAI SIPG"
+    },
+    {
+      "date": "2012-09-03",
+      "type": "€ 55M",
+      "team_out": "FC Porto",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "E.C. Vitória",
+    "Kawasaki Frontale",
+    "Hokkaido Consadole Sapporo",
+    "Tokyo Verdy",
+    "FC Porto",
+    "Tokyo Verdy",
+    "FC Zenit Saint Petersburg",
+    "Shanghai Port F.C.",
+    "Clube Atlético Mineiro",
+    "Fluminense F.C."
+  ]
+}

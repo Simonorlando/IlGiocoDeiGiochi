@@ -1,0 +1,38 @@
+{
+  "player_id": 30939,
+  "full_name": "Samuel Di Carmine",
+  "nationality": "Italy",
+  "birth_date": "1988-09-29",
+  "birth_place": "Firenze",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2021-08-24",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Fiorentina",
+    "Queens Park Rangers",
+    "Gallipoli",
+    "Frosinone",
+    "Cittadella",
+    "Juve Stabia",
+    "Perugia",
+    "Virtus Entella",
+    "Verona",
+    "Crotone",
+    "Cremonese",
+    "Perugia",
+    "Catania",
+    "Trento",
+    "Livorno"
+  ]
+}

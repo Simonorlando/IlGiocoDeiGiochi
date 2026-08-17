@@ -1,0 +1,18 @@
+{
+  "player_id": 659,
+  "full_name": "Maxence Caqueret",
+  "nationality": "France",
+  "birth_date": "2000-02-15",
+  "birth_place": "Vénissieux",
+  "career_transfers": [
+    {
+      "date": "2025-01-12",
+      "type": "Transfer",
+      "team_out": "Lyon",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Olympique Lyonnais"
+  ]
+}

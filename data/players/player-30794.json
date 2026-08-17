@@ -1,0 +1,32 @@
+{
+  "player_id": 30794,
+  "full_name": "Samuele Perisan",
+  "nationality": "Italy",
+  "birth_date": "1997-08-21",
+  "birth_place": "San Vito al Tagliamento",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Pordenone",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "S.S. Arezzo",
+    "Calcio Padova",
+    "Udinese Calcio"
+  ]
+}

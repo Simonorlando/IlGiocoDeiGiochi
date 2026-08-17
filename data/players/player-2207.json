@@ -1,0 +1,18 @@
+{
+  "player_id": 2207,
+  "full_name": "Eduardo Celmi Camavinga",
+  "nationality": "France",
+  "birth_date": "2002-11-10",
+  "birth_place": "Cabinda",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "€ 31M",
+      "team_out": "Rennes",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Real Madrid Club de Fútbol"
+  ]
+}

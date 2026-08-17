@@ -1,0 +1,89 @@
+{
+  "player_id": 305834,
+  "full_name": "Andrey Nascimento dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "2004-05-03",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Strasbourg",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2024-08-02",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Strasbourg",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Strasbourg"
+    },
+    {
+      "date": "2024-01-03",
+      "type": "N/A",
+      "team_out": "Nottingham Forest",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2023-08-25",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Nottingham Forest"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Vasco DA Gama",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2023-03-01",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Vasco DA Gama"
+    },
+    {
+      "date": "2023-01-07",
+      "type": "€ 12.5M",
+      "team_out": "Vasco DA Gama",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2025-06-14",
+      "type": "Back from Loan",
+      "team_out": "Strasbourg",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2026-07-11",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2026-07-12",
+      "type": "Transfer",
+      "team_out": "Chelsea",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "Vasco da Gama",
+    "Chelsea",
+    "Vasco da Gama",
+    "Nottingham Forest",
+    "Strasbourg",
+    "Manchester United"
+  ]
+}

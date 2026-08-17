@@ -1,0 +1,37 @@
+{
+  "player_id": 30521,
+  "full_name": "Merih Demiral",
+  "nationality": "Türkiye",
+  "birth_date": "1998-03-05",
+  "birth_place": "Kocaeli",
+  "career_transfers": [
+    {
+      "date": "2023-08-19",
+      "type": "€ 20M",
+      "team_out": "Atalanta",
+      "team_in": "Al-Ahli Jeddah"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 21M",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2021-08-06",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Clube Alcanenense",
+    "Sporting CP B",
+    "Sporting CP",
+    "Alanyaspor",
+    "US Sassuolo Calcio",
+    "Juventus FC",
+    "Atalanta BC",
+    "Al Ahli FC"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "player_id": 10576,
+  "full_name": "Maximiliano Gastón López",
+  "nationality": "Argentina",
+  "birth_date": "1984-04-03",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2007-07-01",
+      "type": "€ 2M",
+      "team_out": "Barcelona",
+      "team_in": null
+    },
+    {
+      "date": "2006-07-01",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2005-01-01",
+      "type": "€ 6.5M",
+      "team_out": "River Plate",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "FC Barcelona",
+    "RCD Mallorca",
+    "FC Moscow",
+    "Grêmio FBPA",
+    "Catania FC",
+    "AC Milan",
+    "U.C. Sampdoria",
+    "AC ChievoVerona",
+    "Torino FC",
+    "Udinese Calcio",
+    "CR Vasco da Gama",
+    "F.C. Crotone",
+    "S.S. Sambenedettese Calcio"
+  ]
+}

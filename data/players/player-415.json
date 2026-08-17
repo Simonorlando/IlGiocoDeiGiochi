@@ -1,0 +1,38 @@
+{
+  "player_id": 415,
+  "full_name": "Weston James Earl McKennie",
+  "nationality": "USA",
+  "birth_date": "1998-08-28",
+  "birth_place": "Little Elm",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Leeds",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Leeds"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "€ 20.5M",
+      "team_out": "FC Schalke 04",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Juventus FC",
+    "Leeds United F.C."
+  ]
+}

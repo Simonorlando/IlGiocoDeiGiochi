@@ -1,0 +1,21 @@
+{
+  "player_id": 48119,
+  "full_name": "Kouakou Odilon Dorgeless Kossounou",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "2001-01-04",
+  "birth_place": "Abidjan",
+  "career_transfers": [
+    {
+      "date": "2019-06-15",
+      "type": "€ 3M",
+      "team_out": "Hammarby FF",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "Hammarby Fotboll",
+    "Club Brugge K.V.",
+    "Bayer 04 Leverkusen",
+    "Atalanta BC"
+  ]
+}

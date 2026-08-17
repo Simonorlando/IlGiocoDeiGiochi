@@ -1,0 +1,29 @@
+{
+  "player_id": 91351,
+  "full_name": "Francesco Della Rocca",
+  "nationality": "Italy",
+  "birth_date": "1987-09-14",
+  "birth_place": "Brindisi",
+  "career_transfers": [
+    {
+      "date": "2013-01-13",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "S.S. Sambenedettese Calcio",
+    "U.S. Avellino 1912",
+    "US Sassuolo Calcio",
+    "Brescia Calcio",
+    "A.C. Perugia Calcio",
+    "Palermo F.C.",
+    "ACF Fiorentina",
+    "Siena FC",
+    "Bologna F.C. 1909",
+    "A.C. Perugia Calcio",
+    "Calcio Padova"
+  ]
+}

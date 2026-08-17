@@ -1,0 +1,30 @@
+{
+  "player_id": 142959,
+  "full_name": "Muhammed Kerem Aktürkoğlu",
+  "nationality": "Türkiye",
+  "birth_date": "1998-10-21",
+  "birth_place": "Kocaeli",
+  "career_transfers": [
+    {
+      "date": "2024-09-02",
+      "type": "€ 12M",
+      "team_out": "Galatasaray",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2020-09-02",
+      "type": "Free",
+      "team_out": "24 Erzincanspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "İstanbul Başakşehir F.K.",
+    "Bodrum FK",
+    "Karacabey Belediyespor",
+    "24 Erzincanspor",
+    "Galatasaray S.K.",
+    "S.L. Benfica",
+    "Fenerbahçe Istanbul"
+  ]
+}

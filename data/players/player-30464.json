@@ -1,0 +1,29 @@
+{
+  "player_id": 30464,
+  "full_name": "Marco Sau",
+  "nationality": "Italy",
+  "birth_date": "1987-11-03",
+  "birth_place": "Sorgono",
+  "career_transfers": [
+    {
+      "date": "2023-02-25",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Feralpisalo"
+    },
+    {
+      "date": "2019-07-23",
+      "type": "Free",
+      "team_out": "Sampdoria",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "A.S.D. Manfredonia Calcio 1932",
+    "U.C. AlbinoLeffe",
+    "Calcio Lecco 1912",
+    "Calcio Foggia 1920",
+    "S.S. Juve Stabia"
+  ]
+}

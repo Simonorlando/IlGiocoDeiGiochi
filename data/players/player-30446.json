@@ -1,0 +1,34 @@
+{
+  "player_id": 30446,
+  "full_name": "Alex Ferrari",
+  "nationality": "Italy",
+  "birth_date": "1994-07-01",
+  "birth_place": "Modena",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2023-01-02",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Bologna U20",
+    "Bologna",
+    "FC Crotone",
+    "Bologna",
+    "Hellas Verona",
+    "Bologna",
+    "Sampdoria",
+    "Bologna",
+    "Sampdoria",
+    "Cremonese",
+    "Sampdoria"
+  ]
+}

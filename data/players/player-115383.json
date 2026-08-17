@@ -1,0 +1,31 @@
+{
+  "player_id": 115383,
+  "full_name": "Emanuele Pesoli",
+  "nationality": "Italy",
+  "birth_date": "1980-08-31",
+  "birth_place": "Anagni",
+  "career_transfers": [
+    {
+      "date": "2011-07-28",
+      "type": "€ 400K",
+      "team_out": "Varese",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "F.C. AlzanoCene 1909",
+    "S.S.D. Tivoli Calcio 1919",
+    "SSC Ancona",
+    "F.C. Vittoria",
+    "SSC Ancona",
+    "Vicenza Calcio",
+    "Venezia F.C.",
+    "Associazione Sportiva Cittadella",
+    "Varese Calcio",
+    "Siena FC",
+    "Hellas Verona FC",
+    "A.C. Carpi",
+    "Delfino Pescara 1936",
+    "L'Aquila Calcio 1927"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 875,
+  "full_name": "Paulo Exequiel Dybala",
+  "nationality": "Argentina",
+  "birth_date": "1993-11-15",
+  "birth_place": "Laguna Larga",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 32M",
+      "team_out": "Palermo",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2012-07-20",
+      "type": "€ 12M",
+      "team_out": "Instituto Cordoba",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Club Sport Emelec",
+    "Palermo F.C.",
+    "Juventus FC",
+    "AS Roma"
+  ]
+}

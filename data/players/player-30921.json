@@ -1,0 +1,29 @@
+{
+  "player_id": 30921,
+  "full_name": "Paweł Marek Dawidowicz",
+  "nationality": "Poland",
+  "birth_date": "1995-05-20",
+  "birth_place": "Olsztyn",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 3.5M",
+      "team_out": "Benfica",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2026-01-25",
+      "type": "Free agent",
+      "team_out": "Hellas Verona",
+      "team_in": "Raków Częstochowa"
+    }
+  ],
+  "career_clubs": [
+    "KS Lechia Gdańsk",
+    "S.L. Benfica B",
+    "VfL Bochum",
+    "Palermo F.C.",
+    "Hellas Verona FC",
+    "Raków Częstochowa"
+  ]
+}

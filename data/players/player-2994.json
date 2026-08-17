@@ -1,0 +1,27 @@
+{
+  "player_id": 2994,
+  "full_name": "Pape Moussa Konaté",
+  "nationality": "Senegal",
+  "birth_date": "1993-04-03",
+  "birth_place": "Mbour",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "FC Krasnodar"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "Loan",
+      "team_out": "FC Krasnodar",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Tel Aviv F.C.",
+    "FC Krasnodar",
+    "Genoa CFC",
+    "FC Sion"
+  ]
+}

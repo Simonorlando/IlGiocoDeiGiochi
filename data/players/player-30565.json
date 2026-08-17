@@ -1,0 +1,42 @@
+{
+  "player_id": 30565,
+  "full_name": "Riccardo Ladinetti",
+  "nationality": "Italy",
+  "birth_date": "2000-12-20",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2022-08-06",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Pontedera"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Olbia"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Olbia",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Cagliari",
+      "team_in": "Olbia"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari",
+    "Olbia",
+    "Pontedera",
+    "Catania",
+    "Taranto",
+    "Pontedera",
+    "Perugia"
+  ]
+}

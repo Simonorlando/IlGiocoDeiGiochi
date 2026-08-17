@@ -1,0 +1,32 @@
+{
+  "player_id": 31598,
+  "full_name": "Michael Agazzi",
+  "nationality": "Italy",
+  "birth_date": "1984-07-03",
+  "birth_place": "Ponte San Pietro",
+  "career_transfers": [
+    {
+      "date": "2018-11-16",
+      "type": "Free",
+      "team_out": "Ascoli",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "F.C. Südtirol",
+    "Atalanta BC",
+    "US Triestina Calcio 1918",
+    "Italy under-21 Serie B representative team",
+    "US Sassuolo Calcio",
+    "Calcio Foggia 1920",
+    "Cagliari Calcio",
+    "AC Milan",
+    "AC ChievoVerona",
+    "Middlesbrough F.C.",
+    "AC Milan",
+    "Ascoli Calcio 1898 FC",
+    "AC Cesena",
+    "US Alessandria Calcio 1912"
+  ]
+}

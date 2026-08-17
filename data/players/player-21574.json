@@ -1,0 +1,31 @@
+{
+  "player_id": 21574,
+  "full_name": "Pedro Filipe Teodósio Mendes",
+  "nationality": "Portugal",
+  "birth_date": "1990-10-01",
+  "birth_place": "Neuchâtel",
+  "career_transfers": [
+    {
+      "date": "2012-07-12",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Sporting CP"
+    },
+    {
+      "date": "2011-08-01",
+      "type": "Free",
+      "team_out": "Servette FC",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Sporting CP",
+    "Real Sport Clube",
+    "Servette FC",
+    "Real Madrid Club de Fútbol",
+    "Real Madrid Castilla",
+    "Parma Calcio 1913",
+    "US Sassuolo Calcio",
+    "Stade Rennais F.C."
+  ]
+}

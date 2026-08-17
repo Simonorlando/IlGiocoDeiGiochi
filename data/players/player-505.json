@@ -1,0 +1,27 @@
+{
+  "player_id": 505,
+  "full_name": "David Olatukunbo Alaba",
+  "nationality": "Austria",
+  "birth_date": "1992-06-24",
+  "birth_place": "Wien",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Free",
+      "team_out": "Bayern München",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Real Madrid",
+      "team_in": "Alaba David"
+    }
+  ],
+  "career_clubs": [
+    "FK Austria Wien",
+    "FC Bayern Munich",
+    "TSG 1899 Hoffenheim",
+    "Real Madrid Club de Fútbol"
+  ]
+}

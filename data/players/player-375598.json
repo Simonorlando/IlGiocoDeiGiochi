@@ -1,0 +1,19 @@
+{
+  "player_id": 375598,
+  "full_name": "Ngal'ayel Mukau",
+  "nationality": "Belgium",
+  "birth_date": "2004-11-03",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2024-07-11",
+      "type": "€ 5M",
+      "team_out": "KV Mechelen",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Mechelen",
+    "Lille"
+  ]
+}

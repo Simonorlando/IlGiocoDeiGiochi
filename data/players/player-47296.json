@@ -1,0 +1,54 @@
+{
+  "player_id": 47296,
+  "full_name": "Gerónimo Rulli",
+  "nationality": "Argentina",
+  "birth_date": "1992-05-20",
+  "birth_place": "La Plata",
+  "career_transfers": [
+    {
+      "date": "2020-09-04",
+      "type": "N/A",
+      "team_out": "Real Sociedad",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Montpellier",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2019-08-14",
+      "type": "Loan",
+      "team_out": "Real Sociedad",
+      "team_in": "Montpellier"
+    },
+    {
+      "date": "2017-01-02",
+      "type": "€ 7M",
+      "team_out": "Manchester City",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Real Sociedad"
+    },
+    {
+      "date": "2014-07-24",
+      "type": "Loan",
+      "team_out": "Deportivo Maldonado",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "Real Sociedad",
+    "Montpellier Hérault Sport Club",
+    "Villarreal CF",
+    "AFC Ajax",
+    "Olympique de Marseille",
+    "Manchester City F.C."
+  ]
+}

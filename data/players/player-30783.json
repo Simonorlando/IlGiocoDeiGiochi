@@ -1,0 +1,24 @@
+{
+  "player_id": 30783,
+  "full_name": "Esteban Leonardo Rolón",
+  "nationality": "Argentina",
+  "birth_date": "1995-03-25",
+  "birth_place": "Posadas",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2018-08-03",
+      "type": "Loan",
+      "team_out": "Malaga",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Juventud Unida Universitario"
+  ]
+}

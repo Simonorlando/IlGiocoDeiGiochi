@@ -1,0 +1,19 @@
+{
+  "player_id": 1807,
+  "full_name": "Obite Evan Ndicka",
+  "nationality": "Côte d'Ivoire",
+  "birth_date": "1999-08-20",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AJ Auxerre",
+    "Eintracht Frankfurt"
+  ]
+}

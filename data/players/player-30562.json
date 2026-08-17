@@ -1,0 +1,45 @@
+{
+  "player_id": 30562,
+  "full_name": "João Pedro Geraldino dos Santos Galvão",
+  "nationality": "Italy",
+  "birth_date": "1992-03-09",
+  "birth_place": "Ipatinga",
+  "career_transfers": [
+    {
+      "date": "2012-07-05",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Santos"
+    },
+    {
+      "date": "2011-08-19",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Penarol"
+    },
+    {
+      "date": "2011-01-29",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Guimaraes"
+    },
+    {
+      "date": "2010-08-30",
+      "type": "N/A",
+      "team_out": "Atletico-MG",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Clube Atlético Mineiro",
+    "Vitória S.C.",
+    "Club Atlético Peñarol",
+    "Santos F.C.",
+    "G.D. Estoril Praia",
+    "Vitória S.C.",
+    "Cruz Azul Mexicana",
+    "Hull City A.F.C.",
+    "Cagliari Calcio"
+  ]
+}

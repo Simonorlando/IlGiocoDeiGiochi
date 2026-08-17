@@ -1,0 +1,22 @@
+{
+  "player_id": 31077,
+  "full_name": "Stefan Simič",
+  "nationality": "Czechia",
+  "birth_date": "1995-01-20",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2019-01-24",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Varese Calcio",
+    "Royal Excel Mouscron",
+    "F.C. Crotone",
+    "HNK Hajduk Split"
+  ]
+}

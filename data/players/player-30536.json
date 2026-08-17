@@ -1,0 +1,29 @@
+{
+  "player_id": 30536,
+  "full_name": "Filip Đuričić",
+  "nationality": "Serbia",
+  "birth_date": "1992-01-30",
+  "birth_place": "Obrenovac",
+  "career_transfers": [
+    {
+      "date": "2018-01-18",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "FK Radnički Obrenovac",
+    "SC Heerenveen",
+    "S.L. Benfica",
+    "1. FSV Mainz 05",
+    "Southampton F.C.",
+    "R.S.C. Anderlecht",
+    "U.C. Sampdoria",
+    "US Sassuolo Calcio",
+    "Benevento Calcio",
+    "U.C. Sampdoria",
+    "Panathinaikos F.C.",
+    "APOEL F.C."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "player_id": 30924,
+  "full_name": "Marash Kumbulla",
+  "nationality": "Albania",
+  "birth_date": "2000-02-08",
+  "birth_place": "Peschiera del Garda",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 26.5M",
+      "team_out": "Verona",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-09-17",
+      "type": "Loan",
+      "team_out": "Verona",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC",
+    "AS Roma",
+    "US Sassuolo Calcio",
+    "RCD Espanyol de Barcelona"
+  ]
+}

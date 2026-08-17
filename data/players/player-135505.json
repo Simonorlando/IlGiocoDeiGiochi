@@ -1,0 +1,41 @@
+{
+  "player_id": 135505,
+  "full_name": "Samuel Elias Dahl",
+  "nationality": "Sweden",
+  "birth_date": "2003-03-04",
+  "birth_place": "Västerås",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Benfica",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2024-07-28",
+      "type": "€ 4.3M",
+      "team_out": "Djurgardens IF",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Västerås SK",
+    "Västerås IK",
+    "Örebro SK",
+    "Djurgårdens IF",
+    "Roma",
+    "Benfica"
+  ]
+}

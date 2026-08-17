@@ -1,0 +1,32 @@
+{
+  "player_id": 126690,
+  "full_name": "Kieran Bowie",
+  "nationality": "Scotland",
+  "birth_date": "2002-09-21",
+  "birth_place": "Kirkcaldy",
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Transfer",
+      "team_out": "Hibernian",
+      "team_in": "Hellas Verona"
+    },
+    {
+      "date": "2026-07-30",
+      "type": "Loan",
+      "team_out": "Hellas Verona",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Transfer",
+      "team_out": "Hibernian",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Hibernian",
+    "Hellas Verona",
+    "Sassuolo"
+  ]
+}

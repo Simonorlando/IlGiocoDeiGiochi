@@ -1,0 +1,31 @@
+{
+  "player_id": 105161,
+  "full_name": "Kim Källström",
+  "nationality": "Sweden",
+  "birth_date": "1982-08-24",
+  "birth_place": "Sandviken",
+  "career_transfers": [
+    {
+      "date": "2012-07-31",
+      "type": "€ 3M",
+      "team_out": "Lyon",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "€ 6M",
+      "team_out": "Rennes",
+      "team_in": "Lyon"
+    }
+  ],
+  "career_clubs": [
+    "BK Häcken",
+    "Djurgårdens IF Fotboll",
+    "Stade Rennais F.C.",
+    "Olympique Lyonnais",
+    "Spartak Moscow",
+    "Arsenal F.C.",
+    "Grasshopper Club Zürich",
+    "Djurgårdens IF Fotboll"
+  ]
+}

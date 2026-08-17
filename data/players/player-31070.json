@@ -1,0 +1,22 @@
+{
+  "player_id": 31070,
+  "full_name": "Lorenzo Ariaudo",
+  "nationality": "Italy",
+  "birth_date": "1989-06-11",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2022-03-01",
+      "type": "N/A",
+      "team_out": "Frosinone",
+      "team_in": "Alessandria"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Cagliari Calcio",
+    "US Sassuolo Calcio",
+    "Genoa CFC",
+    "Empoli FC"
+  ]
+}

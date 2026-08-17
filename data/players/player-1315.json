@@ -1,0 +1,30 @@
+{
+  "player_id": 1315,
+  "full_name": "Petar Stojanović",
+  "nationality": "Slovenia",
+  "birth_date": "1995-10-07",
+  "birth_place": "Ljubljana",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Empoli",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "NK Maribor",
+    "NK Veržej",
+    "GNK Dinamo Zagreb",
+    "Empoli FC",
+    "U.C. Sampdoria",
+    "U.S. Salernitana 1919",
+    "Legia Warsaw"
+  ]
+}

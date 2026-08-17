@@ -1,0 +1,28 @@
+{
+  "player_id": 90490,
+  "full_name": "Michael Carrick",
+  "nationality": "England",
+  "birth_date": "1981-07-28",
+  "birth_place": "Wallsend",
+  "career_transfers": [
+    {
+      "date": "2006-08-01",
+      "type": "€ 27.2M",
+      "team_out": "Tottenham",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "€ 4M",
+      "team_out": "West Ham",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "West Ham United F.C.",
+    "Swindon Town F.C.",
+    "Birmingham City F.C.",
+    "Tottenham Hotspur F.C.",
+    "Manchester United F.C."
+  ]
+}

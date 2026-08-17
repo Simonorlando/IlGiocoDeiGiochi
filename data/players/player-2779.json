@@ -1,0 +1,46 @@
+{
+  "player_id": 2779,
+  "full_name": "Ahmed Musa",
+  "nationality": "Nigeria",
+  "birth_date": "1992-10-14",
+  "birth_place": "Jos",
+  "career_transfers": [
+    {
+      "date": "2018-08-03",
+      "type": "N/A",
+      "team_out": "Leicester",
+      "team_in": "Al-Nassr"
+    },
+    {
+      "date": "2018-06-15",
+      "type": "N/A",
+      "team_out": "CSKA Moscow",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2018-01-30",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "CSKA Moscow"
+    },
+    {
+      "date": "2016-07-08",
+      "type": "€ 19.5M",
+      "team_out": "CSKA Moscow",
+      "team_in": "Leicester"
+    }
+  ],
+  "career_clubs": [
+    "JUTH F.C.",
+    "Kano Pillars F.C.",
+    "VVV-Venlo",
+    "PFC CSKA Moscow",
+    "Leicester City F.C.",
+    "Al-Nassr",
+    "PFC CSKA Moscow",
+    "Kano Pillars F.C.",
+    "Fatih Karagümrük S.K.",
+    "Sivasspor",
+    "Kano Pillars F.C."
+  ]
+}

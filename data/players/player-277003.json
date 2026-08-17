@@ -1,0 +1,18 @@
+{
+  "player_id": 277003,
+  "full_name": "Neil El Aynaoui",
+  "nationality": "Morocco",
+  "birth_date": "2001-07-02",
+  "birth_place": "Nancy",
+  "career_transfers": [
+    {
+      "date": "2025-07-20",
+      "type": "Transfer",
+      "team_out": "Lens",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

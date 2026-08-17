@@ -1,0 +1,24 @@
+{
+  "player_id": 1496,
+  "full_name": "Raphael Dias Belloli",
+  "nationality": "Brazil",
+  "birth_date": "1996-12-14",
+  "birth_place": "Porto Alegre",
+  "career_transfers": [
+    {
+      "date": "2022-07-15",
+      "type": "€ 58M",
+      "team_out": "Leeds",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Avaí Futebol Clube",
+    "Vitória S.C.",
+    "Vitória S.C. B",
+    "Sporting CP",
+    "Stade Rennais F.C.",
+    "Leeds United F.C.",
+    "FC Barcelona"
+  ]
+}

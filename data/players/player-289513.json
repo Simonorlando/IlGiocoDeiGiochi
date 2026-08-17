@@ -1,0 +1,33 @@
+{
+  "player_id": 289513,
+  "full_name": "Martin Turk",
+  "nationality": "Slovenia",
+  "birth_date": "2003-08-21",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-07-16",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Ruch Chorzów"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2022-07-19",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Reggiana"
+    }
+  ],
+  "career_clubs": [
+    "Parma",
+    "Reggiana",
+    "Parma",
+    "Ruch Chorzów"
+  ]
+}

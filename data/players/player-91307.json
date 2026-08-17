@@ -1,0 +1,27 @@
+{
+  "player_id": 91307,
+  "full_name": "Damiano Zanon",
+  "nationality": "Italy",
+  "birth_date": "1983-02-09",
+  "birth_place": "L'Aquila",
+  "career_transfers": [
+    {
+      "date": "2013-07-17",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "Giulianova Calcio",
+    "U.S. Castrovillari Calcio",
+    "Celano F.C. Marsica",
+    "Atletico Roma F.C.",
+    "Delfino Pescara 1936",
+    "Benevento Calcio",
+    "SSC Bari",
+    "Frosinone Calcio",
+    "Ternana Calcio",
+    "A.C. Perugia Calcio"
+  ]
+}

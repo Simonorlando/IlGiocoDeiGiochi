@@ -1,0 +1,18 @@
+{
+  "player_id": 30836,
+  "full_name": "Giulio Maggiore",
+  "nationality": "Italy",
+  "birth_date": "1998-03-12",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2022-08-16",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio"
+  ]
+}

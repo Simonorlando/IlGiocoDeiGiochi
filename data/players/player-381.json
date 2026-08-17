@@ -1,0 +1,42 @@
+{
+  "player_id": 381,
+  "full_name": "Danilo Luís Hélio Pereira",
+  "nationality": "Portugal",
+  "birth_date": "1991-09-09",
+  "birth_place": "Bissau",
+  "career_transfers": [
+    {
+      "date": "2013-07-23",
+      "type": "Free",
+      "team_out": "Parma",
+      "team_in": "Maritimo"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Roda",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Roda"
+    },
+    {
+      "date": "2011-01-21",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Aris Thessalonikis"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "Aris Thessaloniki F.C.",
+    "Roda JC Kerkrade",
+    "C.S. Marítimo",
+    "FC Porto",
+    "Paris Saint-Germain FC",
+    "Al Ittihad FC"
+  ]
+}

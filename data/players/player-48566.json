@@ -1,0 +1,34 @@
+{
+  "player_id": 48566,
+  "full_name": "Arlind Afrim Ajeti",
+  "nationality": "Albania",
+  "birth_date": "1993-09-25",
+  "birth_place": "Basel",
+  "career_transfers": [
+    {
+      "date": "2016-07-10",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2015-11-24",
+      "type": "Free",
+      "team_out": "FC Basel 1893",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "FC Basel",
+    "Frosinone Calcio",
+    "Torino FC",
+    "F.C. Crotone",
+    "Grasshopper Club Zürich",
+    "Vejle Boldklub",
+    "A.C. Reggiana 1919",
+    "Calcio Padova",
+    "Pordenone FC",
+    "CFR Cluj",
+    "Bodrum FK"
+  ]
+}

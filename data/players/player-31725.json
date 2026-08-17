@@ -1,0 +1,41 @@
+{
+  "player_id": 31725,
+  "full_name": "Fabio Lucioni",
+  "nationality": "Italy",
+  "birth_date": "1987-09-25",
+  "birth_place": "Terni",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2018-07-20",
+      "type": "N/A",
+      "team_out": "Benevento",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Ternana Calcio",
+    "S.S. Monopoli 1966",
+    "A.S. Noicattaro Calcio",
+    "Ternana Calcio",
+    "Società Calcistica Gela",
+    "Siena FC",
+    "A.S.D. Barletta 1922",
+    "Spezia Calcio",
+    "AS Reggina 1914",
+    "Benevento Calcio",
+    "Cosenza Calcio",
+    "US Lecce"
+  ]
+}

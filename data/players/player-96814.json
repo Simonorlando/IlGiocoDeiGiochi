@@ -1,0 +1,82 @@
+{
+  "player_id": 96814,
+  "full_name": "Chico",
+  "nationality": "Spain",
+  "birth_date": "1987-03-06",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2019-07-16",
+      "type": "Free",
+      "team_out": "Rubin",
+      "team_in": "Fuenlabrada"
+    },
+    {
+      "date": "2018-06-28",
+      "type": "Free",
+      "team_out": "Granada CF",
+      "team_in": "Rubin"
+    },
+    {
+      "date": "2017-09-28",
+      "type": "Free",
+      "team_out": "Al-Duhail SC",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2014-08-14",
+      "type": "N/A",
+      "team_out": "Swansea",
+      "team_in": "Al-Duhail SC"
+    },
+    {
+      "date": "2012-07-10",
+      "type": "€ 2.5M",
+      "team_out": "Genoa",
+      "team_in": "Swansea"
+    },
+    {
+      "date": "2011-07-25",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Mallorca"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 5M",
+      "team_out": "Almeria",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 700K",
+      "team_out": "Cadiz",
+      "team_in": "Almeria"
+    },
+    {
+      "date": "2008-01-02",
+      "type": "Loan",
+      "team_out": "Cadiz",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Loan",
+      "team_out": "Cadiz",
+      "team_in": null
+    }
+  ],
+  "career_clubs": [
+    "Cádiz CF B",
+    "Cádiz Club de Fútbol",
+    "Racing Club Portuense",
+    "Associazione Sportiva Portuense",
+    "FC Barcelona Atlètic",
+    "Unión Deportiva Almería",
+    "Genoa CFC",
+    "RCD Mallorca",
+    "Swansea City A.F.C.",
+    "Al-Duhail SC",
+    "FC Barcelona"
+  ]
+}

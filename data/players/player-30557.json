@@ -1,0 +1,20 @@
+{
+  "player_id": 30557,
+  "full_name": "Darijo Srna",
+  "nationality": "Croatia",
+  "birth_date": "1982-05-01",
+  "birth_place": "Metković",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Cagliari"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "FC Shakhtar Donetsk",
+    "Cagliari Calcio"
+  ]
+}

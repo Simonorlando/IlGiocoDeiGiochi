@@ -1,0 +1,39 @@
+{
+  "player_id": 199089,
+  "full_name": "Lorenzo Lucca",
+  "nationality": "Italy",
+  "birth_date": "2000-09-10",
+  "birth_place": "Moncalieri",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 8M",
+      "team_out": "Pisa",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2023-07-07",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2022-08-04",
+      "type": "Loan",
+      "team_out": "Pisa",
+      "team_in": "Ajax"
+    },
+    {
+      "date": "2021-07-22",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "Pisa SC",
+    "AFC Ajax",
+    "Udinese Calcio"
+  ]
+}

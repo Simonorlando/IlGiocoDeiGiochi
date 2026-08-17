@@ -1,0 +1,27 @@
+{
+  "player_id": 31352,
+  "full_name": "Luca Lezzerini",
+  "nationality": "Italy",
+  "birth_date": "1995-03-24",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Venezia",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2025-08-01",
+      "type": "Free Transfer",
+      "team_out": "Brescia",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "ACF Fiorentina",
+    "U.S. Avellino 1912",
+    "Venezia F.C.",
+    "Brescia Calcio"
+  ]
+}

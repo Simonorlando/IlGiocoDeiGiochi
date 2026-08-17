@@ -1,0 +1,32 @@
+{
+  "player_id": 50219,
+  "full_name": "Aurélien Bayard Chedjou Fongang",
+  "nationality": "Cameroon",
+  "birth_date": "1985-06-20",
+  "birth_place": "Douala",
+  "career_transfers": [
+    {
+      "date": "2017-07-06",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Istanbul Basaksehir"
+    },
+    {
+      "date": "2013-07-31",
+      "type": "€ 6.3M",
+      "team_out": "Lille",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Pau Football Club",
+    "AJ Auxerre",
+    "FC Rouen",
+    "Lille OSC",
+    "Galatasaray S.K.",
+    "İstanbul Başakşehir F.K.",
+    "Bursaspor",
+    "Amiens SC",
+    "Adana Demirspor"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_id": 129718,
+  "full_name": "Jude Victor William Bellingham",
+  "nationality": "England",
+  "birth_date": "2003-06-29",
+  "birth_place": "Stourbridge",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "€ 103M",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Birmingham City F.C.",
+    "Borussia Dortmund",
+    "Real Madrid Club de Fútbol"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "player_id": 9938,
+  "full_name": "Arthur Mendonça Cabral",
+  "nationality": "Brazil",
+  "birth_date": "1998-04-25",
+  "birth_place": "Campina Grande",
+  "career_transfers": [
+    {
+      "date": "2023-08-10",
+      "type": "€ 20M",
+      "team_out": "Fiorentina",
+      "team_in": "Benfica"
+    },
+    {
+      "date": "2022-01-29",
+      "type": "€ 14M",
+      "team_out": "FC Basel 1893",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Sociedade Esportiva Palmeiras"
+  ]
+}

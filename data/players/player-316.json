@@ -1,0 +1,25 @@
+{
+  "player_id": 316,
+  "full_name": "Faouzi Ghoulam",
+  "nationality": "Algeria",
+  "birth_date": "1991-02-01",
+  "birth_place": "Saint-Priest-en-Jarez",
+  "career_transfers": [
+    {
+      "date": "2023-01-31",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Angers"
+    },
+    {
+      "date": "2014-01-31",
+      "type": "N/A",
+      "team_out": "Saint Etienne",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "SSC Napoli"
+  ]
+}

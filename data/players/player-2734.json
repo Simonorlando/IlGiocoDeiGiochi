@@ -1,0 +1,25 @@
+{
+  "player_id": 2734,
+  "full_name": "Philip Anyanwu Billing",
+  "nationality": "Denmark",
+  "birth_date": "1996-06-11",
+  "birth_place": "Lagos",
+  "career_transfers": [
+    {
+      "date": "2025-01-11",
+      "type": "Loan",
+      "team_out": "Bournemouth",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Napoli",
+      "team_in": "Bournemouth"
+    }
+  ],
+  "career_clubs": [
+    "Huddersfield Town A.F.C.",
+    "AFC Bournemouth"
+  ]
+}

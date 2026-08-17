@@ -1,0 +1,33 @@
+{
+  "player_id": 31429,
+  "full_name": "Lorenzo Lollo",
+  "nationality": "Italy",
+  "birth_date": "1990-12-08",
+  "birth_place": "Carrara",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 800K",
+      "team_out": "Carpi",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2017-08-11",
+      "type": "Loan",
+      "team_out": "Carpi",
+      "team_in": "Empoli"
+    },
+    {
+      "date": "2013-08-14",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "Spezia Calcio",
+    "A.C. Carpi",
+    "ACF Fiorentina",
+    "Empoli FC"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 30492,
+  "full_name": "Luca Gemello",
+  "nationality": "Italy",
+  "birth_date": "2000-07-03",
+  "birth_place": "Savigliano",
+  "career_transfers": [
+    {
+      "date": "2024-08-03",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Renate",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2020-08-24",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Renate"
+    },
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Fermana"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Fermana"
+  ]
+}

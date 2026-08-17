@@ -1,0 +1,18 @@
+{
+  "player_id": 40911,
+  "full_name": "Jakub Piotr Moder",
+  "nationality": "Poland",
+  "birth_date": "1999-04-07",
+  "birth_place": "Szczecinek",
+  "career_transfers": [
+    {
+      "date": "2025-01-20",
+      "type": "Transfer",
+      "team_out": "Brighton",
+      "team_in": "Feyenoord"
+    }
+  ],
+  "career_clubs": [
+    "Lech Poznań"
+  ]
+}

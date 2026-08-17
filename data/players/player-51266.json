@@ -1,0 +1,18 @@
+{
+  "player_id": 51266,
+  "full_name": "Gianluca Cristiano Busio",
+  "nationality": "USA",
+  "birth_date": "2002-05-28",
+  "birth_place": "Greensboro",
+  "career_transfers": [
+    {
+      "date": "2021-08-05",
+      "type": "&pound; 5.4M",
+      "team_out": "Sporting Kansas City",
+      "team_in": "Venezia"
+    }
+  ],
+  "career_clubs": [
+    "Sporting Kansas City"
+  ]
+}

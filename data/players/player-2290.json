@@ -1,0 +1,29 @@
+{
+  "player_id": 2290,
+  "full_name": "N'Golo Kanté",
+  "nationality": "France",
+  "birth_date": "1991-03-29",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Al-Ittihad FC"
+    },
+    {
+      "date": "2016-07-16",
+      "type": "€ 38M",
+      "team_out": "Leicester",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "US Boulogne",
+    "Stade Malherbe Caen",
+    "Leicester City F.C.",
+    "Chelsea F.C.",
+    "Al Ittihad FC",
+    "Fenerbahçe Istanbul"
+  ]
+}

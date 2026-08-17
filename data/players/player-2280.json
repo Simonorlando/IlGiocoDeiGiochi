@@ -1,0 +1,30 @@
+{
+  "player_id": 2280,
+  "full_name": "César Azpilicueta Tanco",
+  "nationality": "Spain",
+  "birth_date": "1989-08-28",
+  "birth_place": "Pamplona",
+  "career_transfers": [
+    {
+      "date": "2025-08-28",
+      "type": "Free agent",
+      "team_out": "Atletico Madrid",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "End of career",
+      "team_out": "Sevilla",
+      "team_in": "Azpilicueta Cesar"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Osasuna",
+    "Osasuna B",
+    "Club Atlético Osasuna",
+    "Olympique de Marseille",
+    "Chelsea F.C.",
+    "Atlético Madrid",
+    "Sevilla FC"
+  ]
+}

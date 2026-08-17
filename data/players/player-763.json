@@ -1,0 +1,36 @@
+{
+  "player_id": 763,
+  "full_name": "Daniel Cerantola Fuzato",
+  "nationality": "Brazil",
+  "birth_date": "1997-07-04",
+  "birth_place": "Santa Bárbara D'Oeste",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Ibiza"
+    },
+    {
+      "date": "2021-01-08",
+      "type": "N/A",
+      "team_out": "GIL Vicente",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-08-19",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "GIL Vicente"
+    },
+    {
+      "date": "2018-07-09",
+      "type": "€ 500K",
+      "team_out": "Palmeiras",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

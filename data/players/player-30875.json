@@ -1,0 +1,46 @@
+{
+  "player_id": 30875,
+  "full_name": "Mattia Valoti",
+  "nationality": "Italy",
+  "birth_date": "1993-09-06",
+  "birth_place": "Vicenza",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Pisa",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-08-23",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Pisa"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Verona",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-07-12",
+      "type": "Loan",
+      "team_out": "Spal",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Monza",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "U.C. AlbinoLeffe",
+    "AC Milan",
+    "Hellas Verona FC",
+    "Delfino Pescara 1936",
+    "US Livorno 1915"
+  ]
+}

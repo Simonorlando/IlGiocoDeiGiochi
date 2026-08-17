@@ -1,0 +1,35 @@
+{
+  "player_id": 31194,
+  "full_name": "Andrea Coda",
+  "nationality": "Italy",
+  "birth_date": "1985-04-25",
+  "birth_place": "Massa",
+  "career_transfers": [
+    {
+      "date": "2019-01-30",
+      "type": "Free",
+      "team_out": "Pescara",
+      "team_in": "Viterbese"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "Udinese Calcio",
+    "Parma Calcio 1913",
+    "US Livorno 1915",
+    "U.C. Sampdoria",
+    "Delfino Pescara 1936"
+  ]
+}

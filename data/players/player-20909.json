@@ -1,0 +1,50 @@
+{
+  "player_id": 20909,
+  "full_name": "Abdelhamid El Kaoutari",
+  "nationality": "Morocco",
+  "birth_date": "1990-03-17",
+  "birth_place": "Montpellier",
+  "career_transfers": [
+    {
+      "date": "2018-01-12",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Wydad AC"
+    },
+    {
+      "date": "2017-06-30",
+      "type": "N/A",
+      "team_out": "Bastia",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2016-08-10",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Bastia"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Reims",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Reims"
+    },
+    {
+      "date": "2015-07-28",
+      "type": "€ 2M",
+      "team_out": "Montpellier",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Montpellier Hérault Sport Club",
+    "Palermo F.C.",
+    "Stade de Reims"
+  ]
+}

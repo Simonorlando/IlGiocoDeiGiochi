@@ -1,0 +1,68 @@
+{
+  "player_id": 1483,
+  "full_name": "Stefan Ristovski",
+  "nationality": "North Macedonia",
+  "birth_date": "1992-02-12",
+  "birth_place": "Skopje",
+  "career_transfers": [
+    {
+      "date": "2015-01-12",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Latina",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2013-07-11",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Latina"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Bari",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2012-07-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Bari"
+    },
+    {
+      "date": "2012-01-30",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2011-09-05",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2011-09-01",
+      "type": "N/A",
+      "team_out": "Celje",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "FK Vardar",
+    "Parma Calcio 1913",
+    "F.C. Crotone",
+    "SSC Bari",
+    "Frosinone Calcio",
+    "Latina Calcio 1932",
+    "Spezia Calcio",
+    "Latina Calcio 1932",
+    "HNK Rijeka"
+  ]
+}

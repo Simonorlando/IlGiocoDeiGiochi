@@ -1,0 +1,34 @@
+{
+  "player_id": 104838,
+  "full_name": "Sérgio Paulo Barbosa Valente",
+  "nationality": "Portugal",
+  "birth_date": "1980-06-27",
+  "birth_place": "Porto",
+  "career_transfers": [
+    {
+      "date": "2009-08-30",
+      "type": "700K €",
+      "team_out": "Sevilla",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2008-07-01",
+      "type": "Loan",
+      "team_out": "Sevilla",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2006-07-01",
+      "type": null,
+      "team_out": "Malaga",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Cádiz Club de Fútbol",
+    "Málaga CF",
+    "Levante UD",
+    "Sevilla FC",
+    "Málaga CF"
+  ]
+}

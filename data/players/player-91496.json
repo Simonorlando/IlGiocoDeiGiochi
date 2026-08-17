@@ -1,0 +1,30 @@
+{
+  "player_id": 91496,
+  "full_name": "Massimo Zenildo Zappino",
+  "nationality": "Italy",
+  "birth_date": "1981-06-12",
+  "birth_place": "Pesqueira",
+  "career_transfers": [
+    {
+      "date": "2012-01-11",
+      "type": "N/A",
+      "team_out": "Vaslui",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Catania FC",
+    "Acireale Football Club",
+    "Nocerina 1910",
+    "Frosinone Calcio",
+    "AC ChievoVerona",
+    "Calcio Foggia 1920",
+    "Pro Sesto 1913",
+    "Como 1907",
+    "Taranto Sport",
+    "Calcio Lecco 1912",
+    "Varese Calcio",
+    "FC Vaslui",
+    "Frosinone Calcio"
+  ]
+}

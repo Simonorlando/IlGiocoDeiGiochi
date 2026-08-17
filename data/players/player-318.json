@@ -1,0 +1,28 @@
+{
+  "player_id": 318,
+  "full_name": "Kalidou Koulibaly",
+  "nationality": "Senegal",
+  "birth_date": "1991-06-20",
+  "birth_place": "Saint-Dié-des-Vosges",
+  "career_transfers": [
+    {
+      "date": "2022-07-16",
+      "type": "€ 38M",
+      "team_out": "Napoli",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "€ 10M",
+      "team_out": "Genk",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "FC Metz",
+    "K.R.C. Genk",
+    "SSC Napoli",
+    "Chelsea F.C.",
+    "Al Hilal SFC"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "player_id": 30632,
+  "full_name": "Kristiano Samuel Armenteros Núñez Mendoza",
+  "nationality": "Sweden",
+  "birth_date": "1990-05-27",
+  "birth_place": "Göteborg",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "Free",
+      "team_out": "Benevento",
+      "team_in": "Al Fujairah SC"
+    },
+    {
+      "date": "2020-01-30",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2019-01-01",
+      "type": "N/A",
+      "team_out": "Portland Timbers",
+      "team_in": "Benevento"
+    },
+    {
+      "date": "2018-02-09",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Portland Timbers"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "€ 2M",
+      "team_out": "Heracles",
+      "team_in": "Benevento"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "Heracles Almelo",
+    "Feyenoord Rotterdam",
+    "R.S.C. Anderlecht",
+    "Qarabağ FK",
+    "Örgryte IS Fotboll",
+    "Husqvarna FF"
+  ]
+}

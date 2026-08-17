@@ -1,0 +1,48 @@
+{
+  "player_id": 791,
+  "full_name": "Stephan Kareem El Shaarawy",
+  "nationality": "Italy",
+  "birth_date": "1992-10-27",
+  "birth_place": "Savona",
+  "career_transfers": [
+    {
+      "date": "2021-01-31",
+      "type": "Free",
+      "team_out": "Shanghai Shenhua",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-07-08",
+      "type": "€ 20M",
+      "team_out": "AS Roma",
+      "team_in": "Shanghai Shenhua"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "€ 13M",
+      "team_out": "AC Milan",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2016-01-26",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "AS Roma",
+      "team_in": "El Shaarawy Stephan"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Calcio Padova",
+    "AC Milan",
+    "AS Monaco FC",
+    "AS Roma",
+    "Shanghai Shenhua F.C.",
+    "AS Roma"
+  ]
+}

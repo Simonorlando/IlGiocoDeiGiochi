@@ -1,0 +1,40 @@
+{
+  "player_id": 30535,
+  "full_name": "Stefano Sensi",
+  "nationality": "Italy",
+  "birth_date": "1995-08-05",
+  "birth_place": "Urbino",
+  "career_transfers": [
+    {
+      "date": "2024-08-08",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Monza",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-09-29",
+      "type": "-",
+      "team_out": "Monza",
+      "team_in": "Anorthosis"
+    }
+  ],
+  "career_clubs": [
+    "AC Cesena",
+    "San Marino Calcio",
+    "US Sassuolo Calcio",
+    "AC Cesena",
+    "Coventry City F.C."
+  ]
+}

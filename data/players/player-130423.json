@@ -1,0 +1,19 @@
+{
+  "player_id": 130423,
+  "full_name": "Billy Clifford Gilmour",
+  "nationality": "Scotland",
+  "birth_date": "2001-06-11",
+  "birth_place": "Irvine",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "€ 14M",
+      "team_out": "Brighton",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "SSC Napoli"
+  ]
+}

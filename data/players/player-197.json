@@ -1,0 +1,26 @@
+{
+  "player_id": 197,
+  "full_name": "Andrea Ranocchia",
+  "nationality": "Italy",
+  "birth_date": "1988-02-16",
+  "birth_place": "Assisi",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Inter",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "S.S. Arezzo",
+    "SSC Bari",
+    "Genoa CFC",
+    "Inter Milan",
+    "Genoa CFC",
+    "U.C. Sampdoria",
+    "Hull City A.F.C.",
+    "AC Monza",
+    "A.C. Perugia Calcio"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "player_id": 44811,
+  "full_name": "Scott Fraser McKenna",
+  "nationality": "Scotland",
+  "birth_date": "1996-11-12",
+  "birth_place": "Kirriemuir",
+  "career_transfers": [
+    {
+      "date": "2024-01-30",
+      "type": "Loan",
+      "team_out": "Nottingham Forest",
+      "team_in": "FC Copenhagen"
+    }
+  ],
+  "career_clubs": [
+    "Ayr United F.C."
+  ]
+}

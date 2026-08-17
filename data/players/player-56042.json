@@ -1,0 +1,31 @@
+{
+  "player_id": 56042,
+  "full_name": "Migjen Basha",
+  "nationality": "Albania",
+  "birth_date": "1987-01-05",
+  "birth_place": "Lausanne",
+  "career_transfers": [
+    {
+      "date": "2016-01-01",
+      "type": "Loan",
+      "team_out": "FC Luzern",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "FC Lausanne-Sport",
+    "Lucchese 1905",
+    "Viareggio Calcio",
+    "Rimini FC",
+    "Frosinone Calcio",
+    "Atalanta BC",
+    "Torino FC",
+    "FC Luzern",
+    "Como 1907",
+    "SSC Bari",
+    "Aris Thessaloniki F.C.",
+    "Melbourne Victory FC",
+    "Neuchâtel Xamax FCS",
+    "FC Echallens"
+  ]
+}

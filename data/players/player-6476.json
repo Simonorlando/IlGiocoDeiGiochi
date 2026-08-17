@@ -1,0 +1,28 @@
+{
+  "player_id": 6476,
+  "full_name": "Pablo Martín Ledesma",
+  "nationality": "Argentina",
+  "birth_date": "1984-02-04",
+  "birth_place": "La Falda",
+  "career_transfers": [
+    {
+      "date": "2012-01-10",
+      "type": "Free",
+      "team_out": "Catania",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 2.5M",
+      "team_out": "Boca Juniors",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "Talleres de Córdoba",
+    "Boca Juniors",
+    "Catania FC",
+    "Boca Juniors",
+    "Club Atlético Colón"
+  ]
+}

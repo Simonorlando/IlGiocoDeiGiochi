@@ -1,0 +1,30 @@
+{
+  "player_id": 31044,
+  "full_name": "Domenico Maietta",
+  "nationality": "Italy",
+  "birth_date": "1982-08-03",
+  "birth_place": "Cariati",
+  "career_transfers": [
+    {
+      "date": "2010-08-15",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "L'Aquila Calcio 1927",
+    "US Triestina Calcio 1918",
+    "A.C.R. Messina",
+    "U.S. Avellino 1912",
+    "F.C. Crotone",
+    "A.C. Perugia Calcio",
+    "U.S. Avellino 1912",
+    "F.C. Crotone",
+    "Frosinone Calcio",
+    "Hellas Verona FC",
+    "Bologna F.C. 1909",
+    "Empoli FC"
+  ]
+}

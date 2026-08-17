@@ -1,0 +1,25 @@
+{
+  "player_id": 1462,
+  "full_name": "Lucas Sebastián Torreira di Pascua",
+  "nationality": "Uruguay",
+  "birth_date": "1996-02-11",
+  "birth_place": "Fray Bentos",
+  "career_transfers": [
+    {
+      "date": "2022-08-08",
+      "type": "€ 6M",
+      "team_out": "Arsenal",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Delfino Pescara 1936",
+    "U.C. Sampdoria",
+    "Delfino Pescara 1936",
+    "Arsenal F.C.",
+    "Atlético Madrid",
+    "ACF Fiorentina",
+    "Galatasaray S.K.",
+    "Montevideo Wanderers Fútbol Club"
+  ]
+}

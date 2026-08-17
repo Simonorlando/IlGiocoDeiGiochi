@@ -1,0 +1,29 @@
+{
+  "player_id": 42309,
+  "full_name": "Wesley Sneijder",
+  "nationality": "Netherlands",
+  "birth_date": "1984-06-09",
+  "birth_place": "Utrecht",
+  "career_transfers": [
+    {
+      "date": "2017-08-07",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Nice"
+    },
+    {
+      "date": "2013-01-20",
+      "type": "€ 7.5M",
+      "team_out": "Inter",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Real Madrid Club de Fútbol",
+    "Inter Milan",
+    "Galatasaray S.K.",
+    "OGC Nice",
+    "Al-Gharafa SC"
+  ]
+}

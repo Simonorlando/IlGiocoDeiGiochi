@@ -1,0 +1,29 @@
+{
+  "player_id": 1854,
+  "full_name": "Carlos Joaquín Correa",
+  "nationality": "Argentina",
+  "birth_date": "1994-08-13",
+  "birth_place": "Juan B. Alberdi",
+  "career_transfers": [
+    {
+      "date": "2018-08-01",
+      "type": "€ 15M",
+      "team_out": "Sevilla",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2016-07-12",
+      "type": "€ 13M",
+      "team_out": "Sampdoria",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Estudiantes de La Plata",
+    "U.C. Sampdoria",
+    "Sevilla FC",
+    "SS Lazio",
+    "Inter Milan",
+    "Juventus FC"
+  ]
+}

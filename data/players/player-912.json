@@ -1,0 +1,31 @@
+{
+  "player_id": 912,
+  "full_name": "Norberto Murara Neto",
+  "nationality": "Brazil",
+  "birth_date": "1989-07-19",
+  "birth_place": "Araxá",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 26M",
+      "team_out": "Valencia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2017-07-07",
+      "type": "€ 7M",
+      "team_out": "Juventus",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Club Athletico Paranaense",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "Valencia CF",
+    "FC Barcelona",
+    "AFC Bournemouth",
+    "Arsenal F.C.",
+    "Botafogo F.R."
+  ]
+}

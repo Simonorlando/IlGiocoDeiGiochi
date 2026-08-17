@@ -1,0 +1,24 @@
+{
+  "player_id": 25387,
+  "full_name": "Walace Souza Silva",
+  "nationality": "Brazil",
+  "birth_date": "1995-04-04",
+  "birth_place": "Salvador",
+  "career_transfers": [
+    {
+      "date": "2024-07-10",
+      "type": "€ 8M",
+      "team_out": "Udinese",
+      "team_in": "Cruzeiro"
+    },
+    {
+      "date": "2019-08-12",
+      "type": "€ 6M",
+      "team_out": "Hannover 96",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Grêmio FBPA"
+  ]
+}

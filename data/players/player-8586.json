@@ -1,0 +1,37 @@
+{
+  "player_id": 8586,
+  "full_name": "Mërgim Vojvoda",
+  "nationality": "Kosovo",
+  "birth_date": "1995-02-01",
+  "birth_place": "Skënderaj",
+  "career_transfers": [
+    {
+      "date": "2025-02-03",
+      "type": "Transfer",
+      "team_out": "Torino",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-07-16",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "Standard Liège",
+    "Sint-Truidense V.V.",
+    "FC Carl Zeiss Jena",
+    "Royal Excelsior Mouscron",
+    "Standard Liège",
+    "Torino FC",
+    "Como 1907",
+    "Udinese Calcio"
+  ]
+}

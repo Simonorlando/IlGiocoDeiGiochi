@@ -1,0 +1,30 @@
+{
+  "player_id": 31130,
+  "full_name": "Andrea Cistana",
+  "nationality": "Italy",
+  "birth_date": "1997-04-01",
+  "birth_place": "Brescia",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Prato",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2018-01-31",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Prato"
+    },
+    {
+      "date": "2025-08-01",
+      "type": "Free Transfer",
+      "team_out": "Brescia",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio"
+  ]
+}

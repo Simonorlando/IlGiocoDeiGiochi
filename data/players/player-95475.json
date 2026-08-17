@@ -1,0 +1,30 @@
+{
+  "player_id": 95475,
+  "full_name": "Rafael Márquez Álvarez",
+  "nationality": "Mexico",
+  "birth_date": "1979-02-13",
+  "birth_place": "Zamora",
+  "career_transfers": [
+    {
+      "date": "2010-08-01",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "New York Red Bulls"
+    },
+    {
+      "date": "2003-08-01",
+      "type": "5.3M €",
+      "team_out": "Monaco",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Atlas F.C.",
+    "AS Monaco FC",
+    "FC Barcelona",
+    "Red Bull New York",
+    "Club León",
+    "Hellas Verona FC",
+    "Atlas F.C."
+  ]
+}

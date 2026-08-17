@@ -1,0 +1,29 @@
+{
+  "player_id": 30442,
+  "full_name": "Vid Belec",
+  "nationality": "Slovenia",
+  "birth_date": "1990-06-06",
+  "birth_place": "Maribor",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Apoel Nicosia"
+    },
+    {
+      "date": "2020-09-25",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "F.C. Crotone",
+    "S.C. Olhanense",
+    "Konyaspor",
+    "A.C. Carpi",
+    "U.C. Sampdoria"
+  ]
+}

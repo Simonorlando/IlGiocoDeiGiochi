@@ -1,0 +1,26 @@
+{
+  "player_id": 336567,
+  "full_name": "Semih Kılıçsoy",
+  "nationality": "Türkiye",
+  "birth_date": "2005-08-15",
+  "birth_place": "İstanbul",
+  "career_transfers": [
+    {
+      "date": "2025-08-03",
+      "type": "Loan",
+      "team_out": "Beşiktaş",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Cagliari",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "Beşiktaş",
+    "Cagliari",
+    "Beşiktaş"
+  ]
+}

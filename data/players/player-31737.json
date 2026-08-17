@@ -1,0 +1,32 @@
+{
+  "player_id": 31737,
+  "full_name": "Marco Mancosu",
+  "nationality": "Italy",
+  "birth_date": "1988-08-22",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2021-08-20",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2016-07-07",
+      "type": "N/A",
+      "team_out": "Casertana",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "Rimini FC",
+    "Empoli FC",
+    "U.S. Siracusa",
+    "Cagliari Calcio",
+    "U.S. Siracusa",
+    "Benevento Calcio",
+    "A.S.D. Casertana Calcio",
+    "US Lecce"
+  ]
+}

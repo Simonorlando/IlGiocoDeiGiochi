@@ -1,0 +1,26 @@
+{
+  "player_id": 47246,
+  "full_name": "Leandro Chichizola",
+  "nationality": "Argentina",
+  "birth_date": "1990-03-27",
+  "birth_place": "San Justo",
+  "career_transfers": [
+    {
+      "date": "2022-07-14",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-01-09",
+      "type": "Free Transfer",
+      "team_out": "Parma",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético River Plate",
+    "Spezia Calcio",
+    "UD Las Palmas"
+  ]
+}

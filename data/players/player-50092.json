@@ -1,0 +1,41 @@
+{
+  "player_id": 50092,
+  "full_name": "Delvin Chanel N’Dinga",
+  "nationality": "Congo",
+  "birth_date": "1988-03-14",
+  "birth_place": "Pointe-Noire",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2014-07-07",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Olympiakos Piraeus"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Olympiakos Piraeus",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2013-08-31",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Diables Noirs",
+    "AJ Auxerre",
+    "AS Monaco FC",
+    "Olympiacos F.C.",
+    "FC Lokomotiv Moscow",
+    "Sivasspor"
+  ]
+}

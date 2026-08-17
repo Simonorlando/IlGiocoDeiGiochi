@@ -1,0 +1,22 @@
+{
+  "player_id": 2194,
+  "full_name": "Amir Selmane Ramy Bensebaïni",
+  "nationality": "Algeria",
+  "birth_date": "1995-04-16",
+  "birth_place": "Constantine",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "Free",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Paradou AC",
+    "Lierse S.K.",
+    "Montpellier Hérault Sport Club",
+    "Stade Rennais F.C.",
+    "Borussia Mönchengladbach"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "player_id": 24150,
+  "full_name": "Mounir Obbadi",
+  "nationality": "Morocco",
+  "birth_date": "1983-04-04",
+  "birth_place": "Meulan",
+  "career_transfers": [
+    {
+      "date": "2014-07-15",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "Paris Saint-Germain FC",
+    "Angers SCO",
+    "ES Troyes AC",
+    "Angers SCO",
+    "AS Monaco FC",
+    "Hellas Verona FC",
+    "Lille OSC",
+    "Stade Lavallois"
+  ]
+}

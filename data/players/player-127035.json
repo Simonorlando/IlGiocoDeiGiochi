@@ -1,0 +1,32 @@
+{
+  "player_id": 127035,
+  "full_name": "Federico Baschirotto",
+  "nationality": "Italy",
+  "birth_date": "1996-09-20",
+  "birth_place": "Isola della Scala",
+  "career_transfers": [
+    {
+      "date": "2022-07-12",
+      "type": "N/A",
+      "team_out": "Ascoli",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-07-29",
+      "type": "Transfer",
+      "team_out": "Lecce",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Legnago Salus S.S.D.",
+    "US Cremonese",
+    "U.S.D. 1913 Seregno Calcio",
+    "Forlì F.C.",
+    "A.C. Cuneo 1905 Olmo",
+    "U.S. Viterbese 1908",
+    "Ascoli Calcio 1898 FC",
+    "US Lecce",
+    "US Cremonese"
+  ]
+}

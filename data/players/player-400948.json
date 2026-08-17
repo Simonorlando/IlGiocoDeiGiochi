@@ -1,0 +1,20 @@
+{
+  "player_id": 400948,
+  "full_name": "Assane Diao Diaoune",
+  "nationality": "Spain",
+  "birth_date": "2005-09-07",
+  "birth_place": "Ndongane",
+  "career_transfers": [
+    {
+      "date": "2025-01-07",
+      "type": "Transfer",
+      "team_out": "Real Betis",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Real Betis B",
+    "Real Betis Balompié",
+    "Como 1907"
+  ]
+}

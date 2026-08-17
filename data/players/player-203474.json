@@ -1,0 +1,42 @@
+{
+  "player_id": 203474,
+  "full_name": "Nicola Zalewski",
+  "nationality": "Poland",
+  "birth_date": "2002-01-23",
+  "birth_place": "Tivoli",
+  "career_transfers": [
+    {
+      "date": "2025-02-01",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Return from loan",
+      "team_out": "Inter",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2025-08-18",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-08-16",
+      "type": "Transfer",
+      "team_out": "Inter",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma"
+  ]
+}

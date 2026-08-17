@@ -1,0 +1,27 @@
+{
+  "player_id": 30429,
+  "full_name": "Rafael Tolói",
+  "nationality": "Italy",
+  "birth_date": "1990-10-10",
+  "birth_place": "Glória d'Oeste",
+  "career_transfers": [
+    {
+      "date": "2015-08-26",
+      "type": "€ 3.5M",
+      "team_out": "Sao Paulo",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-08-14",
+      "type": "Free agent",
+      "team_out": "Atalanta",
+      "team_in": "Sao Paulo"
+    }
+  ],
+  "career_clubs": [
+    "Goiás Esporte Clube",
+    "São Paulo FC",
+    "AS Roma",
+    "Atalanta BC"
+  ]
+}

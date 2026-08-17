@@ -1,0 +1,22 @@
+{
+  "player_id": 19959,
+  "full_name": "Benjamin William White",
+  "nationality": "England",
+  "birth_date": "1997-10-08",
+  "birth_place": "Poole",
+  "career_transfers": [
+    {
+      "date": "2021-07-30",
+      "type": "€ 58.6M",
+      "team_out": "Brighton",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "Brighton & Hove Albion F.C.",
+    "Newport County A.F.C.",
+    "Peterborough United F.C.",
+    "Leeds United F.C.",
+    "Arsenal F.C."
+  ]
+}

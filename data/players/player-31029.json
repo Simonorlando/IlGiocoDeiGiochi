@@ -1,0 +1,36 @@
+{
+  "player_id": 31029,
+  "full_name": "Fabio Giovanni Ceravolo",
+  "nationality": "Italy",
+  "birth_date": "1987-03-05",
+  "birth_place": "Locri",
+  "career_transfers": [
+    {
+      "date": "2019-09-02",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Cremonese"
+    },
+    {
+      "date": "2018-07-01",
+      "type": "€ 2M",
+      "team_out": "Benevento",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Benevento",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "AS Reggina 1914",
+    "F.C.D. Pro Vasto",
+    "Pisa SC",
+    "Atalanta BC",
+    "AS Reggina 1914",
+    "Ternana Calcio",
+    "Parma Calcio 1913"
+  ]
+}

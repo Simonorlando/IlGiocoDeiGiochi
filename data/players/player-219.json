@@ -1,0 +1,29 @@
+{
+  "player_id": 219,
+  "full_name": "Matteo Politano",
+  "nationality": "Italy",
+  "birth_date": "1993-08-03",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Pescara",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2013-07-02",
+      "type": "€ 500K",
+      "team_out": "AS Roma",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "A.C. Perugia Calcio",
+    "Delfino Pescara 1936",
+    "US Sassuolo Calcio",
+    "Inter Milan",
+    "SSC Napoli"
+  ]
+}

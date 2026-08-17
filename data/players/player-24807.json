@@ -1,0 +1,52 @@
+{
+  "player_id": 24807,
+  "full_name": "Salih Özcan",
+  "nationality": "Türkiye",
+  "birth_date": "1998-01-11",
+  "birth_place": "Köln",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "Loan",
+      "team_out": "Borussia Dortmund",
+      "team_in": "VfL Wolfsburg"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 5M",
+      "team_out": "1.FC Köln",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Back from Loan",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "Borussia Dortmund"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Ozcan Salih"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Beşiktaş"
+    },
+    {
+      "date": "2026-07-08",
+      "type": "Free agent",
+      "team_out": "Borussia Dortmund",
+      "team_in": "Beşiktaş"
+    }
+  ],
+  "career_clubs": [
+    "1. FC Köln",
+    "Holstein Kiel",
+    "Borussia Dortmund",
+    "VfL Wolfsburg",
+    "Beşiktaş J.K. (Football)"
+  ]
+}

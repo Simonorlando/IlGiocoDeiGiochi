@@ -1,0 +1,39 @@
+{
+  "player_id": 91415,
+  "full_name": "Gennaro Sardo",
+  "nationality": "Italy",
+  "birth_date": "1979-05-08",
+  "birth_place": "Pozzuoli",
+  "career_transfers": [
+    {
+      "date": "2009-08-31",
+      "type": "N/A",
+      "team_out": "Catania",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2009-01-21",
+      "type": "Loan",
+      "team_out": "Catania",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2006-08-01",
+      "type": "N/A",
+      "team_out": "Piacenza",
+      "team_in": "Catania"
+    }
+  ],
+  "career_clubs": [
+    "U.S.D. Palmese",
+    "S.S.C. Giugliano",
+    "Associazione Sportiva Dilettantistica Stasia Calcio",
+    "U.S. Salernitana 1919",
+    "U.S. Avellino 1912",
+    "Piacenza Calcio",
+    "Catania FC",
+    "AC ChievoVerona",
+    "Inter Milan",
+    "AC Cesena"
+  ]
+}

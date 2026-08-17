@@ -1,0 +1,26 @@
+{
+  "player_id": 37157,
+  "full_name": "Tonny Emílio Trindade de Vilhena",
+  "nationality": "Netherlands",
+  "birth_date": "1995-01-03",
+  "birth_place": "Maassluis",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Salernitana",
+      "team_in": "Espanyol"
+    },
+    {
+      "date": "2022-08-10",
+      "type": "Loan",
+      "team_out": "Espanyol",
+      "team_in": "Salernitana"
+    }
+  ],
+  "career_clubs": [
+    "Feyenoord Rotterdam",
+    "FC Krasnodar",
+    "VDL-Maassluis"
+  ]
+}

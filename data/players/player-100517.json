@@ -1,0 +1,31 @@
+{
+  "player_id": 100517,
+  "full_name": "Paolo De Ceglie",
+  "nationality": "Italy",
+  "birth_date": "1986-09-17",
+  "birth_place": "Aosta",
+  "career_transfers": [
+    {
+      "date": "2008-08-01",
+      "type": "€ 3.5M",
+      "team_out": "Robur Siena",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "€ 3.5M",
+      "team_out": "Juventus",
+      "team_in": "Robur Siena"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Siena FC",
+    "Juventus FC",
+    "Genoa CFC",
+    "Parma Calcio 1913",
+    "Olympique de Marseille",
+    "Juventus FC",
+    "Benevento Calcio"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 2273,
+  "full_name": "Kepa Arrizabalaga Revuelta",
+  "nationality": "Spain",
+  "birth_date": "1994-10-03",
+  "birth_place": "Ondárroa",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2023-08-14",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Athletic Club",
+    "CD Baskonia",
+    "Athletic Bilbao B",
+    "Sociedad Deportiva Ponferradina",
+    "Real Valladolid",
+    "Athletic Club",
+    "Chelsea F.C.",
+    "Real Madrid Club de Fútbol",
+    "AFC Bournemouth",
+    "Arsenal F.C."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 1157,
+  "full_name": "Konrad Laimer",
+  "nationality": "Austria",
+  "birth_date": "1997-05-27",
+  "birth_place": "Salzburg",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "€ 7M",
+      "team_out": "Red Bull Salzburg",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "FC Red Bull Salzburg",
+    "FC Liefering",
+    "RB Leipzig",
+    "FC Bayern Munich"
+  ]
+}

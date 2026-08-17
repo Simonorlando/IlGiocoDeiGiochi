@@ -1,0 +1,19 @@
+{
+  "player_id": 328089,
+  "full_name": "Archie James Francis Gray",
+  "nationality": "England",
+  "birth_date": "2006-03-12",
+  "birth_place": "Durham",
+  "career_transfers": [
+    {
+      "date": "2024-07-02",
+      "type": "€ 47.2M",
+      "team_out": "Leeds",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Leeds United F.C.",
+    "Tottenham Hotspur F.C."
+  ]
+}

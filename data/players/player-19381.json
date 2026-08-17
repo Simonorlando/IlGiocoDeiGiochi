@@ -1,0 +1,29 @@
+{
+  "player_id": 19381,
+  "full_name": "Daniel Pudil",
+  "nationality": "Czech Republic",
+  "birth_date": "1985-09-27",
+  "birth_place": "Praha",
+  "career_transfers": [
+    {
+      "date": "2012-01-18",
+      "type": "Loan",
+      "team_out": "Granada CF",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "FK Chmel Blšany",
+    "FC Slovan Liberec",
+    "SK Slavia Prague",
+    "K.R.C. Genk",
+    "Watford F.C.",
+    "AC Cesena",
+    "Granada CF",
+    "Watford F.C.",
+    "Sheffield Wednesday F.C.",
+    "FK Mladá Boleslav",
+    "FK Viktoria Žižkov",
+    "AC Sparta Prague"
+  ]
+}

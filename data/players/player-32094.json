@@ -1,0 +1,29 @@
+{
+  "player_id": 32094,
+  "full_name": "Davide Bertoncini",
+  "nationality": "Italy",
+  "birth_date": "1991-05-09",
+  "birth_place": "Fiorenzuola D'Arda",
+  "career_transfers": [
+    {
+      "date": "2022-09-01",
+      "type": "N/A",
+      "team_out": "Como",
+      "team_in": "Novara"
+    },
+    {
+      "date": "2020-09-30",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Piacenza Calcio",
+    "Frosinone Calcio",
+    "Genoa CFC",
+    "Modena F.C.",
+    "Como 1907",
+    "Novara Calcio"
+  ]
+}

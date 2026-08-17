@@ -1,0 +1,34 @@
+{
+  "player_id": 30985,
+  "full_name": "Nicolás Federico Spolli",
+  "nationality": "Argentina",
+  "birth_date": "1983-02-20",
+  "birth_place": "Coronel Bogado",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 400K",
+      "team_out": "Genoa",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2019-06-30",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2019-01-17",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "Newell's Old Boys",
+    "Catania FC",
+    "AS Roma",
+    "A.C. Carpi",
+    "AC ChievoVerona"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 162712,
+  "full_name": "Óscar Mingueza García",
+  "nationality": "Spain",
+  "birth_date": "1999-05-13",
+  "birth_place": "Santa Perpètua de Mogoda",
+  "career_transfers": [
+    {
+      "date": "2022-08-02",
+      "type": "Free",
+      "team_out": "Barcelona",
+      "team_in": "Celta Vigo"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Atlètic",
+    "FC Barcelona",
+    "RC Celta de Vigo",
+    "Crystal Palace F.C."
+  ]
+}

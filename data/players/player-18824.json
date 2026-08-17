@@ -1,0 +1,20 @@
+{
+  "player_id": 18824,
+  "full_name": "Pedro Mba Obiang Avomo",
+  "nationality": "Equatorial Guinea",
+  "birth_date": "1992-03-27",
+  "birth_place": "Alcalà de Henares",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Free Transfer",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "West Ham United F.C.",
+    "Atlético Madrid"
+  ]
+}

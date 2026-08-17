@@ -1,0 +1,28 @@
+{
+  "player_id": 1958,
+  "full_name": "Anders Bleg Christiansen",
+  "nationality": "Denmark",
+  "birth_date": "1990-06-08",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2018-06-09",
+      "type": "N/A",
+      "team_out": "Gent",
+      "team_in": "Malmo FF"
+    },
+    {
+      "date": "2018-01-04",
+      "type": "€ 3M",
+      "team_out": "Malmo FF",
+      "team_in": "Gent"
+    }
+  ],
+  "career_clubs": [
+    "Lyngby Boldklub",
+    "FC Nordsjælland",
+    "AC ChievoVerona",
+    "Malmö FF",
+    "KAA Gent"
+  ]
+}

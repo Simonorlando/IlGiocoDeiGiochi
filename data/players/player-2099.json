@@ -1,0 +1,27 @@
+{
+  "player_id": 2099,
+  "full_name": "Luis Pedro Cavanda",
+  "nationality": "Belgium",
+  "birth_date": "1991-01-02",
+  "birth_place": "Luanda",
+  "career_transfers": [
+    {
+      "date": "2017-08-31",
+      "type": "Loan",
+      "team_out": "Galatasaray",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2016-08-09",
+      "type": "€ 1.8M",
+      "team_out": "Trabzonspor",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "SS Lazio",
+    "Torino FC",
+    "SSC Bari",
+    "RCD Espanyol de Barcelona"
+  ]
+}

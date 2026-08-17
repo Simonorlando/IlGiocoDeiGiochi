@@ -1,0 +1,34 @@
+{
+  "player_id": 91480,
+  "full_name": "Paulo Sérgio Betanin",
+  "nationality": "Brazil",
+  "birth_date": "1986-01-10",
+  "birth_place": "Caxias do Sul",
+  "career_transfers": [
+    {
+      "date": "2014-07-23",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Al Arabi"
+    },
+    {
+      "date": "2009-07-01",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Sorrento"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "Livorno",
+      "team_in": "Grosseto"
+    }
+  ],
+  "career_clubs": [
+    "Esporte Clube Juventude",
+    "US Livorno 1915",
+    "U.S. Grosseto 1912",
+    "Sorrento Calcio 1945",
+    "Al-Arabi SC"
+  ]
+}

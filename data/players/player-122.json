@@ -1,0 +1,25 @@
+{
+  "player_id": 122,
+  "full_name": "Jordi Mboula Queralt",
+  "nationality": "Spain",
+  "birth_date": "1999-03-16",
+  "birth_place": "Granollers",
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "Free",
+      "team_out": "Verona",
+      "team_in": "Racing Santander"
+    },
+    {
+      "date": "2023-07-11",
+      "type": "Free",
+      "team_out": "Mallorca",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "FC Barcelona Juvenil A",
+    "AS Monaco FC"
+  ]
+}

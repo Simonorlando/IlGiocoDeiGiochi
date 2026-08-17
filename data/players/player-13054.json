@@ -1,0 +1,45 @@
+{
+  "player_id": 13054,
+  "full_name": "Stéphane M'Bia Etoundi",
+  "nationality": "Cameroon",
+  "birth_date": "1986-05-20",
+  "birth_place": "Yaoundé",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Trabzonspor"
+    },
+    {
+      "date": "2014-08-31",
+      "type": "Free",
+      "team_out": "QPR",
+      "team_in": "Sevilla"
+    },
+    {
+      "date": "2013-08-26",
+      "type": "Loan",
+      "team_out": "QPR",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais 2",
+    "Stade Rennais",
+    "Olympique de Marseille",
+    "Queens Park Rangers",
+    "Sevilla",
+    "Queens Park Rangers",
+    "Sevilla",
+    "Trabzonspor",
+    "Hebei",
+    "Toulouse",
+    "Wuhan",
+    "Shanghai Shenhua",
+    "Wuhan",
+    "CF Fuenlabrada",
+    "Beykoz Anadolu Spor A.Ş.",
+    "Châteauroux"
+  ]
+}

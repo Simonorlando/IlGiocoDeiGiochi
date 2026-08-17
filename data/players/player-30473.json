@@ -1,0 +1,39 @@
+{
+  "player_id": 30473,
+  "full_name": "Ibrahima Mbaye",
+  "nationality": "Senegal",
+  "birth_date": "1994-11-19",
+  "birth_place": "Guédiawaye",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2015-01-23",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Livorno",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2013-08-20",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "US Livorno 1915",
+    "Bologna F.C. 1909",
+    "CFR Cluj"
+  ]
+}

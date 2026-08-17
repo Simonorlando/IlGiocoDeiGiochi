@@ -1,0 +1,55 @@
+{
+  "player_id": 43012,
+  "full_name": "Romario Sandu Benzar",
+  "nationality": "Romania",
+  "birth_date": "1992-03-26",
+  "birth_place": "Timișoara",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Farul Constanta"
+    },
+    {
+      "date": "2020-09-24",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Viitorul Constanta"
+    },
+    {
+      "date": "2020-08-02",
+      "type": "N/A",
+      "team_out": "Perugia",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2020-01-20",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Perugia"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "€ 2M",
+      "team_out": "FCSB",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2021-07-01",
+      "type": null,
+      "team_out": "Viitorul Constanta",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "FC Viitorul Constanța",
+    "FCSB",
+    "US Lecce",
+    "A.C. Perugia Calcio",
+    "FC Viitorul Constanța",
+    "FC UTA Arad",
+    "FC Botoșani",
+    "Știința Poli Timișoara"
+  ]
+}

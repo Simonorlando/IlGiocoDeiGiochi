@@ -1,0 +1,33 @@
+{
+  "player_id": 31359,
+  "full_name": "Michele Fornasier",
+  "nationality": "Italy",
+  "birth_date": "1993-08-22",
+  "birth_place": "Vittorio Veneto",
+  "career_transfers": [
+    {
+      "date": "2019-01-22",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2015-01-23",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "U.C. Sampdoria",
+    "Delfino Pescara 1936",
+    "ACF Fiorentina",
+    "Manchester United F.C."
+  ]
+}

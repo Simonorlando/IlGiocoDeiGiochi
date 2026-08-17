@@ -1,0 +1,32 @@
+{
+  "player_id": 264705,
+  "full_name": "Ardon Jashari",
+  "nationality": "Switzerland",
+  "birth_date": "2002-07-30",
+  "birth_place": "Cham",
+  "career_transfers": [
+    {
+      "date": "2024-06-15",
+      "type": "N/A",
+      "team_out": "FC Luzern",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2025-08-04",
+      "type": "Transfer",
+      "team_out": "Club Brugge KV",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "FC Luzern",
+    "Club Brugge K.V.",
+    "AC Milan"
+  ]
+}

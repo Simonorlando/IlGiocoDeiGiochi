@@ -1,0 +1,27 @@
+{
+  "player_id": 31334,
+  "full_name": "Luca Garritano",
+  "nationality": "Italy",
+  "birth_date": "1994-02-11",
+  "birth_place": "Cosenza",
+  "career_transfers": [
+    {
+      "date": "2021-08-07",
+      "type": "Free",
+      "team_out": "Chievo",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Cosenza"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "AC Cesena",
+    "Modena F.C.",
+    "AC ChievoVerona"
+  ]
+}

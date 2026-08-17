@@ -1,0 +1,19 @@
+{
+  "player_id": 312208,
+  "full_name": "Wisdom Amey",
+  "nationality": "Italy",
+  "birth_date": "2005-08-11",
+  "birth_place": "Bassano del Grappa",
+  "career_transfers": [
+    {
+      "date": "2026-07-06",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Bologna",
+    "Pianese"
+  ]
+}

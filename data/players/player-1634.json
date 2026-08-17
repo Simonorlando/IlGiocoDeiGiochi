@@ -1,0 +1,38 @@
+{
+  "player_id": 1634,
+  "full_name": "Cristián Eduardo Zapata Valencia",
+  "nationality": "Colombia",
+  "birth_date": "1986-09-30",
+  "birth_place": "Padilla",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 6M",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2012-08-08",
+      "type": "Loan",
+      "team_out": "Villarreal",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2011-07-12",
+      "type": "€ 9M",
+      "team_out": "Udinese",
+      "team_in": "Villarreal"
+    }
+  ],
+  "career_clubs": [
+    "Deportivo Cali",
+    "Udinese Calcio",
+    "Villarreal CF",
+    "AC Milan",
+    "Genoa CFC",
+    "San Lorenzo de Almagro",
+    "Atlético Nacional",
+    "E.C. Vitória",
+    "Atlético Bucaramanga"
+  ]
+}

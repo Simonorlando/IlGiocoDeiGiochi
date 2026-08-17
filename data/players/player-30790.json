@@ -1,0 +1,30 @@
+{
+  "player_id": 30790,
+  "full_name": "Gianluca Lapadula Vargas",
+  "nationality": "Peru",
+  "birth_date": "1990-02-07",
+  "birth_place": "Torino",
+  "career_transfers": [
+    {
+      "date": "2019-07-12",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Pro Vercelli 1892",
+    "A.S.D. Calcio Ivrea",
+    "Parma Calcio 1913",
+    "Atletico Roma F.C.",
+    "S.C. Ravenna Sport",
+    "San Marino Calcio",
+    "AC Cesena",
+    "Frosinone Calcio",
+    "ND Gorica",
+    "S.S. Teramo Calcio",
+    "SSC Napoli",
+    "Delfino Pescara 1936",
+    "Juventus FC"
+  ]
+}

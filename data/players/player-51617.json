@@ -1,0 +1,28 @@
+{
+  "player_id": 51617,
+  "full_name": "Darwin Gabriel Núñez Ribeiro",
+  "nationality": "Uruguay",
+  "birth_date": "1999-06-24",
+  "birth_place": "Artigas",
+  "career_transfers": [
+    {
+      "date": "2022-06-14",
+      "type": "€ 75M",
+      "team_out": "Benfica",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2020-09-04",
+      "type": "€ 25M",
+      "team_out": "Almeria",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Peñarol",
+    "Unión Deportiva Almería",
+    "S.L. Benfica",
+    "Liverpool F.C.",
+    "Al Hilal SFC"
+  ]
+}

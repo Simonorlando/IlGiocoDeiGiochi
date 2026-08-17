@@ -1,0 +1,20 @@
+{
+  "player_id": 288769,
+  "full_name": "Tommaso Baldanzi",
+  "nationality": "Italy",
+  "birth_date": "2003-03-23",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-02-01",
+      "type": "€ 10M",
+      "team_out": "Empoli",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Empoli FC",
+    "AS Roma",
+    "Genoa CFC"
+  ]
+}

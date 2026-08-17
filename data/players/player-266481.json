@@ -1,0 +1,32 @@
+{
+  "player_id": 266481,
+  "full_name": "Flavio Junior Bianchi",
+  "nationality": "Italy",
+  "birth_date": "2000-01-24",
+  "birth_place": "Voghera",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Brescia",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2022-01-28",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "Genoa",
+    "Brescia",
+    "Genoa"
+  ]
+}

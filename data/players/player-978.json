@@ -1,0 +1,20 @@
+{
+  "player_id": 978,
+  "full_name": "Kai Lukas Havertz",
+  "nationality": "Germany",
+  "birth_date": "1999-06-11",
+  "birth_place": "Aachen",
+  "career_transfers": [
+    {
+      "date": "2020-09-04",
+      "type": "€ 71M",
+      "team_out": "Bayer Leverkusen",
+      "team_in": "Chelsea"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "Chelsea F.C.",
+    "Arsenal F.C."
+  ]
+}

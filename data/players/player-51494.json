@@ -1,0 +1,28 @@
+{
+  "player_id": 51494,
+  "full_name": "Manuel Ugarte Ribeiro",
+  "nationality": "Uruguay",
+  "birth_date": "2001-04-11",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2023-07-07",
+      "type": "€ 60M",
+      "team_out": "Sporting CP",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2021-08-09",
+      "type": "N/A",
+      "team_out": "Famalicao",
+      "team_in": "Sporting CP"
+    }
+  ],
+  "career_clubs": [
+    "Centro Atlético Fénix",
+    "FC Famalicão",
+    "Sporting CP",
+    "Paris Saint-Germain FC",
+    "Manchester United F.C."
+  ]
+}

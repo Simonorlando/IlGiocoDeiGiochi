@@ -1,0 +1,44 @@
+{
+  "player_id": 396,
+  "full_name": "Ralf Sebastian Fährmann",
+  "nationality": "Germany",
+  "birth_date": "1988-09-27",
+  "birth_place": "Chemnitz",
+  "career_transfers": [
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Brann",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2020-03-10",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Brann"
+    },
+    {
+      "date": "2019-07-05",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Norwich"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "Free",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2009-08-08",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Eintracht Frankfurt"
+    }
+  ],
+  "career_clubs": [
+    "Schalke 04",
+    "Eintracht Frankfurt",
+    "Schalke 04"
+  ]
+}

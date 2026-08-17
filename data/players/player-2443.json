@@ -1,0 +1,24 @@
+{
+  "player_id": 2443,
+  "full_name": "Yordan Hernando Osorio Paredes",
+  "nationality": "Venezuela",
+  "birth_date": "1994-05-10",
+  "birth_place": "Barinas",
+  "career_transfers": [
+    {
+      "date": "2020-10-05",
+      "type": "€ 4M",
+      "team_out": "FC Porto",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-08-06",
+      "type": "Free agent",
+      "team_out": "Parma",
+      "team_in": "Deportivo La Guaira"
+    }
+  ],
+  "career_clubs": [
+    "FC Porto"
+  ]
+}

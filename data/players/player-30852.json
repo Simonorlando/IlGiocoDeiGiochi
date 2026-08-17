@@ -1,0 +1,43 @@
+{
+  "player_id": 30852,
+  "full_name": "Emiliano Viviano",
+  "nationality": "Italy",
+  "birth_date": "1985-12-01",
+  "birth_place": "Fiesole",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "€ 2.3M",
+      "team_out": "Palermo",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Arsenal"
+    },
+    {
+      "date": "2012-08-01",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2012-01-16",
+      "type": "€ 5M",
+      "team_out": "Inter",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "AC Cesena",
+    "Bologna F.C. 1909",
+    "Inter Milan",
+    "Palermo F.C.",
+    "ACF Fiorentina",
+    "Arsenal F.C.",
+    "U.C. Sampdoria"
+  ]
+}

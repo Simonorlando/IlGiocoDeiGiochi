@@ -1,0 +1,37 @@
+{
+  "player_id": 30495,
+  "full_name": "Salvatore Sirigu",
+  "nationality": "Italy",
+  "birth_date": "1987-01-12",
+  "birth_place": "Nuoro",
+  "career_transfers": [
+    {
+      "date": "2017-01-30",
+      "type": "N/A",
+      "team_out": "Sevilla",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2016-08-26",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Sevilla"
+    }
+  ],
+  "career_clubs": [
+    "Palermo F.C.",
+    "US Cremonese",
+    "SSC Ancona",
+    "Paris Saint-Germain FC",
+    "Sevilla FC",
+    "Club Atlético Osasuna",
+    "Torino FC",
+    "Genoa CFC",
+    "SSC Napoli",
+    "ACF Fiorentina",
+    "OGC Nice",
+    "Fatih Karagümrük S.K.",
+    "Palermo F.C.",
+    "Venezia F.C."
+  ]
+}

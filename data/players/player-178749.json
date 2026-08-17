@@ -1,0 +1,30 @@
+{
+  "player_id": 178749,
+  "full_name": "Lazar Vujadin Samardžić",
+  "nationality": "Serbia",
+  "birth_date": "2002-02-24",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2024-08-18",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "RB Leipzig"
+  ]
+}

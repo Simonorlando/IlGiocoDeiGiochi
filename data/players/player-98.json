@@ -1,0 +1,26 @@
+{
+  "player_id": 98,
+  "full_name": "Benjamin Paa Kwesi Henrichs",
+  "nationality": "Germany",
+  "birth_date": "1997-02-23",
+  "birth_place": "Bocholt",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "€ 15M",
+      "team_out": "Monaco",
+      "team_in": "RB Leipzig"
+    },
+    {
+      "date": "2020-07-15",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "Bayer 04 Leverkusen",
+    "AS Monaco FC",
+    "RB Leipzig"
+  ]
+}

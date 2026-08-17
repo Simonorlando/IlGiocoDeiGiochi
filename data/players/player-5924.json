@@ -1,0 +1,27 @@
+{
+  "player_id": 5924,
+  "full_name": "Jonatan Ezequiel Cristaldo",
+  "nationality": "Argentina",
+  "birth_date": "1989-03-05",
+  "birth_place": "Ingeniero Budge",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Bologna",
+      "team_in": "Metalist"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "Loan",
+      "team_out": "Metalist",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "FC Metalist Kharkiv",
+    "Bologna F.C. 1909",
+    "Racing Club"
+  ]
+}

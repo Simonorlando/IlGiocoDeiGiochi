@@ -1,0 +1,48 @@
+{
+  "player_id": 6869,
+  "full_name": "James Troisi",
+  "nationality": "Australia",
+  "birth_date": "1988-07-03",
+  "birth_place": "Adelaide",
+  "career_transfers": [
+    {
+      "date": "2014-07-11",
+      "type": "N/A",
+      "team_out": "Atalanta",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Melbourne Victory",
+      "team_in": "Atalanta"
+    },
+    {
+      "date": "2013-09-24",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Melbourne Victory"
+    },
+    {
+      "date": "2012-08-24",
+      "type": "€ 2M",
+      "team_out": "Juventus",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "Newcastle United F.C.",
+    "Gençlerbirliği S.K.",
+    "Kayserispor",
+    "Atalanta BC",
+    "Melbourne Victory FC",
+    "Juventus FC",
+    "S.V. Zulte Waregem",
+    "Al Ittihad FC",
+    "Liaoning F.C.",
+    "Melbourne Victory FC",
+    "Adelaide United Football Club",
+    "Western Sydney Wanderers FC",
+    "Western United FC"
+  ]
+}

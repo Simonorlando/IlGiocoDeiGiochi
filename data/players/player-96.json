@@ -1,0 +1,26 @@
+{
+  "player_id": 96,
+  "full_name": "Jemerson de Jesus Nascimento",
+  "nationality": "Brazil",
+  "birth_date": "1992-08-24",
+  "birth_place": "Jeremoabo",
+  "career_transfers": [
+    {
+      "date": "2020-11-06",
+      "type": "€ 680K",
+      "team_out": "Monaco",
+      "team_in": "Corinthians"
+    },
+    {
+      "date": "2016-01-31",
+      "type": "€ 10M",
+      "team_out": "Atletico-MG",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Clube Atlético Mineiro",
+    "Democrata Futebol Clube",
+    "AS Monaco FC"
+  ]
+}

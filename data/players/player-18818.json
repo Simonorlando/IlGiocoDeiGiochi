@@ -1,0 +1,27 @@
+{
+  "player_id": 18818,
+  "full_name": "Pablo Javier Zabaleta Girod",
+  "nationality": "Argentina",
+  "birth_date": "1985-01-16",
+  "birth_place": "Buenos Aires",
+  "career_transfers": [
+    {
+      "date": "2017-07-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "West Ham"
+    },
+    {
+      "date": "2008-08-01",
+      "type": "€ 8.7M",
+      "team_out": "Espanyol",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "San Lorenzo de Almagro",
+    "RCD Espanyol de Barcelona",
+    "Manchester City F.C.",
+    "West Ham United F.C."
+  ]
+}

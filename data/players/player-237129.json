@@ -1,0 +1,32 @@
+{
+  "player_id": 237129,
+  "full_name": "Pape Matar Sarr",
+  "nationality": "Senegal",
+  "birth_date": "2002-09-14",
+  "birth_place": "Thiaroye",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Metz",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2021-08-28",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Metz"
+    },
+    {
+      "date": "2021-08-27",
+      "type": "€ 17M",
+      "team_out": "Metz",
+      "team_in": "Tottenham"
+    }
+  ],
+  "career_clubs": [
+    "Metz",
+    "Tottenham Hotspur",
+    "Metz"
+  ]
+}

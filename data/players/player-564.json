@@ -1,0 +1,29 @@
+{
+  "player_id": 564,
+  "full_name": "Jardel Nivaldo Vieira",
+  "nationality": "Brazil",
+  "birth_date": "1986-03-29",
+  "birth_place": "Florianópolis",
+  "career_transfers": [
+    {
+      "date": "2011-01-21",
+      "type": "750K",
+      "team_out": "Olhanense",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Avaí Futebol Clube",
+    "E.C. Vitória",
+    "Santos F.C.",
+    "Iraty Sport Club",
+    "Avaí Futebol Clube",
+    "Joinville Esporte Clube",
+    "Desportivo Brasil",
+    "Ituano Futebol Clube",
+    "G.D. Estoril Praia",
+    "S.C. Olhanense",
+    "S.L. Benfica",
+    "S.L. Benfica B"
+  ]
+}

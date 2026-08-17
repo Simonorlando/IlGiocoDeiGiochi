@@ -1,0 +1,20 @@
+{
+  "player_id": 147859,
+  "full_name": "Charles Marc De Ketelaere",
+  "nationality": "Belgium",
+  "birth_date": "2001-03-10",
+  "birth_place": "Brugge",
+  "career_transfers": [
+    {
+      "date": "2022-08-02",
+      "type": "€ 32M",
+      "team_out": "Club Brugge KV",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "Club Brugge K.V.",
+    "AC Milan",
+    "Atalanta BC"
+  ]
+}

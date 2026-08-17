@@ -1,0 +1,27 @@
+{
+  "player_id": 409047,
+  "full_name": "Giovanni Leoni",
+  "nationality": "Italy",
+  "birth_date": "2006-12-21",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-08-27",
+      "type": "€ 5M",
+      "team_out": "Sampdoria",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-08-15",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "Calcio Padova",
+    "U.C. Sampdoria",
+    "Parma Calcio 1913",
+    "Liverpool F.C."
+  ]
+}

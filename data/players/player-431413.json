@@ -1,0 +1,19 @@
+{
+  "player_id": 431413,
+  "full_name": "Edoardo Motta",
+  "nationality": "Italy",
+  "birth_date": "2005-01-13",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2026-01-26",
+      "type": "Transfer",
+      "team_out": "Reggiana",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Reggiana",
+    "Lazio"
+  ]
+}

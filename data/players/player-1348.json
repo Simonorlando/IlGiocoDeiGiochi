@@ -1,0 +1,27 @@
+{
+  "player_id": 1348,
+  "full_name": "Roman Neustädter",
+  "nationality": "Russia",
+  "birth_date": "1988-02-18",
+  "birth_place": "Dnipro",
+  "career_transfers": [
+    {
+      "date": "2016-07-19",
+      "type": "Free",
+      "team_out": "FC Schalke 04",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Free",
+      "team_out": "Borussia Mönchengladbach",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05",
+    "Borussia Mönchengladbach",
+    "Schalke 04",
+    "FC Dinamo Moscow"
+  ]
+}

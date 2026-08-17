@@ -1,0 +1,22 @@
+{
+  "player_id": 96456,
+  "full_name": "Marcelo José Oliveira",
+  "nationality": "Brazil",
+  "birth_date": "1981-09-05",
+  "birth_place": "Santa Rita do Sapucaí",
+  "career_transfers": [
+    {
+      "date": "2014-08-01",
+      "type": "Free",
+      "team_out": "Apoel Nicosia",
+      "team_in": "Moreirense"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Corinthians Paulista",
+    "Grêmio FBPA",
+    "Atromitos F.C.",
+    "APOEL F.C.",
+    "Moreirense F.C."
+  ]
+}

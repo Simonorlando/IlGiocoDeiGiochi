@@ -1,0 +1,23 @@
+{
+  "player_id": 32010,
+  "full_name": "Roberto Vitiello",
+  "nationality": "Italy",
+  "birth_date": "1983-05-08",
+  "birth_place": "Scafati",
+  "career_transfers": [
+    {
+      "date": "2017-08-22",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Ternana"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "AC Cesena",
+    "Vicenza Calcio",
+    "Rimini FC",
+    "Siena FC",
+    "Palermo F.C."
+  ]
+}

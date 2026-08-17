@@ -1,0 +1,44 @@
+{
+  "player_id": 31144,
+  "full_name": "Emanuele Ndoj",
+  "nationality": "Albania",
+  "birth_date": "1996-11-20",
+  "birth_place": "Catania",
+  "career_transfers": [
+    {
+      "date": "2024-02-14",
+      "type": "Free",
+      "team_out": "Brescia",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cosenza",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2022-01-31",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Roma U19",
+      "team_in": "Brescia"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Brescia",
+      "team_in": "Roma U19"
+    }
+  ],
+  "career_clubs": [
+    "AS Roma",
+    "Calcio Padova",
+    "Brescia Calcio"
+  ]
+}

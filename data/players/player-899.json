@@ -1,0 +1,24 @@
+{
+  "player_id": 899,
+  "full_name": "Andreas Hugo Hoelgebaum Pereira",
+  "nationality": "Brazil",
+  "birth_date": "1996-01-01",
+  "birth_place": "Duffel",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2017-09-01",
+      "type": "Loan",
+      "team_out": "Manchester United",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Santos FC"
+  ]
+}

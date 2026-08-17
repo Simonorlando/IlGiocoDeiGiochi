@@ -1,0 +1,22 @@
+{
+  "player_id": 115453,
+  "full_name": "Maximiliano Pellegrino",
+  "nationality": "Argentina",
+  "birth_date": "1980-01-26",
+  "birth_place": "Leones",
+  "career_transfers": [
+    {
+      "date": "2010-07-01",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "Club Atlético Vélez Sarsfield",
+    "Atalanta BC",
+    "AC Cesena",
+    "Club Atlético Colón",
+    "Club Atletico All Boys"
+  ]
+}

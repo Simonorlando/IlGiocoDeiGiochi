@@ -1,0 +1,59 @@
+{
+  "player_id": 24760,
+  "full_name": "Giorgi Mamardashvili",
+  "nationality": "Georgia",
+  "birth_date": "2000-09-29",
+  "birth_place": "Tbilisi",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "Loan",
+      "team_out": "Liverpool",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2024-08-27",
+      "type": "€ 30M",
+      "team_out": "Valencia",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2022-01-08",
+      "type": "€ 850K",
+      "team_out": "Dinamo Tbilisi",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2022-01-07",
+      "type": "N/A",
+      "team_out": "Valencia",
+      "team_in": "Dinamo Tbilisi"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "Loan",
+      "team_out": "Dinamo Tbilisi",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Valencia",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Valencia",
+      "team_in": "Liverpool"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Tbilisi",
+    "FC Rustavi",
+    "FC Lokomotivi Tbilisi",
+    "Valencia CF",
+    "Liverpool F.C.",
+    "Valencia CF"
+  ]
+}

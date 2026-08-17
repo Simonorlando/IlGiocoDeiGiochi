@@ -1,0 +1,26 @@
+{
+  "player_id": 30853,
+  "full_name": "Kevin Bonifazi",
+  "nationality": "Italy",
+  "birth_date": "1996-05-19",
+  "birth_place": "Toffia",
+  "career_transfers": [
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "SPAL",
+    "Torino FC",
+    "Siena FC"
+  ]
+}

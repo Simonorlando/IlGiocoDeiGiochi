@@ -1,0 +1,33 @@
+{
+  "player_id": 1657,
+  "full_name": "Milan Biševac",
+  "nationality": "Serbia",
+  "birth_date": "1983-08-31",
+  "birth_place": "Kosovska Mitrovica",
+  "career_transfers": [
+    {
+      "date": "2016-08-24",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Metz"
+    },
+    {
+      "date": "2016-01-06",
+      "type": "N/A",
+      "team_out": "Lyon",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "FK BASK",
+    "FK Bežanija",
+    "FK Železnik",
+    "FK Crvena zvezda",
+    "R.C. Lens",
+    "Valenciennes F.C.",
+    "Paris Saint-Germain FC",
+    "Olympique Lyonnais",
+    "SS Lazio",
+    "FC Metz"
+  ]
+}

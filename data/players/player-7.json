@@ -1,0 +1,28 @@
+{
+  "player_id": 7,
+  "full_name": "Abdou-Lakhad Diallo",
+  "nationality": "Senegal",
+  "birth_date": "1996-05-04",
+  "birth_place": "Tours",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "RB Leipzig",
+      "team_in": "Paris Saint Germain"
+    },
+    {
+      "date": "2022-09-01",
+      "type": "Loan",
+      "team_out": "Paris Saint Germain",
+      "team_in": "RB Leipzig"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "S.V. Zulte Waregem",
+    "Paris Saint-Germain FC",
+    "RB Leipzig",
+    "Al-Arabi SC"
+  ]
+}

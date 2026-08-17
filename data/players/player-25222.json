@@ -1,0 +1,27 @@
+{
+  "player_id": 25222,
+  "full_name": "Christian Träsch",
+  "nationality": "Germany",
+  "birth_date": "1987-09-01",
+  "birth_place": "Ingolstadt",
+  "career_transfers": [
+    {
+      "date": "2017-08-30",
+      "type": "N/A",
+      "team_out": "VfL Wolfsburg",
+      "team_in": "FC Ingolstadt 04"
+    },
+    {
+      "date": "2011-07-25",
+      "type": "€ 9M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "VfL Wolfsburg"
+    }
+  ],
+  "career_clubs": [
+    "VfB Stuttgart",
+    "VfL Wolfsburg",
+    "FC Ingolstadt 04",
+    "Al Wasl FC"
+  ]
+}

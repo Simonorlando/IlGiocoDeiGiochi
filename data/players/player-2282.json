@@ -1,0 +1,20 @@
+{
+  "player_id": 2282,
+  "full_name": "Andreas Bødtker Christensen",
+  "nationality": "Denmark",
+  "birth_date": "1996-04-10",
+  "birth_place": "Lillerød",
+  "career_transfers": [
+    {
+      "date": "2022-07-04",
+      "type": "Free",
+      "team_out": "Chelsea",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Borussia Mönchengladbach",
+    "FC Barcelona"
+  ]
+}

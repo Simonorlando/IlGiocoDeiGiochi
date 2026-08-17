@@ -1,0 +1,28 @@
+{
+  "player_id": 905,
+  "full_name": "Frederico Rodrigues de Paula Santos",
+  "nationality": "Brazil",
+  "birth_date": "1993-03-05",
+  "birth_place": "Belo Horizonte",
+  "career_transfers": [
+    {
+      "date": "2023-08-12",
+      "type": "€ 9.7M",
+      "team_out": "Manchester United",
+      "team_in": "Fenerbahce"
+    },
+    {
+      "date": "2018-06-21",
+      "type": "€ 59.4M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Manchester United"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Internacional",
+    "FC Shakhtar Donetsk",
+    "Manchester United F.C.",
+    "Fenerbahçe Istanbul",
+    "Clube Atlético Mineiro"
+  ]
+}

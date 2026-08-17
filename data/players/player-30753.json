@@ -1,0 +1,19 @@
+{
+  "player_id": 30753,
+  "full_name": "Mehdi Pascal Marcel Léris",
+  "nationality": "Algeria",
+  "birth_date": "1998-05-23",
+  "birth_place": "Mont de Marsan",
+  "career_transfers": [
+    {
+      "date": "2024-08-13",
+      "type": "N/A",
+      "team_out": "Stoke City",
+      "team_in": "Pisa"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "AC ChievoVerona"
+  ]
+}

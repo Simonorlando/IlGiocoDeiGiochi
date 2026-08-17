@@ -1,0 +1,31 @@
+{
+  "player_id": 150,
+  "full_name": "Arthur Henrique Ramos de Oliveira Melo",
+  "nationality": "Brazil",
+  "birth_date": "1996-08-12",
+  "birth_place": "Goiânia",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "€ 72M",
+      "team_out": "Barcelona",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2018-07-09",
+      "type": "€ 31M",
+      "team_out": "Gremio",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Goiás Esporte Clube",
+    "Grêmio FBPA",
+    "FC Barcelona",
+    "Juventus FC",
+    "Liverpool F.C.",
+    "ACF Fiorentina",
+    "Girona FC",
+    "Grêmio FBPA"
+  ]
+}

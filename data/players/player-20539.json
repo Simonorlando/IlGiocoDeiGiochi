@@ -1,0 +1,25 @@
+{
+  "player_id": 20539,
+  "full_name": "Emmanuel Rivière",
+  "nationality": "Martinique",
+  "birth_date": "1990-03-03",
+  "birth_place": "Le Lamentin",
+  "career_transfers": [
+    {
+      "date": "2020-09-11",
+      "type": "Free",
+      "team_out": "Cosenza",
+      "team_in": "Crotone"
+    }
+  ],
+  "career_clubs": [
+    "AS Saint-Étienne",
+    "Toulouse FC",
+    "AS Monaco FC",
+    "Newcastle United F.C.",
+    "Club Atlético Osasuna",
+    "FC Metz",
+    "Cosenza Calcio",
+    "F.C. Crotone"
+  ]
+}

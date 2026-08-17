@@ -1,0 +1,40 @@
+{
+  "player_id": 30638,
+  "full_name": "Federico Ricci",
+  "nationality": "Italy",
+  "birth_date": "1994-05-27",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2021-01-12",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Roma U20",
+    "AS Roma",
+    "FC Crotone",
+    "AS Roma",
+    "Sassuolo",
+    "AS Roma",
+    "Sassuolo",
+    "Genoa",
+    "Sassuolo",
+    "FC Crotone",
+    "Sassuolo",
+    "Benevento",
+    "Sassuolo",
+    "Spezia",
+    "Sassuolo",
+    "Monza",
+    "Sassuolo",
+    "Reggina 1914",
+    "Ascoli",
+    "Reggina 1914",
+    "Perugia",
+    "FC Crotone",
+    "Sorrento"
+  ]
+}

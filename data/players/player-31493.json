@@ -1,0 +1,21 @@
+{
+  "player_id": 31493,
+  "full_name": "Filippo Melegoni",
+  "nationality": "Italy",
+  "birth_date": "1999-02-18",
+  "birth_place": "Bergamo",
+  "career_transfers": [
+    {
+      "date": "2018-08-11",
+      "type": "Loan",
+      "team_out": "Atalanta",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Standard Liège",
+    "Atalanta BC",
+    "Delfino Pescara 1936"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "player_id": 40446,
+  "full_name": "Lukáš Haraslín",
+  "nationality": "Slovakia",
+  "birth_date": "1996-05-26",
+  "birth_place": "Bratislava",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "N/A",
+      "team_out": "Parma",
+      "team_in": "Lechia Gdansk"
+    }
+  ],
+  "career_clubs": [
+    "Parma Calcio 1913",
+    "KS Lechia Gdańsk",
+    "US Sassuolo Calcio",
+    "AC Sparta Prague"
+  ]
+}

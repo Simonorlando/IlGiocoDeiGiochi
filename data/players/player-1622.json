@@ -1,0 +1,20 @@
+{
+  "player_id": 1622,
+  "full_name": "Gianluigi Donnarumma",
+  "nationality": "Italy",
+  "birth_date": "1999-02-25",
+  "birth_place": "Castellammare di Stabia",
+  "career_transfers": [
+    {
+      "date": "2021-07-14",
+      "type": "Free",
+      "team_out": "AC Milan",
+      "team_in": "Paris Saint Germain"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "Paris Saint-Germain FC",
+    "Manchester City F.C."
+  ]
+}

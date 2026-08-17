@@ -1,0 +1,23 @@
+{
+  "player_id": 47295,
+  "full_name": "Miguel Ángel Moyà Rumbo",
+  "nationality": "Spain",
+  "birth_date": "1984-04-02",
+  "birth_place": "Binissalem",
+  "career_transfers": [
+    {
+      "date": "2018-02-27",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Real Sociedad"
+    }
+  ],
+  "career_clubs": [
+    "RCD Mallorca B",
+    "RCD Mallorca",
+    "Valencia CF",
+    "Getafe CF",
+    "Atlético Madrid",
+    "Real Sociedad"
+  ]
+}

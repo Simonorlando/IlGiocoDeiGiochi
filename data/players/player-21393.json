@@ -1,0 +1,25 @@
+{
+  "player_id": 21393,
+  "full_name": "Serhou Yadaly Guirassy",
+  "nationality": "Guinea",
+  "birth_date": "1996-03-12",
+  "birth_place": "Arles",
+  "career_transfers": [
+    {
+      "date": "2024-07-18",
+      "type": "€ 18M",
+      "team_out": "VfB Stuttgart",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "Stade Lavallois",
+    "Lille OSC",
+    "1. FC Köln",
+    "AJ Auxerre",
+    "Amiens SC",
+    "Stade Rennais F.C.",
+    "VfB Stuttgart",
+    "Borussia Dortmund"
+  ]
+}

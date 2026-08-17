@@ -1,0 +1,30 @@
+{
+  "player_id": 30541,
+  "full_name": "Alessandro Matri",
+  "nationality": "Italy",
+  "birth_date": "1984-08-19",
+  "birth_place": "Sant'Angelo Lodigiano",
+  "career_transfers": [
+    {
+      "date": "2019-09-02",
+      "type": "Loan",
+      "team_out": "Sassuolo",
+      "team_in": "Brescia"
+    }
+  ],
+  "career_clubs": [
+    "AC Milan",
+    "A.C. Prato",
+    "A.C. Lumezzane",
+    "Rimini FC",
+    "Cagliari Calcio",
+    "Juventus FC",
+    "AC Milan",
+    "Genoa CFC",
+    "ACF Fiorentina",
+    "Juventus FC",
+    "SS Lazio",
+    "US Sassuolo Calcio",
+    "Brescia Calcio"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "player_id": 434,
+  "full_name": "Mariano Ferreira Filho",
+  "nationality": "Brazil",
+  "birth_date": "1986-06-23",
+  "birth_place": "São João",
+  "career_transfers": [
+    {
+      "date": "2020-08-03",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Atletico-MG"
+    },
+    {
+      "date": "2017-07-19",
+      "type": "€ 4M",
+      "team_out": "Sevilla",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Guarani Futebol Clube",
+    "Ipatinga Futebol Clube",
+    "Cruzeiro E.C.",
+    "Tombense Futebol Clube",
+    "Clube Atlético Mineiro",
+    "Ipatinga Futebol Clube",
+    "Fluminense F.C.",
+    "FC Girondins de Bordeaux",
+    "Sevilla FC",
+    "Galatasaray S.K."
+  ]
+}

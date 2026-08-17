@@ -1,0 +1,42 @@
+{
+  "player_id": 711,
+  "full_name": "Stefan Posch",
+  "nationality": "Austria",
+  "birth_date": "1997-05-14",
+  "birth_place": "Judenburg",
+  "career_transfers": [
+    {
+      "date": "2026-01-19",
+      "type": "Return from loan",
+      "team_out": "Como",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Transfer",
+      "team_out": "Bologna",
+      "team_in": "Como"
+    },
+    {
+      "date": "2025-09-01",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Como"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "FSV Mainz 05"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "FSV Mainz 05",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "TSG 1899 Hoffenheim"
+  ]
+}

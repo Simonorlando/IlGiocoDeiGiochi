@@ -1,0 +1,21 @@
+{
+  "player_id": 126899,
+  "full_name": "Zaidu Sanusi",
+  "nationality": "Nigeria",
+  "birth_date": "1997-06-13",
+  "birth_place": "Kebbi State",
+  "career_transfers": [
+    {
+      "date": "2020-08-30",
+      "type": "N/A",
+      "team_out": "Santa Clara",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "SC Mirandela",
+    "C.D. Santa Clara",
+    "Gil Vicente F.C.",
+    "FC Porto"
+  ]
+}

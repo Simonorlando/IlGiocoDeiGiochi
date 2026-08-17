@@ -1,0 +1,20 @@
+{
+  "player_id": 56314,
+  "full_name": "Francesco Pisano",
+  "nationality": "Italy",
+  "birth_date": "1986-04-29",
+  "birth_place": "Cagliari",
+  "career_transfers": [
+    {
+      "date": "2015-08-20",
+      "type": "Free",
+      "team_out": "Cagliari",
+      "team_in": "Bolton"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio",
+    "Bolton Wanderers F.C.",
+    "U.S. Avellino 1912"
+  ]
+}

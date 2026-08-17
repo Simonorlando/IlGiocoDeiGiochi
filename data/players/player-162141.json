@@ -1,0 +1,27 @@
+{
+  "player_id": 162141,
+  "full_name": "Koni De Winter",
+  "nationality": "Belgium",
+  "birth_date": "2002-06-12",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Empoli",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2022-07-09",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Juventus FC",
+    "Empoli FC",
+    "Genoa CFC",
+    "AC Milan"
+  ]
+}

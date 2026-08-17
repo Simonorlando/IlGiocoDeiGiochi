@@ -1,0 +1,27 @@
+{
+  "player_id": 48378,
+  "full_name": "Silvan Dominic Widmer",
+  "nationality": "Switzerland",
+  "birth_date": "1993-03-05",
+  "birth_place": "Aarau",
+  "career_transfers": [
+    {
+      "date": "2018-07-12",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 750K",
+      "team_out": "Granada CF",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "FC Aarau",
+    "Granada CF",
+    "Udinese Calcio",
+    "1. FSV Mainz 05"
+  ]
+}

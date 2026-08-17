@@ -1,0 +1,26 @@
+{
+  "player_id": 18936,
+  "full_name": "Ryan Dominic Bertrand",
+  "nationality": "England",
+  "birth_date": "1989-08-05",
+  "birth_place": "Southwark",
+  "career_transfers": [
+    {
+      "date": "2014-01-17",
+      "type": "Loan",
+      "team_out": "Chelsea",
+      "team_in": "Aston Villa"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "AFC Bournemouth",
+    "Oldham Athletic A.F.C.",
+    "Norwich City F.C.",
+    "Reading F.C.",
+    "Nottingham Forest F.C.",
+    "Aston Villa F.C.",
+    "Southampton F.C.",
+    "Leicester City F.C."
+  ]
+}

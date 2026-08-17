@@ -1,0 +1,35 @@
+{
+  "player_id": 1224,
+  "full_name": "Aleksandr Kokorin",
+  "nationality": "Russia",
+  "birth_date": "1991-03-19",
+  "birth_place": "Valuyki",
+  "career_transfers": [
+    {
+      "date": "2020-08-02",
+      "type": "Free",
+      "team_out": "Zenit",
+      "team_in": "Spartak Moscow"
+    },
+    {
+      "date": "2020-01-21",
+      "type": "Loan",
+      "team_out": "Zenit",
+      "team_in": "FC Sochi"
+    },
+    {
+      "date": "2016-01-30",
+      "type": "€ 2M",
+      "team_out": "Dynamo",
+      "team_in": "Zenit"
+    }
+  ],
+  "career_clubs": [
+    "FC Dinamo Moscow",
+    "FC Zenit Saint Petersburg",
+    "PFC Sochi",
+    "Spartak Moscow",
+    "ACF Fiorentina",
+    "Aris Limassol F.C."
+  ]
+}

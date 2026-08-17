@@ -1,0 +1,21 @@
+{
+  "player_id": 22096,
+  "full_name": "Yann Gérard M'Vila",
+  "nationality": "France",
+  "birth_date": "1990-06-29",
+  "birth_place": "Amiens",
+  "career_transfers": [
+    {
+      "date": "2020-09-14",
+      "type": "Free",
+      "team_out": "Saint Etienne",
+      "team_in": "Olympiakos Piraeus"
+    }
+  ],
+  "career_clubs": [
+    "Stade Rennais F.C.",
+    "Rubin Kazan",
+    "Inter Milan",
+    "Sunderland A.F.C."
+  ]
+}

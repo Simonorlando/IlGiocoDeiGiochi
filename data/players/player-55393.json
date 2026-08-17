@@ -1,0 +1,37 @@
+{
+  "player_id": 55393,
+  "full_name": "Elderson Uwa Echiejile",
+  "nationality": "Nigeria",
+  "birth_date": "1988-01-20",
+  "birth_place": "Benin City",
+  "career_transfers": [
+    {
+      "date": "2017-07-07",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Sivasspor"
+    },
+    {
+      "date": "2016-08-31",
+      "type": "Loan",
+      "team_out": "Monaco",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2014-01-17",
+      "type": "€ 1.5M",
+      "team_out": "SC Braga",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Wikki Tourists F.C.",
+    "Bendel Insurance F.C.",
+    "Stade Rennais F.C.",
+    "S.C. Braga",
+    "S.C. Braga B",
+    "AS Monaco FC",
+    "Cercle Brugge K.S.V.",
+    "Sporting de Gijón"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 90657,
+  "full_name": "Xabier Alonso Olano",
+  "nationality": "Spain",
+  "birth_date": "1981-11-25",
+  "birth_place": "Tolosa",
+  "career_transfers": [
+    {
+      "date": "2004-08-20",
+      "type": "16M €",
+      "team_out": "Real Sociedad",
+      "team_in": "Liverpool"
+    },
+    {
+      "date": "2000-07-01",
+      "type": "Loan",
+      "team_out": "Real Sociedad",
+      "team_in": "Eibar"
+    }
+  ],
+  "career_clubs": [
+    "Antiguoko",
+    "Real Sociedad B",
+    "SD Eibar",
+    "Real Sociedad",
+    "Basque Country regional football team",
+    "Liverpool F.C.",
+    "Real Madrid Club de Fútbol",
+    "FC Bayern Munich"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "player_id": 64,
+  "full_name": "Karlo Letica",
+  "nationality": "Croatia",
+  "birth_date": "1997-02-11",
+  "birth_place": "Split",
+  "career_transfers": [
+    {
+      "date": "2021-11-18",
+      "type": "N/A",
+      "team_out": "Club Brugge KV",
+      "team_in": "CFR 1907 Cluj"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Club Brugge KV"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2019-08-20",
+      "type": "Loan",
+      "team_out": "Club Brugge KV",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2018-06-16",
+      "type": "€ 3M",
+      "team_out": "HNK Hajduk Split",
+      "team_in": "Club Brugge KV"
+    }
+  ],
+  "career_clubs": [
+    "HNK Hajduk Split",
+    "NK Rudeš",
+    "Club Brugge K.V.",
+    "SPAL",
+    "U.C. Sampdoria",
+    "CFR Cluj",
+    "FC Hermannstadt",
+    "FC Lausanne-Sport"
+  ]
+}

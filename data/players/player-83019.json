@@ -1,0 +1,20 @@
+{
+  "player_id": 83019,
+  "full_name": "Micah Richards",
+  "nationality": "England",
+  "birth_date": "1988-06-24",
+  "birth_place": "Birmingham",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "Loan",
+      "team_out": "Manchester City",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City F.C.",
+    "ACF Fiorentina",
+    "Aston Villa F.C."
+  ]
+}

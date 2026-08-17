@@ -1,0 +1,30 @@
+{
+  "player_id": 546,
+  "full_name": "Lasse Schöne",
+  "nationality": "Denmark",
+  "birth_date": "1986-05-27",
+  "birth_place": "Glostrup",
+  "career_transfers": [
+    {
+      "date": "2021-02-12",
+      "type": "Free",
+      "team_out": "Genoa",
+      "team_in": "Heerenveen"
+    },
+    {
+      "date": "2019-08-09",
+      "type": "€ 1.5M",
+      "team_out": "Ajax",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "SC Heerenveen",
+    "De Graafschap",
+    "N.E.C.",
+    "AFC Ajax",
+    "Genoa CFC",
+    "SC Heerenveen",
+    "N.E.C."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "player_id": 85698,
+  "full_name": "Jérémy Toulalan",
+  "nationality": "France",
+  "birth_date": "1983-09-10",
+  "birth_place": "Nantes",
+  "career_transfers": [
+    {
+      "date": "2013-07-06",
+      "type": "€ 5M",
+      "team_out": "Malaga",
+      "team_in": "Monaco"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 11M",
+      "team_out": "Lyon",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "FC Nantes",
+    "Olympique Lyonnais",
+    "Málaga CF",
+    "AS Monaco FC",
+    "FC Girondins de Bordeaux"
+  ]
+}

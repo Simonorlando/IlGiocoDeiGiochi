@@ -1,0 +1,33 @@
+{
+  "player_id": 30396,
+  "full_name": "Cristiano Biraghi",
+  "nationality": "Italy",
+  "birth_date": "1992-09-01",
+  "birth_place": "Cernusco sul Naviglio",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "€ 2M",
+      "team_out": "Pescara",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2017-08-16",
+      "type": "Loan",
+      "team_out": "Pescara",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "Inter Milan",
+    "S.S. Juve Stabia",
+    "Italy under-21 Serie B representative team",
+    "Associazione Sportiva Cittadella",
+    "Catania FC",
+    "AC ChievoVerona",
+    "Granada CF",
+    "Delfino Pescara 1936",
+    "ACF Fiorentina"
+  ]
+}

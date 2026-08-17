@@ -1,0 +1,29 @@
+{
+  "player_id": 1579,
+  "full_name": "Joaquín Sánchez Rodríguez",
+  "nationality": "Spain",
+  "birth_date": "1981-07-21",
+  "birth_place": "El Puerto de Santa María",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "€ 2M",
+      "team_out": "Malaga",
+      "team_in": "Fiorentina"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 4.2M",
+      "team_out": "Valencia",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Real Betis B",
+    "Real Betis Balompié",
+    "Valencia CF",
+    "Málaga CF",
+    "ACF Fiorentina",
+    "Real Betis Balompié"
+  ]
+}

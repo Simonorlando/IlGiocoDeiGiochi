@@ -1,0 +1,34 @@
+{
+  "player_id": 46725,
+  "full_name": "Rey Aldo Manaj",
+  "nationality": "Albania",
+  "birth_date": "1997-02-24",
+  "birth_place": "Lushnje",
+  "career_transfers": [
+    {
+      "date": "2022-07-12",
+      "type": "N/A",
+      "team_out": "Barcelona",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Spezia",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "US Cremonese",
+    "Inter Milan",
+    "Albacete Balompié",
+    "U.C. Sampdoria",
+    "Delfino Pescara 1936"
+  ]
+}

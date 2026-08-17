@@ -1,0 +1,31 @@
+{
+  "player_id": 31606,
+  "full_name": "Claiton Machado dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1984-09-07",
+  "birth_place": "Santa Elena",
+  "career_transfers": [
+    {
+      "date": "2020-09-16",
+      "type": "Free",
+      "team_out": "Cremonese",
+      "team_in": "Catania"
+    },
+    {
+      "date": "2017-07-21",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Bologna F.C. 1909",
+    "A.C. Prato",
+    "AC Milan",
+    "Calcio Lecco 1912",
+    "Varese Calcio",
+    "SSC Bari",
+    "AC ChievoVerona",
+    "F.C. Crotone"
+  ]
+}

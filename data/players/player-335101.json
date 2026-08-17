@@ -1,0 +1,25 @@
+{
+  "player_id": 335101,
+  "full_name": "Jonas Jakob Rouhi",
+  "nationality": "Sweden",
+  "birth_date": "2004-01-07",
+  "birth_place": "Botkyrka",
+  "career_transfers": [
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Carrarese"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Carrarese",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Hammarby Fotboll",
+    "IF Brommapojkarna"
+  ]
+}

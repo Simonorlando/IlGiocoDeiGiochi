@@ -1,0 +1,25 @@
+{
+  "player_id": 505295,
+  "full_name": "Christian Michel Kofane",
+  "nationality": "Cameroon",
+  "birth_date": "2006-07-26",
+  "birth_place": "Douala",
+  "career_transfers": [
+    {
+      "date": "2025-07-11",
+      "type": "Transfer",
+      "team_out": "Albacete",
+      "team_in": "Bayer Leverkusen"
+    },
+    {
+      "date": "2025-07-09",
+      "type": "Transfer",
+      "team_out": "Albacete",
+      "team_in": "Bayer Leverkusen"
+    }
+  ],
+  "career_clubs": [
+    "Albacete",
+    "Bayer Leverkusen"
+  ]
+}

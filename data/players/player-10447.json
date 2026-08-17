@@ -1,0 +1,61 @@
+{
+  "player_id": 10447,
+  "full_name": "Pablo Estífer Armero",
+  "nationality": "Colombia",
+  "birth_date": "1986-11-02",
+  "birth_place": "Tumáco",
+  "career_transfers": [
+    {
+      "date": "2017-01-24",
+      "type": "N/A",
+      "team_out": "Udinese",
+      "team_in": "Bahia"
+    },
+    {
+      "date": "2015-04-10",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Flamengo"
+    },
+    {
+      "date": "2014-08-11",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Napoli",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 4M",
+      "team_out": "Udinese",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2013-01-10",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2010-09-01",
+      "type": "€ 1.2M",
+      "team_out": "Palmeiras",
+      "team_in": "Udinese"
+    }
+  ],
+  "career_clubs": [
+    "América de Cali",
+    "Sociedade Esportiva Palmeiras",
+    "Udinese Calcio",
+    "SSC Napoli",
+    "AC Milan",
+    "West Ham United F.C.",
+    "Udinese Calcio",
+    "Clube de Regatas do Flamengo"
+  ]
+}

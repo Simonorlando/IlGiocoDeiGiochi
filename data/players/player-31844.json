@@ -1,0 +1,32 @@
+{
+  "player_id": 31844,
+  "full_name": "Alessandro Gazzi",
+  "nationality": "Italy",
+  "birth_date": "1983-01-28",
+  "birth_place": "Feltre",
+  "career_transfers": [
+    {
+      "date": "2017-08-02",
+      "type": "Free",
+      "team_out": "Palermo",
+      "team_in": "Alessandria"
+    },
+    {
+      "date": "2016-08-02",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Treviso F.B.C. 1993",
+    "SS Lazio",
+    "U.S. Viterbese 1908",
+    "SSC Bari",
+    "AS Reggina 1914",
+    "Siena FC",
+    "Torino FC",
+    "Palermo F.C.",
+    "US Alessandria Calcio 1912"
+  ]
+}

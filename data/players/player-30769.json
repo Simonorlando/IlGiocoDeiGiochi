@@ -1,0 +1,44 @@
+{
+  "player_id": 30769,
+  "full_name": "Davide Biraschi",
+  "nationality": "Italy",
+  "birth_date": "1994-07-02",
+  "birth_place": "Roma",
+  "career_transfers": [
+    {
+      "date": "2024-08-21",
+      "type": "N/A",
+      "team_out": "Fatih Karagümrük",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Loan",
+      "team_out": "Frosinone",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Fatih Karagümrük"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Fatih Karagümrük",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Frosinone",
+      "team_in": "Fatih Karagümrük"
+    }
+  ],
+  "career_clubs": [
+    "U.S. Grosseto 1912",
+    "U.S. Avellino 1912",
+    "Genoa CFC"
+  ]
+}

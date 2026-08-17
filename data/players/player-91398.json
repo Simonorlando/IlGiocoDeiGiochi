@@ -1,0 +1,21 @@
+{
+  "player_id": 91398,
+  "full_name": "Angelo Palombo",
+  "nationality": "Italy",
+  "birth_date": "1981-09-25",
+  "birth_place": "Ferentino",
+  "career_transfers": [
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "Sampdoria",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Alma Juventus Fano 1906",
+    "ACF Fiorentina",
+    "U.C. Sampdoria",
+    "Inter Milan"
+  ]
+}

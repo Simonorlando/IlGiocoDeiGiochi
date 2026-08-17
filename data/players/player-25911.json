@@ -1,0 +1,29 @@
+{
+  "player_id": 25911,
+  "full_name": "Giulio Donati",
+  "nationality": "Italy",
+  "birth_date": "1990-02-05",
+  "birth_place": "Pietrasanta",
+  "career_transfers": [
+    {
+      "date": "2020-09-01",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-08-22",
+      "type": "Free Agent",
+      "team_out": "Monza",
+      "team_in": "Ravenna"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "US Lecce",
+    "Calcio Padova",
+    "U.S. Grosseto 1912",
+    "Bayer 04 Leverkusen",
+    "1. FSV Mainz 05"
+  ]
+}

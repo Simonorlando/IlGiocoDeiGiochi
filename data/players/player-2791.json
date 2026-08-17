@@ -1,0 +1,55 @@
+{
+  "player_id": 2791,
+  "full_name": "Birkir Bjarnason",
+  "nationality": "Iceland",
+  "birth_date": "1988-05-27",
+  "birth_place": "Akureyri",
+  "career_transfers": [
+    {
+      "date": "2015-07-09",
+      "type": "€ 1.5M",
+      "team_out": "Pescara",
+      "team_in": "FC Basel 1893"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Sampdoria",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2013-09-02",
+      "type": "€ 1.2M",
+      "team_out": "Pescara",
+      "team_in": "Sampdoria"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 900K",
+      "team_out": "Standard Liege",
+      "team_in": "Pescara"
+    },
+    {
+      "date": "2012-07-10",
+      "type": "Loan",
+      "team_out": "Standard Liege",
+      "team_in": "Pescara"
+    }
+  ],
+  "career_clubs": [
+    "Viking FK",
+    "FK Bodø/Glimt",
+    "Standard Liège",
+    "Delfino Pescara 1936",
+    "Standard Liège",
+    "U.C. Sampdoria",
+    "Delfino Pescara 1936",
+    "FC Basel",
+    "Aston Villa F.C.",
+    "Al-Arabi SC",
+    "Brescia Calcio",
+    "Adana Demirspor",
+    "Viking FK",
+    "Brescia Calcio"
+  ]
+}

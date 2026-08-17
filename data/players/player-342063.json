@@ -1,0 +1,24 @@
+{
+  "player_id": 342063,
+  "full_name": "Diego Coppola",
+  "nationality": "Italy",
+  "birth_date": "2003-12-28",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-06-17",
+      "type": "Transfer",
+      "team_out": "Verona",
+      "team_in": "Brighton"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Verona",
+      "team_in": "Brighton"
+    }
+  ],
+  "career_clubs": [
+    "Hellas Verona FC"
+  ]
+}

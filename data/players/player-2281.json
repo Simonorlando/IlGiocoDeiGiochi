@@ -1,0 +1,36 @@
+{
+  "player_id": 2281,
+  "full_name": "Gary Cahill",
+  "nationality": "England",
+  "birth_date": "1985-12-19",
+  "birth_place": "Dronfield",
+  "career_transfers": [
+    {
+      "date": "2008-01-30",
+      "type": "€ 6M",
+      "team_out": "Aston Villa",
+      "team_in": "Bolton"
+    },
+    {
+      "date": "2007-09-19",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Sheffield Utd"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "Loan",
+      "team_out": "Aston Villa",
+      "team_in": "Burnley"
+    }
+  ],
+  "career_clubs": [
+    "Aston Villa F.C.",
+    "Burnley F.C.",
+    "Sheffield United F.C.",
+    "Bolton Wanderers F.C.",
+    "Chelsea F.C.",
+    "Crystal Palace F.C.",
+    "AFC Bournemouth"
+  ]
+}

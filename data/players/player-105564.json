@@ -1,0 +1,30 @@
+{
+  "player_id": 105564,
+  "full_name": "Davide Succi",
+  "nationality": "Italy",
+  "birth_date": "1981-10-11",
+  "birth_place": "Bologna",
+  "career_transfers": [
+    {
+      "date": "2016-07-01",
+      "type": "N/A",
+      "team_out": "Cesena",
+      "team_in": "Chennaiyin"
+    }
+  ],
+  "career_clubs": [
+    "A.S.D. Boca Pietri",
+    "AC Milan",
+    "AC ChievoVerona",
+    "Associazione Calcio Dilettantistica Poggese",
+    "Calcio Padova",
+    "Como 1907",
+    "SPAL",
+    "S.C. Ravenna Sport",
+    "Lucchese 1905",
+    "Palermo F.C.",
+    "Bologna F.C. 1909",
+    "Calcio Padova",
+    "AC Cesena"
+  ]
+}

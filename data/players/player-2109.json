@@ -1,0 +1,26 @@
+{
+  "player_id": 2109,
+  "full_name": "Samuel Christopher Bastien Binda",
+  "nationality": "Congo DR",
+  "birth_date": "1996-09-26",
+  "birth_place": "Meux",
+  "career_transfers": [
+    {
+      "date": "2018-06-15",
+      "type": "€ 3M",
+      "team_out": "Chievo",
+      "team_in": "Standard Liege"
+    },
+    {
+      "date": "2016-08-25",
+      "type": "N/A",
+      "team_out": "Anderlecht",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "U.S. Avellino 1912",
+    "AC ChievoVerona"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "player_id": 54,
+  "full_name": "Diego da Silva Costa",
+  "nationality": "Spain",
+  "birth_date": "1988-10-07",
+  "birth_place": "Lagarto",
+  "career_transfers": [
+    {
+      "date": "2018-01-01",
+      "type": "€ 66M",
+      "team_out": "Chelsea",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2014-07-15",
+      "type": "€ 40M",
+      "team_out": "Atletico Madrid",
+      "team_in": "Chelsea"
+    },
+    {
+      "date": "2012-01-26",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Rayo Vallecano"
+    },
+    {
+      "date": "2010-07-01",
+      "type": "€ 1M",
+      "team_out": "Valladolid",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2007-08-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Celta Vigo"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "€ 3.5M",
+      "team_out": "SC Braga",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "S.C. Braga",
+    "F.C. Penafiel",
+    "Atlético Madrid",
+    "S.C. Braga",
+    "RC Celta de Vigo",
+    "Albacete Balompié",
+    "Real Valladolid",
+    "Atlético Madrid",
+    "Rayo Vallecano",
+    "Chelsea F.C.",
+    "Atlético Madrid",
+    "Clube Atlético Mineiro",
+    "Wolverhampton Wanderers F.C.",
+    "Botafogo F.R.",
+    "Grêmio FBPA"
+  ]
+}

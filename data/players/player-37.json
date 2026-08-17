@@ -1,0 +1,66 @@
+{
+  "player_id": 37,
+  "full_name": "Patricio Nehuén Pérez",
+  "nationality": "Argentina",
+  "birth_date": "2000-06-24",
+  "birth_place": "Hurlingham",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2021-08-28",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Granada CF",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2020-08-03",
+      "type": "N/A",
+      "team_out": "Famalicao",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2019-07-10",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Famalicao"
+    },
+    {
+      "date": "2019-01-31",
+      "type": "N/A",
+      "team_out": "Argentinos JRS",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2018-08-10",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Argentinos JRS"
+    },
+    {
+      "date": "2018-07-03",
+      "type": "€ 3M",
+      "team_out": "Argentinos JRS",
+      "team_in": "Atletico Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid"
+  ]
+}

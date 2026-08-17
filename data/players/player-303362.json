@@ -1,0 +1,24 @@
+{
+  "player_id": 303362,
+  "full_name": "Rafik Belghali",
+  "nationality": "Algeria",
+  "birth_date": "2002-06-07",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2025-08-19",
+      "type": "Transfer",
+      "team_out": "KV Mechelen",
+      "team_in": "Hellas Verona"
+    },
+    {
+      "date": "2025-08-17",
+      "type": "Transfer",
+      "team_out": "KV Mechelen",
+      "team_in": "Hellas Verona"
+    }
+  ],
+  "career_clubs": [
+    "Lommel SK"
+  ]
+}

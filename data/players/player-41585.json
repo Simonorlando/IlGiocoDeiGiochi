@@ -1,0 +1,27 @@
+{
+  "player_id": 41585,
+  "full_name": "Gonçalo Matias Ramos",
+  "nationality": "Portugal",
+  "birth_date": "2001-06-20",
+  "birth_place": "Lisboa",
+  "career_transfers": [
+    {
+      "date": "2026-06-28",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Paris Saint Germain",
+      "team_in": "AC Milan"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica B",
+    "S.L. Benfica",
+    "Paris Saint-Germain FC",
+    "AC Milan"
+  ]
+}

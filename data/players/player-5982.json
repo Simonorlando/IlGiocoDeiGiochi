@@ -1,0 +1,33 @@
+{
+  "player_id": 5982,
+  "full_name": "Carlos Alberto Tevez",
+  "nationality": "Argentina",
+  "birth_date": "1984-02-05",
+  "birth_place": "Ciudadela",
+  "career_transfers": [
+    {
+      "date": "2015-07-01",
+      "type": "€ 6.5M",
+      "team_out": "Juventus",
+      "team_in": "Boca Juniors"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "€ 9M",
+      "team_out": "Manchester City",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "S.C. Corinthians Paulista",
+    "West Ham United F.C.",
+    "Manchester United F.C.",
+    "Manchester City F.C.",
+    "Juventus FC",
+    "Boca Juniors",
+    "Shanghai Shenhua F.C.",
+    "Boca Juniors",
+    "Club Atletico All Boys"
+  ]
+}

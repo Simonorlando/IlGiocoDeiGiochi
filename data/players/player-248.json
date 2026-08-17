@@ -1,0 +1,29 @@
+{
+  "player_id": 248,
+  "full_name": "Hirving Rodrigo Lozano Bahena",
+  "nationality": "Mexico",
+  "birth_date": "1995-07-30",
+  "birth_place": "Ciudad de México",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "€ 15M",
+      "team_out": "Napoli",
+      "team_in": "PSV Eindhoven"
+    },
+    {
+      "date": "2019-08-23",
+      "type": "€ 38M",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Napoli"
+    }
+  ],
+  "career_clubs": [
+    "CF Pachuca",
+    "PSV Eindhoven",
+    "SSC Napoli",
+    "PSV Eindhoven",
+    "San Diego FC",
+    "LA Galaxy"
+  ]
+}

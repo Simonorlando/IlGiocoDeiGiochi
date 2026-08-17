@@ -1,0 +1,21 @@
+{
+  "player_id": 90512,
+  "full_name": "Robert Huth",
+  "nationality": "Germany",
+  "birth_date": "1984-08-18",
+  "birth_place": "Berlin",
+  "career_transfers": [
+    {
+      "date": "2006-08-19",
+      "type": "€ 8.9M",
+      "team_out": "Chelsea",
+      "team_in": "Middlesbrough"
+    }
+  ],
+  "career_clubs": [
+    "Chelsea F.C.",
+    "Middlesbrough F.C.",
+    "Stoke City F.C.",
+    "Leicester City F.C."
+  ]
+}

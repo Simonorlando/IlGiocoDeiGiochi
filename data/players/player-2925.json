@@ -1,0 +1,29 @@
+{
+  "player_id": 2925,
+  "full_name": "Dennis Pierre Jacques Albert Praet",
+  "nationality": "Belgium",
+  "birth_date": "1994-05-14",
+  "birth_place": "Leuven",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Torino",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Leicester",
+      "team_in": "Torino"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "U.C. Sampdoria",
+    "Leicester City F.C.",
+    "Torino FC",
+    "Royal Antwerp F.C.",
+    "KV Mechelen"
+  ]
+}

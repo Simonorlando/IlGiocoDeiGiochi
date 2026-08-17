@@ -1,0 +1,23 @@
+{
+  "player_id": 25321,
+  "full_name": "Davy Klaassen",
+  "nationality": "Netherlands",
+  "birth_date": "1993-02-21",
+  "birth_place": "Hilversum",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "Free",
+      "team_out": "Ajax",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "AFC Ajax",
+    "Everton F.C.",
+    "SV Werder Bremen",
+    "AFC Ajax",
+    "Inter Milan",
+    "AFC Ajax"
+  ]
+}

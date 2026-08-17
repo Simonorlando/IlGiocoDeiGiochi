@@ -1,0 +1,38 @@
+{
+  "player_id": 12965,
+  "full_name": "Fredy Alejandro Guarín Vásquez",
+  "nationality": "Colombia",
+  "birth_date": "1986-06-30",
+  "birth_place": "Puerto Boyacá",
+  "career_transfers": [
+    {
+      "date": "2016-01-27",
+      "type": "N/A",
+      "team_out": "Inter",
+      "team_in": "Shanghai Shenhua"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "€ 11M",
+      "team_out": "FC Porto",
+      "team_in": "Inter"
+    },
+    {
+      "date": "2012-01-31",
+      "type": "Loan",
+      "team_out": "FC Porto",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Huila",
+    "Envigado Fútbol Club",
+    "Boca Juniors",
+    "AS Saint-Étienne",
+    "FC Porto",
+    "Inter Milan",
+    "Shanghai Shenhua F.C.",
+    "CR Vasco da Gama",
+    "Millonarios"
+  ]
+}

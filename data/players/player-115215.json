@@ -1,0 +1,22 @@
+{
+  "player_id": 115215,
+  "full_name": "Diego Fernando Pérez Aguado",
+  "nationality": "Uruguay",
+  "birth_date": "1980-05-18",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2010-09-01",
+      "type": "€ 1.5M",
+      "team_out": "Monaco",
+      "team_in": "Bologna"
+    }
+  ],
+  "career_clubs": [
+    "Defensor Sporting Club",
+    "Club Atlético Peñarol",
+    "AS Monaco FC",
+    "Club Atlético Peñarol",
+    "Bologna F.C. 1909"
+  ]
+}

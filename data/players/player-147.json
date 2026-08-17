@@ -1,0 +1,50 @@
+{
+  "player_id": 147,
+  "full_name": "Philippe Coutinho Correia",
+  "nationality": "Brazil",
+  "birth_date": "1992-06-12",
+  "birth_place": "Rio de Janeiro",
+  "career_transfers": [
+    {
+      "date": "2022-06-10",
+      "type": "€ 20M",
+      "team_out": "Barcelona",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2022-01-07",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2020-09-01",
+      "type": "N/A",
+      "team_out": "Bayern München",
+      "team_in": "Barcelona"
+    },
+    {
+      "date": "2019-08-19",
+      "type": "Loan",
+      "team_out": "Barcelona",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2018-01-06",
+      "type": "€ 120M",
+      "team_out": "Liverpool",
+      "team_in": "Barcelona"
+    }
+  ],
+  "career_clubs": [
+    "Inter Milan",
+    "CR Vasco da Gama",
+    "RCD Espanyol de Barcelona",
+    "Liverpool F.C.",
+    "FC Barcelona",
+    "FC Bayern Munich",
+    "Aston Villa F.C.",
+    "Al-Duhail SC",
+    "CR Vasco da Gama"
+  ]
+}

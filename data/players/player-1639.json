@@ -1,0 +1,18 @@
+{
+  "player_id": 1639,
+  "full_name": "Marco Brescianini",
+  "nationality": "Italy",
+  "birth_date": "2000-01-20",
+  "birth_place": "Calcinate",
+  "career_transfers": [
+    {
+      "date": "2021-07-01",
+      "type": "Loan",
+      "team_out": "AC Milan",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Frosinone Calcio"
+  ]
+}

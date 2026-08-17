@@ -1,0 +1,21 @@
+{
+  "player_id": 30563,
+  "full_name": "Paolo Pancrazio Faragò",
+  "nationality": "Italy",
+  "birth_date": "1993-02-12",
+  "birth_place": "Catanzaro",
+  "career_transfers": [
+    {
+      "date": "2022-08-27",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Novara Calcio",
+    "Italy under-21 Serie B representative team",
+    "Italy Lega Pro representative teams",
+    "Cagliari Calcio"
+  ]
+}

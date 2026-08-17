@@ -1,0 +1,24 @@
+{
+  "player_id": 1014,
+  "full_name": "Simon Solomon Junior Sohm",
+  "nationality": "Switzerland",
+  "birth_date": "2001-04-11",
+  "birth_place": "Zürich",
+  "career_transfers": [
+    {
+      "date": "2020-10-04",
+      "type": "€ 6.5M",
+      "team_out": "FC Zurich",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2025-08-04",
+      "type": "Transfer",
+      "team_out": "Parma",
+      "team_in": "Fiorentina"
+    }
+  ],
+  "career_clubs": [
+    "FC Zürich"
+  ]
+}

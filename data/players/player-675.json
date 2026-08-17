@@ -1,0 +1,19 @@
+{
+  "player_id": 675,
+  "full_name": "Anatolii Trubin",
+  "nationality": "Ukraine",
+  "birth_date": "2001-08-01",
+  "birth_place": "Donetsk",
+  "career_transfers": [
+    {
+      "date": "2023-08-10",
+      "type": "€ 10M",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Benfica"
+    }
+  ],
+  "career_clubs": [
+    "Shakhtar Donetsk",
+    "Benfica"
+  ]
+}

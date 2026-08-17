@@ -1,0 +1,30 @@
+{
+  "player_id": 41232,
+  "full_name": "Zakarya Bergdich",
+  "nationality": "Morocco",
+  "birth_date": "1989-01-07",
+  "birth_place": "Compiègne",
+  "career_transfers": [
+    {
+      "date": "2015-06-01",
+      "type": "N/A",
+      "team_out": "Genoa",
+      "team_in": "Valladolid"
+    },
+    {
+      "date": "2015-02-02",
+      "type": "Loan",
+      "team_out": "Valladolid",
+      "team_in": "Genoa"
+    }
+  ],
+  "career_clubs": [
+    "R.C. Lens",
+    "Real Valladolid",
+    "Genoa CFC",
+    "Charlton Athletic F.C.",
+    "Córdoba CF",
+    "FC Sochaux-Montbéliard",
+    "B-SAD"
+  ]
+}

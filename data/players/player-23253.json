@@ -1,0 +1,19 @@
+{
+  "player_id": 23253,
+  "full_name": "Gaby Jean",
+  "nationality": "France",
+  "birth_date": "2000-02-19",
+  "birth_place": "Mâcon",
+  "career_transfers": [
+    {
+      "date": "2024-08-26",
+      "type": "€ 1M",
+      "team_out": "Annecy",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Annecy",
+    "Lecce"
+  ]
+}

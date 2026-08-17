@@ -1,0 +1,29 @@
+{
+  "player_id": 133729,
+  "full_name": "Tijjani Noslin",
+  "nationality": "Netherlands",
+  "birth_date": "1999-07-07",
+  "birth_place": "Amsterdam",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 12M",
+      "team_out": "Verona",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2024-01-23",
+      "type": "€ 3M",
+      "team_out": "Fortuna Sittard",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "USV Hercules",
+    "DHSC",
+    "TOP Oss",
+    "Fortuna Sittard",
+    "Hellas Verona",
+    "Lazio"
+  ]
+}

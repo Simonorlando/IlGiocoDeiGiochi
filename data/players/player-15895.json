@@ -1,0 +1,33 @@
+{
+  "player_id": 15895,
+  "full_name": "Kamil Antoni Wilczek",
+  "nationality": "Poland",
+  "birth_date": "1988-01-14",
+  "birth_place": "Wodzisław Śląski",
+  "career_transfers": [
+    {
+      "date": "2016-01-22",
+      "type": "N/A",
+      "team_out": "Carpi",
+      "team_in": "Brondby"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "Piast Gliwice",
+      "team_in": "Carpi"
+    }
+  ],
+  "career_clubs": [
+    "UD Horadada",
+    "Elche CF Ilicitano",
+    "GKS 1962 Jastrzębie",
+    "Piast Gliwice",
+    "Zagłębie Lubin",
+    "Piast Gliwice",
+    "A.C. Carpi",
+    "Brøndby IF",
+    "F.C. Copenhagen",
+    "Elche CF"
+  ]
+}

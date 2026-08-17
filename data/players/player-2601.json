@@ -1,0 +1,28 @@
+{
+  "player_id": 2601,
+  "full_name": "Daichi Kamada",
+  "nationality": "Japan",
+  "birth_date": "1996-08-05",
+  "birth_place": "Ehime",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "Crystal Palace"
+    },
+    {
+      "date": "2023-08-04",
+      "type": "Free",
+      "team_out": "Eintracht Frankfurt",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Sagan Tosu",
+    "Eintracht Frankfurt",
+    "Sint-Truidense V.V.",
+    "SS Lazio",
+    "Crystal Palace F.C."
+  ]
+}

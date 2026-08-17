@@ -1,0 +1,26 @@
+{
+  "player_id": 1282,
+  "full_name": "Jesse Pekka Joronen",
+  "nationality": "Finland",
+  "birth_date": "1993-03-21",
+  "birth_place": "Rautjärvi",
+  "career_transfers": [
+    {
+      "date": "2025-08-21",
+      "type": "Free Transfer",
+      "team_out": "Venezia",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Fulham F.C.",
+    "Maidenhead United F.C.",
+    "Cambridge United F.C.",
+    "FC Lahti",
+    "Accrington Stanley F.C.",
+    "Stevenage F.C.",
+    "AC Horsens",
+    "F.C. Copenhagen",
+    "Brescia Calcio"
+  ]
+}

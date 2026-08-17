@@ -1,0 +1,41 @@
+{
+  "player_id": 42039,
+  "full_name": "Gabriel Fernández Arenas",
+  "nationality": "Spain",
+  "birth_date": "1983-07-10",
+  "birth_place": "Madrid",
+  "career_transfers": [
+    {
+      "date": "2018-07-02",
+      "type": "N/A",
+      "team_out": "Atletico Madrid",
+      "team_in": "Al Sadd"
+    },
+    {
+      "date": "2011-07-01",
+      "type": "€ 3M",
+      "team_out": "Zaragoza",
+      "team_in": "Atletico Madrid"
+    },
+    {
+      "date": "2007-07-01",
+      "type": "Free",
+      "team_out": "Atletico Madrid",
+      "team_in": "Zaragoza"
+    },
+    {
+      "date": "2004-07-01",
+      "type": "Loan",
+      "team_out": "Atletico Madrid",
+      "team_in": "Getafe"
+    }
+  ],
+  "career_clubs": [
+    "Atlético Madrid B",
+    "Getafe CF",
+    "Atlético Madrid",
+    "Real Zaragoza",
+    "Atlético Madrid",
+    "Al Sadd Sports Club"
+  ]
+}

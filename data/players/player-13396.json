@@ -1,0 +1,29 @@
+{
+  "player_id": 13396,
+  "full_name": "Carlos Mario Carbonero Mancilla",
+  "nationality": "Colombia",
+  "birth_date": "1990-07-25",
+  "birth_place": "Bogotá",
+  "career_transfers": [
+    {
+      "date": "2014-08-28",
+      "type": "Loan",
+      "team_out": "River Plate",
+      "team_in": "Cesena"
+    }
+  ],
+  "career_clubs": [
+    "FC Academia Cali",
+    "Atlético Huila",
+    "Once Caldas",
+    "Estudiantes de La Plata",
+    "Arsenal Fútbol Club",
+    "Club Atlético River Plate",
+    "AC Cesena",
+    "U.C. Sampdoria",
+    "Cortuluá",
+    "Deportivo Cali",
+    "Ferro Carril Oeste",
+    "Delfines del Este FC"
+  ]
+}

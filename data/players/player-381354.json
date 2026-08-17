@@ -1,0 +1,32 @@
+{
+  "player_id": 381354,
+  "full_name": "Lior Kasa",
+  "nationality": "Israel",
+  "birth_date": "2005-05-01",
+  "birth_place": "Jerusalem",
+  "career_transfers": [
+    {
+      "date": "2024-08-25",
+      "type": "Loan",
+      "team_out": "Maccabi Haifa",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Genoa",
+      "team_in": "Maccabi Haifa"
+    },
+    {
+      "date": "2025-06-29",
+      "type": "Return from loan",
+      "team_out": "Genoa",
+      "team_in": "Maccabi Haifa"
+    }
+  ],
+  "career_clubs": [
+    "Maccabi Haifa",
+    "Genoa",
+    "Maccabi Haifa"
+  ]
+}

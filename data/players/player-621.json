@@ -1,0 +1,27 @@
+{
+  "player_id": 621,
+  "full_name": "Vincent Jean Mpoy Kompany",
+  "nationality": "Belgium",
+  "birth_date": "1986-04-10",
+  "birth_place": "Uccle",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "Free",
+      "team_out": "Manchester City",
+      "team_in": "Anderlecht"
+    },
+    {
+      "date": "2008-08-16",
+      "type": "€ 8.5M",
+      "team_out": "Hamburger SV",
+      "team_in": "Manchester City"
+    }
+  ],
+  "career_clubs": [
+    "R.S.C. Anderlecht",
+    "Hamburger SV",
+    "Manchester City F.C.",
+    "R.S.C. Anderlecht"
+  ]
+}

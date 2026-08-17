@@ -1,0 +1,38 @@
+{
+  "player_id": 402,
+  "full_name": "Hamza Mendyl",
+  "nationality": "Morocco",
+  "birth_date": "1997-10-21",
+  "birth_place": "Casablanca",
+  "career_transfers": [
+    {
+      "date": "2021-07-24",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Gazişehir Gaziantep"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Dijon",
+      "team_in": "FC Schalke 04"
+    },
+    {
+      "date": "2019-08-21",
+      "type": "Loan",
+      "team_out": "FC Schalke 04",
+      "team_in": "Dijon"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "N/A",
+      "team_out": "Lille",
+      "team_in": "FC Schalke 04"
+    }
+  ],
+  "career_clubs": [
+    "Lille OSC",
+    "Schalke 04",
+    "Dijon FCO"
+  ]
+}

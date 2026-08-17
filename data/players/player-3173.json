@@ -1,0 +1,28 @@
+{
+  "player_id": 3173,
+  "full_name": "Ismaël Bennacer",
+  "nationality": "Algeria",
+  "birth_date": "1997-12-01",
+  "birth_place": "Arles",
+  "career_transfers": [
+    {
+      "date": "2019-08-04",
+      "type": "€ 16M",
+      "team_out": "Empoli",
+      "team_in": "AC Milan"
+    },
+    {
+      "date": "2017-08-21",
+      "type": "N/A",
+      "team_out": "Arsenal",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "AC Arles",
+    "Arsenal F.C.",
+    "Tours FC.",
+    "Empoli FC",
+    "AC Milan"
+  ]
+}

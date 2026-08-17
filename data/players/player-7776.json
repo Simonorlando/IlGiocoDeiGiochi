@@ -1,0 +1,36 @@
+{
+  "player_id": 7776,
+  "full_name": "Vasyl Pryyma",
+  "nationality": "Ukraine",
+  "birth_date": "1991-06-10",
+  "birth_place": "Novoiavorivsk",
+  "career_transfers": [
+    {
+      "date": "2017-07-06",
+      "type": "Free",
+      "team_out": "Frosinone",
+      "team_in": "Zorya Luhansk"
+    },
+    {
+      "date": "2016-07-01",
+      "type": "Free",
+      "team_out": "Torino",
+      "team_in": "Frosinone"
+    },
+    {
+      "date": "2016-02-01",
+      "type": "Loan",
+      "team_out": "Torino",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "FC Metalurh Donetsk",
+    "Torino FC",
+    "Frosinone Calcio",
+    "FC Zorya Luhansk",
+    "FC Shakhtyor Salihorsk",
+    "FC Karpaty Lviv",
+    "FC Chornomorets Odesa"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "player_id": 41153,
+  "full_name": "André Filipe Brás André",
+  "nationality": "Portugal",
+  "birth_date": "1989-08-26",
+  "birth_place": "Vila do Conde",
+  "career_transfers": [
+    {
+      "date": "2018-07-04",
+      "type": "Free",
+      "team_out": "FC Porto",
+      "team_in": "Guimaraes"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "€ 1.5M",
+      "team_out": "Guimaraes",
+      "team_in": "FC Porto"
+    }
+  ],
+  "career_clubs": [
+    "Varzim S.C.",
+    "Deportivo Fabril",
+    "Varzim S.C.",
+    "Vitória S.C.",
+    "FC Porto",
+    "Vitória S.C.",
+    "Al Ittihad FC",
+    "Deportivo de A Coruña"
+  ]
+}

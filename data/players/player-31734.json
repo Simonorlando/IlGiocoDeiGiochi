@@ -1,0 +1,24 @@
+{
+  "player_id": 31734,
+  "full_name": "Mattia Felici",
+  "nationality": "Italy",
+  "birth_date": "2001-04-17",
+  "birth_place": "Rome",
+  "career_transfers": [
+    {
+      "date": "2022-07-23",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Triestina"
+    },
+    {
+      "date": "2022-01-05",
+      "type": "Loan",
+      "team_out": "Lecce",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "US Lecce"
+  ]
+}

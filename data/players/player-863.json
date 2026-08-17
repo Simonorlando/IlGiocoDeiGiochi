@@ -1,0 +1,26 @@
+{
+  "player_id": 863,
+  "full_name": "Rodrigo Bentancur Colmán",
+  "nationality": "Uruguay",
+  "birth_date": "1997-06-25",
+  "birth_place": "Nueva Helvecia",
+  "career_transfers": [
+    {
+      "date": "2022-01-31",
+      "type": "€ 19M",
+      "team_out": "Juventus",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 10.5M",
+      "team_out": "Boca Juniors",
+      "team_in": "Juventus"
+    }
+  ],
+  "career_clubs": [
+    "Boca Juniors",
+    "Juventus FC",
+    "Tottenham Hotspur F.C."
+  ]
+}

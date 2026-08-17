@@ -1,0 +1,30 @@
+{
+  "player_id": 22131,
+  "full_name": "Mauro Daniel Goicoechea Furia",
+  "nationality": "Uruguay",
+  "birth_date": "1988-03-27",
+  "birth_place": "Montevideo",
+  "career_transfers": [
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Danubio"
+    },
+    {
+      "date": "2012-08-31",
+      "type": "Loan",
+      "team_out": "Danubio",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "AS Roma",
+    "SC Oțelul Galați",
+    "Danubio F.C.",
+    "F.C. Arouca",
+    "SC Oțelul Galați",
+    "Toulouse FC"
+  ]
+}

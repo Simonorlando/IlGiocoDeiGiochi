@@ -1,0 +1,33 @@
+{
+  "player_id": 105385,
+  "full_name": "Jermaine Jones",
+  "nationality": "USA",
+  "birth_date": "1981-11-03",
+  "birth_place": "Frankfurt am Main",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Besiktas",
+      "team_in": "New England Revolution"
+    },
+    {
+      "date": "2014-01-30",
+      "type": "N/A",
+      "team_out": "FC Schalke 04",
+      "team_in": "Besiktas"
+    }
+  ],
+  "career_clubs": [
+    "Eintracht Frankfurt",
+    "Bayer 04 Leverkusen",
+    "Team 2006",
+    "Eintracht Frankfurt",
+    "Schalke 04",
+    "Blackburn Rovers F.C.",
+    "Beşiktaş J.K. (Football)",
+    "New England Revolution",
+    "Colorado Rapids",
+    "LA Galaxy"
+  ]
+}

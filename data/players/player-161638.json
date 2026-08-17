@@ -1,0 +1,40 @@
+{
+  "player_id": 161638,
+  "full_name": "Festy Oseiwe Ebosele",
+  "nationality": "Republic of Ireland",
+  "birth_date": "2002-08-02",
+  "birth_place": "Enniscorthy",
+  "career_transfers": [
+    {
+      "date": "2025-01-30",
+      "type": "N/A",
+      "team_out": "Watford",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2024-08-30",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Watford"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Derby",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Transfer",
+      "team_out": "Udinese",
+      "team_in": "Istanbul Basaksehir"
+    }
+  ],
+  "career_clubs": [
+    "Derby County",
+    "Udinese",
+    "Watford",
+    "İstanbul Başakşehir",
+    "Erzurumspor"
+  ]
+}

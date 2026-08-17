@@ -1,0 +1,33 @@
+{
+  "player_id": 56817,
+  "full_name": "Emerson Ramos Borges",
+  "nationality": "Brazil",
+  "birth_date": "1980-08-16",
+  "birth_place": "Joinville",
+  "career_transfers": [
+    {
+      "date": "2016-07-04",
+      "type": "Free",
+      "team_out": "Livorno",
+      "team_in": "Padova"
+    },
+    {
+      "date": "2012-08-21",
+      "type": "N/A",
+      "team_out": "Reggina",
+      "team_in": "Livorno"
+    }
+  ],
+  "career_clubs": [
+    "Joinville Esporte Clube",
+    "Caxias Futebol Clube",
+    "Sociedade Esportiva Palmeiras",
+    "A.S.D. Atletico Elmas",
+    "Nuorese Calcio",
+    "Taranto Sport",
+    "A.C. Lumezzane",
+    "AS Reggina 1914",
+    "US Livorno 1915",
+    "Calcio Padova"
+  ]
+}

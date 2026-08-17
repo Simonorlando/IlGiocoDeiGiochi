@@ -1,0 +1,75 @@
+{
+  "player_id": 9072,
+  "full_name": "Mirko Marić",
+  "nationality": "Croatia",
+  "birth_date": "1995-05-16",
+  "birth_place": "Grude",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "HNK Rijeka",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "HNK Rijeka"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Crotone",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2021-08-17",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Crotone"
+    },
+    {
+      "date": "2020-08-11",
+      "type": "N/A",
+      "team_out": "NK Osijek",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Venezia",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "Maric Mirko"
+    },
+    {
+      "date": "2026-07-21",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "NK Lokomotiva Zagreb"
+    },
+    {
+      "date": "2026-07-20",
+      "type": "Free agent",
+      "team_out": "Monza",
+      "team_in": "NK Lokomotiva Zagreb"
+    }
+  ],
+  "career_clubs": [
+    "NK Široki Brijeg",
+    "NK Lokomotiva",
+    "GNK Dinamo Zagreb",
+    "NK Široki Brijeg"
+  ]
+}

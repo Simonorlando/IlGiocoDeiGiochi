@@ -1,0 +1,48 @@
+{
+  "player_id": 517,
+  "full_name": "James David Rodríguez Rubio",
+  "nationality": "Colombia",
+  "birth_date": "1991-07-12",
+  "birth_place": "Cúcuta",
+  "career_transfers": [
+    {
+      "date": "2020-09-07",
+      "type": "N/A",
+      "team_out": "Real Madrid",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2019-07-01",
+      "type": "N/A",
+      "team_out": "Bayern München",
+      "team_in": "Real Madrid"
+    },
+    {
+      "date": "2017-07-12",
+      "type": "Loan",
+      "team_out": "Real Madrid",
+      "team_in": "Bayern München"
+    },
+    {
+      "date": "2014-07-22",
+      "type": "€ 80M",
+      "team_out": "Monaco",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "Envigado Fútbol Club",
+    "Club Atlético Banfield",
+    "FC Porto",
+    "AS Monaco FC",
+    "Real Madrid Club de Fútbol",
+    "FC Bayern Munich",
+    "Everton F.C.",
+    "Al-Rayyan",
+    "Olympiacos F.C.",
+    "São Paulo FC",
+    "Rayo Vallecano",
+    "Club León",
+    "Minnesota United FC"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 1649,
+  "full_name": "Patrick Cutrone",
+  "nationality": "Italy",
+  "birth_date": "1998-01-03",
+  "birth_place": "Como",
+  "career_transfers": [
+    {
+      "date": "2026-06-29",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-06-30",
+      "type": "Transfer",
+      "team_out": "Como",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Loan",
+      "team_out": "Como",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "Return from loan",
+      "team_out": "Monza",
+      "team_in": "Como"
+    }
+  ],
+  "career_clubs": [
+    "Wolverhampton Wanderers F.C."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "player_id": 105003,
+  "full_name": "Nélson Augusto Tomar Marcos",
+  "nationality": "Portugal",
+  "birth_date": "1983-06-10",
+  "birth_place": "Ilha do Sal",
+  "career_transfers": [
+    {
+      "date": "2014-09-01",
+      "type": "N/A",
+      "team_out": "Palermo",
+      "team_in": "Belenenses"
+    },
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Almeria",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2013-07-31",
+      "type": "Loan",
+      "team_out": "Palermo",
+      "team_in": "Almeria"
+    },
+    {
+      "date": "2013-01-29",
+      "type": "Free",
+      "team_out": "Real Betis",
+      "team_in": "Palermo"
+    }
+  ],
+  "career_clubs": [
+    "Vilanovense F.C.",
+    "S.C. Salgueiros",
+    "Boavista F.C.",
+    "S.L. Benfica",
+    "Real Betis Balompié",
+    "Club Atlético Osasuna",
+    "Palermo F.C.",
+    "Unión Deportiva Almería",
+    "C.F. Os Belenenses",
+    "AD Alcorcón"
+  ]
+}

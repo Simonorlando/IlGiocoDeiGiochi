@@ -1,0 +1,28 @@
+{
+  "player_id": 864,
+  "full_name": "Emre Can",
+  "nationality": "Germany",
+  "birth_date": "1994-01-12",
+  "birth_place": "Frankfurt am Main",
+  "career_transfers": [
+    {
+      "date": "2018-07-01",
+      "type": "Free",
+      "team_out": "Liverpool",
+      "team_in": "Juventus"
+    },
+    {
+      "date": "2020-02-01",
+      "type": "€ 25M",
+      "team_out": "Juventus",
+      "team_in": "Borussia Dortmund"
+    }
+  ],
+  "career_clubs": [
+    "FC Bayern Munich",
+    "Bayer 04 Leverkusen",
+    "Liverpool F.C.",
+    "Juventus FC",
+    "Borussia Dortmund"
+  ]
+}

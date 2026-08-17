@@ -1,0 +1,38 @@
+{
+  "player_id": 312,
+  "full_name": "Alex Meret",
+  "nationality": "Italy",
+  "birth_date": "1997-03-22",
+  "birth_place": "Udine",
+  "career_transfers": [
+    {
+      "date": "2018-07-05",
+      "type": "€ 22M",
+      "team_out": "Udinese",
+      "team_in": "Napoli"
+    },
+    {
+      "date": "2017-08-01",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Spal"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "N/A",
+      "team_out": "Spal",
+      "team_in": "Udinese"
+    },
+    {
+      "date": "2016-07-14",
+      "type": "Loan",
+      "team_out": "Udinese",
+      "team_in": "Spal"
+    }
+  ],
+  "career_clubs": [
+    "Udinese Calcio",
+    "SPAL",
+    "SSC Napoli"
+  ]
+}

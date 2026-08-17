@@ -1,0 +1,51 @@
+{
+  "player_id": 115424,
+  "full_name": "Ernesto Javier Chevantón Espinosa",
+  "nationality": "Uruguay",
+  "birth_date": "1980-08-12",
+  "birth_place": "Juan Lacaze",
+  "career_transfers": [
+    {
+      "date": "2013-09-25",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "QPR"
+    },
+    {
+      "date": "2012-07-09",
+      "type": "Free",
+      "team_out": "Colon Santa Fe",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2011-07-21",
+      "type": "Free",
+      "team_out": "Lecce",
+      "team_in": "Colon Santa Fe"
+    },
+    {
+      "date": "2010-08-16",
+      "type": "Free",
+      "team_out": "Sevilla",
+      "team_in": "Lecce"
+    },
+    {
+      "date": "2004-08-01",
+      "type": "€ 10M",
+      "team_out": "Lecce",
+      "team_in": "Monaco"
+    }
+  ],
+  "career_clubs": [
+    "Danubio F.C.",
+    "US Lecce",
+    "AS Monaco FC",
+    "Sevilla FC",
+    "Atalanta BC",
+    "US Lecce",
+    "Club Atlético Colón",
+    "US Lecce",
+    "Queens Park Rangers F.C.",
+    "Liverpool F.C. (Montevideo)"
+  ]
+}

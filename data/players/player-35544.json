@@ -1,0 +1,28 @@
+{
+  "player_id": 35544,
+  "full_name": "Johan Felipe Vázquez Ibarra",
+  "nationality": "Mexico",
+  "birth_date": "1998-10-22",
+  "birth_place": "Navojoa",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Cremonese",
+      "team_in": "Genoa"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "Loan",
+      "team_out": "Genoa",
+      "team_in": "Cremonese"
+    }
+  ],
+  "career_clubs": [
+    "Sonora",
+    "Monterrey",
+    "UNAM",
+    "Genoa",
+    "Cremonese"
+  ]
+}

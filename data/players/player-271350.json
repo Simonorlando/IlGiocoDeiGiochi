@@ -1,0 +1,26 @@
+{
+  "player_id": 271350,
+  "full_name": "Tarik Muharemović",
+  "nationality": "Bosnia and Herzegovina",
+  "birth_date": "2003-02-28",
+  "birth_place": "Ljubljana",
+  "career_transfers": [
+    {
+      "date": "2024-08-28",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Sassuolo"
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Transfer",
+      "team_out": "Juventus",
+      "team_in": "Sassuolo"
+    }
+  ],
+  "career_clubs": [
+    "Wolfsberger AC",
+    "Juventus F.C. Next Gen",
+    "US Sassuolo Calcio"
+  ]
+}

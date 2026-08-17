@@ -1,0 +1,28 @@
+{
+  "player_id": 181827,
+  "full_name": "Conrad Jaden Egan-Riley",
+  "nationality": "England",
+  "birth_date": "2003-01-02",
+  "birth_place": "Manchester",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "N/A",
+      "team_out": "PSV Eindhoven",
+      "team_in": "Burnley"
+    },
+    {
+      "date": "2024-02-01",
+      "type": "Loan",
+      "team_out": "Burnley",
+      "team_in": "PSV Eindhoven"
+    }
+  ],
+  "career_clubs": [
+    "Manchester City",
+    "Burnley",
+    "Hibernian",
+    "Jong PSV",
+    "Marseille"
+  ]
+}

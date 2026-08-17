@@ -1,0 +1,41 @@
+{
+  "player_id": 105837,
+  "full_name": "Andrey Arshavin",
+  "nationality": "Russia",
+  "birth_date": "1981-05-29",
+  "birth_place": "Sankt-Peterburg",
+  "career_transfers": [
+    {
+      "date": "2015-07-13",
+      "type": "Free",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Kuban"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Arsenal",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2012-02-24",
+      "type": "Loan",
+      "team_out": "Arsenal",
+      "team_in": "Zenit Saint Petersburg"
+    },
+    {
+      "date": "2009-02-02",
+      "type": "16.5M €",
+      "team_out": "Zenit Saint Petersburg",
+      "team_in": "Arsenal"
+    }
+  ],
+  "career_clubs": [
+    "FC Zenit Saint Petersburg",
+    "FC Zenit-2",
+    "Arsenal F.C.",
+    "FC Zenit Saint Petersburg",
+    "FC Kuban Krasnodar",
+    "FC Kairat"
+  ]
+}

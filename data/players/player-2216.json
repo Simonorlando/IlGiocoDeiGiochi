@@ -1,0 +1,38 @@
+{
+  "player_id": 2216,
+  "full_name": "M'Baye Babacar Niang",
+  "nationality": "Senegal",
+  "birth_date": "1994-12-19",
+  "birth_place": "Meulan-en-Yvelines",
+  "career_transfers": [
+    {
+      "date": "2024-09-08",
+      "type": "Free",
+      "team_out": "Empoli",
+      "team_in": "Wydad AC"
+    },
+    {
+      "date": "2024-01-31",
+      "type": "€ 250K",
+      "team_out": "Adana Demirspor",
+      "team_in": "Empoli"
+    }
+  ],
+  "career_clubs": [
+    "Stade Malherbe Caen",
+    "AC Milan",
+    "Montpellier Hérault Sport Club",
+    "Genoa CFC",
+    "Watford F.C.",
+    "Torino FC",
+    "Stade Rennais F.C.",
+    "Al Ahli FC",
+    "FC Girondins de Bordeaux",
+    "AJ Auxerre",
+    "Adana Demirspor",
+    "Empoli FC",
+    "Wydad Athletic Club",
+    "U.C. Sampdoria",
+    "Gençlerbirliği S.K."
+  ]
+}

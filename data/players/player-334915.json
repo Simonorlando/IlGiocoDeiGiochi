@@ -1,0 +1,21 @@
+{
+  "player_id": 334915,
+  "full_name": "Farès Ghedjemis",
+  "nationality": "France",
+  "birth_date": "2002-09-06",
+  "birth_place": "Montreuil",
+  "career_transfers": [
+    {
+      "date": "2024-01-02",
+      "type": "€ 300K",
+      "team_out": "Rouen",
+      "team_in": "Frosinone"
+    }
+  ],
+  "career_clubs": [
+    "Évreux",
+    "Vannes",
+    "Rouen",
+    "Frosinone"
+  ]
+}

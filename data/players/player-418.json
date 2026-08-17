@@ -1,0 +1,24 @@
+{
+  "player_id": 418,
+  "full_name": "Suat Serdar",
+  "nationality": "Germany",
+  "birth_date": "1997-04-11",
+  "birth_place": "Bingen",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 4.5M",
+      "team_out": "Hertha BSC",
+      "team_in": "Verona"
+    },
+    {
+      "date": "2023-08-22",
+      "type": "Loan",
+      "team_out": "Hertha BSC",
+      "team_in": "Verona"
+    }
+  ],
+  "career_clubs": [
+    "1. FSV Mainz 05"
+  ]
+}

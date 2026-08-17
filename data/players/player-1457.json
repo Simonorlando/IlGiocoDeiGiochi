@@ -1,0 +1,25 @@
+{
+  "player_id": 1457,
+  "full_name": "Henrikh Hamlet Mkhitaryan",
+  "nationality": "Armenia",
+  "birth_date": "1989-01-21",
+  "birth_place": "Yerevan",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "AS Roma",
+      "team_in": "Inter"
+    }
+  ],
+  "career_clubs": [
+    "FC Pyunik",
+    "FC Metalurh Donetsk",
+    "FC Shakhtar Donetsk",
+    "Borussia Dortmund",
+    "Manchester United F.C.",
+    "Arsenal F.C.",
+    "AS Roma",
+    "Inter Milan"
+  ]
+}

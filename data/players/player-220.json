@@ -1,0 +1,20 @@
+{
+  "player_id": 220,
+  "full_name": "Eddie Anthony Salcedo Mora",
+  "nationality": "Italy",
+  "birth_date": "2001-10-01",
+  "birth_place": "Genova",
+  "career_transfers": [
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "Inter",
+      "team_in": "Spezia"
+    }
+  ],
+  "career_clubs": [
+    "Genoa CFC",
+    "Inter Milan",
+    "Hellas Verona FC"
+  ]
+}

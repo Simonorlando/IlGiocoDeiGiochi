@@ -1,0 +1,64 @@
+{
+  "player_id": 47366,
+  "full_name": "Jonathan Rodríguez Menéndez",
+  "nationality": "Spain",
+  "birth_date": "1991-07-09",
+  "birth_place": "Cangas de Narcea",
+  "career_transfers": [
+    {
+      "date": "2023-09-01",
+      "type": "Free",
+      "team_out": "Lazio",
+      "team_in": "FC Cartagena"
+    },
+    {
+      "date": "2022-07-28",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Sporting Gijon"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Sporting Gijon",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2022-01-30",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Sporting Gijon"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Osasuna",
+      "team_in": "Lazio"
+    },
+    {
+      "date": "2020-09-20",
+      "type": "Loan",
+      "team_out": "Lazio",
+      "team_in": "Osasuna"
+    },
+    {
+      "date": "2019-07-22",
+      "type": "€ 2M",
+      "team_out": "Malaga",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "Real Oviedo",
+    "Club Marino de Luanco",
+    "Real Avilés CF",
+    "Sporting de Gijón",
+    "Málaga CF",
+    "Sporting de Gijón",
+    "Deportivo Alavés",
+    "SS Lazio",
+    "Club Atlético Osasuna",
+    "SS Lazio",
+    "FC Barcelona"
+  ]
+}

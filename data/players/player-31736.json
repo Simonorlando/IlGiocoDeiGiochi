@@ -1,0 +1,25 @@
+{
+  "player_id": 31736,
+  "full_name": "Žan Majer",
+  "nationality": "Slovenia",
+  "birth_date": "1992-07-25",
+  "birth_place": "Maribor",
+  "career_transfers": [
+    {
+      "date": "2022-07-31",
+      "type": "N/A",
+      "team_out": "Lecce",
+      "team_in": "Reggina"
+    },
+    {
+      "date": "2019-02-20",
+      "type": "Free",
+      "team_out": "FC Rostov",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "NK Aluminij",
+    "NK Domžale"
+  ]
+}

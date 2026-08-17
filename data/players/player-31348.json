@@ -1,0 +1,40 @@
+{
+  "player_id": 31348,
+  "full_name": "Gennaro Tutino",
+  "nationality": "Italy",
+  "birth_date": "1996-08-20",
+  "birth_place": "Napoli",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "€ 2.5M",
+      "team_out": "Parma",
+      "team_in": "Cosenza"
+    },
+    {
+      "date": "2023-01-18",
+      "type": "Loan",
+      "team_out": "Parma",
+      "team_in": "Palermo"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "€ 5.5M",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    },
+    {
+      "date": "2021-08-13",
+      "type": "Loan",
+      "team_out": "Napoli",
+      "team_in": "Parma"
+    }
+  ],
+  "career_clubs": [
+    "SSC Napoli",
+    "Vicenza Calcio",
+    "A.S. Gubbio 1910",
+    "U.S. Avellino 1912",
+    "SSC Bari"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "player_id": 766,
+  "full_name": "Robin Patrick Olsen",
+  "nationality": "Sweden",
+  "birth_date": "1990-01-08",
+  "birth_place": "Malmö",
+  "career_transfers": [
+    {
+      "date": "2022-06-10",
+      "type": "N/A",
+      "team_out": "AS Roma",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2022-01-18",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Aston Villa"
+    },
+    {
+      "date": "2022-01-17",
+      "type": "N/A",
+      "team_out": "Sheffield Utd",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2021-08-31",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Sheffield Utd"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Everton",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2020-10-05",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Everton"
+    },
+    {
+      "date": "2020-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "AS Roma"
+    },
+    {
+      "date": "2019-08-30",
+      "type": "Loan",
+      "team_out": "AS Roma",
+      "team_in": "Cagliari"
+    },
+    {
+      "date": "2018-07-24",
+      "type": "€ 7.7M",
+      "team_out": "FC Copenhagen",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "Bunkeflo IF",
+    "IF Limhamn Bunkeflo",
+    "Bunkeflo FF",
+    "IFK Klagshamn",
+    "Malmö FF",
+    "PAOK FC",
+    "F.C. Copenhagen",
+    "AS Roma"
+  ]
+}

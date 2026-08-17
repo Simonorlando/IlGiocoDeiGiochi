@@ -1,0 +1,18 @@
+{
+  "player_id": 556,
+  "full_name": "Mile Svilar",
+  "nationality": "Serbia",
+  "birth_date": "1999-08-27",
+  "birth_place": "Antwerpen",
+  "career_transfers": [
+    {
+      "date": "2022-07-01",
+      "type": "Free",
+      "team_out": "Benfica",
+      "team_in": "AS Roma"
+    }
+  ],
+  "career_clubs": [
+    "S.L. Benfica"
+  ]
+}

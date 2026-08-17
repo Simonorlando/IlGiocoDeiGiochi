@@ -1,0 +1,34 @@
+{
+  "player_id": 47430,
+  "full_name": "Wesley Theodorus Hoedt",
+  "nationality": "Netherlands",
+  "birth_date": "1994-03-06",
+  "birth_place": "Alkmaar",
+  "career_transfers": [
+    {
+      "date": "2021-06-30",
+      "type": "N/A",
+      "team_out": "Lazio",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2017-08-22",
+      "type": "€ 16.4M",
+      "team_out": "Lazio",
+      "team_in": "Southampton"
+    },
+    {
+      "date": "2015-07-01",
+      "type": "Free",
+      "team_out": "AZ Alkmaar",
+      "team_in": "Lazio"
+    }
+  ],
+  "career_clubs": [
+    "AZ Alkmaar",
+    "SS Lazio",
+    "Southampton F.C.",
+    "RC Celta de Vigo",
+    "R.S.C. Anderlecht"
+  ]
+}

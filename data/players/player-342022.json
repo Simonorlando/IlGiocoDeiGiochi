@@ -1,0 +1,26 @@
+{
+  "player_id": 342022,
+  "full_name": "Michael Olabode Kayode",
+  "nationality": "Italy",
+  "birth_date": "2004-07-10",
+  "birth_place": "Borgomanero",
+  "career_transfers": [
+    {
+      "date": "2025-01-24",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Brentford"
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Transfer",
+      "team_out": "Fiorentina",
+      "team_in": "Brentford"
+    }
+  ],
+  "career_clubs": [
+    "Gozzano",
+    "Fiorentina",
+    "Brentford"
+  ]
+}

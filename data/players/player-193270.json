@@ -1,0 +1,30 @@
+{
+  "player_id": 193270,
+  "full_name": "Andrea Carboni",
+  "nationality": "Italy",
+  "birth_date": "2001-02-04",
+  "birth_place": "Sorgono",
+  "career_transfers": [
+    {
+      "date": "2023-07-01",
+      "type": "N/A",
+      "team_out": "Venezia",
+      "team_in": "Monza"
+    },
+    {
+      "date": "2023-01-31",
+      "type": "Loan",
+      "team_out": "Monza",
+      "team_in": "Venezia"
+    },
+    {
+      "date": "2022-07-01",
+      "type": "N/A",
+      "team_out": "Cagliari",
+      "team_in": "Monza"
+    }
+  ],
+  "career_clubs": [
+    "Cagliari Calcio"
+  ]
+}

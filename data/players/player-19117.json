@@ -1,0 +1,20 @@
+{
+  "player_id": 19117,
+  "full_name": "Gaetano Michel Berardi",
+  "nationality": "Switzerland",
+  "birth_date": "1988-08-21",
+  "birth_place": "Sorengo",
+  "career_transfers": [
+    {
+      "date": "2012-01-03",
+      "type": "€ 2.5M",
+      "team_out": "Brescia",
+      "team_in": "Sampdoria"
+    }
+  ],
+  "career_clubs": [
+    "Brescia Calcio",
+    "U.C. Sampdoria",
+    "Leeds United F.C."
+  ]
+}

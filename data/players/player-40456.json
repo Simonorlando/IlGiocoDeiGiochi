@@ -1,0 +1,23 @@
+{
+  "player_id": 40456,
+  "full_name": "Rafał Wolski",
+  "nationality": "Poland",
+  "birth_date": "1992-11-10",
+  "birth_place": "Kozienice",
+  "career_transfers": [
+    {
+      "date": "2014-08-28",
+      "type": "Loan",
+      "team_out": "Fiorentina",
+      "team_in": "Bari"
+    }
+  ],
+  "career_clubs": [
+    "Legia Warsaw",
+    "ACF Fiorentina",
+    "SSC Bari",
+    "KV Mechelen",
+    "Wisła Kraków",
+    "KS Lechia Gdańsk"
+  ]
+}

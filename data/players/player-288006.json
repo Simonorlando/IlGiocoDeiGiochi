@@ -1,0 +1,28 @@
+{
+  "player_id": 288006,
+  "full_name": "Rasmus Winther Højlund",
+  "nationality": "Denmark",
+  "birth_date": "2003-02-04",
+  "birth_place": "København",
+  "career_transfers": [
+    {
+      "date": "2023-08-05",
+      "type": "€ 74M",
+      "team_out": "Atalanta",
+      "team_in": "Manchester United"
+    },
+    {
+      "date": "2022-08-27",
+      "type": "€ 17M",
+      "team_out": "Sturm Graz",
+      "team_in": "Atalanta"
+    }
+  ],
+  "career_clubs": [
+    "F.C. Copenhagen",
+    "SK Sturm Graz",
+    "Atalanta BC",
+    "Manchester United F.C.",
+    "SSC Napoli"
+  ]
+}

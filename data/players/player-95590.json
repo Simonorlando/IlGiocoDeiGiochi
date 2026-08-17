@@ -1,0 +1,43 @@
+{
+  "player_id": 95590,
+  "full_name": "Manuel Rolando Iturra Urrutia",
+  "nationality": "Chile",
+  "birth_date": "1984-06-23",
+  "birth_place": "Temuco",
+  "career_transfers": [
+    {
+      "date": "2018-09-04",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Villarreal"
+    },
+    {
+      "date": "2018-01-01",
+      "type": "N/A",
+      "team_out": "Necaxa",
+      "team_in": "Malaga"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "Free",
+      "team_out": "Malaga",
+      "team_in": "Granada CF"
+    },
+    {
+      "date": "2012-08-28",
+      "type": "Free",
+      "team_out": "Real Murcia",
+      "team_in": "Malaga"
+    }
+  ],
+  "career_clubs": [
+    "Club Universidad de Chile",
+    "Real Murcia",
+    "U.D. Leiria",
+    "Málaga CF",
+    "Granada CF",
+    "Udinese Calcio",
+    "Rayo Vallecano",
+    "Club Necaxa"
+  ]
+}

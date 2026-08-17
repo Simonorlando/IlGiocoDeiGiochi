@@ -1,0 +1,27 @@
+{
+  "player_id": 48079,
+  "full_name": "Karl Jesper Karlsson",
+  "nationality": "Sweden",
+  "birth_date": "1998-07-25",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2025-07-01",
+      "type": "Back from Loan",
+      "team_out": "Lecce",
+      "team_in": "Bologna"
+    },
+    {
+      "date": "2025-01-04",
+      "type": "Loan",
+      "team_out": "Bologna",
+      "team_in": "Lecce"
+    }
+  ],
+  "career_clubs": [
+    "Aberdeen F.C.",
+    "IF Elfsborg",
+    "AZ Alkmaar",
+    "Falkenbergs FF"
+  ]
+}

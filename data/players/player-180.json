@@ -1,0 +1,32 @@
+{
+  "player_id": 180,
+  "full_name": "Oliver William Skipp",
+  "nationality": "England",
+  "birth_date": "2000-09-16",
+  "birth_place": null,
+  "career_transfers": [
+    {
+      "date": "2024-08-19",
+      "type": "€ 23.5M",
+      "team_out": "Tottenham",
+      "team_in": "Leicester"
+    },
+    {
+      "date": "2021-07-01",
+      "type": "N/A",
+      "team_out": "Norwich",
+      "team_in": "Tottenham"
+    },
+    {
+      "date": "2020-08-17",
+      "type": "Loan",
+      "team_out": "Tottenham",
+      "team_in": "Norwich"
+    }
+  ],
+  "career_clubs": [
+    "Tottenham Hotspur F.C.",
+    "Norwich City F.C.",
+    "Leicester City F.C."
+  ]
+}

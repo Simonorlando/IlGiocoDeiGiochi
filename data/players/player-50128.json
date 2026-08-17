@@ -1,0 +1,41 @@
+{
+  "player_id": 50128,
+  "full_name": "Umut Bulut",
+  "nationality": "Türkiye",
+  "birth_date": "1983-03-15",
+  "birth_place": "Kayseri",
+  "career_transfers": [
+    {
+      "date": "2016-08-31",
+      "type": "Free",
+      "team_out": "Galatasaray",
+      "team_in": "Kayserispor"
+    },
+    {
+      "date": "2013-07-15",
+      "type": "€ 2.7M",
+      "team_out": "Toulouse",
+      "team_in": "Galatasaray"
+    },
+    {
+      "date": "2013-07-01",
+      "type": "N/A",
+      "team_out": "Galatasaray",
+      "team_in": "Toulouse"
+    },
+    {
+      "date": "2012-07-01",
+      "type": "Loan",
+      "team_out": "Toulouse",
+      "team_in": "Galatasaray"
+    }
+  ],
+  "career_clubs": [
+    "Petrol Ofisi Spor",
+    "MKE Ankaragücü",
+    "İnegölspor",
+    "Trabzonspor",
+    "Toulouse FC",
+    "Galatasaray S.K."
+  ]
+}

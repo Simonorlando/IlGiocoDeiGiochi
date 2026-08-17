@@ -1,0 +1,46 @@
+{
+  "player_id": 30515,
+  "full_name": "Simone Zaza",
+  "nationality": "Italy",
+  "birth_date": "1991-06-25",
+  "birth_place": "Policoro",
+  "career_transfers": [
+    {
+      "date": "2019-07-01",
+      "type": "€ 12M",
+      "team_out": "Valencia",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2018-08-17",
+      "type": "Loan",
+      "team_out": "Valencia",
+      "team_in": "Torino"
+    },
+    {
+      "date": "2017-07-01",
+      "type": "€ 16M",
+      "team_out": "Juventus",
+      "team_in": "Valencia"
+    },
+    {
+      "date": "2017-01-15",
+      "type": "Loan",
+      "team_out": "Juventus",
+      "team_in": "Valencia"
+    }
+  ],
+  "career_clubs": [
+    "Atalanta BC",
+    "U.C. Sampdoria",
+    "S.S. Juve Stabia",
+    "Viareggio Calcio",
+    "Ascoli Calcio 1898 FC",
+    "Italy under-21 Serie B representative team",
+    "US Sassuolo Calcio",
+    "Juventus FC",
+    "West Ham United F.C.",
+    "Valencia CF",
+    "Torino FC"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "player_id": 61315,
+  "full_name": "Pavol Farkaš",
+  "nationality": "Slovakia",
+  "birth_date": "1985-03-27",
+  "birth_place": "Vráble",
+  "career_transfers": [
+    {
+      "date": "2014-07-01",
+      "type": "N/A",
+      "team_out": "Ternana",
+      "team_in": "Chievo"
+    },
+    {
+      "date": "2013-07-16",
+      "type": "Loan",
+      "team_out": "Chievo",
+      "team_in": "Ternana"
+    },
+    {
+      "date": "2012-07-04",
+      "type": "Free",
+      "team_out": "Vaslui",
+      "team_in": "Chievo"
+    }
+  ],
+  "career_clubs": [
+    "FC Nitra",
+    "FC Petržalka",
+    "FC Vaslui",
+    "AC ChievoVerona",
+    "Ternana Calcio",
+    "Gabala FC",
+    "Xanthi F.C."
+  ]
+}

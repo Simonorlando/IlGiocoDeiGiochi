@@ -1,0 +1,20 @@
+{
+  "player_id": 278,
+  "full_name": "Kylian Mbappé Lottin",
+  "nationality": "France",
+  "birth_date": "1998-12-20",
+  "birth_place": "Paris",
+  "career_transfers": [
+    {
+      "date": "2024-07-01",
+      "type": "Free",
+      "team_out": "Paris Saint Germain",
+      "team_in": "Real Madrid"
+    }
+  ],
+  "career_clubs": [
+    "AS Monaco FC",
+    "Paris Saint-Germain FC",
+    "Real Madrid Club de Fútbol"
+  ]
+}

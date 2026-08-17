@@ -1,0 +1,24 @@
+{
+  "player_id": 679,
+  "full_name": "Ismaily Gonçalves dos Santos",
+  "nationality": "Brazil",
+  "birth_date": "1990-01-11",
+  "birth_place": "Ivinhema",
+  "career_transfers": [
+    {
+      "date": "2022-08-04",
+      "type": "Free",
+      "team_out": "Shakhtar Donetsk",
+      "team_in": "Lille"
+    }
+  ],
+  "career_clubs": [
+    "Desportivo Brasil",
+    "Esporte Clube São Bento",
+    "Desportivo Brasil",
+    "G.D. Estoril Praia",
+    "S.C. Olhanense",
+    "S.C. Braga",
+    "FC Shakhtar Donetsk"
+  ]
+}
