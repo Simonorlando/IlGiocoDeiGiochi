@@ -364,27 +364,36 @@ function fillManualMatches() {
     return;
   }
 
-  // In Champions ogni turno (tranne la finale) e' andata/ritorno: le partite
-  // sono gia' ordinate per data, e per un turno a eliminazione diretta le
-  // date dell'andata sono sempre tutte prima di quelle del ritorno -- quindi
-  // basta inserire un separatore visivo dove inizia il ritorno.
+  // In Champions ogni turno (tranne la finale) e' andata/ritorno: raggruppo
+  // le partite per incrocio (stesse due squadre), ordino ogni incrocio per
+  // data (andata prima) e gli incroci fra loro per data dell'andata --
+  // cosi' l'ordine delle gare di ritorno rispecchia esattamente quello
+  // delle andate (stessa posizione = stesso incrocio), invece di dipendere
+  // dall'ordine "grezzo" per data che poteva disallinearle.
   const showLegDivider = state.competition === 'champions_league' && round.round !== 'Final';
-  const legOf = m => {
-    const teamsKey = [m.home, m.away].sort().join('|');
-    const tie = round.matches.filter(x => [x.home, x.away].sort().join('|') === teamsKey);
-    if (tie.length <= 1) return 0;
-    return tie.findIndex(x => x.fixture_id === m.fixture_id);
-  };
+  let orderedMatches = round.matches;
+  let ritornoStartsAt = -1;
+  if (showLegDivider) {
+    const ties = new Map();
+    const tieOrder = [];
+    for (const m of round.matches) {
+      const key = [m.home, m.away].sort().join('|');
+      if (!ties.has(key)) { ties.set(key, []); tieOrder.push(key); }
+      ties.get(key).push(m);
+    }
+    for (const key of tieOrder) ties.get(key).sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+    tieOrder.sort((a, b) => (ties.get(a)[0].date || '').localeCompare(ties.get(b)[0].date || ''));
+    const andataList = tieOrder.map(k => ties.get(k)[0]);
+    const ritornoList = tieOrder.filter(k => ties.get(k).length > 1).map(k => ties.get(k)[1]);
+    orderedMatches = [...andataList, ...ritornoList];
+    ritornoStartsAt = andataList.length;
+  }
 
   let html = '';
-  let ritornoShown = false;
-  for (const m of round.matches) {
-    if (showLegDivider && !ritornoShown && legOf(m) === 1) {
-      html += `<div class="round-leg-divider">Ritorno</div>`;
-      ritornoShown = true;
-    }
+  orderedMatches.forEach((m, i) => {
+    if (i === ritornoStartsAt) html += `<div class="round-leg-divider">Ritorno</div>`;
     html += `<div class="match-item" data-fixture-id="${m.fixture_id}">${escapeHtml(teamDisplayName(m.home))} — ${escapeHtml(teamDisplayName(m.away))}</div>`;
-  }
+  });
   list.innerHTML = html;
   list.querySelectorAll('.match-item').forEach(item => {
     item.addEventListener('click', () => {
