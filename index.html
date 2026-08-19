@@ -11,9 +11,13 @@
 <header class="topbar">
   <div class="topbar-left">
     <button type="button" id="globalBackBtn" class="global-back-btn hidden" aria-label="Indietro">←</button>
+  </div>
+  <div class="topbar-center">
+    <button type="button" id="newGameBtn" class="new-game-btn hidden">Nuova partita</button>
+  </div>
+  <div class="topbar-right">
     <button type="button" id="brandHome" class="home-btn" aria-label="Menu principale">🏠</button>
   </div>
-  <div class="topbar-right" id="topbarRight"></div>
 </header>
 
 <main id="app">
@@ -141,12 +145,12 @@
   <section id="screen-game" class="screen">
     <div class="game-header">
       <div class="match-header-info">
-        <div id="matchLabel" class="match-label"></div>
-        <div id="matchScore" class="match-score"></div>
-      </div>
-      <div class="game-header-actions">
-        <span id="scoreLabel" class="score-label"></span>
-        <button class="new-game-btn" id="newGameBtn">Nuova partita</button>
+        <div class="match-meta-row">
+          <div id="matchLabel" class="match-label"></div>
+          <span id="scoreLabel" class="score-label"></span>
+        </div>
+        <div id="matchTeams" class="match-teams"></div>
+        <div id="matchDetails" class="match-details"></div>
       </div>
     </div>
 

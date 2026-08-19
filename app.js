@@ -154,6 +154,9 @@ function showScreen(id, { fromBack = false } = {}) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   updateBackButton();
+  // "Nuova partita" vive nel banner in alto (centrato) -- visibile solo
+  // durante la sessione di gioco, dove ha senso interromperla.
+  document.getElementById('newGameBtn').classList.toggle('hidden', id !== 'screen-game');
 }
 
 function goBack() {
@@ -453,21 +456,24 @@ async function loadAndStartMatch(fixtureId) {
   const players = await Promise.all(ids.map(id => fetchJson(`${DATA_BASE}/players/player-${id}.json`)));
   players.forEach(p => { state.players[p.player_id] = p; });
 
-  // riga 1: campionato + turno/giornata. riga 2: le due squadre, con la
-  // data esatta della partita accanto tra parentesi (gia' in grigio perche'
-  // l'intera riga #matchScore lo e') -- cosi' non si aggiunge una terza
-  // riga e il campo sotto resta dove'era.
+  // riga 1 (piccola/grigia): campionato + stagione + turno/giornata --
+  // contesto, non il centro dell'attenzione. riga 2 (grande/grassetto): le
+  // due squadre, la cosa che conta davvero. riga 3 (piccola/grigia): data
+  // e risultato, col risultato evidenziato in verde per farlo spiccare un
+  // filo rispetto alla data.
   const roundInfo = matchRoundInfo(state.competition, indexEntry);
   document.getElementById('matchLabel').textContent =
     [`${COMP_LABEL[state.competition]} ${seasonLabel(match.season)}`, roundInfo].filter(Boolean).join(' — ');
 
-  const scoreEl = document.getElementById('matchScore');
+  document.getElementById('matchTeams').textContent =
+    `${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}`;
+
+  const detailsEl = document.getElementById('matchDetails');
   const dateShort = formatDateShort(state.matchDate);
-  const teamsText = `${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}${dateShort ? ` (${dateShort})` : ''}`;
   const scoreText = (match.home_score != null && match.away_score != null)
-    ? `Risultato finale: ${match.home_score} – ${match.away_score}`
+    ? `<span class="score-highlight">${match.home_score} – ${match.away_score}</span>`
     : '';
-  scoreEl.textContent = [teamsText, scoreText].filter(Boolean).join(' · ');
+  detailsEl.innerHTML = [dateShort, scoreText].filter(Boolean).join(' · ');
 
   setupTeamTabs(match);
 

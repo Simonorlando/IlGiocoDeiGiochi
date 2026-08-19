@@ -30,9 +30,9 @@ button, .player-dot, .team-tab, .match-item, .hint-card, .suggest-item, .big-cho
 }
 
 .topbar {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  justify-content: space-between;
   padding: 7px 20px;
   padding-top: calc(7px + env(safe-area-inset-top));
   padding-left: calc(20px + env(safe-area-inset-left));
@@ -40,7 +40,9 @@ button, .player-dot, .team-tab, .match-item, .hint-card, .suggest-item, .big-cho
   background: var(--panel);
   border-bottom: 1px solid rgba(255,255,255,0.06);
 }
-.topbar-left { display: flex; align-items: center; gap: 10px; }
+.topbar-left { display: flex; align-items: center; gap: 10px; justify-content: flex-start; }
+.topbar-center { display: flex; align-items: center; justify-content: center; }
+.topbar-right { display: flex; align-items: center; justify-content: flex-end; }
 .global-back-btn, .home-btn {
   background: var(--panel-2);
   border: 1px solid rgba(255,255,255,0.1);
@@ -325,11 +327,19 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   flex-wrap: wrap;
   gap: 10px;
 }
-.match-header-info { display: flex; flex-direction: column; gap: 2px; }
-.match-label { font-weight: 700; font-size: 1.05rem; }
-.match-score { color: var(--text-dim); font-size: 0.85rem; font-weight: 600; }
-.game-header-actions { display: flex; align-items: center; gap: 12px; }
-.score-label { color: var(--text-dim); font-size: 0.9rem; }
+.match-header-info { display: flex; flex-direction: column; gap: 2px; flex: 1; }
+.match-meta-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.match-label {
+  color: var(--text-dim);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.match-teams { font-weight: 700; font-size: 1.15rem; }
+.match-details { color: var(--text-dim); font-size: 0.85rem; }
+.match-details .score-highlight { color: var(--accent); font-weight: 700; }
+.score-label { color: var(--text-dim); font-size: 0.9rem; white-space: nowrap; }
 .new-game-btn {
   background: var(--panel-2);
   color: var(--text);
