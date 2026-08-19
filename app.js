@@ -98,6 +98,17 @@ function normalizeName(s) {
     .replace(/[^a-z0-9]/g, '');
 }
 
+// Solo per la VISUALIZZAZIONE -- il team_name originale ("AS Roma", "AC
+// Milan") resta invariato ovunque nei dati e nella logica (teamColor,
+// abbinamento Sofascore/Wikipedia per parole significative), cosi' non si
+// rompe nulla che dipenda dal nome completo. Tolgo solo il prefisso
+// societario quando e' seguito da un nome proprio (maiuscola), per non
+// toccare per sbaglio squadre il cui nome INIZIA legittimamente con
+// quelle lettere.
+function teamDisplayName(name) {
+  return name.replace(/^(AS|AC)\s+(?=[A-ZÀ-Ý])/, '');
+}
+
 function seasonLabel(season) {
   return `${season}-${String(season + 1).slice(-2)}`;
 }
@@ -330,7 +341,7 @@ function fillManualMatches() {
     return;
   }
   list.innerHTML = round.matches.map(m =>
-    `<div class="match-item" data-fixture-id="${m.fixture_id}">${escapeHtml(m.home)} — ${escapeHtml(m.away)}</div>`
+    `<div class="match-item" data-fixture-id="${m.fixture_id}">${escapeHtml(teamDisplayName(m.home))} — ${escapeHtml(teamDisplayName(m.away))}</div>`
   ).join('');
   list.querySelectorAll('.match-item').forEach(item => {
     item.addEventListener('click', () => {
@@ -391,7 +402,7 @@ async function loadAndStartMatch(fixtureId) {
   players.forEach(p => { state.players[p.player_id] = p; });
 
   document.getElementById('matchLabel').textContent =
-    `${COMP_LABEL[state.competition]} ${seasonLabel(match.season)} — ${match.teams[0].team_name} vs ${match.teams[1].team_name}`;
+    `${COMP_LABEL[state.competition]} ${seasonLabel(match.season)} — ${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}`;
 
   const scoreEl = document.getElementById('matchScore');
   if (match.home_score != null && match.away_score != null) {
@@ -422,7 +433,7 @@ function setupTeamTabs(match) {
   match.teams.forEach((team, i) => {
     const tab = tabs[i];
     const color = teamColor(team.team_name);
-    tab.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span>${escapeHtml(team.team_name)}`;
+    tab.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span>${escapeHtml(teamDisplayName(team.team_name))}`;
     tab.onclick = () => {
       if (state.activeTeamIdx === i) return;
       applyPitchSlots(i, state.activeTeamIdx);
