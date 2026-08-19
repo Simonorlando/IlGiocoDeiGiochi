@@ -163,7 +163,13 @@ function setupSuggestions() {
     if (raw.length < 2) { list.classList.add('hidden'); list.innerHTML = ''; return; }
 
     const names = await loadAllPlayerNames();
-    const q = normalizeName(raw);
+    // ogni parola digitata (es. "de rossi" -> ["de","rossi"]) deve
+    // combaciare con l'inizio di UN token del nome (non necessariamente
+    // lo stesso per tutte) -- cosi' digitare piu' parole insieme funziona
+    // esattamente come digitarne una sola, invece di cercare l'intera
+    // query come stringa unica senza spazi (che non trova mai nulla per
+    // query multi-parola, es. "de rossi" o "fabian ruiz").
+    const qWords = raw.split(/[\s\-']+/).map(normalizeName).filter(w => w.length >= 1);
 
     // mostro l'IDENTITA' COMPLETA (nome+cognome), mai un nome isolato --
     // altrimenti il suggerimento stesso rivelerebbe una risposta parziale
@@ -173,7 +179,7 @@ function setupSuggestions() {
     const matches = [];
     for (const n of names) {
       const tokens = n.split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 2);
-      if (!tokens.some(t => t.startsWith(q))) continue;
+      if (!qWords.every(qw => tokens.some(t => t.startsWith(qw)))) continue;
       matches.push(n);
     }
 
@@ -667,7 +673,8 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   e.preventDefault();
   const playerId = state.currentCardPlayerId;
   const player = state.players[playerId];
-  const guess = normalizeName(document.getElementById('guessInput').value);
+  const rawGuess = document.getElementById('guessInput').value;
+  const guess = normalizeName(rawGuess);
   const feedback = document.getElementById('guessFeedback');
 
   if (!guess) return;
@@ -677,14 +684,33 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   // completo sia il nome corto mostrato in gioco (display_name), spezzando
   // anche su trattini/apostrofi (es. "Agyemang-Badu" -> due token) cosi'
   // piccole differenze di punteggiatura non bloccano una risposta giusta.
+  const nameTokenLists = [];
   const acceptedNorms = new Set();
   for (const name of [player.full_name, displayName(player)]) {
     const norm = normalizeName(name);
     if (norm) acceptedNorms.add(norm);
     const tokens = name.split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 2);
     if (tokens.length >= 2) acceptedNorms.add(tokens[0] + tokens[tokens.length - 1]);
+    nameTokenLists.push(tokens);
   }
-  const isCorrect = acceptedNorms.has(guess);
+  let isCorrect = acceptedNorms.has(guess);
+
+  // Tolleranza per cognomi con particella ("De Rossi", "de Vrij", "Fabian
+  // Ruiz" senza accento): se le parole digitate (>=2) formano una sequenza
+  // contigua di token del nome, la accetto anche se non e' l'intera
+  // identita' o la forma "primo+ultimo token" -- niente token isolato pero',
+  // la regola "identita' completa" resta.
+  if (!isCorrect) {
+    const guessTokens = rawGuess.trim().split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 1);
+    if (guessTokens.length >= 2) {
+      isCorrect = nameTokenLists.some(tokens => {
+        for (let i = 0; i + guessTokens.length <= tokens.length; i++) {
+          if (guessTokens.every((g, j) => tokens[i + j] === g)) return true;
+        }
+        return false;
+      });
+    }
+  }
 
   if (isCorrect) {
     state.solved[playerId] = true;
