@@ -133,24 +133,46 @@ h1 {
 .title-banner {
   position: relative;
   z-index: 2;
-  background: rgba(8, 18, 12, 0.55);
-  backdrop-filter: blur(2px);
-  border: 1px solid rgba(255,255,255,0.25);
-  border-radius: 14px;
-  padding: 18px 28px;
+  background: linear-gradient(180deg, rgba(10, 22, 15, 0.7), rgba(6, 14, 9, 0.6));
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255,255,255,0.16);
+  border-radius: 18px;
+  padding: 22px 32px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.35);
 }
+.title-banner-top { border-color: rgba(61,220,132,0.3); }
 .game-title {
-  font-size: 2.4rem;
-  font-weight: 900;
-  letter-spacing: 0.05em;
+  font-family: 'Bebas Neue', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 3.4rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 1;
   margin: 0;
-  color: #ffffff;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 8px 28px rgba(0,0,0,0.55);
+  background: linear-gradient(180deg, #ffffff 40%, #a9f0c6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 8px 32px rgba(61,220,132,0.35);
 }
-.title-banner-bottom .cta-btn { margin: 0; }
+.game-subtitle {
+  margin: 8px 0 0;
+  color: rgba(255,255,255,0.78);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.title-banner-bottom .cta-btn {
+  margin: 0;
+  padding: 14px 30px;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  box-shadow: 0 10px 30px rgba(61,220,132,0.4);
+}
 @media (max-width: 480px) {
-  .game-title { font-size: 1.6rem; }
-  .title-banner { padding: 14px 18px; }
+  .game-title { font-size: 2.5rem; }
+  .game-subtitle { font-size: 0.8rem; }
+  .title-banner { padding: 16px 22px; }
 }
 
 .big-choices {
@@ -325,14 +347,6 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .cta-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .cta-btn:not(:disabled):hover { filter: brightness(1.08); }
-
-.title-content .cta-btn {
-  background: #ffffff;
-  color: #16401f;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.35);
-  margin-top: 0;
-}
-.title-content .cta-btn:hover { background: #f0f0f0; }
 
 .game-header {
   display: flex;
