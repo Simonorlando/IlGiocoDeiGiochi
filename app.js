@@ -140,7 +140,7 @@ function matchRoundInfo(competition, indexEntry) {
   if (tie.length <= 1) return base;
   tie.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
   const legIdx = tie.findIndex(m => m.fixture_id === indexEntry.fixture_id);
-  return `${base} — ${legIdx === 0 ? 'andata' : 'ritorno'}`;
+  return `${base}, ${legIdx === 0 ? 'andata' : 'ritorno'}`;
 }
 
 // Cronologia di navigazione, per la freccia "indietro" universale in alto a
@@ -444,15 +444,21 @@ async function loadAndStartMatch(fixtureId) {
   const players = await Promise.all(ids.map(id => fetchJson(`${DATA_BASE}/players/player-${id}.json`)));
   players.forEach(p => { state.players[p.player_id] = p; });
 
+  // riga 1: campionato + turno/giornata. riga 2: le due squadre, con la
+  // data esatta della partita accanto tra parentesi (gia' in grigio perche'
+  // l'intera riga #matchScore lo e') -- cosi' non si aggiunge una terza
+  // riga e il campo sotto resta dove'era.
+  const roundInfo = matchRoundInfo(state.competition, indexEntry);
   document.getElementById('matchLabel').textContent =
-    `${COMP_LABEL[state.competition]} ${seasonLabel(match.season)} — ${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}`;
+    [`${COMP_LABEL[state.competition]} ${seasonLabel(match.season)}`, roundInfo].filter(Boolean).join(' — ');
 
   const scoreEl = document.getElementById('matchScore');
-  const roundInfo = matchRoundInfo(state.competition, indexEntry);
+  const dateShort = formatDateShort(state.matchDate);
+  const teamsText = `${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}${dateShort ? ` (${dateShort})` : ''}`;
   const scoreText = (match.home_score != null && match.away_score != null)
     ? `Risultato finale: ${match.home_score} – ${match.away_score}`
     : '';
-  scoreEl.textContent = [roundInfo, scoreText].filter(Boolean).join(' · ');
+  scoreEl.textContent = [teamsText, scoreText].filter(Boolean).join(' · ');
 
   setupTeamTabs(match);
 
