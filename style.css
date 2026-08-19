@@ -1,14 +1,16 @@
 :root {
-  --bg: #0f1115;
-  --panel: #171a21;
-  --panel-2: #1f232c;
+  --bg: #050505;
+  --panel: #131315;
+  --panel-2: #1c1c1f;
   --pitch: #1b3a24;
   --pitch-line: rgba(255,255,255,0.35);
   --accent: #3ddc84;
   --accent-2: #ffb020;
-  --text: #f2f3f5;
-  --text-dim: #9aa0ab;
+  --text: #f5f5f6;
+  --text-dim: #9a9aa2;
   --danger: #ff5c5c;
+  --border: rgba(255,255,255,0.14);
+  --border-strong: rgba(255,255,255,0.26);
   --radius: 14px;
 }
 
@@ -38,14 +40,14 @@ button, .player-dot, .team-tab, .match-item, .hint-card, .suggest-item, .big-cho
   padding-left: calc(20px + env(safe-area-inset-left));
   padding-right: calc(20px + env(safe-area-inset-right));
   background: var(--panel);
-  border-bottom: 1px solid rgba(255,255,255,0.06);
+  border-bottom: 1px solid var(--border);
 }
 .topbar-left { display: flex; align-items: center; gap: 10px; justify-content: flex-start; }
 .topbar-center { display: flex; align-items: center; justify-content: center; }
 .topbar-right { display: flex; align-items: center; justify-content: flex-end; }
 .global-back-btn, .home-btn {
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.1);
+  border: 1px solid var(--border);
   color: var(--text);
   border-radius: 8px;
   width: 34px;
@@ -149,7 +151,7 @@ h1 {
 
 .big-choice, .mode-choice {
   background: var(--panel);
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 24px 16px;
   color: var(--text);
@@ -206,7 +208,7 @@ h1 {
 select {
   background: var(--panel-2);
   color: var(--text);
-  border: 1px solid rgba(255,255,255,0.1);
+  border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 10px;
   font-size: 0.95rem;
@@ -241,14 +243,14 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   align-items: center;
   justify-content: center;
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 16px;
   cursor: pointer;
   font-size: 1rem;
   text-align: center;
 }
-.match-item:hover { border-color: rgba(255,255,255,0.3); }
+.match-item:hover { border-color: var(--border-strong); }
 .match-item.selected { border-color: var(--accent); background: rgba(61,220,132,0.14); font-weight: 700; }
 
 .round-leg-divider {
@@ -284,7 +286,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .round-nav select { flex: 1; min-width: 0; }
 .round-nav-btn {
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.1);
+  border: 1px solid var(--border);
   color: var(--text);
   border-radius: 8px;
   flex-shrink: 0;
@@ -343,7 +345,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .new-game-btn {
   background: var(--panel-2);
   color: var(--text);
-  border: 1px solid rgba(255,255,255,0.1);
+  border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 14px;
   cursor: pointer;
@@ -359,7 +361,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .team-tab {
   background: var(--panel);
-  border: 2px solid rgba(255,255,255,0.08);
+  border: 2px solid var(--border);
   border-radius: 10px;
   padding: 10px 14px;
   color: var(--text);
@@ -372,7 +374,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   gap: 8px;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
-.team-tab:hover { border-color: rgba(255,255,255,0.25); }
+.team-tab:hover { border-color: var(--border-strong); }
 .team-tab.active {
   border-color: var(--accent);
   background: var(--panel-2);
@@ -468,7 +470,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   max-width: 420px;
   width: 100%;
   position: relative;
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid var(--border);
 }
 .player-card-close {
   position: absolute;
@@ -491,7 +493,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 
 .hint-card {
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid var(--border);
   border-radius: 10px;
   cursor: pointer;
   overflow: hidden;
@@ -595,7 +597,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .guess-form input {
   width: 100%;
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.12);
+  border: 1px solid var(--border);
   border-radius: 8px;
   padding: 10px 12px;
   color: var(--text);
@@ -609,7 +611,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   left: 0;
   right: 0;
   background: var(--panel-2);
-  border: 1px solid rgba(255,255,255,0.15);
+  border: 1px solid var(--border-strong);
   border-radius: 8px;
   max-height: 190px;
   overflow-y: auto;
