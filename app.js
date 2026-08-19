@@ -120,6 +120,29 @@ function roundLabel(round) {
   return ROUND_LABELS[round] || round;
 }
 
+// Etichetta turno per l'intestazione della partita in corso ("Giornata 12"
+// in Serie A, "Ottavi di finale — andata" in Champions). L'andata/ritorno
+// non e' un dato salvato da nessuna parte: lo ricavo confrontando la data
+// di questa partita con l'altra gara dello stesso incrocio (stessa
+// stagione, stesso turno, stesse due squadre) nell'indice gia' caricato --
+// la piu' vecchia delle due e' sempre l'andata.
+function matchRoundInfo(competition, indexEntry) {
+  if (!indexEntry || !indexEntry.round) return '';
+  if (competition === 'serie_a') return roundLabel(indexEntry.round);
+
+  const base = ROUND_LABELS[indexEntry.round] || indexEntry.round;
+  const teamsKey = [indexEntry.home, indexEntry.away].sort().join('|');
+  const tie = (state.index || []).filter(m =>
+    m.season === indexEntry.season &&
+    m.round === indexEntry.round &&
+    [m.home, m.away].sort().join('|') === teamsKey
+  );
+  if (tie.length <= 1) return base;
+  tie.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  const legIdx = tie.findIndex(m => m.fixture_id === indexEntry.fixture_id);
+  return `${base} — ${legIdx === 0 ? 'andata' : 'ritorno'}`;
+}
+
 // Cronologia di navigazione, per la freccia "indietro" universale in alto a
 // sinistra: ogni cambio schermata (tranne il tornare indietro stesso) mette
 // in pila la schermata di provenienza.
@@ -405,11 +428,11 @@ async function loadAndStartMatch(fixtureId) {
     `${COMP_LABEL[state.competition]} ${seasonLabel(match.season)} — ${teamDisplayName(match.teams[0].team_name)} vs ${teamDisplayName(match.teams[1].team_name)}`;
 
   const scoreEl = document.getElementById('matchScore');
-  if (match.home_score != null && match.away_score != null) {
-    scoreEl.textContent = `Risultato finale: ${match.home_score} – ${match.away_score}`;
-  } else {
-    scoreEl.textContent = '';
-  }
+  const roundInfo = matchRoundInfo(state.competition, indexEntry);
+  const scoreText = (match.home_score != null && match.away_score != null)
+    ? `Risultato finale: ${match.home_score} – ${match.away_score}`
+    : '';
+  scoreEl.textContent = [roundInfo, scoreText].filter(Boolean).join(' · ');
 
   setupTeamTabs(match);
 
