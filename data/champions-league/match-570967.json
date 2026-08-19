@@ -6,7 +6,7 @@
     {
       "team_name": "RB Leipzig",
       "team_id": 173,
-      "formation": "3-3-3-1",
+      "formation": "4-2-3-1",
       "lineup": [
         {
           "player_id": 1139,
@@ -54,8 +54,8 @@
           "player_id": 227,
           "shirt_number": 3,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 2
+          "line_index": 1,
+          "slot_in_line": 3
         },
         {
           "player_id": 1159,
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 2,
-  "away_score": 1
+  "away_score": 1,
+  "positions_source": "sofascore_v2"
 }

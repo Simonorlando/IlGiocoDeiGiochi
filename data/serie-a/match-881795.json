@@ -110,7 +110,7 @@
           "player_id": 197,
           "shirt_number": 13,
           "position": "D",
-          "line_index": 1,
+          "line_index": 2,
           "slot_in_line": 1
         },
         {
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 4,
-  "away_score": 0
+  "away_score": 0,
+  "positions_source": "sofascore_v2"
 }

@@ -27,7 +27,7 @@
           "shirt_number": 15,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 4
         },
         {
           "player_id": 8581,
@@ -41,21 +41,21 @@
           "shirt_number": 17,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 3
+          "slot_in_line": 1
         },
         {
           "player_id": 30523,
           "shirt_number": 13,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 4
+          "slot_in_line": 3
         },
         {
           "player_id": 30625,
           "shirt_number": 8,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 0
+          "slot_in_line": 2
         },
         {
           "player_id": 31053,
@@ -69,14 +69,14 @@
           "shirt_number": 27,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 3
         },
         {
           "player_id": 11096,
           "shirt_number": 24,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 3
+          "slot_in_line": 0
         },
         {
           "player_id": 30487,
@@ -104,49 +104,49 @@
           "shirt_number": 20,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 772,
           "shirt_number": 44,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 0
         },
         {
           "player_id": 9948,
           "shirt_number": 13,
           "position": "D",
-          "line_index": 1,
-          "slot_in_line": 2
+          "line_index": 2,
+          "slot_in_line": 0
         },
         {
           "player_id": 2284,
           "shirt_number": 33,
           "position": "D",
           "line_index": 2,
-          "slot_in_line": 0
+          "slot_in_line": 3
         },
         {
           "player_id": 2285,
           "shirt_number": 2,
           "position": "D",
-          "line_index": 2,
-          "slot_in_line": 1
+          "line_index": 1,
+          "slot_in_line": 2
         },
         {
           "player_id": 205,
           "shirt_number": 4,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 2
+          "line_index": 3,
+          "slot_in_line": 1
         },
         {
           "player_id": 1916,
           "shirt_number": 6,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 3
+          "slot_in_line": 2
         },
         {
           "player_id": 306,
@@ -159,7 +159,7 @@
           "player_id": 271,
           "shirt_number": 5,
           "position": "M",
-          "line_index": 3,
+          "line_index": 2,
           "slot_in_line": 1
         },
         {
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 0,
-  "away_score": 2
+  "away_score": 2,
+  "positions_source": "sofascore_v2"
 }

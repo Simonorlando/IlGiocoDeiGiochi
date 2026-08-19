@@ -54,7 +54,7 @@
           "player_id": 41130,
           "shirt_number": 22,
           "position": "M",
-          "line_index": 2,
+          "line_index": 3,
           "slot_in_line": 1
         },
         {
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 5,
-  "away_score": 1
+  "away_score": 1,
+  "positions_source": "sofascore_v2"
 }

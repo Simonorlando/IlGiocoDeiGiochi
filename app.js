@@ -172,7 +172,7 @@ function setupSuggestions() {
     // senza limite fisso di risultati.
     const matches = [];
     for (const n of names) {
-      const tokens = n.split(/\s+/).map(normalizeName).filter(t => t.length >= 2);
+      const tokens = n.split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 2);
       if (!tokens.some(t => t.startsWith(q))) continue;
       matches.push(n);
     }
@@ -580,14 +580,18 @@ function firstName(fullName) {
   return fullName.split(' ')[0];
 }
 
+function displayName(player) {
+  return player.display_name || player.full_name;
+}
+
 function buildHints(entry, player, teamName) {
   return [
-    { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(player.full_name)) },
+    { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(displayName(player))) },
     { id: 'shirt', label: 'Numero di maglia', value: escapeHtml(String(entry.shirt_number ?? '—')) },
     { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
     { id: 'birthdate', label: 'Data di nascita', value: escapeHtml(player.birth_date || '—') },
     { id: 'career', label: 'Carriera', value: careerTimelineHtml(player, teamName) },
-    { id: 'reveal', label: 'Chi è?', value: `<strong>${escapeHtml(player.full_name)}</strong>` },
+    { id: 'reveal', label: 'Chi è?', value: `<strong>${escapeHtml(displayName(player))}</strong>` },
   ];
 }
 
@@ -640,7 +644,7 @@ function openPlayerCard(entry, teamName) {
   if (state.solved[entry.player_id]) {
     solvedBlock.classList.remove('hidden');
     unsolvedBlock.classList.add('hidden');
-    document.getElementById('solvedName').textContent = player.full_name;
+    document.getElementById('solvedName').textContent = displayName(player);
   } else {
     solvedBlock.classList.add('hidden');
     unsolvedBlock.classList.remove('hidden');
@@ -669,13 +673,18 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   if (!guess) return;
 
   // Accetto SOLO l'identita' completa (nome+cognome), mai un singolo nome o
-  // cognome isolato -- il nome ufficiale completo a volte ha anche un
-  // secondo nome (es. "Alvaro Rafael Gonzalez Luengo"), quindi accetto sia
-  // la stringa ufficiale intera sia la forma comune "nome+cognome".
-  const fullNorm = normalizeName(player.full_name);
-  const fullTokens = player.full_name.split(/\s+/).map(normalizeName).filter(t => t.length >= 2);
-  const commonNorm = fullTokens.length >= 2 ? fullTokens[0] + fullTokens[fullTokens.length - 1] : fullNorm;
-  const isCorrect = guess === fullNorm || guess === commonNorm;
+  // cognome isolato -- ma con tolleranza: confronto sia il nome ufficiale
+  // completo sia il nome corto mostrato in gioco (display_name), spezzando
+  // anche su trattini/apostrofi (es. "Agyemang-Badu" -> due token) cosi'
+  // piccole differenze di punteggiatura non bloccano una risposta giusta.
+  const acceptedNorms = new Set();
+  for (const name of [player.full_name, displayName(player)]) {
+    const norm = normalizeName(name);
+    if (norm) acceptedNorms.add(norm);
+    const tokens = name.split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 2);
+    if (tokens.length >= 2) acceptedNorms.add(tokens[0] + tokens[tokens.length - 1]);
+  }
+  const isCorrect = acceptedNorms.has(guess);
 
   if (isCorrect) {
     state.solved[playerId] = true;
@@ -683,7 +692,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     updateScore();
     document.getElementById('cardSolved').classList.remove('hidden');
     document.getElementById('cardUnsolved').classList.add('hidden');
-    document.getElementById('solvedName').textContent = player.full_name;
+    document.getElementById('solvedName').textContent = displayName(player);
   } else {
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';

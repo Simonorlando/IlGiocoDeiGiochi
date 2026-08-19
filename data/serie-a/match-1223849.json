@@ -12,8 +12,8 @@
           "player_id": 46988,
           "shirt_number": 13,
           "position": "G",
-          "line_index": 0,
-          "slot_in_line": 0
+          "line_index": 4,
+          "slot_in_line": 1
         },
         {
           "player_id": 2725,
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 1,
-  "away_score": 0
+  "away_score": 0,
+  "positions_source": "sofascore_v2"
 }

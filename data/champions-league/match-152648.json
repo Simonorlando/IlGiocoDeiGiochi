@@ -146,8 +146,8 @@
           "player_id": 684,
           "shirt_number": 7,
           "position": null,
-          "line_index": 3,
-          "slot_in_line": 1
+          "line_index": 2,
+          "slot_in_line": 0
         },
         {
           "player_id": 18761,
@@ -160,8 +160,8 @@
           "player_id": 905,
           "shirt_number": 8,
           "position": null,
-          "line_index": 2,
-          "slot_in_line": 0
+          "line_index": 3,
+          "slot_in_line": 1
         },
         {
           "player_id": 47346,
@@ -173,7 +173,7 @@
       ]
     }
   ],
-  "positions_source": "sofascore",
+  "positions_source": "sofascore_v2",
   "home_score": 1,
   "away_score": 0
 }

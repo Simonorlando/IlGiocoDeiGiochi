@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 2,
-  "away_score": 5
+  "away_score": 5,
+  "positions_source": "sofascore_v2"
 }

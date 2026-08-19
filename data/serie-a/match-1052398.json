@@ -90,7 +90,7 @@
     {
       "team_name": "Udinese",
       "team_id": 494,
-      "formation": "3-5-1-1",
+      "formation": "3-1-4-2",
       "lineup": [
         {
           "player_id": 30915,
@@ -124,14 +124,14 @@
           "player_id": 161638,
           "shirt_number": 2,
           "position": "M",
-          "line_index": 2,
+          "line_index": 3,
           "slot_in_line": 0
         },
         {
           "player_id": 178749,
           "shirt_number": 24,
           "position": "M",
-          "line_index": 2,
+          "line_index": 3,
           "slot_in_line": 1
         },
         {
@@ -139,28 +139,28 @@
           "shirt_number": 11,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 0
         },
         {
           "player_id": 6383,
           "shirt_number": 32,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 3
+          "line_index": 3,
+          "slot_in_line": 2
         },
         {
           "player_id": 19824,
           "shirt_number": 33,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 4
+          "line_index": 3,
+          "slot_in_line": 3
         },
         {
           "player_id": 2475,
           "shirt_number": 37,
           "position": "F",
-          "line_index": 3,
-          "slot_in_line": 0
+          "line_index": 4,
+          "slot_in_line": 1
         },
         {
           "player_id": 199089,
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 4,
-  "away_score": 0
+  "away_score": 0,
+  "positions_source": "sofascore_v2"
 }

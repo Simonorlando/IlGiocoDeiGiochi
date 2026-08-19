@@ -139,14 +139,14 @@
           "shirt_number": 7,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 3
         },
         {
           "player_id": 30875,
           "shirt_number": 8,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 3
+          "slot_in_line": 2
         },
         {
           "player_id": 7600,
@@ -174,5 +174,6 @@
   ],
   "positions_available": true,
   "home_score": 3,
-  "away_score": 1
+  "away_score": 1,
+  "positions_source": "sofascore_v2"
 }
