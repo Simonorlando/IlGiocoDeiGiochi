@@ -34,10 +34,12 @@
   <section id="screen-title" class="screen active">
     <div class="title-wrap">
       <svg class="title-pitch-bg pitch-bg-landscape" viewBox="0 0 1000 620" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <defs>
+          <clipPath id="ballClipLandscape"><circle cx="500" cy="310" r="88"/></clipPath>
+        </defs>
         <rect x="14" y="14" width="972" height="592" fill="none" stroke="white" stroke-width="4"/>
         <line x1="500" y1="14" x2="500" y2="606" stroke="white" stroke-width="3"/>
         <circle cx="500" cy="310" r="92" fill="none" stroke="white" stroke-width="3"/>
-        <circle cx="500" cy="310" r="4" fill="white"/>
         <rect x="14" y="155" width="165" height="310" fill="none" stroke="white" stroke-width="3"/>
         <rect x="14" y="230" width="60" height="160" fill="none" stroke="white" stroke-width="3"/>
         <circle cx="130" cy="310" r="3.5" fill="white"/>
@@ -50,12 +52,15 @@
         <path d="M 956 14 A 30 30 0 0 0 986 44" fill="none" stroke="white" stroke-width="3"/>
         <path d="M 986 576 A 30 30 0 0 0 956 606" fill="none" stroke="white" stroke-width="3"/>
         <path d="M 44 606 A 30 30 0 0 0 14 576" fill="none" stroke="white" stroke-width="3"/>
+        <image href="icons/ball_only.png" x="412" y="222" width="176" height="176" clip-path="url(#ballClipLandscape)" preserveAspectRatio="xMidYMid slice"/>
       </svg>
       <svg class="title-pitch-bg pitch-bg-portrait" viewBox="0 0 620 1000" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+        <defs>
+          <clipPath id="ballClipPortrait"><circle cx="310" cy="500" r="88"/></clipPath>
+        </defs>
         <rect x="14" y="14" width="592" height="972" fill="none" stroke="white" stroke-width="4"/>
         <line x1="14" y1="500" x2="606" y2="500" stroke="white" stroke-width="3"/>
         <circle cx="310" cy="500" r="92" fill="none" stroke="white" stroke-width="3"/>
-        <circle cx="310" cy="500" r="4" fill="white"/>
         <rect x="155" y="14" width="310" height="165" fill="none" stroke="white" stroke-width="3"/>
         <rect x="230" y="14" width="160" height="60" fill="none" stroke="white" stroke-width="3"/>
         <circle cx="310" cy="130" r="3.5" fill="white"/>
@@ -68,6 +73,7 @@
         <path d="M 576 14 A 30 30 0 0 1 606 44" fill="none" stroke="white" stroke-width="3"/>
         <path d="M 606 956 A 30 30 0 0 1 576 986" fill="none" stroke="white" stroke-width="3"/>
         <path d="M 44 986 A 30 30 0 0 1 14 956" fill="none" stroke="white" stroke-width="3"/>
+        <image href="icons/ball_only.png" x="222" y="412" width="176" height="176" clip-path="url(#ballClipPortrait)" preserveAspectRatio="xMidYMid slice"/>
       </svg>
       <div class="title-banner title-banner-top">
         <h1 class="game-title">Il Gioco dei Giochi</h1>
