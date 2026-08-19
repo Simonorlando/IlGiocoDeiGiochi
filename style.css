@@ -249,6 +249,25 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .match-item:hover { border-color: rgba(255,255,255,0.3); }
 .match-item.selected { border-color: var(--accent); background: rgba(61,220,132,0.14); font-weight: 700; }
 
+.round-leg-divider {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 4px 0;
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.round-leg-divider::before, .round-leg-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: rgba(255,255,255,0.12);
+}
+
 .round-nav {
   display: flex;
   align-items: center;

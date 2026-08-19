@@ -363,9 +363,29 @@ function fillManualMatches() {
     list.innerHTML = '';
     return;
   }
-  list.innerHTML = round.matches.map(m =>
-    `<div class="match-item" data-fixture-id="${m.fixture_id}">${escapeHtml(teamDisplayName(m.home))} — ${escapeHtml(teamDisplayName(m.away))}</div>`
-  ).join('');
+
+  // In Champions ogni turno (tranne la finale) e' andata/ritorno: le partite
+  // sono gia' ordinate per data, e per un turno a eliminazione diretta le
+  // date dell'andata sono sempre tutte prima di quelle del ritorno -- quindi
+  // basta inserire un separatore visivo dove inizia il ritorno.
+  const showLegDivider = state.competition === 'champions_league' && round.round !== 'Final';
+  const legOf = m => {
+    const teamsKey = [m.home, m.away].sort().join('|');
+    const tie = round.matches.filter(x => [x.home, x.away].sort().join('|') === teamsKey);
+    if (tie.length <= 1) return 0;
+    return tie.findIndex(x => x.fixture_id === m.fixture_id);
+  };
+
+  let html = '';
+  let ritornoShown = false;
+  for (const m of round.matches) {
+    if (showLegDivider && !ritornoShown && legOf(m) === 1) {
+      html += `<div class="round-leg-divider">Ritorno</div>`;
+      ritornoShown = true;
+    }
+    html += `<div class="match-item" data-fixture-id="${m.fixture_id}">${escapeHtml(teamDisplayName(m.home))} — ${escapeHtml(teamDisplayName(m.away))}</div>`;
+  }
+  list.innerHTML = html;
   list.querySelectorAll('.match-item').forEach(item => {
     item.addEventListener('click', () => {
       list.querySelectorAll('.match-item').forEach(el => el.classList.remove('selected'));
