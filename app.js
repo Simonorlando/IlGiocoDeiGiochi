@@ -489,6 +489,7 @@ async function loadAndStartMatch(fixtureId) {
   updateScore();
 
   showScreen('screen-game');
+  playKickoffWhistle();
 }
 
 document.getElementById('newGameBtn').addEventListener('click', () => showScreen('screen-mode'));
