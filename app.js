@@ -918,13 +918,16 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     state.solved[playerId] = true;
     refreshDotState(playerId);
     updateScore();
-    document.getElementById('cardSolved').classList.remove('hidden');
-    document.getElementById('cardUnsolved').classList.add('hidden');
-    document.getElementById('solvedName').textContent = displayName(player);
-    // il suono di fine partita (fischio+gol) sostituisce quello del singolo
-    // gol sull'ultimo giocatore, invece di sovrapporsi.
+    // Sull'ultimo giocatore si salta del tutto la card "risolto" (e il suo
+    // suono gol): si va dritti al pannello finale con fischio+gol, invece
+    // di mostrare per un attimo lo stato risolto e poi passare al pannello.
     const matchCompleted = maybeShowMatchComplete();
-    if (!matchCompleted) playSound('gol');
+    if (!matchCompleted) {
+      document.getElementById('cardSolved').classList.remove('hidden');
+      document.getElementById('cardUnsolved').classList.add('hidden');
+      document.getElementById('solvedName').textContent = displayName(player);
+      playSound('gol');
+    }
   } else {
     state.failedAttempts++;
     playSound('palo');
