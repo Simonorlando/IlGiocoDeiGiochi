@@ -616,12 +616,10 @@ function playSound(name) {
   }
 }
 
-// Fine partita: il fischio dell'arbitro seguito, con un piccolo distacco,
-// dall'esultanza del gol -- danno l'idea di "triplice fischio e la squadra
-// festeggia" invece di suonare semplicemente sovrapposti.
+// Fine partita: triplice fischio e gol in contemporanea.
 function playMatchCompleteSound() {
   playSound('fischio');
-  setTimeout(() => playSound('gol'), 450);
+  playSound('gol');
 }
 
 // Fischio d'inizio (un solo soffio) sul tasto "Inizia a giocare" -- non
