@@ -587,6 +587,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 
 .hint-card-body {
   max-height: 0;
+  overflow-y: auto;
   transition: max-height 0.2s ease;
 }
 .hint-card.open .hint-card-body { max-height: 260px; }

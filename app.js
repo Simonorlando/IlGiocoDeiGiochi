@@ -739,8 +739,12 @@ function careerTimelineHtml(player, currentClub) {
   `).join('')}</div>`;
 }
 
+// Se il nome mostrato e' un mononimo (es. "Neymar", "Ronaldinho"), l'unica
+// "parola" disponibile e' gia' l'identita' completa -- dare quella come
+// indizio "Nome" rivelerebbe la risposta, quindi l'indizio resta vuoto.
 function firstName(fullName) {
-  return fullName.split(' ')[0];
+  const tokens = fullName.trim().split(/\s+/);
+  return tokens.length > 1 ? tokens[0] : '';
 }
 
 function displayName(player) {
