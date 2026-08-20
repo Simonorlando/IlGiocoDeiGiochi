@@ -601,6 +601,19 @@ const SOUND_FILES = {
 };
 const soundCache = {};
 
+// Precarico i file audio subito, invece di crearli al primo play -- senza
+// questo il primo gol/palo/fischio di ogni partita partiva con un ritardo
+// percepibile (fetch + decode iniziano solo alla prima riproduzione).
+function preloadSounds() {
+  for (const [name, src] of Object.entries(SOUND_FILES)) {
+    const audio = new Audio(src);
+    audio.preload = 'auto';
+    audio.load();
+    soundCache[name] = audio;
+  }
+}
+preloadSounds();
+
 function playSound(name) {
   try {
     let audio = soundCache[name];
