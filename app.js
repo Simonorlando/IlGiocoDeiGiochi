@@ -588,6 +588,56 @@ function refreshDotState(playerId) {
   });
 }
 
+// ---------- suoni sintetizzati (Web Audio API, nessun file esterno) ----------
+
+let audioCtx = null;
+function getAudioCtx() {
+  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  return audioCtx;
+}
+
+// Un soffio di fischietto: due oscillatori leggermente stonati fra loro per
+// il caratteristico "warble" del fischietto a pallina, con un piccolo sweep
+// in salita all'attacco (il soffio che si stabilizza).
+function playWhistleBlast(ctx, startTime, duration) {
+  const osc1 = ctx.createOscillator();
+  const osc2 = ctx.createOscillator();
+  const gain = ctx.createGain();
+  osc1.type = 'square';
+  osc2.type = 'square';
+  osc1.frequency.setValueAtTime(2600, startTime);
+  osc2.frequency.setValueAtTime(2630, startTime);
+  osc1.frequency.exponentialRampToValueAtTime(3100, startTime + 0.035);
+  osc2.frequency.exponentialRampToValueAtTime(3140, startTime + 0.035);
+  gain.gain.setValueAtTime(0, startTime);
+  gain.gain.linearRampToValueAtTime(0.22, startTime + 0.015);
+  gain.gain.setValueAtTime(0.22, startTime + duration - 0.03);
+  gain.gain.linearRampToValueAtTime(0, startTime + duration);
+  osc1.connect(gain);
+  osc2.connect(gain);
+  gain.connect(ctx.destination);
+  osc1.start(startTime);
+  osc2.start(startTime);
+  osc1.stop(startTime + duration);
+  osc2.stop(startTime + duration);
+}
+
+// Triplice fischio dell'arbitro a fine partita.
+function playTripleWhistle() {
+  try {
+    const ctx = getAudioCtx();
+    if (ctx.state === 'suspended') ctx.resume();
+    const now = ctx.currentTime;
+    const blastDur = 0.18;
+    const gap = 0.12;
+    for (let i = 0; i < 3; i++) {
+      playWhistleBlast(ctx, now + i * (blastDur + gap), blastDur);
+    }
+  } catch (e) {
+    // Web Audio non disponibile: nessun suono, ma il gioco continua normalmente.
+  }
+}
+
 function updateScore() {
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
   const done = Object.keys(state.solved).length;
@@ -607,6 +657,7 @@ function maybeShowMatchComplete() {
   if (done < total) return;
 
   document.getElementById('playerCardOverlay').classList.add('hidden');
+  playTripleWhistle();
   document.getElementById('completeTime').textContent = formatElapsed(Date.now() - state.startTime);
   document.getElementById('completeHints').textContent = String(state.usedHints.size);
   document.getElementById('completeFailed').textContent = String(state.failedAttempts);
