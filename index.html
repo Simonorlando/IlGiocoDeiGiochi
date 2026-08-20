@@ -219,6 +219,30 @@
   </div>
 </div>
 
+<!-- Fine partita (overlay) -->
+<div id="matchCompleteOverlay" class="overlay hidden">
+  <div class="complete-panel">
+    <div class="complete-flag">🏁</div>
+    <h2 class="complete-title">Formazione completata</h2>
+    <div class="complete-stats">
+      <div class="complete-stat">
+        <span class="complete-stat-label">Tempo impiegato</span>
+        <span class="complete-stat-value" id="completeTime"></span>
+      </div>
+      <div class="complete-stat">
+        <span class="complete-stat-label">Aiuti usati</span>
+        <span class="complete-stat-value" id="completeHints"></span>
+      </div>
+      <div class="complete-stat">
+        <span class="complete-stat-label">Tentativi falliti</span>
+        <span class="complete-stat-value" id="completeFailed"></span>
+      </div>
+    </div>
+    <button type="button" class="complete-btn complete-btn-secondary" id="completeBackToMenu">Torna al menu principale</button>
+    <button type="button" class="complete-btn complete-btn-primary" id="completeNewGame">Nuova partita</button>
+  </div>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>

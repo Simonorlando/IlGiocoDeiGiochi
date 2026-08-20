@@ -449,6 +449,9 @@ async function loadAndStartMatch(fixtureId) {
   state.solved = {};
   state.players = {};
   state.activeTeamIdx = 0; // di base si parte sempre dalla squadra di casa
+  state.startTime = Date.now();
+  state.usedHints = new Set();   // "playerId:hintId", esclude 'reveal'
+  state.failedAttempts = 0;
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
 
@@ -591,6 +594,34 @@ function updateScore() {
   document.getElementById('scoreLabel').textContent = `${done} / ${total}`;
 }
 
+function formatElapsed(ms) {
+  const totalSec = Math.max(0, Math.round(ms / 1000));
+  const m = Math.floor(totalSec / 60);
+  const s = totalSec % 60;
+  return `${m}:${String(s).padStart(2, '0')}`;
+}
+
+function maybeShowMatchComplete() {
+  const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
+  const done = Object.keys(state.solved).length;
+  if (done < total) return;
+
+  document.getElementById('playerCardOverlay').classList.add('hidden');
+  document.getElementById('completeTime').textContent = formatElapsed(Date.now() - state.startTime);
+  document.getElementById('completeHints').textContent = String(state.usedHints.size);
+  document.getElementById('completeFailed').textContent = String(state.failedAttempts);
+  document.getElementById('matchCompleteOverlay').classList.remove('hidden');
+}
+
+document.getElementById('completeBackToMenu').addEventListener('click', () => {
+  document.getElementById('matchCompleteOverlay').classList.add('hidden');
+  showScreen('screen-competition');
+});
+document.getElementById('completeNewGame').addEventListener('click', () => {
+  document.getElementById('matchCompleteOverlay').classList.add('hidden');
+  showScreen('screen-mode');
+});
+
 // ---------- carta giocatore (indizi indipendenti, click per rivelare) ----------
 
 // Ricostruisce la carriera come sequenza cronologica di club (senza ripetizioni
@@ -696,8 +727,15 @@ function renderHints() {
   list.querySelectorAll('.hint-card').forEach(card => {
     card.addEventListener('click', () => {
       const id = card.dataset.hintId;
-      if (state.openHints.has(id)) state.openHints.delete(id);
-      else state.openHints.add(id);
+      if (state.openHints.has(id)) {
+        state.openHints.delete(id);
+      } else {
+        state.openHints.add(id);
+        // conto l'aiuto la prima volta che si apre (chiudere/riaprire non
+        // vale doppio) -- "Chi e'?" e' la rivelazione diretta, non un vero
+        // aiuto, quindi non entra nel conteggio.
+        if (id !== 'reveal') state.usedHints.add(`${state.currentCardPlayerId}:${id}`);
+      }
       renderHints();
     });
   });
@@ -794,7 +832,9 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     document.getElementById('cardSolved').classList.remove('hidden');
     document.getElementById('cardUnsolved').classList.add('hidden');
     document.getElementById('solvedName').textContent = displayName(player);
+    maybeShowMatchComplete();
   } else {
+    state.failedAttempts++;
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';
     document.getElementById('guessInput').value = '';
