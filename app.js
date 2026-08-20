@@ -244,7 +244,10 @@ setupSuggestions();
 
 // ---------- schermata 0: titolo ----------
 
-document.getElementById('startFromTitle').addEventListener('click', () => showScreen('screen-competition'));
+document.getElementById('startFromTitle').addEventListener('click', () => {
+  playKickoffWhistle();
+  showScreen('screen-competition');
+});
 document.getElementById('brandHome').addEventListener('click', () => showScreen('screen-competition'));
 document.getElementById('globalBackBtn').addEventListener('click', () => goBack());
 
@@ -588,51 +591,69 @@ function refreshDotState(playerId) {
   });
 }
 
-// ---------- suoni sintetizzati (Web Audio API, nessun file esterno) ----------
+// ---------- suoni ----------
 
-let audioCtx = null;
-function getAudioCtx() {
-  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-  return audioCtx;
-}
+const SOUND_FILES = {
+  gol: 'sounds/gol.m4a',
+  palo: 'sounds/palo.m4a',
+  fischio: 'sounds/triplice-fischio.m4a',
+};
+const soundCache = {};
 
-// Un soffio di fischietto: due oscillatori leggermente stonati fra loro per
-// il caratteristico "warble" del fischietto a pallina, con un piccolo sweep
-// in salita all'attacco (il soffio che si stabilizza).
-function playWhistleBlast(ctx, startTime, duration) {
-  const osc1 = ctx.createOscillator();
-  const osc2 = ctx.createOscillator();
-  const gain = ctx.createGain();
-  osc1.type = 'square';
-  osc2.type = 'square';
-  osc1.frequency.setValueAtTime(2600, startTime);
-  osc2.frequency.setValueAtTime(2630, startTime);
-  osc1.frequency.exponentialRampToValueAtTime(3100, startTime + 0.035);
-  osc2.frequency.exponentialRampToValueAtTime(3140, startTime + 0.035);
-  gain.gain.setValueAtTime(0, startTime);
-  gain.gain.linearRampToValueAtTime(0.22, startTime + 0.015);
-  gain.gain.setValueAtTime(0.22, startTime + duration - 0.03);
-  gain.gain.linearRampToValueAtTime(0, startTime + duration);
-  osc1.connect(gain);
-  osc2.connect(gain);
-  gain.connect(ctx.destination);
-  osc1.start(startTime);
-  osc2.start(startTime);
-  osc1.stop(startTime + duration);
-  osc2.stop(startTime + duration);
-}
-
-// Triplice fischio dell'arbitro a fine partita.
-function playTripleWhistle() {
+function playSound(name) {
   try {
-    const ctx = getAudioCtx();
-    if (ctx.state === 'suspended') ctx.resume();
-    const now = ctx.currentTime;
-    const blastDur = 0.18;
-    const gap = 0.12;
-    for (let i = 0; i < 3; i++) {
-      playWhistleBlast(ctx, now + i * (blastDur + gap), blastDur);
+    let audio = soundCache[name];
+    if (!audio) {
+      audio = new Audio(SOUND_FILES[name]);
+      soundCache[name] = audio;
+    } else {
+      audio.pause();
+      audio.currentTime = 0;
     }
+    audio.play().catch(() => {});
+  } catch (e) {
+    // audio non disponibile: nessun suono, ma il gioco continua normalmente.
+  }
+}
+
+// Fine partita: il fischio dell'arbitro seguito, con un piccolo distacco,
+// dall'esultanza del gol -- danno l'idea di "triplice fischio e la squadra
+// festeggia" invece di suonare semplicemente sovrapposti.
+function playMatchCompleteSound() {
+  playSound('fischio');
+  setTimeout(() => playSound('gol'), 450);
+}
+
+// Fischio d'inizio (un solo soffio) sul tasto "Inizia a giocare" -- non
+// avendo un file dedicato lo sintetizzo al volo con Web Audio API, stesso
+// principio del triplice fischio di prima.
+let audioCtx = null;
+function playKickoffWhistle() {
+  try {
+    const ctx = audioCtx || (audioCtx = new (window.AudioContext || window.webkitAudioContext)());
+    if (ctx.state === 'suspended') ctx.resume();
+    const start = ctx.currentTime;
+    const duration = 0.22;
+    const osc1 = ctx.createOscillator();
+    const osc2 = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc1.type = 'square';
+    osc2.type = 'square';
+    osc1.frequency.setValueAtTime(2600, start);
+    osc2.frequency.setValueAtTime(2630, start);
+    osc1.frequency.exponentialRampToValueAtTime(3100, start + 0.035);
+    osc2.frequency.exponentialRampToValueAtTime(3140, start + 0.035);
+    gain.gain.setValueAtTime(0, start);
+    gain.gain.linearRampToValueAtTime(0.22, start + 0.015);
+    gain.gain.setValueAtTime(0.22, start + duration - 0.03);
+    gain.gain.linearRampToValueAtTime(0, start + duration);
+    osc1.connect(gain);
+    osc2.connect(gain);
+    gain.connect(ctx.destination);
+    osc1.start(start);
+    osc2.start(start);
+    osc1.stop(start + duration);
+    osc2.stop(start + duration);
   } catch (e) {
     // Web Audio non disponibile: nessun suono, ma il gioco continua normalmente.
   }
@@ -654,14 +675,15 @@ function formatElapsed(ms) {
 function maybeShowMatchComplete() {
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
   const done = Object.keys(state.solved).length;
-  if (done < total) return;
+  if (done < total) return false;
 
   document.getElementById('playerCardOverlay').classList.add('hidden');
-  playTripleWhistle();
+  playMatchCompleteSound();
   document.getElementById('completeTime').textContent = formatElapsed(Date.now() - state.startTime);
   document.getElementById('completeHints').textContent = String(state.usedHints.size);
   document.getElementById('completeFailed').textContent = String(state.failedAttempts);
   document.getElementById('matchCompleteOverlay').classList.remove('hidden');
+  return true;
 }
 
 document.getElementById('completeBackToMenu').addEventListener('click', () => {
@@ -887,9 +909,13 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     document.getElementById('cardSolved').classList.remove('hidden');
     document.getElementById('cardUnsolved').classList.add('hidden');
     document.getElementById('solvedName').textContent = displayName(player);
-    maybeShowMatchComplete();
+    // il suono di fine partita (fischio+gol) sostituisce quello del singolo
+    // gol sull'ultimo giocatore, invece di sovrapporsi.
+    const matchCompleted = maybeShowMatchComplete();
+    if (!matchCompleted) playSound('gol');
   } else {
     state.failedAttempts++;
+    playSound('palo');
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';
     document.getElementById('guessInput').value = '';
