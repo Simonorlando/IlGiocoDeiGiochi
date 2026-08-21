@@ -13,16 +13,17 @@
     }
   ],
   "career_clubs": [
-    "Santos",
     "CS Marítimo",
     "APOEL Nicosia",
     "Levski Sofia",
+    "No team",
     "Anorthosis Famagusta",
     "Atlético Sorocaba",
     "Murici",
     "Botafogo-PB",
     "Campinense",
-    "AA Altos"
+    "AA Altos",
+    "Santos"
   ],
   "display_name": "Márcio Ivanildo da Silva"
 }

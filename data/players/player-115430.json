@@ -6,7 +6,6 @@
   "birth_place": "Carrara",
   "career_transfers": [],
   "career_clubs": [
-    "Fiorentina U20",
     "Fiorentina",
     "Venezia",
     "Reggiana",
@@ -16,7 +15,8 @@
     "Inter",
     "Juventus",
     "Fiorentina",
-    "Brescia"
+    "Brescia",
+    "Fiorentina U20"
   ],
   "display_name": "Cristiano Zanetti"
 }

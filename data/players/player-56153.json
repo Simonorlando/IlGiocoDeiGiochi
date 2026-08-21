@@ -19,7 +19,6 @@
     }
   ],
   "career_clubs": [
-    "Empoli U20",
     "Empoli",
     "Manfredonia",
     "Empoli",
@@ -28,7 +27,10 @@
     "Brescia",
     "Arezzo",
     "Palermo",
-    "Novara"
+    "No team",
+    "Novara",
+    "No team",
+    "Empoli U20"
   ],
   "display_name": "Alberto Pelagotti"
 }

@@ -6,7 +6,6 @@
   "birth_place": "Palermo",
   "career_transfers": [],
   "career_clubs": [
-    "Palermo U20",
     "Palermo",
     "Trapani",
     "Palermo",
@@ -15,7 +14,8 @@
     "Messina",
     "Bari",
     "Torino",
-    "Messina"
+    "Messina",
+    "Palermo U20"
   ],
   "display_name": "Alessandro Parisi"
 }

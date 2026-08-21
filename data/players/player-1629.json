@@ -19,7 +19,6 @@
     }
   ],
   "career_clubs": [
-    "Atalanta U20",
     "Perugia",
     "Atalanta",
     "Lanciano FC",
@@ -27,7 +26,9 @@
     "AC Milan",
     "Parma",
     "AC Milan",
-    "Sampdoria"
+    "Sampdoria",
+    "No team",
+    "Atalanta U20"
   ],
   "display_name": "Andrea Conti"
 }

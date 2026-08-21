@@ -49,7 +49,6 @@
     }
   ],
   "career_clubs": [
-    "Genoa U20",
     "Cesena",
     "Genoa",
     "Cesena",
@@ -64,7 +63,9 @@
     "Frosinone",
     "Hannover 96",
     "Catanzaro",
-    "NK Maribor"
+    "NK Maribor",
+    "No team",
+    "Genoa U20"
   ],
   "display_name": "Luka Krajnc"
 }

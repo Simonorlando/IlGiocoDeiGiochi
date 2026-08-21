@@ -19,7 +19,6 @@
     }
   ],
   "career_clubs": [
-    "Atalanta U20",
     "Atalanta",
     "Cesena",
     "Atalanta",
@@ -34,7 +33,9 @@
     "Carpi",
     "Bari",
     "Pisa",
-    "Alma Juventus Fano"
+    "Alma Juventus Fano",
+    "No team",
+    "Atalanta U20"
   ],
   "display_name": "Andrea Lazzari"
 }

@@ -6,7 +6,6 @@
   "birth_place": "Montegrotto Terme",
   "career_transfers": [],
   "career_clubs": [
-    "L.R. Vicenza U20",
     "L.R. Vicenza",
     "Reggina 1914",
     "Piacenza Calcio 1919",
@@ -15,7 +14,8 @@
     "Palermo",
     "Genoa",
     "Parma",
-    "L.R. Vicenza"
+    "L.R. Vicenza",
+    "L.R. Vicenza U20"
   ],
   "display_name": "Marco Rigoni"
 }

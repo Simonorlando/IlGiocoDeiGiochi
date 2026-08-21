@@ -25,7 +25,6 @@
     }
   ],
   "career_clubs": [
-    "Juventus U20",
     "Parma",
     "Sassuolo",
     "Parma",
@@ -41,10 +40,14 @@
     "Gaziantep FK",
     "VfL Bochum 1848",
     "GS Apollon Smyrnis",
+    "No team",
     "AO Ionikos Nikeas",
     "Folgore Caratese",
+    "No team",
     "CSM Ceahlăul Piatra Neamţ",
-    "CSM Slatina"
+    "CSM Slatina",
+    "No team",
+    "Juventus U20"
   ],
   "display_name": "Yusif Chibsah"
 }

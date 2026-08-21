@@ -6,7 +6,6 @@
   "birth_place": "Bari",
   "career_transfers": [],
   "career_clubs": [
-    "Bari U20",
     "Bari",
     "AS Melfi",
     "Bari",
@@ -30,7 +29,9 @@
     "Nardò",
     "FBC Gravina",
     "Team Altamura",
-    "Barletta"
+    "Barletta",
+    "No team",
+    "Bari U20"
   ],
   "display_name": "Luigi Rana"
 }

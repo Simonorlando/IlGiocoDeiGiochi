@@ -19,7 +19,6 @@
     }
   ],
   "career_clubs": [
-    "Milan U20",
     "AC Milan",
     "Cesena",
     "Triestina",
@@ -31,7 +30,8 @@
     "Trapani",
     "Pro Vercelli",
     "Aurora Pro Patria",
-    "Varese"
+    "Varese",
+    "Milan U20"
   ],
   "display_name": "Michele Ferri"
 }

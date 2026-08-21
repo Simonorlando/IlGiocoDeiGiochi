@@ -13,7 +13,6 @@
     }
   ],
   "career_clubs": [
-    "Reggina U20",
     "Reggina 1914",
     "Cremonese",
     "Reggina 1914",
@@ -22,7 +21,10 @@
     "Udinese",
     "Genoa",
     "SSC Napoli",
-    "Panathinaikos FC"
+    "No team",
+    "Panathinaikos FC",
+    "No team",
+    "Reggina U20"
   ],
   "display_name": "Giandomenico Mesto"
 }

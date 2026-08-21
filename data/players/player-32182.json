@@ -19,7 +19,6 @@
     }
   ],
   "career_clubs": [
-    "Parma U20",
     "Parma",
     "Modena",
     "Parma",
@@ -28,6 +27,7 @@
     "Bari",
     "Parma",
     "Cesena",
+    "No team",
     "Perugia",
     "Varese",
     "Perugia",
@@ -35,9 +35,11 @@
     "ACR Siena 1904",
     "Reggina 1914",
     "Seregno",
+    "No team",
     "Brindisi",
     "Akragas",
-    "Enna"
+    "Enna",
+    "Parma U20"
   ],
   "display_name": "Marco Rossi"
 }

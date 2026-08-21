@@ -6,7 +6,6 @@
   "birth_place": "Brescia",
   "career_transfers": [],
   "career_clubs": [
-    "Brescia U19",
     "Brescia",
     "Ospitaletto Franciacorta",
     "Brescia",
@@ -15,7 +14,8 @@
     "Palermo",
     "Treviso",
     "US Livorno 1915",
-    "Brescia"
+    "Brescia",
+    "Brescia U19"
   ],
   "display_name": "Antonio Filippini"
 }

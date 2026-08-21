@@ -6,7 +6,6 @@
   "birth_place": "Parma",
   "career_transfers": [],
   "career_clubs": [
-    "Sampdoria U20",
     "Sampdoria",
     "Piacenza Calcio 1919",
     "Empoli",
@@ -18,7 +17,8 @@
     "Treviso",
     "Lazio",
     "Torino",
-    "Brescia"
+    "Brescia",
+    "Sampdoria U20"
   ],
   "display_name": "Matteo Sereni"
 }

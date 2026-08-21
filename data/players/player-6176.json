@@ -31,7 +31,6 @@
     }
   ],
   "career_clubs": [
-    "Boca Juniors U20",
     "Boca Juniors",
     "Estudiantes de La Plata",
     "Boca Juniors",
@@ -44,7 +43,9 @@
     "Rosario Central",
     "Racing Club",
     "Huracán",
-    "Arsenal de Sarandí"
+    "Arsenal de Sarandí",
+    "No team",
+    "Boca Juniors U20"
   ],
   "display_name": "Pablo Álvarez"
 }
