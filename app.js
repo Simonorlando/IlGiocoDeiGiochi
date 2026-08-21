@@ -937,11 +937,19 @@ function renderHints() {
   const list = document.getElementById('hintList');
   list.innerHTML = state.currentHints.map(h => {
     const isOpen = state.openHints.has(h.id);
+    // in modalita' a tempo mostro quanto costa l'indizio in secondi -- solo
+    // finche' non e' ancora stato aperto, dopo il costo e' gia' pagato.
+    const cost = state.timing && !isOpen && HINT_TIME_PENALTY[h.id] != null
+      ? `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`
+      : '';
     return `
       <div class="hint-card${isOpen ? ' open' : ''}" data-hint-id="${h.id}">
         <div class="hint-card-head">
           <div class="hint-card-label">${h.label}</div>
-          <div class="hint-card-caret">▸</div>
+          <div class="hint-card-head-right">
+            ${cost}
+            <div class="hint-card-caret">▸</div>
+          </div>
         </div>
         <div class="hint-card-body">
           <div class="hint-card-body-inner">${h.value}</div>
@@ -991,6 +999,13 @@ function openPlayerCard(entry, teamName) {
   feedback.textContent = '';
   feedback.className = 'guess-feedback';
   document.getElementById('guessInput').value = '';
+
+  // costo di un tentativo sbagliato, mostrato in modo discreto -- solo in
+  // modalita' a tempo, e solo finche' il giocatore non e' gia' risolto.
+  const wrongCostEl = document.getElementById('wrongGuessCost');
+  const showWrongCost = state.timing && !state.solved[entry.player_id];
+  wrongCostEl.classList.toggle('hidden', !showWrongCost);
+  if (showWrongCost) wrongCostEl.textContent = `Tentativo sbagliato: -${WRONG_GUESS_TIME_PENALTY}s`;
 
   if (state.solved[entry.player_id]) {
     solvedBlock.classList.remove('hidden');
