@@ -950,8 +950,12 @@ function renderHints() {
   list.innerHTML = state.currentHints.map(h => {
     const isOpen = state.openHints.has(h.id);
     // in modalita' a tempo mostro quanto costa l'indizio in secondi -- solo
-    // finche' non e' ancora stato aperto, dopo il costo e' gia' pagato.
-    const cost = state.timing && !isOpen && HINT_TIME_PENALTY[h.id] != null
+    // finche' non e' mai stato usato per QUESTO giocatore. Una volta pagato
+    // resta nascosto anche richiudendo la card (non e' legato al toggle
+    // aperto/chiuso, cosi' si ricorda facilmente quali indizi sono gia'
+    // stati "spesi" su questo giocatore).
+    const alreadyUsed = state.usedHints.has(`${state.currentCardPlayerId}:${h.id}`);
+    const cost = state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null
       ? `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`
       : '';
     return `
