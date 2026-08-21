@@ -245,7 +245,7 @@ setupSuggestions();
 // ---------- schermata 0: titolo ----------
 
 document.getElementById('startFromTitle').addEventListener('click', () => {
-  playKickoffWhistle();
+  playTapSound();
   showScreen('screen-competition');
 });
 document.getElementById('brandHome').addEventListener('click', () => showScreen('screen-competition'));
@@ -594,6 +594,25 @@ function refreshDotState(playerId) {
 
 // ---------- suoni ----------
 
+const MUTE_KEY = 'chigioca_muted';
+let isMuted = localStorage.getItem(MUTE_KEY) === '1';
+
+function updateMuteButton() {
+  const btn = document.getElementById('muteBtn');
+  if (!btn) return;
+  btn.textContent = isMuted ? '🔇' : '🔊';
+  btn.setAttribute('aria-label', isMuted ? 'Attiva audio' : 'Disattiva audio');
+}
+
+function toggleMute() {
+  isMuted = !isMuted;
+  localStorage.setItem(MUTE_KEY, isMuted ? '1' : '0');
+  updateMuteButton();
+}
+
+document.getElementById('muteBtn').addEventListener('click', toggleMute);
+updateMuteButton();
+
 const SOUND_FILES = {
   gol: 'sounds/gol.m4a',
   palo: 'sounds/palo.m4a',
@@ -615,6 +634,7 @@ function preloadSounds() {
 preloadSounds();
 
 function playSound(name) {
+  if (isMuted) return;
   try {
     let audio = soundCache[name];
     if (!audio) {
@@ -636,11 +656,12 @@ function playMatchCompleteSound() {
   playSound('gol');
 }
 
-// Fischio d'inizio (un solo soffio) sul tasto "Inizia a giocare" -- non
-// avendo un file dedicato lo sintetizzo al volo con Web Audio API, stesso
-// principio del triplice fischio di prima.
+// Fischio d'inizio (un solo soffio), suona quando si apre davvero la
+// formazione da indovinare -- non avendo un file dedicato lo sintetizzo al
+// volo con Web Audio API, stesso principio del triplice fischio di prima.
 let audioCtx = null;
 function playKickoffWhistle() {
+  if (isMuted) return;
   try {
     const ctx = audioCtx || (audioCtx = new (window.AudioContext || window.webkitAudioContext)());
     if (ctx.state === 'suspended') ctx.resume();
@@ -666,6 +687,32 @@ function playKickoffWhistle() {
     osc2.start(start);
     osc1.stop(start + duration);
     osc2.stop(start + duration);
+  } catch (e) {
+    // Web Audio non disponibile: nessun suono, ma il gioco continua normalmente.
+  }
+}
+
+// Tap leggero per i pulsanti di menu (es. "Inizia a giocare") -- un breve
+// pizzicato pulito, ben distinto dal fischietto che invece segna l'inizio
+// vero e proprio della partita.
+function playTapSound() {
+  if (isMuted) return;
+  try {
+    const ctx = audioCtx || (audioCtx = new (window.AudioContext || window.webkitAudioContext)());
+    if (ctx.state === 'suspended') ctx.resume();
+    const start = ctx.currentTime;
+    const duration = 0.1;
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(880, start);
+    osc.frequency.exponentialRampToValueAtTime(660, start + duration);
+    gain.gain.setValueAtTime(0.25, start);
+    gain.gain.exponentialRampToValueAtTime(0.001, start + duration);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start(start);
+    osc.stop(start + duration);
   } catch (e) {
     // Web Audio non disponibile: nessun suono, ma il gioco continua normalmente.
   }

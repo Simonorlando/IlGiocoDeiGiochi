@@ -44,7 +44,7 @@ button, .player-dot, .team-tab, .match-item, .hint-card, .suggest-item, .big-cho
 }
 .topbar-left { display: flex; align-items: center; gap: 10px; justify-content: flex-start; }
 .topbar-center { display: flex; align-items: center; justify-content: center; }
-.topbar-right { display: flex; align-items: center; justify-content: flex-end; }
+.topbar-right { display: flex; align-items: center; justify-content: flex-end; gap: 10px; }
 .global-back-btn, .home-btn {
   background: var(--panel-2);
   border: 1px solid var(--border);
