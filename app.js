@@ -617,6 +617,7 @@ const SOUND_FILES = {
   gol: 'sounds/gol.m4a',
   palo: 'sounds/palo.m4a',
   fischio: 'sounds/triplice-fischio.m4a',
+  fischioInizio: 'sounds/fischio-inizio.m4a',
 };
 const soundCache = {};
 
@@ -657,39 +658,10 @@ function playMatchCompleteSound() {
 }
 
 // Fischio d'inizio (un solo soffio), suona quando si apre davvero la
-// formazione da indovinare -- non avendo un file dedicato lo sintetizzo al
-// volo con Web Audio API, stesso principio del triplice fischio di prima.
+// formazione da indovinare.
 let audioCtx = null;
 function playKickoffWhistle() {
-  if (isMuted) return;
-  try {
-    const ctx = audioCtx || (audioCtx = new (window.AudioContext || window.webkitAudioContext)());
-    if (ctx.state === 'suspended') ctx.resume();
-    const start = ctx.currentTime;
-    const duration = 0.22;
-    const osc1 = ctx.createOscillator();
-    const osc2 = ctx.createOscillator();
-    const gain = ctx.createGain();
-    osc1.type = 'square';
-    osc2.type = 'square';
-    osc1.frequency.setValueAtTime(2600, start);
-    osc2.frequency.setValueAtTime(2630, start);
-    osc1.frequency.exponentialRampToValueAtTime(3100, start + 0.035);
-    osc2.frequency.exponentialRampToValueAtTime(3140, start + 0.035);
-    gain.gain.setValueAtTime(0, start);
-    gain.gain.linearRampToValueAtTime(0.22, start + 0.015);
-    gain.gain.setValueAtTime(0.22, start + duration - 0.03);
-    gain.gain.linearRampToValueAtTime(0, start + duration);
-    osc1.connect(gain);
-    osc2.connect(gain);
-    gain.connect(ctx.destination);
-    osc1.start(start);
-    osc2.start(start);
-    osc1.stop(start + duration);
-    osc2.stop(start + duration);
-  } catch (e) {
-    // Web Audio non disponibile: nessun suono, ma il gioco continua normalmente.
-  }
+  playSound('fischioInizio');
 }
 
 // Tap leggero per i pulsanti di menu (es. "Inizia a giocare") -- un breve
