@@ -12,7 +12,29 @@ const state = {
   // stato navigazione giornate (schermata manuale)
   manualRounds: [],        // [{round, label, matches, minDate}]
   manualRoundIdx: 0,
+  // modalita' a tempo (null = nessun limite)
+  timing: null,             // {key, label, minutes}
+  timeRemaining: 0,         // secondi rimasti, solo se state.timing e' impostato
+  timerHandle: null,
 };
+
+// Fasce di tempo selezionabili e costo in secondi di ogni indizio -- fissi,
+// indipendenti dalla fascia scelta: e' la fascia stessa (quanto tempo hai
+// in totale) a rendere Rapida piu' rischiosa di Rilassata, non il costo dei
+// singoli indizi.
+const TIME_BANDS = {
+  rapida: { label: 'Rapida', minutes: 15 },
+  normale: { label: 'Normale', minutes: 20 },
+  rilassata: { label: 'Rilassata', minutes: 25 },
+};
+const HINT_TIME_PENALTY = {
+  birthdate: 10,
+  shirt: 15,
+  nationality: 18,
+  career: 20,
+  firstname: 20,
+};
+const WRONG_GUESS_TIME_PENALTY = 9;
 
 const COMP_DIR = { serie_a: 'serie-a', champions_league: 'champions-league' };
 const COMP_LABEL = { serie_a: 'Serie A', champions_league: 'Champions League' };
@@ -157,6 +179,9 @@ function showScreen(id, { fromBack = false } = {}) {
   // "Nuova partita" vive nel banner in alto (centrato) -- visibile solo
   // durante la sessione di gioco, dove ha senso interromperla.
   document.getElementById('newGameBtn').classList.toggle('hidden', id !== 'screen-game');
+  // il countdown non deve continuare a scorrere se si lascia la partita
+  // (es. tasto indietro/home) senza finirla.
+  if (id !== 'screen-game') stopTimer();
 }
 
 function goBack() {
@@ -257,11 +282,23 @@ document.querySelectorAll('.big-choice').forEach(btn => {
   btn.addEventListener('click', async () => {
     state.competition = btn.dataset.comp;
     state.index = await fetchJson(`${DATA_BASE}/${COMP_DIR[state.competition]}/index.json`);
-    showScreen('screen-mode');
+    showScreen('screen-timing');
   });
 });
 
 document.getElementById('backToCompetition').addEventListener('click', () => goBack());
+
+// ---------- schermata 1b: scelta tempo ----------
+
+document.querySelectorAll('[data-timing]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const key = btn.dataset.timing;
+    state.timing = key === 'none' ? null : { key, ...TIME_BANDS[key] };
+    showScreen('screen-mode');
+  });
+});
+
+document.getElementById('backToCompetitionFromTiming').addEventListener('click', () => goBack());
 
 // ---------- schermata 2: modalita' ----------
 
@@ -455,6 +492,7 @@ async function loadAndStartMatch(fixtureId) {
   state.startTime = Date.now();
   state.usedHints = new Set();   // "playerId:hintId", esclude 'reveal'
   state.failedAttempts = 0;
+  startTimer();
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
 
@@ -703,17 +741,92 @@ function formatElapsed(ms) {
   return `${m}:${String(s).padStart(2, '0')}`;
 }
 
-function maybeShowMatchComplete() {
+// ---------- modalita' a tempo ----------
+
+function stopTimer() {
+  if (state.timerHandle) {
+    clearInterval(state.timerHandle);
+    state.timerHandle = null;
+  }
+}
+
+function updateTimerDisplay() {
+  const el = document.getElementById('timerLabel');
+  if (!el) return;
+  el.textContent = formatElapsed(state.timeRemaining * 1000);
+  el.classList.toggle('timer-danger', state.timeRemaining <= 30);
+}
+
+// Riparte da zero a ogni nuova partita (schermata campo) -- se non e'
+// impostata una fascia a tempo, il countdown resta semplicemente nascosto.
+function startTimer() {
+  stopTimer();
+  const el = document.getElementById('timerLabel');
+  if (!state.timing) {
+    if (el) el.classList.add('hidden');
+    return;
+  }
+  state.timeRemaining = state.timing.minutes * 60;
+  if (el) el.classList.remove('hidden');
+  updateTimerDisplay();
+  state.timerHandle = setInterval(() => {
+    state.timeRemaining--;
+    updateTimerDisplay();
+    if (state.timeRemaining <= 0) {
+      stopTimer();
+      showMatchComplete(false);
+    }
+  }, 1000);
+}
+
+// Aiuti e tentativi sbagliati tolgono secondi invece di punti -- se il
+// countdown arriva a zero qui, e' una sconfitta per tempo scaduto.
+function applyTimePenalty(seconds) {
+  if (!state.timing) return;
+  state.timeRemaining = Math.max(0, state.timeRemaining - seconds);
+  updateTimerDisplay();
+  if (state.timeRemaining <= 0) {
+    stopTimer();
+    showMatchComplete(false);
+  }
+}
+
+// Pannello di fine partita, in due varianti: vittoria (formazione
+// completata) o sconfitta (tempo scaduto prima di finire, solo in modalita'
+// a tempo). Suono diverso nei due casi: fischio+gol se vinta, solo fischio
+// (niente esultanza) se persa.
+function showMatchComplete(won) {
+  document.getElementById('playerCardOverlay').classList.add('hidden');
+  stopTimer();
+
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
   const done = Object.keys(state.solved).length;
-  if (done < total) return false;
 
-  document.getElementById('playerCardOverlay').classList.add('hidden');
-  playMatchCompleteSound();
+  const panel = document.getElementById('completePanel');
+  const guessedRow = document.getElementById('completeGuessedRow');
+  panel.classList.toggle('lost', !won);
+  document.getElementById('completeFlag').textContent = won ? '🏁' : '⏱️';
+  document.getElementById('completeTitle').textContent = won ? 'Formazione completata' : 'Tempo scaduto';
+  guessedRow.classList.toggle('hidden', won);
+  if (!won) document.getElementById('completeGuessed').textContent = `${done} / ${total}`;
+
+  if (won) {
+    playMatchCompleteSound();
+  } else {
+    playSound('fischio');
+  }
+
   document.getElementById('completeTime').textContent = formatElapsed(Date.now() - state.startTime);
   document.getElementById('completeHints').textContent = String(state.usedHints.size);
   document.getElementById('completeFailed').textContent = String(state.failedAttempts);
   document.getElementById('matchCompleteOverlay').classList.remove('hidden');
+}
+
+function maybeShowMatchComplete() {
+  const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
+  const done = Object.keys(state.solved).length;
+  if (done < total) return false;
+  showMatchComplete(true);
   return true;
 }
 
@@ -805,14 +918,19 @@ function displayName(player) {
 }
 
 function buildHints(entry, player, teamName) {
-  return [
+  const hints = [
     { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(displayName(player))) },
     { id: 'shirt', label: 'Numero di maglia', value: escapeHtml(String(entry.shirt_number ?? '—')) },
     { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
     { id: 'birthdate', label: 'Data di nascita', value: escapeHtml(player.birth_date || '—') },
     { id: 'career', label: 'Carriera', value: careerTimelineHtml(player, teamName) },
-    { id: 'reveal', label: 'Chi è?', value: `<strong>${escapeHtml(displayName(player))}</strong>` },
   ];
+  // "Chi e'?" rivela la risposta diretta -- niente scorciatoie mentre
+  // corri contro il tempo.
+  if (!state.timing) {
+    hints.push({ id: 'reveal', label: 'Chi è?', value: `<strong>${escapeHtml(displayName(player))}</strong>` });
+  }
+  return hints;
 }
 
 function renderHints() {
@@ -841,8 +959,14 @@ function renderHints() {
         state.openHints.add(id);
         // conto l'aiuto la prima volta che si apre (chiudere/riaprire non
         // vale doppio) -- "Chi e'?" e' la rivelazione diretta, non un vero
-        // aiuto, quindi non entra nel conteggio.
-        if (id !== 'reveal') state.usedHints.add(`${state.currentCardPlayerId}:${id}`);
+        // aiuto, quindi non entra nel conteggio. In modalita' a tempo, la
+        // stessa prima apertura toglie anche i secondi di penalita'.
+        if (id !== 'reveal') {
+          const key = `${state.currentCardPlayerId}:${id}`;
+          const isFirstOpen = !state.usedHints.has(key);
+          state.usedHints.add(key);
+          if (isFirstOpen && HINT_TIME_PENALTY[id] != null) applyTimePenalty(HINT_TIME_PENALTY[id]);
+        }
       }
       renderHints();
     });
@@ -949,6 +1073,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     }
   } else {
     state.failedAttempts++;
+    applyTimePenalty(WRONG_GUESS_TIME_PENALTY);
     playSound('palo');
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';
