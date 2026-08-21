@@ -23,9 +23,9 @@ const state = {
 // in totale) a rendere Rapida piu' rischiosa di Rilassata, non il costo dei
 // singoli indizi.
 const TIME_BANDS = {
-  rapida: { label: 'Rapida', minutes: 15 },
-  normale: { label: 'Normale', minutes: 20 },
-  rilassata: { label: 'Rilassata', minutes: 25 },
+  rapida: { label: 'Sfangata', minutes: 15 },
+  normale: { label: 'Gol nel recupero', minutes: 20 },
+  rilassata: { label: 'Ribaltone', minutes: 25 },
 };
 const HINT_TIME_PENALTY = {
   birthdate: 10,
@@ -271,34 +271,46 @@ setupSuggestions();
 
 document.getElementById('startFromTitle').addEventListener('click', () => {
   playTapSound();
-  showScreen('screen-competition');
+  showScreen('screen-play-type');
 });
-document.getElementById('brandHome').addEventListener('click', () => showScreen('screen-competition'));
+document.getElementById('brandHome').addEventListener('click', () => showScreen('screen-play-type'));
 document.getElementById('globalBackBtn').addEventListener('click', () => goBack());
 
-// ---------- schermata 1: competizione ----------
+// ---------- schermata 1a: gioco libero / sfida a tempo ----------
 
-document.querySelectorAll('.big-choice').forEach(btn => {
-  btn.addEventListener('click', async () => {
-    state.competition = btn.dataset.comp;
-    state.index = await fetchJson(`${DATA_BASE}/${COMP_DIR[state.competition]}/index.json`);
-    showScreen('screen-timing');
+document.querySelectorAll('[data-play-type]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (btn.dataset.playType === 'libero') {
+      state.timing = null;
+      showScreen('screen-competition');
+    } else {
+      showScreen('screen-timing');
+    }
   });
 });
 
-document.getElementById('backToCompetition').addEventListener('click', () => goBack());
-
-// ---------- schermata 1b: scelta tempo ----------
+// ---------- schermata 1b: scelta fascia di tempo ----------
 
 document.querySelectorAll('[data-timing]').forEach(btn => {
   btn.addEventListener('click', () => {
     const key = btn.dataset.timing;
-    state.timing = key === 'none' ? null : { key, ...TIME_BANDS[key] };
+    state.timing = { key, ...TIME_BANDS[key] };
+    showScreen('screen-competition');
+  });
+});
+document.getElementById('backToPlayTypeFromTiming').addEventListener('click', () => goBack());
+
+// ---------- schermata 1c: competizione ----------
+
+document.querySelectorAll('.big-choice[data-comp]').forEach(btn => {
+  btn.addEventListener('click', async () => {
+    state.competition = btn.dataset.comp;
+    state.index = await fetchJson(`${DATA_BASE}/${COMP_DIR[state.competition]}/index.json`);
     showScreen('screen-mode');
   });
 });
 
-document.getElementById('backToCompetitionFromTiming').addEventListener('click', () => goBack());
+document.getElementById('backToCompetition').addEventListener('click', () => goBack());
 
 // ---------- schermata 2: modalita' ----------
 
@@ -832,7 +844,7 @@ function maybeShowMatchComplete() {
 
 document.getElementById('completeBackToMenu').addEventListener('click', () => {
   document.getElementById('matchCompleteOverlay').classList.add('hidden');
-  showScreen('screen-competition');
+  showScreen('screen-play-type');
 });
 document.getElementById('completeNewGame').addEventListener('click', () => {
   document.getElementById('matchCompleteOverlay').classList.add('hidden');
