@@ -1075,6 +1075,13 @@ function openPlayerCard(entry, teamName) {
   feedback.textContent = '';
   feedback.className = 'guess-feedback';
   document.getElementById('guessInput').value = '';
+  // il suggerimento di autocomplete restava visibile da un giocatore
+  // precedente (impostare .value via JS non fa scattare l'evento 'input'
+  // che di solito lo aggiorna) -- lo svuoto esplicitamente ogni volta che
+  // si apre una card, cosi' e' sempre pulita.
+  const suggestListEl = document.getElementById('suggestList');
+  suggestListEl.innerHTML = '';
+  suggestListEl.classList.add('hidden');
 
   updateGuessIncentiveLine();
 
@@ -1172,6 +1179,8 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     // countdown sullo sfondo). L'utente rifocalizza lui stesso se vuole
     // riprovare subito.
     document.getElementById('guessInput').blur();
+    document.getElementById('suggestList').innerHTML = '';
+    document.getElementById('suggestList').classList.add('hidden');
     updateGuessIncentiveLine();
   }
 });
