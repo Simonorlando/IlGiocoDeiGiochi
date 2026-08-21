@@ -418,8 +418,11 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .match-header-info { display: flex; flex-direction: column; gap: 2px; flex: 1; }
 .match-meta-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
-.match-meta-right { display: flex; align-items: baseline; gap: 12px; }
+.match-teams-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.match-meta-right { display: flex; align-items: baseline; gap: 12px; flex-shrink: 0; }
 .timer-label {
+  position: relative;
+  z-index: 55;
   font-variant-numeric: tabular-nums;
   font-weight: 700;
   font-size: 0.85rem;
@@ -438,19 +441,20 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 
 .timer-flash {
   position: relative;
+  z-index: 55;
   font-weight: 700;
   font-size: 0.8rem;
   opacity: 0;
   pointer-events: none;
   font-variant-numeric: tabular-nums;
 }
-.timer-flash.flash-active { animation: flash-rise 0.9s ease-out forwards; }
+.timer-flash.flash-active { animation: flash-rise 2.4s ease-out forwards; }
 .timer-flash.flash-positive { color: var(--accent); }
 .timer-flash.flash-negative { color: var(--danger); }
 @keyframes flash-rise {
   0% { opacity: 0; transform: translateY(4px); }
-  15% { opacity: 1; transform: translateY(0); }
-  75% { opacity: 1; }
+  8% { opacity: 1; transform: translateY(0); }
+  85% { opacity: 1; }
   100% { opacity: 0; transform: translateY(-10px); }
 }
 .match-label {
@@ -463,7 +467,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .match-teams { font-weight: 700; font-size: 1.15rem; }
 .match-details { color: var(--text-dim); font-size: 0.85rem; }
 .match-details .score-highlight { color: var(--accent); font-weight: 700; }
-.score-label { color: var(--text-dim); font-size: 0.9rem; white-space: nowrap; }
+.score-label { color: var(--text-dim); font-size: 0.72rem; opacity: 0.8; white-space: nowrap; }
 .new-game-btn {
   background: var(--panel-2);
   color: var(--text);
@@ -775,8 +779,9 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .wrong-guess-cost {
   margin-top: 6px;
   font-size: 0.7rem;
-  color: var(--danger);
-  opacity: 0.75;
+  font-weight: 700;
+  color: var(--accent);
+  opacity: 0.9;
   text-align: right;
 }
 .guess-feedback {

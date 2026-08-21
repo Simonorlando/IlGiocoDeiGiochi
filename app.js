@@ -525,6 +525,7 @@ async function loadAndStartMatch(fixtureId) {
   state.usedHints = new Set();   // "playerId:hintId", esclude 'reveal'
   state.failedAttempts = 0;
   state.wrongAttemptsByPlayer = {}; // player_id -> quante volte sbagliato, per il bonus
+  state.totalBonusSeconds = 0; // secondi totali guadagnati con i bonus, mostrati a fine partita
   startTimer();
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
@@ -828,6 +829,7 @@ function applyTimePenalty(seconds) {
 function applyTimeBonus(seconds) {
   if (!state.timing) return;
   state.timeRemaining += seconds;
+  state.totalBonusSeconds += seconds;
   updateTimerDisplay();
   showTimerFlash(`+${seconds}s`, true);
 }
@@ -856,7 +858,7 @@ function updateGuessIncentiveLine() {
     return;
   }
   const bonus = computeGuessBonus(pid);
-  el.textContent = `Indovina ora: +${bonus}s · Se sbagli: -${WRONG_GUESS_TIME_PENALTY}s`;
+  el.textContent = `Indovina ora: +${bonus}s`;
   el.classList.remove('hidden');
 }
 
@@ -1164,7 +1166,12 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';
     document.getElementById('guessInput').value = '';
-    document.getElementById('guessInput').focus();
+    // niente re-focus qui: su mobile la tastiera che riappare scrolla la
+    // vista sull'input, spostando il pannello dal centro dello schermo
+    // (dove invece deve restare, cosi' si vede anche il flash del
+    // countdown sullo sfondo). L'utente rifocalizza lui stesso se vuole
+    // riprovare subito.
+    document.getElementById('guessInput').blur();
     updateGuessIncentiveLine();
   }
 });
