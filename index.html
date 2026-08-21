@@ -103,13 +103,40 @@
         <div class="big-choice-title">Gioco libero</div>
         <div class="big-choice-sub">Nessun countdown, tutti gli indizi disponibili</div>
       </button>
-      <button class="big-choice" data-play-type="tempo">
-        <div class="big-choice-emoji">⏱️</div>
-        <div class="big-choice-title">Remuntada</div>
-        <div class="big-choice-sub">Countdown attivo — indizi e tentativi falliti ti tolgono secondi preziosi.</div>
-      </button>
+      <div class="big-choice-wrap">
+        <button class="big-choice" data-play-type="tempo">
+          <div class="big-choice-emoji">⏱️</div>
+          <div class="big-choice-title">Remuntada</div>
+          <div class="big-choice-sub">Countdown attivo: indizi ed errori tolgono secondi, le risposte azzeccate te li restituiscono — più sei bravo, più tempo guadagni.</div>
+        </button>
+        <button type="button" class="info-icon-btn" id="remuntadaInfoBtn" aria-label="Come funziona Remuntada">i</button>
+      </div>
     </div>
   </section>
+
+  <!-- Regole Remuntada (overlay) -->
+  <div id="remuntadaInfoOverlay" class="overlay hidden">
+    <div class="info-panel">
+      <button type="button" class="player-card-close" id="closeRemuntadaInfo">✕</button>
+      <h2 class="info-panel-title">Come funziona Remuntada</h2>
+      <p class="info-panel-desc">Hai un countdown per completare la formazione. Ogni indizio e ogni errore ti tolgono secondi preziosi, ma le risposte azzeccate te li restituiscono — più sei bravo, più tempo guadagni.</p>
+      <div class="info-panel-section-title">Penalità</div>
+      <div class="info-rows">
+        <div class="info-row"><span>Anno di nascita</span><span class="cost-neg">-10s</span></div>
+        <div class="info-row"><span>Numero di maglia</span><span class="cost-neg">-15s</span></div>
+        <div class="info-row"><span>Nazionalità</span><span class="cost-neg">-18s</span></div>
+        <div class="info-row"><span>Carriera</span><span class="cost-neg">-20s</span></div>
+        <div class="info-row"><span>Nome</span><span class="cost-neg">-20s</span></div>
+        <div class="info-row"><span>Tentativo sbagliato</span><span class="cost-neg">-9s</span></div>
+      </div>
+      <div class="info-panel-section-title">Bonus</div>
+      <div class="info-rows">
+        <div class="info-row"><span>Quando indovini</span><span class="cost-pos">+5s</span></div>
+        <div class="info-row"><span>Senza indizi (anche con errori)</span><span class="cost-pos">+15s</span></div>
+        <div class="info-row"><span>Primo colpo, senza indizi né errori</span><span class="cost-pos">+20s</span></div>
+      </div>
+    </div>
+  </div>
 
   <!-- SCHERMATA 1b: scelta fascia di tempo (solo se "Remuntada") -->
   <section id="screen-timing" class="screen">
@@ -206,6 +233,7 @@
         <div class="match-meta-row">
           <div id="matchLabel" class="match-label"></div>
           <div class="match-meta-right">
+            <span id="timerFlash" class="timer-flash"></span>
             <span id="timerLabel" class="timer-label hidden"></span>
             <span id="scoreLabel" class="score-label"></span>
           </div>

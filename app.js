@@ -36,6 +36,16 @@ const HINT_TIME_PENALTY = {
 };
 const WRONG_GUESS_TIME_PENALTY = 9;
 
+// Bonus in secondi su risposta corretta, a tre livelli in base a quanto e'
+// stato "pulito" il tentativo per QUEL giocatore -- ricompensa chi rischia
+// rispondendo subito invece di aprire indizi, coerente col tema Remuntada
+// (recuperare tempo con belle giocate).
+const GUESS_BONUS = {
+  base: 5,      // sempre garantito quando indovini
+  noHints: 15,  // nessun indizio usato (anche con qualche errore)
+  perfect: 20,  // primo colpo, zero indizi, zero errori
+};
+
 const COMP_DIR = { serie_a: 'serie-a', champions_league: 'champions-league' };
 const COMP_LABEL = { serie_a: 'Serie A', champions_league: 'Champions League' };
 
@@ -289,6 +299,16 @@ document.querySelectorAll('[data-play-type]').forEach(btn => {
   });
 });
 
+document.getElementById('remuntadaInfoBtn').addEventListener('click', () => {
+  document.getElementById('remuntadaInfoOverlay').classList.remove('hidden');
+});
+document.getElementById('closeRemuntadaInfo').addEventListener('click', () => {
+  document.getElementById('remuntadaInfoOverlay').classList.add('hidden');
+});
+document.getElementById('remuntadaInfoOverlay').addEventListener('click', (e) => {
+  if (e.target.id === 'remuntadaInfoOverlay') e.currentTarget.classList.add('hidden');
+});
+
 // ---------- schermata 1b: scelta fascia di tempo ----------
 
 document.querySelectorAll('[data-timing]').forEach(btn => {
@@ -504,6 +524,7 @@ async function loadAndStartMatch(fixtureId) {
   state.startTime = Date.now();
   state.usedHints = new Set();   // "playerId:hintId", esclude 'reveal'
   state.failedAttempts = 0;
+  state.wrongAttemptsByPlayer = {}; // player_id -> quante volte sbagliato, per il bonus
   startTimer();
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
@@ -765,7 +786,7 @@ function stopTimer() {
 function updateTimerDisplay() {
   const el = document.getElementById('timerLabel');
   if (!el) return;
-  el.textContent = formatElapsed(state.timeRemaining * 1000);
+  el.textContent = `⏱️ ${formatElapsed(state.timeRemaining * 1000)}`;
   el.classList.toggle('timer-danger', state.timeRemaining <= 30);
 }
 
@@ -797,10 +818,46 @@ function applyTimePenalty(seconds) {
   if (!state.timing) return;
   state.timeRemaining = Math.max(0, state.timeRemaining - seconds);
   updateTimerDisplay();
+  showTimerFlash(`-${seconds}s`, false);
   if (state.timeRemaining <= 0) {
     stopTimer();
     showMatchComplete(false);
   }
+}
+
+function applyTimeBonus(seconds) {
+  if (!state.timing) return;
+  state.timeRemaining += seconds;
+  updateTimerDisplay();
+  showTimerFlash(`+${seconds}s`, true);
+}
+
+function showTimerFlash(text, positive) {
+  const el = document.getElementById('timerFlash');
+  if (!el) return;
+  el.textContent = text;
+  el.classList.remove('flash-positive', 'flash-negative', 'flash-active');
+  void el.offsetWidth;
+  el.classList.add(positive ? 'flash-positive' : 'flash-negative', 'flash-active');
+}
+
+function computeGuessBonus(playerId) {
+  const hintsUsed = [...state.usedHints].some(k => k.startsWith(`${playerId}:`));
+  if (hintsUsed) return GUESS_BONUS.base;
+  const wrongAttempts = state.wrongAttemptsByPlayer[playerId] || 0;
+  return wrongAttempts > 0 ? GUESS_BONUS.noHints : GUESS_BONUS.perfect;
+}
+
+function updateGuessIncentiveLine() {
+  const el = document.getElementById('wrongGuessCost');
+  const pid = state.currentCardPlayerId;
+  if (!state.timing || state.solved[pid]) {
+    el.classList.add('hidden');
+    return;
+  }
+  const bonus = computeGuessBonus(pid);
+  el.textContent = `Indovina ora: +${bonus}s · Se sbagli: -${WRONG_GUESS_TIME_PENALTY}s`;
+  el.classList.remove('hidden');
 }
 
 // Pannello di fine partita, in due varianti: vittoria (formazione
@@ -934,7 +991,7 @@ function buildHints(entry, player, teamName) {
     { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(displayName(player))) },
     { id: 'shirt', label: 'Numero di maglia', value: escapeHtml(String(entry.shirt_number ?? '—')) },
     { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
-    { id: 'birthdate', label: 'Data di nascita', value: escapeHtml(player.birth_date || '—') },
+    { id: 'birthdate', label: 'Anno di nascita', value: escapeHtml(player.birth_date ? player.birth_date.slice(0, 4) : '—') },
     { id: 'career', label: 'Carriera', value: careerTimelineHtml(player, teamName) },
   ];
   // "Chi e'?" rivela la risposta diretta -- niente scorciatoie mentre
@@ -993,6 +1050,7 @@ function renderHints() {
         }
       }
       renderHints();
+      updateGuessIncentiveLine();
     });
   });
 }
@@ -1016,12 +1074,7 @@ function openPlayerCard(entry, teamName) {
   feedback.className = 'guess-feedback';
   document.getElementById('guessInput').value = '';
 
-  // costo di un tentativo sbagliato, mostrato in modo discreto -- solo in
-  // modalita' a tempo, e solo finche' il giocatore non e' gia' risolto.
-  const wrongCostEl = document.getElementById('wrongGuessCost');
-  const showWrongCost = state.timing && !state.solved[entry.player_id];
-  wrongCostEl.classList.toggle('hidden', !showWrongCost);
-  if (showWrongCost) wrongCostEl.textContent = `Tentativo sbagliato: -${WRONG_GUESS_TIME_PENALTY}s`;
+  updateGuessIncentiveLine();
 
   if (state.solved[entry.player_id]) {
     solvedBlock.classList.remove('hidden');
@@ -1089,6 +1142,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   }
 
   if (isCorrect) {
+    applyTimeBonus(computeGuessBonus(playerId));
     state.solved[playerId] = true;
     refreshDotState(playerId);
     updateScore();
@@ -1104,11 +1158,13 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     }
   } else {
     state.failedAttempts++;
+    state.wrongAttemptsByPlayer[playerId] = (state.wrongAttemptsByPlayer[playerId] || 0) + 1;
     applyTimePenalty(WRONG_GUESS_TIME_PENALTY);
     playSound('palo');
     feedback.textContent = 'Non è lui/lei. Riprova!';
     feedback.className = 'guess-feedback wrong';
     document.getElementById('guessInput').value = '';
     document.getElementById('guessInput').focus();
+    updateGuessIncentiveLine();
   }
 });
