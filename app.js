@@ -42,6 +42,8 @@ const WRONG_GUESS_TIME_PENALTY = 9;
 // illimitato.
 const NAME_HINT_MAX_USES = 3;
 const STREAK_FOR_JOLLY = 3; // risposte perfette di fila per guadagnare un uso extra di "Nome"
+const STREAK_FOR_MINUTE = 5; // risposte perfette di fila per guadagnare un minuto intero
+const STREAK_MINUTE_BONUS = 60;
 const TEAM_CHOICE_SECONDS = 10;
 const TEAM_LOCK_BONUS = 30; // secondi guadagnati completando la prima formazione scelta
 
@@ -634,8 +636,8 @@ function updateStreakLabel() {
     el.classList.add('hidden');
     return;
   }
-  const progress = state.perfectStreak % STREAK_FOR_JOLLY;
-  el.textContent = `🔥 Streak ${progress}/${STREAK_FOR_JOLLY}`;
+  // il ciclo completo e' da 5 (jolly a 3, jolly+minuto a 5, poi si azzera)
+  el.textContent = `⚡ Streak ${state.perfectStreak}/${STREAK_FOR_MINUTE}`;
   el.classList.remove('hidden');
 }
 
@@ -937,12 +939,12 @@ function applyTimePenalty(seconds) {
   }
 }
 
-function applyTimeBonus(seconds) {
+function applyTimeBonus(seconds, flashText) {
   if (!state.timing) return;
   state.timeRemaining += seconds;
   state.totalBonusSeconds += seconds;
   updateTimerDisplay();
-  showTimerFlash(`+${seconds}s`, true);
+  showTimerFlash(flashText || `+${seconds}s`, true);
 }
 
 function showTimerFlash(text, positive) {
@@ -1284,24 +1286,37 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
 
   if (isCorrect) {
     const bonus = computeGuessBonus(playerId);
-    applyTimeBonus(bonus);
+    let totalGained = bonus;
+    let flashText = null; // null = lascia che applyTimeBonus mostri il default "+Xs"
 
-    // Streak di risposte perfette (nessun indizio, nessun errore): ogni
-    // tripletta consecutiva regala un uso extra di "Nome". Un indizio
-    // usato o un errore, anche su un altro giocatore, azzera lo streak.
+    // Streak di risposte perfette (nessun indizio, nessun errore), ciclo
+    // fisso da 5: a 3 un uso extra di "Nome", a 5 un altro jolly PIU' un
+    // minuto intero, poi lo streak si azzera e riparte da capo. Un indizio
+    // usato o un errore, anche su un altro giocatore, azzera subito lo
+    // streak. Se piu' cose scattano sulla stessa risposta, un solo flash
+    // combinato invece di piu' animazioni che si accavallano.
     if (state.timing) {
       if (bonus === GUESS_BONUS.perfect) {
         state.perfectStreak++;
-        if (state.perfectStreak % STREAK_FOR_JOLLY === 0) {
+        const badges = [];
+        if (state.perfectStreak === STREAK_FOR_JOLLY) {
           state.nameHintUsesLeft++;
-          showTimerFlash('🃏 jolly', true);
+          badges.push('🃏');
         }
+        if (state.perfectStreak === STREAK_FOR_MINUTE) {
+          state.nameHintUsesLeft++;
+          totalGained += STREAK_MINUTE_BONUS;
+          badges.push('🃏⚡+1min');
+          state.perfectStreak = 0; // ciclo completo: si azzera e riparte
+        }
+        if (badges.length) flashText = `+${totalGained}s ${badges.join(' ')}`;
       } else {
         state.perfectStreak = 0;
       }
       updateStreakLabel();
     }
 
+    applyTimeBonus(totalGained, flashText);
     state.solved[playerId] = true;
     refreshDotState(playerId);
     updateScore();
