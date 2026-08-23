@@ -120,26 +120,35 @@
       <button type="button" class="player-card-close" id="closeRemuntadaInfo">✕</button>
       <h2 class="info-panel-title">Come funziona Remuntada</h2>
       <p class="info-panel-desc">Hai un countdown per completare la formazione. Ogni indizio e ogni errore ti tolgono secondi preziosi, ma le risposte azzeccate te li restituiscono — più sei bravo, più tempo guadagni.</p>
-      <div class="info-panel-section-title">Penalità</div>
+
+      <div class="info-panel-section-title">Penalità per indizio</div>
       <div class="info-rows">
         <div class="info-row"><span>Anno di nascita</span><span class="cost-neg">-10s</span></div>
         <div class="info-row"><span>Numero di maglia</span><span class="cost-neg">-15s</span></div>
         <div class="info-row"><span>Nazionalità</span><span class="cost-neg">-18s</span></div>
         <div class="info-row"><span>Carriera</span><span class="cost-neg">-20s</span></div>
-        <div class="info-row"><span>Tentativo sbagliato</span><span class="cost-neg">-9s</span></div>
       </div>
-      <div class="info-panel-section-title">Bonus</div>
+
+      <div class="info-panel-section-title">Tentativo sbagliato</div>
       <div class="info-rows">
-        <div class="info-row"><span>Quando indovini</span><span class="cost-pos">+5s</span></div>
-        <div class="info-row"><span>Senza indizi, con qualche errore</span><span class="cost-pos">+10s</span></div>
-        <div class="info-row"><span>Primo colpo, senza indizi né errori</span><span class="cost-pos">+20s</span></div>
-        <div class="info-row"><span>Streak da 5 risposte perfette</span><span class="cost-pos">+60s</span></div>
-        <div class="info-row"><span>Completi la prima formazione scelta</span><span class="cost-pos">+30s</span></div>
+        <div class="info-row"><span>Ogni tentativo errato</span><span class="cost-neg">-9s</span></div>
       </div>
+
+      <div class="info-panel-section-title">Bonus risposta corretta</div>
+      <div class="info-rows">
+        <div class="info-row"><span>Indovini (con indizi usati)</span><span class="cost-pos">+5s</span></div>
+        <div class="info-row"><span>Indovini senza indizi, con qualche errore</span><span class="cost-pos">+10s</span></div>
+        <div class="info-row"><span>Indovini al primo colpo, senza indizi né errori</span><span class="cost-pos">+20s</span></div>
+      </div>
+
       <div class="info-panel-section-title">Nome</div>
-      <p class="info-panel-desc">Gratis, ma limitato: parti con 3 utilizzi a partita. Streak di risposte perfette (senza indizi né errori): a 3 di fila guadagni un uso in più, a 5 un altro uso in più <strong>e</strong> un minuto intero — poi lo streak si azzera e riparte. Un indizio usato non fa avanzare lo streak ma nemmeno lo azzera; solo un errore lo azzera davvero.</p>
+      <p class="info-panel-desc">Indizio gratuito, ma limitato: parti con 3 utilizzi a partita.</p>
+
+      <div class="info-panel-section-title">Streak</div>
+      <p class="info-panel-desc">Risposte perfette consecutive (senza indizi né errori): a 3 di fila guadagni un uso extra di "Nome", a 5 un altro uso extra <strong>e</strong> un minuto intero — poi lo streak si azzera e riparte da 0. Un indizio usato congela lo streak (non avanza, ma non si azzera nemmeno); solo un errore lo azzera davvero.</p>
+
       <div class="info-panel-section-title">Scelta squadra</div>
-      <p class="info-panel-desc">All'inizio hai 10 secondi per scegliere da quale squadra partire (altrimenti la scelta è casuale). L'altra resta bloccata finché non completi la prima.</p>
+      <p class="info-panel-desc">All'inizio hai 10 secondi per scegliere da quale squadra partire (altrimenti la scelta è casuale). L'altra resta bloccata finché non completi la prima — poi si sblocca e guadagni <strong>+30s</strong> bonus.</p>
     </div>
   </div>
 
