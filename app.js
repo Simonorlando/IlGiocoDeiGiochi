@@ -765,9 +765,15 @@ function renderPitch(svgId, team) {
     g.setAttribute('class', 'player-dot' + (state.solved[entry.player_id] ? ' solved' : ''));
     g.setAttribute('data-player-id', entry.player_id);
     g.setAttribute('transform', `translate(${x},${y})`);
+    // etichetta col cognome, nascosta di default -- si rivela solo a fine
+    // partita (sconfitta) sui pallini rimasti senza segno di spunta.
+    // Alternata sopra/sotto il pallino in base allo slot cosi' due
+    // giocatori vicini nella stessa linea non si accavallano.
+    const labelDy = (slot % 2 === 0) ? dotRadius + 12 : -(dotRadius + 6);
     g.innerHTML = `
       <circle class="dot-fill" r="${dotRadius}" fill="${color}" />
       <text class="dot-check" x="0" y="${dotRadius * 0.35}" text-anchor="middle" font-size="${dotRadius}" fill="${checkColor}" font-weight="900">✓</text>
+      <text class="dot-name-label" x="0" y="${labelDy}" text-anchor="middle" font-size="10">${escapeHtml(lastName(displayName(state.players[entry.player_id])))}</text>
     `;
     g.addEventListener('click', () => openPlayerCard(entry, team.team_name));
     svg.appendChild(g);
@@ -995,6 +1001,11 @@ function updateGuessIncentiveLine() {
 function showMatchComplete(won) {
   document.getElementById('playerCardOverlay').classList.add('hidden');
   stopTimer();
+  // a partita finita il blocco squadra non serve piu' -- sblocco entrambi i
+  // tab cosi' si puo' sempre sfogliare liberamente il campo di entrambe
+  // (serve anche a "Chi non hai indovinato?" per vedere l'altra squadra).
+  document.getElementById('teamTabHome').classList.remove('locked');
+  document.getElementById('teamTabAway').classList.remove('locked');
 
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
   const done = Object.keys(state.solved).length;
@@ -1017,85 +1028,36 @@ function showMatchComplete(won) {
   document.getElementById('completeHints').textContent = String(state.usedHints.size);
   document.getElementById('completeFailed').textContent = String(state.failedAttempts);
 
-  exitMissedPeek();
+  exitMissedReveal();
+  const toggle = document.getElementById('completeMissedToggle');
   if (won) {
-    document.getElementById('completeMissedToggle').classList.add('hidden');
-    document.getElementById('completeMissedList').classList.add('hidden');
+    toggle.classList.add('hidden');
   } else {
-    populateMissedList();
+    const anyMissed = state.match.teams.some(t => t.lineup.some(e => !state.solved[e.player_id]));
+    toggle.textContent = 'Chi non hai indovinato? ▸';
+    toggle.classList.toggle('hidden', !anyMissed);
   }
 
   document.getElementById('matchCompleteOverlay').classList.remove('hidden');
 }
 
-// Lista dei giocatori non indovinati, divisa per squadra -- solo per la
-// sconfitta (in vittoria e' sempre tutto indovinato). Ogni riga e'
-// cliccabile: apre lo "sbircia sul campo" per vedere dov'era il giocatore.
-function populateMissedList() {
-  const toggle = document.getElementById('completeMissedToggle');
-  const list = document.getElementById('completeMissedList');
-  toggle.textContent = 'Chi non hai indovinato? ▸';
-  list.classList.add('hidden');
-
-  const missedByTeam = state.match.teams.map(team =>
-    team.lineup.filter(entry => !state.solved[entry.player_id])
-  );
-  const anyMissed = missedByTeam.some(arr => arr.length > 0);
-  toggle.classList.toggle('hidden', !anyMissed);
-  if (!anyMissed) {
-    list.innerHTML = '';
-    return;
-  }
-
-  list.innerHTML = state.match.teams.map((team, ti) => {
-    const missed = missedByTeam[ti];
-    if (!missed.length) return '';
-    const rows = missed.map(entry => {
-      const player = state.players[entry.player_id];
-      return `<div class="missed-list-player" data-player-id="${entry.player_id}" data-team-idx="${ti}">${escapeHtml(displayName(player))}</div>`;
-    }).join('');
-    return `<div class="missed-list-team">${escapeHtml(teamDisplayName(team.team_name))}</div>${rows}`;
-  }).join('');
-
-  list.querySelectorAll('.missed-list-player').forEach(row => {
-    row.addEventListener('click', () => peekMissedPlayer(row.dataset.playerId, Number(row.dataset.teamIdx)));
-  });
-}
-
-// Mostra il campo dietro al pannello di fine partita con il pallino del
-// giocatore scelto evidenziato -- cambia squadra attiva se serve.
-function peekMissedPlayer(playerId, teamIdx) {
-  if (state.activeTeamIdx !== teamIdx) {
-    applyPitchSlots(teamIdx, state.activeTeamIdx);
-    state.activeTeamIdx = teamIdx;
-    updateFormationLabel();
-    document.getElementById('teamTabHome').classList.toggle('active', teamIdx === 0);
-    document.getElementById('teamTabAway').classList.toggle('active', teamIdx === 1);
-  }
-
-  document.querySelectorAll('.player-dot.peek-highlight').forEach(el => el.classList.remove('peek-highlight'));
-  const dot = document.querySelector(`.player-dot[data-player-id="${playerId}"]`);
-  if (dot) dot.classList.add('peek-highlight');
-
-  document.getElementById('missedPeekName').textContent = displayName(state.players[playerId]);
-  document.getElementById('matchCompleteOverlay').classList.add('peeking');
-  document.getElementById('missedPeekBar').classList.remove('hidden');
-}
-
-function exitMissedPeek() {
-  document.querySelectorAll('.player-dot.peek-highlight').forEach(el => el.classList.remove('peek-highlight'));
-  document.getElementById('matchCompleteOverlay').classList.remove('peeking');
-  document.getElementById('missedPeekBar').classList.add('hidden');
-}
-
+// "Chi non hai indovinato?" -- invece di una lista a parte, il pannello si
+// fa da parte e sul campo compaiono i cognomi solo sui pallini non
+// indovinati (al massimo restano 5-6 a partita, quindi non affolla).
+// Funziona su entrambe le squadre: i tab restano cliccabili anche in questa
+// modalita'.
 document.getElementById('completeMissedToggle').addEventListener('click', () => {
-  const list = document.getElementById('completeMissedList');
+  const overlay = document.getElementById('matchCompleteOverlay');
   const toggle = document.getElementById('completeMissedToggle');
-  list.classList.toggle('hidden');
-  toggle.textContent = list.classList.contains('hidden') ? 'Chi non hai indovinato? ▸' : 'Chi non hai indovinato? ▾';
+  const active = overlay.classList.toggle('peeking');
+  document.querySelector('.pitch-stage').classList.toggle('reveal-missed', active);
+  toggle.textContent = active ? '← Torna al risultato' : 'Chi non hai indovinato? ▸';
 });
 
-document.getElementById('missedPeekBack').addEventListener('click', exitMissedPeek);
+function exitMissedReveal() {
+  document.getElementById('matchCompleteOverlay').classList.remove('peeking');
+  document.querySelector('.pitch-stage').classList.remove('reveal-missed');
+}
 
 function maybeShowMatchComplete() {
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
@@ -1186,6 +1148,13 @@ function careerTimelineHtml(player, currentClub) {
 function firstName(fullName) {
   const tokens = fullName.trim().split(/\s+/);
   return tokens.length > 1 ? tokens[0] : '';
+}
+
+// Cognome (o ultima parola del nome) -- usato come etichetta compatta sul
+// campo per i giocatori non indovinati a fine partita.
+function lastName(fullName) {
+  const tokens = fullName.trim().split(/\s+/);
+  return tokens[tokens.length - 1];
 }
 
 function displayName(player) {
