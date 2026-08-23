@@ -963,7 +963,56 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .missed-list-team { color: var(--text-dim); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin: 10px 0 4px; }
 .missed-list-team:first-child { margin-top: 0; }
-.missed-list-player { padding: 3px 0; }
+.missed-list-player {
+  padding: 5px 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.missed-list-player:hover { background: rgba(255,255,255,0.06); color: var(--accent-2); }
+
+/* "sbircia sul campo": si clicca un nome nella lista dei mancati e il
+   pannello di fine partita si fa da parte per far vedere la posizione
+   evidenziata sul campo dietro di esso. */
+.overlay.peeking { background: transparent; pointer-events: none; }
+.overlay.peeking .complete-panel { display: none; }
+.missed-peek-bar {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--panel-2);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  z-index: 60;
+  pointer-events: auto;
+}
+.missed-peek-bar.hidden { display: none; }
+.missed-peek-bar button {
+  background: none;
+  border: none;
+  color: var(--accent-2);
+  font-weight: 700;
+  font-size: 0.82rem;
+  cursor: pointer;
+  padding: 0;
+}
+
+@keyframes missedPulse {
+  0%, 100% { stroke-width: 2.5; filter: drop-shadow(0 0 0 var(--accent-2)); }
+  50% { stroke-width: 6; filter: drop-shadow(0 0 5px var(--accent-2)); }
+}
+.player-dot.peek-highlight circle.dot-fill {
+  stroke: var(--accent-2);
+  animation: missedPulse 1s ease-in-out infinite;
+}
 .complete-btn {
   display: block;
   width: 100%;
