@@ -32,9 +32,15 @@ const HINT_TIME_PENALTY = {
   shirt: 15,
   nationality: 18,
   career: 20,
-  firstname: 20,
+  firstname: 25,
 };
 const WRONG_GUESS_TIME_PENALTY = 9;
+
+// "Nome" e' l'indizio piu' potente (rivela l'informazione E aiuta a
+// filtrare i suggerimenti mentre scrivi) -- invece di alzarne il costo in
+// secondi fino a renderlo punitivo, lo limito a un tetto di utilizzi per
+// partita. Solo in modalita' a tempo (in gioco libero resta illimitato).
+const NAME_HINT_MAX_USES = 3;
 
 // Bonus in secondi su risposta corretta, a tre livelli in base a quanto e'
 // stato "pulito" il tentativo per QUEL giocatore -- ricompensa chi rischia
@@ -526,6 +532,7 @@ async function loadAndStartMatch(fixtureId) {
   state.failedAttempts = 0;
   state.wrongAttemptsByPlayer = {}; // player_id -> quante volte sbagliato, per il bonus
   state.totalBonusSeconds = 0; // secondi totali guadagnati con i bonus, mostrati a fine partita
+  state.nameHintUsesLeft = NAME_HINT_MAX_USES;
   startTimer();
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
@@ -1014,11 +1021,17 @@ function renderHints() {
     // aperto/chiuso, cosi' si ricorda facilmente quali indizi sono gia'
     // stati "spesi" su questo giocatore).
     const alreadyUsed = state.usedHints.has(`${state.currentCardPlayerId}:${h.id}`);
-    const cost = state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null
-      ? `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`
-      : '';
+    // "Nome" ha anche un tetto di utilizzi a partita (vedi NAME_HINT_MAX_USES)
+    // -- se esaurito e non ancora usato per QUESTO giocatore, la card resta
+    // visibile ma disabilitata, con un badge "Esaurito" al posto del costo.
+    const exhausted = h.id === 'firstname' && state.timing && !alreadyUsed && state.nameHintUsesLeft <= 0;
+    const cost = exhausted
+      ? `<span class="hint-cost hint-exhausted">Esaurito</span>`
+      : (state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null
+        ? `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`
+        : '');
     return `
-      <div class="hint-card${isOpen ? ' open' : ''}" data-hint-id="${h.id}">
+      <div class="hint-card${isOpen ? ' open' : ''}${exhausted ? ' disabled' : ''}" data-hint-id="${h.id}">
         <div class="hint-card-head">
           <div class="hint-card-label">${h.label}</div>
           <div class="hint-card-head-right">
@@ -1036,9 +1049,16 @@ function renderHints() {
   list.querySelectorAll('.hint-card').forEach(card => {
     card.addEventListener('click', () => {
       const id = card.dataset.hintId;
+      if (card.classList.contains('disabled')) return;
       if (state.openHints.has(id)) {
         state.openHints.delete(id);
       } else {
+        // "Nome" esaurito (mai usato per QUESTO giocatore, zero utilizzi
+        // rimasti): niente apertura, resta un rifiuto silenzioso -- il
+        // badge "Esaurito" ha gia' spiegato perche'.
+        if (id === 'firstname' && state.timing && !state.usedHints.has(`${state.currentCardPlayerId}:${id}`) && state.nameHintUsesLeft <= 0) {
+          return;
+        }
         state.openHints.add(id);
         // conto l'aiuto la prima volta che si apre (chiudere/riaprire non
         // vale doppio) -- "Chi e'?" e' la rivelazione diretta, non un vero
@@ -1047,6 +1067,7 @@ function renderHints() {
         if (id !== 'reveal') {
           const key = `${state.currentCardPlayerId}:${id}`;
           const isFirstOpen = !state.usedHints.has(key);
+          if (isFirstOpen && id === 'firstname' && state.timing) state.nameHintUsesLeft--;
           state.usedHints.add(key);
           if (isFirstOpen && HINT_TIME_PENALTY[id] != null) applyTimePenalty(HINT_TIME_PENALTY[id]);
         }
