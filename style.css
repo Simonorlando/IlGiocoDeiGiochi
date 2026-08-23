@@ -933,6 +933,31 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .complete-stat-label { color: var(--text-dim); }
 .complete-stat-value { font-weight: 700; color: var(--text); }
+.missed-toggle {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 0.82rem;
+  cursor: pointer;
+  padding: 6px 0 14px;
+}
+.missed-toggle:hover { color: var(--text); }
+.missed-list {
+  text-align: left;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
+  max-height: 180px;
+  overflow-y: auto;
+  font-size: 0.85rem;
+}
+.missed-list-team { color: var(--text-dim); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; margin: 10px 0 4px; }
+.missed-list-team:first-child { margin-top: 0; }
+.missed-list-player { padding: 3px 0; }
 .complete-btn {
   display: block;
   width: 100%;

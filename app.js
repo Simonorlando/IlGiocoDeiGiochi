@@ -53,7 +53,7 @@ const TEAM_LOCK_BONUS = 30; // secondi guadagnati completando la prima formazion
 // (recuperare tempo con belle giocate).
 const GUESS_BONUS = {
   base: 5,      // sempre garantito quando indovini
-  noHints: 15,  // nessun indizio usato (anche con qualche errore)
+  noHints: 10,  // nessun indizio usato, ma con qualche errore
   perfect: 20,  // primo colpo, zero indizi, zero errori
 };
 
@@ -1291,9 +1291,10 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
 
     // Streak di risposte perfette (nessun indizio, nessun errore), ciclo
     // fisso da 5: a 3 un uso extra di "Nome", a 5 un altro jolly PIU' un
-    // minuto intero, poi lo streak si azzera e riparte da capo. Un indizio
-    // usato o un errore, anche su un altro giocatore, azzera subito lo
-    // streak. Se piu' cose scattano sulla stessa risposta, un solo flash
+    // minuto intero, poi lo streak si azzera e riparte da capo. Usare un
+    // indizio non fa avanzare lo streak ma nemmeno lo azzera -- e' una
+    // scelta, non una colpa. Solo un ERRORE (anche senza indizi) lo azzera
+    // davvero. Se piu' cose scattano sulla stessa risposta, un solo flash
     // combinato invece di piu' animazioni che si accavallano.
     if (state.timing) {
       if (bonus === GUESS_BONUS.perfect) {
@@ -1310,9 +1311,11 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
           state.perfectStreak = 0; // ciclo completo: si azzera e riparte
         }
         if (badges.length) flashText = `+${totalGained}s ${badges.join(' ')}`;
-      } else {
+      } else if (bonus === GUESS_BONUS.noHints) {
+        // nessun indizio ma almeno un errore: l'errore rompe la serie
         state.perfectStreak = 0;
       }
+      // bonus === GUESS_BONUS.base (indizi usati): streak congelata, non si tocca
       updateStreakLabel();
     }
 

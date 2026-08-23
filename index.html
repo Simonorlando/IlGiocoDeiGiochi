@@ -131,12 +131,12 @@
       <div class="info-panel-section-title">Bonus</div>
       <div class="info-rows">
         <div class="info-row"><span>Quando indovini</span><span class="cost-pos">+5s</span></div>
-        <div class="info-row"><span>Senza indizi (anche con errori)</span><span class="cost-pos">+15s</span></div>
+        <div class="info-row"><span>Senza indizi, con qualche errore</span><span class="cost-pos">+10s</span></div>
         <div class="info-row"><span>Primo colpo, senza indizi né errori</span><span class="cost-pos">+20s</span></div>
         <div class="info-row"><span>Completi la prima formazione scelta</span><span class="cost-pos">+30s</span></div>
       </div>
       <div class="info-panel-section-title">Nome</div>
-      <p class="info-panel-desc">Gratis, ma limitato: parti con 3 utilizzi a partita. Streak di risposte perfette (senza indizi né errori): a 3 di fila guadagni un uso in più, a 5 un altro uso in più <strong>e</strong> un minuto intero — poi lo streak si azzera e riparte. Uno sbaglio o un indizio usato lo azzera subito.</p>
+      <p class="info-panel-desc">Gratis, ma limitato: parti con 3 utilizzi a partita. Streak di risposte perfette (senza indizi né errori): a 3 di fila guadagni un uso in più, a 5 un altro uso in più <strong>e</strong> un minuto intero — poi lo streak si azzera e riparte. Un indizio usato non fa avanzare lo streak ma nemmeno lo azzera; solo un errore lo azzera davvero.</p>
       <div class="info-panel-section-title">Scelta squadra</div>
       <p class="info-panel-desc">All'inizio hai 10 secondi per scegliere da quale squadra partire (altrimenti la scelta è casuale). L'altra resta bloccata finché non completi la prima.</p>
     </div>
@@ -332,6 +332,8 @@
         <span class="complete-stat-value" id="completeFailed"></span>
       </div>
     </div>
+    <button type="button" class="missed-toggle hidden" id="completeMissedToggle">Chi non hai indovinato? ▸</button>
+    <div class="missed-list hidden" id="completeMissedList"></div>
     <button type="button" class="complete-btn complete-btn-secondary" id="completeBackToMenu">Torna al menu principale</button>
     <button type="button" class="complete-btn complete-btn-primary" id="completeNewGame">Nuova partita</button>
   </div>
