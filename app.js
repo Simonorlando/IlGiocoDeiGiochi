@@ -636,8 +636,11 @@ function updateStreakLabel() {
     el.classList.add('hidden');
     return;
   }
-  // il ciclo completo e' da 5 (jolly a 3, jolly+minuto a 5, poi si azzera)
-  el.textContent = `⚡ Streak ${state.perfectStreak}/${STREAK_FOR_MINUTE}`;
+  // il traguardo mostrato cambia: prima punta al primo jolly (3), poi --
+  // una volta superato -- al secondo jolly+minuto (5), invece di mostrare
+  // sempre "/5" anche quando sei ancora a 0 o 1 (fuorviante).
+  const target = state.perfectStreak < STREAK_FOR_JOLLY ? STREAK_FOR_JOLLY : STREAK_FOR_MINUTE;
+  el.textContent = `⚡ Streak ${state.perfectStreak}/${target}`;
   el.classList.remove('hidden');
 }
 
@@ -901,7 +904,17 @@ function updateTimerDisplay() {
   const el = document.getElementById('timerLabel');
   if (!el) return;
   el.textContent = `⏱️ ${formatElapsed(state.timeRemaining * 1000)}`;
-  el.classList.toggle('timer-danger', state.timeRemaining <= 30);
+
+  // Terzi calcolati sul totale FISSO della fascia scelta a inizio partita,
+  // non ricalcolati se il tempo sale coi bonus -- se superi i 2/3 grazie ai
+  // bonus, torni tranquillamente verde. L'ultimo minuto lampeggia sempre,
+  // indipendentemente dalla fascia (soglia assoluta, non proporzionale).
+  const totalSeconds = state.timing ? state.timing.minutes * 60 : 0;
+  const isYellow = totalSeconds > 0 && state.timeRemaining <= totalSeconds * (2 / 3) && state.timeRemaining > totalSeconds / 3;
+  const isRed = totalSeconds > 0 && state.timeRemaining <= totalSeconds / 3;
+  el.classList.toggle('timer-warning', isYellow);
+  el.classList.toggle('timer-danger', isRed);
+  el.classList.toggle('timer-blink', state.timeRemaining <= 60);
 }
 
 // Riparte da zero a ogni nuova partita (schermata campo) -- se non e'

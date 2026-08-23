@@ -432,9 +432,15 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   border-radius: 999px;
   padding: 4px 11px;
 }
+.timer-label.timer-warning {
+  color: var(--accent-2);
+  border-color: rgba(255,176,32,0.4);
+}
 .timer-label.timer-danger {
   color: var(--danger);
   border-color: rgba(255,92,92,0.4);
+}
+.timer-label.timer-blink {
   animation: timer-pulse 1s ease-in-out infinite;
 }
 @keyframes timer-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
