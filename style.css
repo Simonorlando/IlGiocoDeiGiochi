@@ -1011,6 +1011,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .info-panel-section-title:first-of-type { margin-top: 0; }
 .info-rows { display: flex; flex-direction: column; gap: 6px; }
+.info-rows + .info-panel-desc { margin-top: 14px; }
 .info-row {
   display: flex;
   align-items: center;
