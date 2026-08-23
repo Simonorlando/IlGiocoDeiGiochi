@@ -640,7 +640,7 @@ function updateStreakLabel() {
   // una volta superato -- al secondo jolly+minuto (5), invece di mostrare
   // sempre "/5" anche quando sei ancora a 0 o 1 (fuorviante).
   const target = state.perfectStreak < STREAK_FOR_JOLLY ? STREAK_FOR_JOLLY : STREAK_FOR_MINUTE;
-  el.textContent = `⚡ Streak ${state.perfectStreak}/${target}`;
+  el.textContent = `🃏 ${state.nameHintUsesLeft} · ⚡ Streak ${state.perfectStreak}/${target}`;
   el.classList.remove('hidden');
 }
 
@@ -1193,7 +1193,10 @@ function renderHints() {
         if (id !== 'reveal') {
           const key = `${state.currentCardPlayerId}:${id}`;
           const isFirstOpen = !state.usedHints.has(key);
-          if (isFirstOpen && id === 'firstname' && state.timing) state.nameHintUsesLeft--;
+          if (isFirstOpen && id === 'firstname' && state.timing) {
+            state.nameHintUsesLeft--;
+            updateStreakLabel();
+          }
           state.usedHints.add(key);
           if (isFirstOpen && HINT_TIME_PENALTY[id] != null) applyTimePenalty(HINT_TIME_PENALTY[id]);
         }
