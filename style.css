@@ -522,6 +522,17 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   flex-shrink: 0;
 }
 
+.pitch-info-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 420px;
+  margin: 0 auto 8px;
+  min-height: 1.1rem;
+}
+.formation-label { color: var(--text-dim); font-size: 0.78rem; font-weight: 700; }
+.streak-label { color: var(--accent-2); font-size: 0.78rem; font-weight: 700; }
+
 .pitch-stage {
   position: relative;
   background: var(--panel);

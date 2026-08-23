@@ -541,6 +541,7 @@ async function loadAndStartMatch(fixtureId) {
   state.teamLockBonusGiven = false;
   document.getElementById('teamTabHome').classList.remove('locked');
   document.getElementById('teamTabAway').classList.remove('locked');
+  updateStreakLabel();
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
 
@@ -607,11 +608,35 @@ function setupTeamTabs(match) {
       if (state.activeTeamIdx === i) return;
       applyPitchSlots(i, state.activeTeamIdx);
       state.activeTeamIdx = i;
+      updateFormationLabel();
     };
   });
 
   tabHome.classList.toggle('active', true);
   tabAway.classList.toggle('active', false);
+  updateFormationLabel();
+}
+
+// Modulo della squadra attualmente selezionata, sempre visibile sopra il
+// campo -- si aggiorna a ogni cambio tab.
+function updateFormationLabel() {
+  const el = document.getElementById('formationLabel');
+  if (!el || !state.match) return;
+  const team = state.match.teams[state.activeTeamIdx];
+  el.textContent = team.formation ? `Modulo: ${team.formation}` : '';
+}
+
+// Quanto manca al prossimo jolly di "Nome" -- solo in modalita' a tempo.
+function updateStreakLabel() {
+  const el = document.getElementById('streakLabel');
+  if (!el) return;
+  if (!state.timing) {
+    el.classList.add('hidden');
+    return;
+  }
+  const progress = state.perfectStreak % STREAK_FOR_JOLLY;
+  el.textContent = `🔥 Streak ${progress}/${STREAK_FOR_JOLLY}`;
+  el.classList.remove('hidden');
 }
 
 function applyPitchSlots(newIdx, fromIdx) {
@@ -678,6 +703,7 @@ function commitTeamChoice(idx) {
   if (idx !== state.activeTeamIdx) {
     applyPitchSlots(idx, state.activeTeamIdx);
     state.activeTeamIdx = idx;
+    updateFormationLabel();
   }
   state.commitTeamIdx = idx;
   updateTeamLockUI();
@@ -1074,11 +1100,14 @@ function displayName(player) {
 }
 
 function buildHints(entry, player, teamName) {
+  // Ordine: "Nome" sempre primo (e' il piu' importante concettualmente,
+  // indipendentemente dal costo), poi gli altri crescenti per costo in
+  // secondi (10/15/18/20) cosi' il piu' economico e' il primo che si nota.
   const hints = [
     { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(displayName(player))) },
+    { id: 'birthdate', label: 'Anno di nascita', value: escapeHtml(player.birth_date ? player.birth_date.slice(0, 4) : '—') },
     { id: 'shirt', label: 'Numero di maglia', value: escapeHtml(String(entry.shirt_number ?? '—')) },
     { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
-    { id: 'birthdate', label: 'Anno di nascita', value: escapeHtml(player.birth_date ? player.birth_date.slice(0, 4) : '—') },
     { id: 'career', label: 'Carriera', value: careerTimelineHtml(player, teamName) },
   ];
   // "Chi e'?" rivela la risposta diretta -- niente scorciatoie mentre
@@ -1270,6 +1299,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
       } else {
         state.perfectStreak = 0;
       }
+      updateStreakLabel();
     }
 
     state.solved[playerId] = true;
