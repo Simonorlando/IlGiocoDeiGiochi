@@ -512,20 +512,14 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   flex-shrink: 0;
 }
 .team-tab.locked {
-  position: relative;
   cursor: not-allowed;
-  color: transparent;
+  color: var(--text-dim);
 }
+.team-tab.locked .team-tab-swatch { opacity: 0.4; }
 .team-tab.locked::after {
   content: '🔒';
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.1rem;
-  background: var(--panel);
-  border-radius: 8px;
+  font-size: 0.85rem;
+  flex-shrink: 0;
 }
 
 .pitch-stage {

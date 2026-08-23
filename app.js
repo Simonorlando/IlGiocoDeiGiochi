@@ -655,6 +655,10 @@ function showTeamChoiceOverlay(match) {
   const countdownEl = document.getElementById('teamChoiceCountdown');
   countdownEl.textContent = secondsLeft;
   overlay.classList.remove('hidden');
+  // il campo resta nascosto finche' non si sceglie la squadra, non solo
+  // coperto dall'overlay semi-trasparente (che lasciava intravedere i
+  // colori della formazione dietro).
+  document.querySelector('.pitch-stage').classList.add('hidden');
 
   clearInterval(teamChoiceInterval);
   teamChoiceInterval = setInterval(() => {
@@ -670,6 +674,7 @@ function showTeamChoiceOverlay(match) {
 function commitTeamChoice(idx) {
   clearInterval(teamChoiceInterval);
   document.getElementById('teamChoiceOverlay').classList.add('hidden');
+  document.querySelector('.pitch-stage').classList.remove('hidden');
   if (idx !== state.activeTeamIdx) {
     applyPitchSlots(idx, state.activeTeamIdx);
     state.activeTeamIdx = idx;
