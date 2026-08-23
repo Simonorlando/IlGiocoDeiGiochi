@@ -149,6 +149,7 @@ function normalizeName(s) {
 // toccare per sbaglio squadre il cui nome INIZIA legittimamente con
 // quelle lettere.
 function teamDisplayName(name) {
+  if (name === 'Robur Siena') return 'Siena';
   return name.replace(/^(AS|AC)\s+(?=[A-ZÀ-Ý])/, '');
 }
 
