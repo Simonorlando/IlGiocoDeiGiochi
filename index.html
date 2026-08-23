@@ -126,7 +126,6 @@
         <div class="info-row"><span>Numero di maglia</span><span class="cost-neg">-15s</span></div>
         <div class="info-row"><span>Nazionalità</span><span class="cost-neg">-18s</span></div>
         <div class="info-row"><span>Carriera</span><span class="cost-neg">-20s</span></div>
-        <div class="info-row"><span>Nome (max 3 a partita)</span><span class="cost-neg">-25s</span></div>
         <div class="info-row"><span>Tentativo sbagliato</span><span class="cost-neg">-9s</span></div>
       </div>
       <div class="info-panel-section-title">Bonus</div>
@@ -134,6 +133,23 @@
         <div class="info-row"><span>Quando indovini</span><span class="cost-pos">+5s</span></div>
         <div class="info-row"><span>Senza indizi (anche con errori)</span><span class="cost-pos">+15s</span></div>
         <div class="info-row"><span>Primo colpo, senza indizi né errori</span><span class="cost-pos">+20s</span></div>
+        <div class="info-row"><span>Completi la prima formazione scelta</span><span class="cost-pos">+30s</span></div>
+      </div>
+      <div class="info-panel-section-title">Nome</div>
+      <p class="info-panel-desc">Gratis, ma limitato: parti con 3 utilizzi a partita. Ogni 3 risposte perfette consecutive (senza indizi né errori) ne guadagni uno in più — uno sbaglio o un indizio usato azzera lo streak.</p>
+      <div class="info-panel-section-title">Scelta squadra</div>
+      <p class="info-panel-desc">All'inizio hai 10 secondi per scegliere da quale squadra partire (altrimenti la scelta è casuale). L'altra resta bloccata finché non completi la prima.</p>
+    </div>
+  </div>
+
+  <!-- Scelta squadra iniziale, Remuntada (overlay) -->
+  <div id="teamChoiceOverlay" class="overlay hidden">
+    <div class="team-choice-panel">
+      <div class="team-choice-countdown" id="teamChoiceCountdown">10</div>
+      <p class="team-choice-title">Da quale squadra parti?</p>
+      <div class="team-choice-options">
+        <button type="button" class="team-choice-btn" id="teamChoiceHome"></button>
+        <button type="button" class="team-choice-btn" id="teamChoiceAway"></button>
       </div>
     </div>
   </div>

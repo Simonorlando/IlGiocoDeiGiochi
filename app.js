@@ -32,15 +32,18 @@ const HINT_TIME_PENALTY = {
   shirt: 15,
   nationality: 18,
   career: 20,
-  firstname: 25,
 };
 const WRONG_GUESS_TIME_PENALTY = 9;
 
 // "Nome" e' l'indizio piu' potente (rivela l'informazione E aiuta a
-// filtrare i suggerimenti mentre scrivi) -- invece di alzarne il costo in
-// secondi fino a renderlo punitivo, lo limito a un tetto di utilizzi per
-// partita. Solo in modalita' a tempo (in gioco libero resta illimitato).
+// filtrare i suggerimenti mentre scrivi) -- niente costo in secondi, ma un
+// tetto di utilizzi per partita che PARTE da 3 e cresce con lo streak
+// (vedi STREAK_FOR_JOLLY). Solo in modalita' a tempo, in gioco libero resta
+// illimitato.
 const NAME_HINT_MAX_USES = 3;
+const STREAK_FOR_JOLLY = 3; // risposte perfette di fila per guadagnare un uso extra di "Nome"
+const TEAM_CHOICE_SECONDS = 10;
+const TEAM_LOCK_BONUS = 30; // secondi guadagnati completando la prima formazione scelta
 
 // Bonus in secondi su risposta corretta, a tre livelli in base a quanto e'
 // stato "pulito" il tentativo per QUEL giocatore -- ricompensa chi rischia
@@ -533,7 +536,11 @@ async function loadAndStartMatch(fixtureId) {
   state.wrongAttemptsByPlayer = {}; // player_id -> quante volte sbagliato, per il bonus
   state.totalBonusSeconds = 0; // secondi totali guadagnati con i bonus, mostrati a fine partita
   state.nameHintUsesLeft = NAME_HINT_MAX_USES;
-  startTimer();
+  state.perfectStreak = 0;
+  state.commitTeamIdx = null;      // squadra scelta per iniziare (Remuntada) -- null finche' non si sceglie, o sempre null in gioco libero
+  state.teamLockBonusGiven = false;
+  document.getElementById('teamTabHome').classList.remove('locked');
+  document.getElementById('teamTabAway').classList.remove('locked');
   const indexEntry = state.index.find(m => m.fixture_id === fixtureId);
   state.matchDate = indexEntry ? indexEntry.date : null;
 
@@ -569,6 +576,17 @@ async function loadAndStartMatch(fixtureId) {
 
   showScreen('screen-game');
   playKickoffWhistle();
+
+  // Remuntada: prima di far partire il countdown principale, si sceglie da
+  // quale squadra iniziare (10s, altrimenti scelta casuale) -- evita di
+  // poter "spizzicare" i giocatori piu' facili di entrambe le formazioni
+  // per costruire streak comode. In gioco libero si parte subito, libero
+  // di passare da una squadra all'altra come sempre.
+  if (state.timing) {
+    showTeamChoiceOverlay(match);
+  } else {
+    startTimer();
+  }
 }
 
 document.getElementById('newGameBtn').addEventListener('click', () => showScreen('screen-mode'));
@@ -585,6 +603,7 @@ function setupTeamTabs(match) {
     const color = teamColor(team.team_name);
     tab.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span>${escapeHtml(teamDisplayName(team.team_name))}`;
     tab.onclick = () => {
+      if (tab.classList.contains('locked')) return;
       if (state.activeTeamIdx === i) return;
       applyPitchSlots(i, state.activeTeamIdx);
       state.activeTeamIdx = i;
@@ -615,6 +634,60 @@ function applyPitchSlots(newIdx, fromIdx) {
   });
 
   tabs.forEach((tab, i) => tab.classList.toggle('active', i === newIdx));
+}
+
+// ---------- Remuntada: scelta squadra iniziale + blocco formazione ----------
+
+let teamChoiceInterval = null;
+
+function showTeamChoiceOverlay(match) {
+  const overlay = document.getElementById('teamChoiceOverlay');
+  const buttons = [document.getElementById('teamChoiceHome'), document.getElementById('teamChoiceAway')];
+
+  match.teams.forEach((team, idx) => {
+    const btn = buttons[idx];
+    const color = teamColor(team.team_name);
+    btn.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span>${escapeHtml(teamDisplayName(team.team_name))}`;
+    btn.onclick = () => commitTeamChoice(idx);
+  });
+
+  let secondsLeft = TEAM_CHOICE_SECONDS;
+  const countdownEl = document.getElementById('teamChoiceCountdown');
+  countdownEl.textContent = secondsLeft;
+  overlay.classList.remove('hidden');
+
+  clearInterval(teamChoiceInterval);
+  teamChoiceInterval = setInterval(() => {
+    secondsLeft--;
+    countdownEl.textContent = secondsLeft;
+    if (secondsLeft <= 0) {
+      clearInterval(teamChoiceInterval);
+      commitTeamChoice(Math.random() < 0.5 ? 0 : 1); // scelta casuale se il tempo scade
+    }
+  }, 1000);
+}
+
+function commitTeamChoice(idx) {
+  clearInterval(teamChoiceInterval);
+  document.getElementById('teamChoiceOverlay').classList.add('hidden');
+  if (idx !== state.activeTeamIdx) {
+    applyPitchSlots(idx, state.activeTeamIdx);
+    state.activeTeamIdx = idx;
+  }
+  state.commitTeamIdx = idx;
+  updateTeamLockUI();
+  startTimer();
+}
+
+function isTeamFullySolved(teamIdx) {
+  return state.match.teams[teamIdx].lineup.every(e => state.solved[e.player_id]);
+}
+
+function updateTeamLockUI() {
+  if (state.commitTeamIdx === null) return; // gioco libero: nessun blocco
+  const lockedIdx = 1 - state.commitTeamIdx;
+  const lockedTab = [document.getElementById('teamTabHome'), document.getElementById('teamTabAway')][lockedIdx];
+  lockedTab.classList.toggle('locked', !isTeamFullySolved(state.commitTeamIdx));
 }
 
 // ---------- rendering campo ----------
@@ -1021,15 +1094,19 @@ function renderHints() {
     // aperto/chiuso, cosi' si ricorda facilmente quali indizi sono gia'
     // stati "spesi" su questo giocatore).
     const alreadyUsed = state.usedHints.has(`${state.currentCardPlayerId}:${h.id}`);
-    // "Nome" ha anche un tetto di utilizzi a partita (vedi NAME_HINT_MAX_USES)
-    // -- se esaurito e non ancora usato per QUESTO giocatore, la card resta
-    // visibile ma disabilitata, con un badge "Esaurito" al posto del costo.
+    // "Nome" non costa secondi ma ha un tetto di utilizzi a partita (parte
+    // da NAME_HINT_MAX_USES, cresce con lo streak) -- mostro quanti ne
+    // restano invece del prezzo, e se sono a zero la card resta visibile
+    // ma disabilitata con un badge "Esaurito".
     const exhausted = h.id === 'firstname' && state.timing && !alreadyUsed && state.nameHintUsesLeft <= 0;
-    const cost = exhausted
-      ? `<span class="hint-cost hint-exhausted">Esaurito</span>`
-      : (state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null
-        ? `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`
-        : '');
+    let cost = '';
+    if (exhausted) {
+      cost = `<span class="hint-cost hint-exhausted">Esaurito</span>`;
+    } else if (h.id === 'firstname' && state.timing && !alreadyUsed) {
+      cost = `<span class="hint-cost hint-remaining">${state.nameHintUsesLeft} rimasti</span>`;
+    } else if (state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null) {
+      cost = `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`;
+    }
     return `
       <div class="hint-card${isOpen ? ' open' : ''}${exhausted ? ' disabled' : ''}" data-hint-id="${h.id}">
         <div class="hint-card-head">
@@ -1172,10 +1249,36 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   }
 
   if (isCorrect) {
-    applyTimeBonus(computeGuessBonus(playerId));
+    const bonus = computeGuessBonus(playerId);
+    applyTimeBonus(bonus);
+
+    // Streak di risposte perfette (nessun indizio, nessun errore): ogni
+    // tripletta consecutiva regala un uso extra di "Nome". Un indizio
+    // usato o un errore, anche su un altro giocatore, azzera lo streak.
+    if (state.timing) {
+      if (bonus === GUESS_BONUS.perfect) {
+        state.perfectStreak++;
+        if (state.perfectStreak % STREAK_FOR_JOLLY === 0) {
+          state.nameHintUsesLeft++;
+          showTimerFlash('🃏 jolly', true);
+        }
+      } else {
+        state.perfectStreak = 0;
+      }
+    }
+
     state.solved[playerId] = true;
     refreshDotState(playerId);
     updateScore();
+
+    // Se la formazione "impegnata" (Remuntada) e' ora completa, si sblocca
+    // l'altra squadra e si guadagna un bonus una tantum.
+    if (state.timing && state.commitTeamIdx !== null && !state.teamLockBonusGiven && isTeamFullySolved(state.commitTeamIdx)) {
+      state.teamLockBonusGiven = true;
+      updateTeamLockUI();
+      applyTimeBonus(TEAM_LOCK_BONUS);
+    }
+
     // Sull'ultimo giocatore si salta del tutto la card "risolto" (e il suo
     // suono gol): si va dritti al pannello finale con fischio+gol, invece
     // di mostrare per un attimo lo stato risolto e poi passare al pannello.
