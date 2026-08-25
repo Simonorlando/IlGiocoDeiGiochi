@@ -646,7 +646,7 @@ function updateStreakLabel() {
   // una volta superato -- al secondo jolly+minuto (5), invece di mostrare
   // sempre "/5" anche quando sei ancora a 0 o 1 (fuorviante).
   const target = state.perfectStreak < STREAK_FOR_JOLLY ? STREAK_FOR_JOLLY : STREAK_FOR_MINUTE;
-  el.textContent = `🃏 ${state.nameHintUsesLeft} · ⚡ Streak ${state.perfectStreak}/${target}`;
+  el.innerHTML = `🃏 ${state.nameHintUsesLeft}<span class="streak-sep">·</span>⚡ Streak ${state.perfectStreak}/${target}`;
   el.classList.remove('hidden');
 }
 
