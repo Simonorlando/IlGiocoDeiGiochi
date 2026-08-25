@@ -1200,7 +1200,7 @@ function renderHints() {
     if (exhausted) {
       cost = `<span class="hint-cost hint-exhausted">Esaurito</span>`;
     } else if (h.id === 'firstname' && state.timing && !alreadyUsed) {
-      cost = `<span class="hint-cost hint-remaining">${state.nameHintUsesLeft} rimasti</span>`;
+      cost = `<span class="hint-cost hint-remaining">${state.nameHintUsesLeft} 🃏 rimasti</span>`;
     } else if (state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null) {
       cost = `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`;
     }
