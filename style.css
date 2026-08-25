@@ -586,6 +586,13 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .player-dot {
   cursor: pointer;
 }
+/* a partita finita i pallini non devono restare cliccabili -- altrimenti
+   durante "Chi non hai indovinato?" si potrebbe riaprire la card di un
+   giocatore e continuare a "giocare" a tempo scaduto. */
+.pitch-stage.match-over .player-dot {
+  cursor: default;
+  pointer-events: none;
+}
 .player-dot circle.dot-fill {
   stroke: rgba(0,0,0,0.45);
   stroke-width: 1.5;

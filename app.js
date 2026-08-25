@@ -540,7 +540,9 @@ async function loadAndStartMatch(fixtureId) {
   state.totalBonusSeconds = 0; // secondi totali guadagnati con i bonus, mostrati a fine partita
   state.nameHintUsesLeft = NAME_HINT_MAX_USES;
   state.perfectStreak = 0;
+  state.bestStreak = 0; // streak piu' lunga raggiunta in partita, mostrata a fine partita
   state.commitTeamIdx = null;      // squadra scelta per iniziare (Remuntada) -- null finche' non si sceglie, o sempre null in gioco libero
+  document.querySelector('.pitch-stage').classList.remove('match-over');
   state.teamLockBonusGiven = false;
   document.getElementById('teamTabHome').classList.remove('locked');
   document.getElementById('teamTabAway').classList.remove('locked');
@@ -1011,6 +1013,10 @@ function showMatchComplete(won) {
   // (serve anche a "Chi non hai indovinato?" per vedere l'altra squadra).
   document.getElementById('teamTabHome').classList.remove('locked');
   document.getElementById('teamTabAway').classList.remove('locked');
+  // i pallini non devono restare cliccabili a partita finita -- altrimenti
+  // durante "Chi non hai indovinato?" si potrebbe riaprire la card e
+  // continuare a "giocare" un giocatore anche a tempo scaduto/gioco vinto.
+  document.querySelector('.pitch-stage').classList.add('match-over');
 
   const total = state.match.teams.reduce((sum, t) => sum + t.lineup.length, 0);
   const done = Object.keys(state.solved).length;
@@ -1032,6 +1038,11 @@ function showMatchComplete(won) {
   document.getElementById('completeTime').textContent = formatElapsed(Date.now() - state.startTime);
   document.getElementById('completeHints').textContent = String(state.usedHints.size);
   document.getElementById('completeFailed').textContent = String(state.failedAttempts);
+
+  // streak solo in Remuntada -- in gioco libero non esiste il concetto.
+  const streakRow = document.getElementById('completeStreakRow');
+  streakRow.classList.toggle('hidden', !state.timing);
+  if (state.timing) document.getElementById('completeStreak').textContent = String(state.bestStreak);
 
   exitMissedReveal();
   const toggle = document.getElementById('completeMissedToggle');
@@ -1372,6 +1383,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     if (state.timing) {
       if (bonus === GUESS_BONUS.perfect || bonus === GUESS_BONUS.noHints) {
         state.perfectStreak++;
+        state.bestStreak = Math.max(state.bestStreak, state.perfectStreak);
         const badges = [];
         if (state.perfectStreak === STREAK_FOR_JOLLY) {
           state.nameHintUsesLeft++;
