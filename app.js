@@ -1357,9 +1357,12 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     // fisso da 5: a 3 un uso extra di "Nome", a 5 un altro jolly PIU' un
     // minuto intero, poi lo streak si azzera e riparte da capo. Usare un
     // indizio non fa avanzare lo streak ma nemmeno lo azzera -- e' una
-    // scelta, non una colpa. Solo un ERRORE (anche senza indizi) lo azzera
-    // davvero. Se piu' cose scattano sulla stessa risposta, un solo flash
-    // combinato invece di piu' animazioni che si accavallano.
+    // scelta, non una colpa. L'azzeramento per errore avviene subito nel
+    // momento dello sbaglio (vedi ramo "else" sotto), non qui: qui basta
+    // sapere se QUESTO giocatore e' stato "sporcato" da un errore
+    // precedente (bonus.noHints) per non farlo contare come perfetto. Se
+    // piu' cose scattano sulla stessa risposta, un solo flash combinato
+    // invece di piu' animazioni che si accavallano.
     if (state.timing) {
       if (bonus === GUESS_BONUS.perfect) {
         state.perfectStreak++;
@@ -1375,11 +1378,9 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
           state.perfectStreak = 0; // ciclo completo: si azzera e riparte
         }
         if (badges.length) flashText = `+${totalGained}s ${badges.join(' ')}`;
-      } else if (bonus === GUESS_BONUS.noHints) {
-        // nessun indizio ma almeno un errore: l'errore rompe la serie
-        state.perfectStreak = 0;
       }
-      // bonus === GUESS_BONUS.base (indizi usati): streak congelata, non si tocca
+      // bonus === GUESS_BONUS.base (indizi usati) o .noHints (errore gia'
+      // scontato quando e' successo): streak non si tocca qui.
       updateStreakLabel();
     }
 
@@ -1409,6 +1410,15 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   } else {
     state.failedAttempts++;
     state.wrongAttemptsByPlayer[playerId] = (state.wrongAttemptsByPlayer[playerId] || 0) + 1;
+    // un errore azzera subito lo streak, nel momento stesso in cui accade --
+    // non aspetta che QUESTO giocatore venga eventualmente risolto (prima
+    // il reset scattava solo li', e nel frattempo altre risposte perfette
+    // continuavano a far crescere lo streak come se l'errore non ci fosse
+    // mai stato, e l'etichetta a schermo non si aggiornava sull'errore).
+    if (state.timing) {
+      state.perfectStreak = 0;
+      updateStreakLabel();
+    }
     applyTimePenalty(WRONG_GUESS_TIME_PENALTY);
     playSound('palo');
     feedback.textContent = 'Non è lui/lei. Riprova!';
