@@ -688,8 +688,11 @@ function showTeamChoiceOverlay(match) {
   overlay.classList.remove('hidden');
   // il campo resta nascosto finche' non si sceglie la squadra, non solo
   // coperto dall'overlay semi-trasparente (che lasciava intravedere i
-  // colori della formazione dietro).
+  // colori della formazione dietro). Stesso discorso per "Modulo": prima
+  // di scegliere la squadra non ha senso mostrarlo (e sarebbe comunque
+  // quello sbagliato se la scelta finale cade sull'altra squadra).
   document.querySelector('.pitch-stage').classList.add('hidden');
+  document.getElementById('formationLabel').classList.add('hidden');
 
   clearInterval(teamChoiceInterval);
   teamChoiceInterval = setInterval(() => {
@@ -706,6 +709,7 @@ function commitTeamChoice(idx) {
   clearInterval(teamChoiceInterval);
   document.getElementById('teamChoiceOverlay').classList.add('hidden');
   document.querySelector('.pitch-stage').classList.remove('hidden');
+  document.getElementById('formationLabel').classList.remove('hidden');
   if (idx !== state.activeTeamIdx) {
     applyPitchSlots(idx, state.activeTeamIdx);
     state.activeTeamIdx = idx;
@@ -1200,7 +1204,7 @@ function renderHints() {
     if (exhausted) {
       cost = `<span class="hint-cost hint-exhausted">Esaurito</span>`;
     } else if (h.id === 'firstname' && state.timing && !alreadyUsed) {
-      cost = `<span class="hint-cost hint-remaining">${state.nameHintUsesLeft} 🃏 rimasti</span>`;
+      cost = `<span class="hint-cost hint-remaining">${state.nameHintUsesLeft} <span class="jolly-emoji">🃏</span> rimasti</span>`;
     } else if (state.timing && !alreadyUsed && HINT_TIME_PENALTY[h.id] != null) {
       cost = `<span class="hint-cost">-${HINT_TIME_PENALTY[h.id]}s</span>`;
     }

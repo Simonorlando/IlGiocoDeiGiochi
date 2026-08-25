@@ -686,6 +686,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .hint-cost { color: var(--danger); font-size: 0.72rem; font-weight: 700; }
 .hint-cost.hint-exhausted { color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.03em; }
 .hint-cost.hint-remaining { color: var(--accent); text-transform: none; }
+.jolly-emoji { font-size: 1.25em; display: inline-block; vertical-align: -0.15em; }
 .hint-card.disabled { opacity: 0.5; cursor: not-allowed; }
 .hint-card.disabled .hint-card-caret { visibility: hidden; }
 .hint-card-label {
