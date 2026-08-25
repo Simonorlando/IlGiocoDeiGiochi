@@ -1353,18 +1353,20 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     let totalGained = bonus;
     let flashText = null; // null = lascia che applyTimeBonus mostri il default "+Xs"
 
-    // Streak di risposte perfette (nessun indizio, nessun errore), ciclo
-    // fisso da 5: a 3 un uso extra di "Nome", a 5 un altro jolly PIU' un
-    // minuto intero, poi lo streak si azzera e riparte da capo. Usare un
-    // indizio non fa avanzare lo streak ma nemmeno lo azzera -- e' una
-    // scelta, non una colpa. L'azzeramento per errore avviene subito nel
-    // momento dello sbaglio (vedi ramo "else" sotto), non qui: qui basta
-    // sapere se QUESTO giocatore e' stato "sporcato" da un errore
-    // precedente (bonus.noHints) per non farlo contare come perfetto. Se
-    // piu' cose scattano sulla stessa risposta, un solo flash combinato
-    // invece di piu' animazioni che si accavallano.
+    // Streak di risposte consecutive senza indizi, ciclo fisso da 5: a 3 un
+    // uso extra di "Nome", a 5 un altro jolly PIU' un minuto intero, poi lo
+    // streak si azzera e riparte da capo. Usare un indizio non fa avanzare
+    // lo streak ma nemmeno lo azzera -- e' una scelta, non una colpa. Un
+    // ERRORE invece lo azzera subito, nel momento stesso in cui accade
+    // (vedi ramo "else" sotto) -- ma da quel momento in poi lo streak non
+    // ha piu' memoria dell'errore: se ora rispondi senza indizi, anche
+    // sullo stesso giocatore su cui avevi appena sbagliato, conta come
+    // qualunque altra risposta pulita (bonus.perfect o .noHints sono
+    // equivalenti per lo streak, la differenza tra i due resta solo nel
+    // bonus in secondi). Se piu' cose scattano sulla stessa risposta, un
+    // solo flash combinato invece di piu' animazioni che si accavallano.
     if (state.timing) {
-      if (bonus === GUESS_BONUS.perfect) {
+      if (bonus === GUESS_BONUS.perfect || bonus === GUESS_BONUS.noHints) {
         state.perfectStreak++;
         const badges = [];
         if (state.perfectStreak === STREAK_FOR_JOLLY) {
@@ -1379,8 +1381,8 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
         }
         if (badges.length) flashText = `+${totalGained}s ${badges.join(' ')}`;
       }
-      // bonus === GUESS_BONUS.base (indizi usati) o .noHints (errore gia'
-      // scontato quando e' successo): streak non si tocca qui.
+      // bonus === GUESS_BONUS.base (indizi usati per QUESTA risposta):
+      // streak congelato, non si tocca qui.
       updateStreakLabel();
     }
 
