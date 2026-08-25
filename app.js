@@ -581,16 +581,19 @@ async function loadAndStartMatch(fixtureId) {
   updateScore();
 
   showScreen('screen-game');
-  playKickoffWhistle();
 
   // Remuntada: prima di far partire il countdown principale, si sceglie da
   // quale squadra iniziare (10s, altrimenti scelta casuale) -- evita di
   // poter "spizzicare" i giocatori piu' facili di entrambe le formazioni
   // per costruire streak comode. In gioco libero si parte subito, libero
-  // di passare da una squadra all'altra come sempre.
+  // di passare da una squadra all'altra come sempre. Il fischio d'inizio
+  // segue lo stesso ritmo: in Remuntada suona solo quando il campo con la
+  // formazione compare davvero (dopo la scelta squadra), non gia' durante
+  // il countdown "da quale squadra parti?".
   if (state.timing) {
     showTeamChoiceOverlay(match);
   } else {
+    playKickoffWhistle();
     startTimer();
   }
 }
@@ -712,6 +715,7 @@ function commitTeamChoice(idx) {
   document.getElementById('teamChoiceOverlay').classList.add('hidden');
   document.querySelector('.pitch-stage').classList.remove('hidden');
   document.getElementById('formationLabel').classList.remove('hidden');
+  playKickoffWhistle();
   if (idx !== state.activeTeamIdx) {
     applyPitchSlots(idx, state.activeTeamIdx);
     state.activeTeamIdx = idx;
