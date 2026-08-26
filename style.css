@@ -816,6 +816,11 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   font-weight: 700;
   cursor: pointer;
 }
+.guess-form button:disabled {
+  background: var(--panel-2);
+  color: var(--text-dim);
+  cursor: not-allowed;
+}
 .wrong-guess-cost {
   margin-top: 6px;
   font-size: 0.7rem;

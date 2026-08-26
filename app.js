@@ -238,32 +238,95 @@ function loadAllPlayerNames() {
 }
 loadAllPlayerNames();
 
+// Set dei nomi completi validi (normalizzati), per sapere se il testo
+// scritto ORA e' un giocatore vero -- usato per abilitare "Indovina" solo
+// su un'identita' reale (vedi setupSuggestions), mai su testo a caso.
+let validNamesSetPromise = null;
+async function loadValidNamesSet() {
+  if (!validNamesSetPromise) {
+    validNamesSetPromise = loadAllPlayerNames().then(names => new Set(names.map(normalizeName)));
+  }
+  return validNamesSetPromise;
+}
+loadValidNamesSet();
+
+// Distanza di edit (Levenshtein) semplice, senza dipendenze -- usata solo
+// come fallback quando il prefisso esatto non trova nulla, per tollerare
+// piccoli errori di battitura (una lettera sbagliata/mancante/di troppo)
+// senza pero' diventare cosi' permissiva da suggerire nomi a caso.
+function levenshtein(a, b) {
+  const m = a.length, n = b.length;
+  if (m === 0) return n;
+  if (n === 0) return m;
+  const dp = new Array(n + 1);
+  for (let j = 0; j <= n; j++) dp[j] = j;
+  for (let i = 1; i <= m; i++) {
+    let prevDiag = dp[0];
+    dp[0] = i;
+    for (let j = 1; j <= n; j++) {
+      const tmp = dp[j];
+      dp[j] = a[i - 1] === b[j - 1]
+        ? prevDiag
+        : 1 + Math.min(prevDiag, dp[j], dp[j - 1]);
+      prevDiag = tmp;
+    }
+  }
+  return dp[n];
+}
+
+// Vero se la parola digitata "qw" puo' ragionevolmente riferirsi al token
+// "t" del nome: prefisso esatto (caso normale, anche mentre si sta ancora
+// scrivendo), oppure -- solo da 4 lettere in su, per non essere troppo
+// larghi su query cortissime -- una distanza di edit piccola (1 errore
+// fino a 6 lettere, 2 oltre) confrontata sia col token intero sia con un
+// suo prefisso della stessa lunghezza circa. Se l'errore e' troppo esteso
+// (nome scritto a caso) semplicemente non scatta, come deve essere.
+function fuzzyTokenMatch(qw, t) {
+  if (t.startsWith(qw)) return true;
+  if (qw.length < 4) return false;
+  const maxDist = qw.length <= 6 ? 1 : 2;
+  const prefix = t.slice(0, Math.min(t.length, qw.length + 2));
+  return levenshtein(qw, prefix) <= maxDist || levenshtein(qw, t) <= maxDist;
+}
+
 function setupSuggestions() {
   const input = document.getElementById('guessInput');
   const list = document.getElementById('suggestList');
+  const submitBtn = document.getElementById('guessSubmitBtn');
+
+  // "Indovina" si abilita SOLO se il testo scritto ora e' un nome reale
+  // (identita' completa) -- cosi' un invio a vuoto/per sbaglio su un testo
+  // a caso non conta mai come tentativo (niente penalita', niente reset
+  // dello streak per un errore di battitura o un tasto premuto per sbaglio).
+  async function updateSubmitEnabled() {
+    const validNames = await loadValidNamesSet();
+    submitBtn.disabled = !validNames.has(normalizeName(input.value));
+  }
 
   input.addEventListener('input', async () => {
+    updateSubmitEnabled();
     const raw = input.value.trim();
     if (raw.length < 2) { list.classList.add('hidden'); list.innerHTML = ''; return; }
 
     const names = await loadAllPlayerNames();
     // ogni parola digitata (es. "de rossi" -> ["de","rossi"]) deve
-    // combaciare con l'inizio di UN token del nome (non necessariamente
-    // lo stesso per tutte) -- cosi' digitare piu' parole insieme funziona
-    // esattamente come digitarne una sola, invece di cercare l'intera
-    // query come stringa unica senza spazi (che non trova mai nulla per
-    // query multi-parola, es. "de rossi" o "fabian ruiz").
+    // combaciare con UN token del nome (non necessariamente lo stesso per
+    // tutte) -- cosi' digitare piu' parole insieme funziona esattamente
+    // come digitarne una sola, invece di cercare l'intera query come
+    // stringa unica senza spazi (che non trova mai nulla per query
+    // multi-parola, es. "de rossi" o "fabian ruiz").
     const qWords = raw.split(/[\s\-']+/).map(normalizeName).filter(w => w.length >= 1);
 
     // mostro l'IDENTITA' COMPLETA (nome+cognome), mai un nome isolato --
     // altrimenti il suggerimento stesso rivelerebbe una risposta parziale
     // accettabile. Il confronto e' su ciascuna parola del nome (cosi'
-    // digitare il cognome trova comunque il giocatore giusto), lista libera
-    // senza limite fisso di risultati.
+    // digitare il cognome trova comunque il giocatore giusto, in
+    // qualunque ordine) e tollera piccoli errori di battitura, lista
+    // libera senza limite fisso di risultati.
     const matches = [];
     for (const n of names) {
       const tokens = n.split(/[\s\-']+/).map(normalizeName).filter(t => t.length >= 2);
-      if (!qWords.every(qw => tokens.some(t => t.startsWith(qw)))) continue;
+      if (!qWords.every(qw => tokens.some(t => fuzzyTokenMatch(qw, t)))) continue;
       matches.push(n);
     }
 
@@ -276,6 +339,7 @@ function setupSuggestions() {
         input.value = item.textContent;
         list.classList.add('hidden');
         input.focus();
+        updateSubmitEnabled();
       });
     });
   });
@@ -1299,6 +1363,7 @@ function openPlayerCard(entry, teamName) {
   const suggestListEl = document.getElementById('suggestList');
   suggestListEl.innerHTML = '';
   suggestListEl.classList.add('hidden');
+  document.getElementById('guessSubmitBtn').disabled = true;
 
   updateGuessIncentiveLine();
 
@@ -1333,6 +1398,10 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
   const feedback = document.getElementById('guessFeedback');
 
   if (!guess) return;
+  // difesa in profondita': il pulsante e' gia' disabilitato quando il testo
+  // non e' un nome reale (vedi setupSuggestions), ma un invio comunque
+  // arrivato (es. Invio da tastiera) non deve mai contare come tentativo.
+  if (document.getElementById('guessSubmitBtn').disabled) return;
 
   // Accetto SOLO l'identita' completa (nome+cognome), mai un singolo nome o
   // cognome isolato -- ma con tolleranza: confronto sia il nome ufficiale
@@ -1454,6 +1523,7 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
     document.getElementById('guessInput').blur();
     document.getElementById('suggestList').innerHTML = '';
     document.getElementById('suggestList').classList.add('hidden');
+    document.getElementById('guessSubmitBtn').disabled = true;
     updateGuessIncentiveLine();
   }
 });
