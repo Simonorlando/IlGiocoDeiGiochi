@@ -28,12 +28,12 @@ const TIME_BANDS = {
   rilassata: { label: 'Ribaltone', minutes: 25 },
 };
 const HINT_TIME_PENALTY = {
-  birthdate: 10,
-  shirt: 15,
-  nationality: 18,
-  career: 20,
+  birthdate: 5,
+  shirt: 8,
+  career: 10,
+  nationality: 12,
 };
-const WRONG_GUESS_TIME_PENALTY = 9;
+const WRONG_GUESS_TIME_PENALTY = 5;
 
 // "Nome" e' l'indizio piu' potente (rivela l'informazione E aiuta a
 // filtrare i suggerimenti mentre scrivi) -- niente costo in secondi, ma un
@@ -43,18 +43,19 @@ const WRONG_GUESS_TIME_PENALTY = 9;
 const NAME_HINT_MAX_USES = 3;
 const STREAK_FOR_JOLLY = 3; // risposte perfette di fila per guadagnare un uso extra di "Nome"
 const STREAK_FOR_MINUTE = 5; // risposte perfette di fila per guadagnare un minuto intero
-const STREAK_MINUTE_BONUS = 60;
+const STREAK_JOLLY_SECONDS_BONUS = 90; // secondi guadagnati insieme al jolly, a quota 3
+const STREAK_MINUTE_BONUS = 180; // secondi guadagnati insieme al jolly, a quota 5 (poi lo streak si azzera)
 const TEAM_CHOICE_SECONDS = 10;
-const TEAM_LOCK_BONUS = 30; // secondi guadagnati completando la prima formazione scelta
+const TEAM_LOCK_BONUS = 60; // secondi guadagnati completando la prima formazione scelta
 
 // Bonus in secondi su risposta corretta, a tre livelli in base a quanto e'
 // stato "pulito" il tentativo per QUEL giocatore -- ricompensa chi rischia
 // rispondendo subito invece di aprire indizi, coerente col tema Remuntada
 // (recuperare tempo con belle giocate).
 const GUESS_BONUS = {
-  base: 5,      // sempre garantito quando indovini
-  noHints: 10,  // nessun indizio usato, ma con qualche errore
-  perfect: 20,  // primo colpo, zero indizi, zero errori
+  base: 9,      // sempre garantito quando indovini
+  noHints: 15,  // nessun indizio usato, ma con qualche errore
+  perfect: 25,  // primo colpo, zero indizi, zero errori
 };
 
 const COMP_DIR = { serie_a: 'serie-a', champions_league: 'champions-league' };
@@ -1298,13 +1299,13 @@ function displayName(player) {
 function buildHints(entry, player, teamName) {
   // Ordine: "Nome" sempre primo (e' il piu' importante concettualmente,
   // indipendentemente dal costo), poi gli altri crescenti per costo in
-  // secondi (10/15/18/20) cosi' il piu' economico e' il primo che si nota.
+  // secondi (5/8/10/12) cosi' il piu' economico e' il primo che si nota.
   const hints = [
     { id: 'firstname', label: 'Nome', value: escapeHtml(firstName(displayName(player))) },
     { id: 'birthdate', label: 'Anno di nascita', value: escapeHtml(player.birth_date ? player.birth_date.slice(0, 4) : '—') },
     { id: 'shirt', label: 'Numero di maglia', value: escapeHtml(String(entry.shirt_number ?? '—')) },
-    { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
     { id: 'career', label: 'Carriera', value: careerTimelineHtml(player, teamName) },
+    { id: 'nationality', label: 'Nazionalità', value: escapeHtml(player.nationality || '—') },
   ];
   // "Chi e'?" rivela la risposta diretta -- niente scorciatoie mentre
   // corri contro il tempo.
@@ -1510,12 +1511,13 @@ document.getElementById('guessForm').addEventListener('submit', (e) => {
         const badges = [];
         if (state.perfectStreak === STREAK_FOR_JOLLY) {
           state.nameHintUsesLeft++;
+          totalGained += STREAK_JOLLY_SECONDS_BONUS;
           badges.push('🃏');
         }
         if (state.perfectStreak === STREAK_FOR_MINUTE) {
           state.nameHintUsesLeft++;
           totalGained += STREAK_MINUTE_BONUS;
-          badges.push('🃏⚡+1min');
+          badges.push('🃏⚡');
           state.perfectStreak = 0; // ciclo completo: si azzera e riparte
         }
         if (badges.length) flashText = `+${totalGained}s ${badges.join(' ')}`;
