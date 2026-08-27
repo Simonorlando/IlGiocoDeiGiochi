@@ -272,6 +272,7 @@ h1 {
 .dot-red { background: var(--danger); box-shadow: 0 0 8px 1px rgba(255,92,92,0.5); }
 .dot-yellow { background: #ffd23d; box-shadow: 0 0 8px 1px rgba(255,210,61,0.5); }
 .dot-green { background: var(--accent); box-shadow: 0 0 8px 1px rgba(61,220,132,0.5); }
+.dot-orange { background: #ff9f40; box-shadow: 0 0 8px 1px rgba(255,159,64,0.5); }
 .mode-choice-sub { color: var(--text-dim); font-size: 0.85rem; margin-top: 4px; }
 
 .back-btn {

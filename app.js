@@ -60,6 +60,32 @@ const GUESS_BONUS = {
 const COMP_DIR = { serie_a: 'serie-a', champions_league: 'champions-league' };
 const COMP_LABEL = { serie_a: 'Serie A', champions_league: 'Champions League' };
 
+// Fasce di riconoscibilita' delle squadre (solo Serie A) -- usate per
+// stimare la difficolta' di una partita in base a QUANTO sono note le due
+// squadre coinvolte, non a criteri sportivi (classifica, forza attuale).
+// I nomi devono combaciare esattamente con quelli usati in home/away
+// nell'index.json di Serie A.
+const TEAM_TIER = {
+  Juventus: 'alta', 'AC Milan': 'alta', Inter: 'alta', Napoli: 'alta', 'AS Roma': 'alta',
+  Lazio: 'media', Fiorentina: 'media', Udinese: 'media', Genoa: 'media', Bologna: 'media',
+  Atalanta: 'media', Cagliari: 'media', Torino: 'media', Sampdoria: 'media', Sassuolo: 'media',
+  Parma: 'media', Verona: 'media', Chievo: 'media', Empoli: 'media', Lecce: 'media',
+  Palermo: 'bassa', Catania: 'bassa', Cesena: 'bassa', Frosinone: 'bassa', Crotone: 'bassa',
+  Spal: 'bassa', Spezia: 'bassa', Salernitana: 'bassa', Monza: 'bassa', Brescia: 'bassa',
+  'Robur Siena': 'bassa', Pescara: 'bassa', Benevento: 'bassa', Venezia: 'bassa', Cremonese: 'bassa',
+  Como: 'bassa', Bari: 'bassa', Novara: 'bassa', Livorno: 'bassa', Carpi: 'bassa', Pisa: 'bassa',
+};
+const TIER_SCORE = { alta: 3, media: 2, bassa: 1 };
+// somma dei punteggi (2-6) -> livello di difficolta' della partita
+const DIFFICULTY_FROM_SCORE = { 6: 'facile', 5: 'medio', 4: 'impegnativo', 3: 'difficile', 2: 'difficile' };
+
+function matchDifficulty(home, away) {
+  const tHome = TEAM_TIER[home] || 'media';
+  const tAway = TEAM_TIER[away] || 'media';
+  const score = TIER_SCORE[tHome] + TIER_SCORE[tAway];
+  return DIFFICULTY_FROM_SCORE[score];
+}
+
 const ROUND_LABELS = {
   '8th Finals': 'Ottavi di finale',
   'Round of 16': 'Ottavi di finale',
@@ -410,11 +436,16 @@ document.getElementById('backToCompetition').addEventListener('click', () => goB
 
 // ---------- schermata 2: modalita' ----------
 
-document.querySelectorAll('.mode-choice').forEach(btn => {
+document.querySelectorAll('.mode-choice[data-mode]').forEach(btn => {
   btn.addEventListener('click', () => {
     const mode = btn.dataset.mode;
     if (mode === 'random') {
-      startRandomMatch(state.index);
+      if (state.competition === 'serie_a') {
+        state.pendingPool = state.index;
+        showScreen('screen-difficulty');
+      } else {
+        startRandomMatch(state.index);
+      }
     } else if (mode === 'year-random') {
       prepareYearsScreen();
       showScreen('screen-years');
@@ -441,10 +472,29 @@ document.getElementById('generateFromYears').addEventListener('click', () => {
   const to = Number(document.getElementById('yearTo').value);
   const lo = Math.min(from, to), hi = Math.max(from, to);
   const pool = state.index.filter(m => m.season >= lo && m.season <= hi);
-  startRandomMatch(pool);
+  if (state.competition === 'serie_a') {
+    state.pendingPool = pool;
+    showScreen('screen-difficulty');
+  } else {
+    startRandomMatch(pool);
+  }
 });
 
 document.getElementById('backToModeFromYears').addEventListener('click', () => goBack());
+
+// ---------- schermata 3a-bis: difficolta' (solo Serie A) ----------
+
+document.querySelectorAll('.mode-choice[data-difficulty]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const level = btn.dataset.difficulty;
+    const filtered = state.pendingPool.filter(m => matchDifficulty(m.home, m.away) === level);
+    // range anni troppo stretto per quel livello: meglio generare comunque
+    // (dal pool non filtrato) che bloccare il giocatore senza partita.
+    startRandomMatch(filtered.length ? filtered : state.pendingPool);
+  });
+});
+
+document.getElementById('backFromDifficulty').addEventListener('click', () => goBack());
 
 // ---------- schermata 3b: scelta manuale (con navigazione per giornata) ----------
 

@@ -233,8 +233,28 @@
         <select id="yearTo"></select>
       </label>
     </div>
-    <button class="cta-btn" id="generateFromYears">Genera partita 🎲</button>
+    <button class="cta-btn" id="generateFromYears">Avanti →</button>
     <button class="back-btn" id="backToModeFromYears">← indietro</button>
+  </section>
+
+  <!-- SCHERMATA 3a-bis: difficolta' (solo Serie A, solo modalita' casuale/anno+casuale) -->
+  <section id="screen-difficulty" class="screen">
+    <h1>Scegli la difficoltà</h1>
+    <div class="mode-choices">
+      <button class="mode-choice" data-difficulty="facile">
+        <div class="mode-choice-title"><span class="difficulty-dot dot-green"></span>Facile</div>
+      </button>
+      <button class="mode-choice" data-difficulty="medio">
+        <div class="mode-choice-title"><span class="difficulty-dot dot-yellow"></span>Medio</div>
+      </button>
+      <button class="mode-choice" data-difficulty="impegnativo">
+        <div class="mode-choice-title"><span class="difficulty-dot dot-orange"></span>Impegnativo</div>
+      </button>
+      <button class="mode-choice" data-difficulty="difficile">
+        <div class="mode-choice-title"><span class="difficulty-dot dot-red"></span>Difficile</div>
+      </button>
+    </div>
+    <button class="back-btn" id="backFromDifficulty">← indietro</button>
   </section>
 
   <!-- SCHERMATA 3b: scelta manuale -->
