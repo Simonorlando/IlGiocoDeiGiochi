@@ -5,6 +5,15 @@
   "birth_date": "2000-02-04",
   "birth_place": "Napoli",
   "career_transfers": [],
-  "career_clubs": [],
+  "career_clubs": [
+    "Palermo",
+    "Livorno",
+    "Nola",
+    "San Giorgio",
+    "Real Normanna",
+    "Juve Stabia",
+    "Real Normanna",
+    "AS Melfi"
+  ],
   "display_name": "Gennaro Ruggiero"
 }

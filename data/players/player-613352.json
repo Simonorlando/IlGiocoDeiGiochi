@@ -1,16 +1,10 @@
 {
   "player_id": 613352,
-  "full_name": "T. Macchioni",
+  "full_name": "Tommaso Macchioni",
   "nationality": "Italy",
   "birth_date": "2006-04-04",
   "birth_place": null,
   "career_transfers": [
-    {
-      "date": "2025-11-28",
-      "type": "Free agent",
-      "team_out": "Sassuolo",
-      "team_in": "Macchioni Tommaso"
-    },
     {
       "date": "2025-12-31",
       "type": "-",
@@ -31,9 +25,7 @@
     }
   ],
   "career_clubs": [
-    "Sassuolo",
-    "Macchioni Tommaso",
     "Sassuolo"
   ],
-  "display_name": "T. Macchioni"
+  "display_name": "Tommaso Macchioni"
 }

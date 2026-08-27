@@ -2,7 +2,7 @@
   "player_id": 142,
   "full_name": "Rafael Alcântara do Nascimento",
   "nationality": "Brazil",
-  "birth_date": "1992-02-12",
+  "birth_date": "1993-02-12",
   "birth_place": "São Paulo",
   "career_transfers": [
     {
@@ -19,9 +19,13 @@
     }
   ],
   "career_clubs": [
+    "Barcelona",
+    "Celta",
+    "Inter Milan",
+    "Celta",
     "Paris Saint Germain",
     "Real Sociedad",
-    "Paris Saint Germain"
+    "Al-Arabi"
   ],
   "display_name": "Rafinha"
 }
