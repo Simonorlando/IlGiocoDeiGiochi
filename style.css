@@ -954,33 +954,26 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .complete-stat-label { color: var(--text-dim); }
 .complete-stat-value { font-weight: 700; color: var(--text); }
-/* "Chi non hai indovinato?": pillola fissa, sempre cliccabile anche quando
-   il pannello di fine partita si fa da parte per mostrare il campo. */
-.missed-toggle-pill {
-  position: fixed;
-  top: 16px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--panel-2);
-  border: 1px solid var(--border-strong);
-  border-radius: 999px;
-  padding: 8px 16px;
-  font-size: 0.82rem;
-  font-weight: 700;
+/* "Chi non hai indovinato?" e' il primo pulsante del gruppo, insieme a
+   "Torna al menu" e "Nuova partita" -- quando lo clicchi, il RIEPILOGO
+   (bandierina/titolo/statistiche) si fa da parte per mostrare il campo con
+   i cognomi sui pallini rimasti senza spunta, ma i tre pulsanti restano
+   sempre visibili cosi' si puo' sempre tornare indietro. */
+.complete-btn-tertiary {
+  background: none;
+  border: 1px dashed var(--border-strong);
   color: var(--text-dim);
-  cursor: pointer;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-  z-index: 60;
-  pointer-events: auto;
-  transition: color 0.15s ease;
 }
-.missed-toggle-pill:hover { color: var(--text); }
-.missed-toggle-pill.hidden { display: none; }
+.complete-btn-tertiary:hover { color: var(--text); border-color: var(--accent); }
 
-/* il pannello si fa da parte per mostrare il campo con i cognomi sui
-   pallini rimasti senza spunta. */
 .overlay.peeking { background: transparent; pointer-events: none; }
-.overlay.peeking .complete-panel { display: none; }
+.overlay.peeking .complete-panel {
+  background: none;
+  border: none;
+  box-shadow: none;
+  pointer-events: auto;
+}
+.overlay.peeking .complete-summary { display: none; }
 
 .dot-name-label {
   opacity: 0;

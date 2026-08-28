@@ -346,34 +346,36 @@
 <!-- Fine partita (overlay) -->
 <div id="matchCompleteOverlay" class="overlay hidden">
   <div class="complete-panel" id="completePanel">
-    <div class="complete-flag" id="completeFlag">🏁</div>
-    <h2 class="complete-title" id="completeTitle">Formazione completata</h2>
-    <div class="complete-stats">
-      <div class="complete-stat">
-        <span class="complete-stat-label">Tempo impiegato</span>
-        <span class="complete-stat-value" id="completeTime"></span>
-      </div>
-      <div class="complete-stat hidden" id="completeGuessedRow">
-        <span class="complete-stat-label">Giocatori indovinati</span>
-        <span class="complete-stat-value" id="completeGuessed"></span>
-      </div>
-      <div class="complete-stat">
-        <span class="complete-stat-label">Aiuti usati</span>
-        <span class="complete-stat-value" id="completeHints"></span>
-      </div>
-      <div class="complete-stat">
-        <span class="complete-stat-label">Tentativi falliti</span>
-        <span class="complete-stat-value" id="completeFailed"></span>
-      </div>
-      <div class="complete-stat hidden" id="completeStreakRow">
-        <span class="complete-stat-label">Streak più lunga</span>
-        <span class="complete-stat-value" id="completeStreak"></span>
+    <div class="complete-summary">
+      <div class="complete-flag" id="completeFlag">🏁</div>
+      <h2 class="complete-title" id="completeTitle">Formazione completata</h2>
+      <div class="complete-stats">
+        <div class="complete-stat">
+          <span class="complete-stat-label">Tempo impiegato</span>
+          <span class="complete-stat-value" id="completeTime"></span>
+        </div>
+        <div class="complete-stat hidden" id="completeGuessedRow">
+          <span class="complete-stat-label">Giocatori indovinati</span>
+          <span class="complete-stat-value" id="completeGuessed"></span>
+        </div>
+        <div class="complete-stat">
+          <span class="complete-stat-label">Aiuti usati</span>
+          <span class="complete-stat-value" id="completeHints"></span>
+        </div>
+        <div class="complete-stat">
+          <span class="complete-stat-label">Tentativi falliti</span>
+          <span class="complete-stat-value" id="completeFailed"></span>
+        </div>
+        <div class="complete-stat hidden" id="completeStreakRow">
+          <span class="complete-stat-label">Streak più lunga</span>
+          <span class="complete-stat-value" id="completeStreak"></span>
+        </div>
       </div>
     </div>
+    <button type="button" class="complete-btn complete-btn-tertiary hidden" id="completeMissedToggle">Chi non hai indovinato? ▸</button>
     <button type="button" class="complete-btn complete-btn-secondary" id="completeBackToMenu">Torna al menu principale</button>
     <button type="button" class="complete-btn complete-btn-primary" id="completeNewGame">Nuova partita</button>
   </div>
-  <button type="button" class="missed-toggle-pill hidden" id="completeMissedToggle">Chi non hai indovinato? ▸</button>
 </div>
 
 <script src="app.js"></script>
