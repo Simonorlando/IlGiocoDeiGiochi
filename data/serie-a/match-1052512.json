@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1612,
+        "name": "A. Dionisi",
+        "full_name": "Alessio Dionisi"
+      }
     },
     {
       "team_name": "Empoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
+      }
     }
   ],
   "positions_available": true,

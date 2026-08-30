@@ -588,29 +588,58 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .player-dot {
   cursor: pointer;
 }
-/* a partita finita i pallini non devono restare cliccabili -- altrimenti
-   durante "Chi non hai indovinato?" si potrebbe riaprire la card di un
-   giocatore e continuare a "giocare" a tempo scaduto. */
-.pitch-stage.match-over .player-dot {
-  cursor: default;
-  pointer-events: none;
-}
+/* a partita finita i pallini restano cliccabili (per rivedere nome e
+   cognome anche dei mancati, vedi "Chi non hai indovinato?"), ma
+   openPlayerCard() mostra sempre e solo il nome -- mai il pannello di
+   indizi/tentativo, quindi non si puo' piu' "giocare" a tempo scaduto. */
 .player-dot circle.dot-fill {
   stroke: rgba(0,0,0,0.45);
   stroke-width: 1.5;
   transition: r 0.15s ease;
 }
 .player-dot:hover circle.dot-fill { filter: brightness(1.25); }
-.player-dot .dot-check {
-  opacity: 0;
-  transition: opacity 0.15s ease;
+.player-dot .dot-flag {
   pointer-events: none;
 }
-.player-dot.solved .dot-check { opacity: 1; }
+/* la faccia (foto vera o iniziali di fallback) riempie il pallino solo
+   quando il giocatore e' risolto -- prima resta come oggi (colore di
+   squadra o bandiera se l'indizio nazionalita' e' stato usato). */
+.dot-solved-face { display: none; pointer-events: none; }
+.player-dot.solved .dot-solved-face { display: inline; }
+.player-dot.solved .dot-flag { display: none !important; }
+.dot-solved-face .dot-initials { display: none; }
+.dot-solved-face.photo-failed .dot-photo { display: none; }
+.dot-solved-face.photo-failed .dot-initials { display: inline; }
 .player-dot.solved circle.dot-fill {
   stroke: var(--accent);
   stroke-width: 2.5;
 }
+/* nel reveal finale (fine partita) anche i pallini NON indovinati mostrano
+   foto/iniziali e cognome come quelli risolti, ma con bordo rosso invece
+   che verde -- stessa faccia, colore diverso a seconda dell'esito. */
+.pitch-stage.reveal-missed .player-dot:not(.solved) .dot-solved-face { display: inline; }
+.pitch-stage.reveal-missed .player-dot:not(.solved) .dot-flag { display: none !important; }
+.pitch-stage.reveal-missed .player-dot:not(.solved) circle.dot-fill {
+  stroke: var(--danger);
+  stroke-width: 2.5;
+}
+
+/* cognome sotto/sopra il pallino -- sfondo scuro semi-trasparente arrotondato
+   (via text-shadow multidirezionale, piu' leggero di un <rect> separato da
+   dimensionare per ogni riga) cosi' resta leggibile anche sopra foto chiare. */
+.dot-name-label {
+  opacity: 0;
+  pointer-events: none;
+  fill: #fff;
+  font-weight: 700;
+  paint-order: stroke;
+  stroke: rgba(0,0,0,0.9);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  transition: opacity 0.2s ease;
+}
+.player-dot.solved .dot-name-label { opacity: 1; }
+.pitch-stage.reveal-missed .player-dot:not(.solved) .dot-name-label { opacity: 1; }
 
 /* overlay carta giocatore */
 .overlay {
@@ -966,29 +995,30 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .complete-btn-tertiary:hover { color: var(--text); border-color: var(--accent); }
 
-.overlay.peeking { background: transparent; pointer-events: none; }
+/* mentre si sbircia la formazione ("Chi non hai indovinato?") il pannello
+   non deve piu' galleggiare al centro sopra al campo -- si sposta in alto,
+   compatto, e restano visibili solo il pulsante per tornare indietro (gli
+   altri due, "Torna al menu"/"Nuova partita", non servono in questa vista
+   e coprirebbero i pallini a centrocampo). */
+.overlay.peeking {
+  background: transparent;
+  pointer-events: none;
+  align-items: flex-start;
+  padding-top: 8px;
+}
 .overlay.peeking .complete-panel {
   background: none;
   border: none;
   box-shadow: none;
+  padding: 0;
   pointer-events: auto;
 }
 .overlay.peeking .complete-summary { display: none; }
+.overlay.peeking #completeBackToMenu,
+.overlay.peeking #completeNewGame {
+  display: none;
+}
 
-.dot-name-label {
-  opacity: 0;
-  pointer-events: none;
-  fill: #fff;
-  font-weight: 700;
-  paint-order: stroke;
-  stroke: rgba(0,0,0,0.85);
-  stroke-width: 3px;
-  stroke-linejoin: round;
-  transition: opacity 0.2s ease;
-}
-.pitch-stage.reveal-missed .player-dot:not(.solved) .dot-name-label {
-  opacity: 1;
-}
 .complete-btn {
   display: block;
   width: 100%;

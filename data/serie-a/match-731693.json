@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Juric",
+        "full_name": "Ivan Jurić"
+      }
     },
     {
       "team_name": "Sampdoria",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     }
   ],
   "positions_available": true,

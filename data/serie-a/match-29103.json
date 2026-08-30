@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 7486,
+        "name": "G. Iachini",
+        "full_name": "Giuseppe Iachini"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3723,
+        "name": "Julio Velázquez",
+        "full_name": "Julio Velázquez Santiago"
+      }
     }
   ],
   "positions_available": true,

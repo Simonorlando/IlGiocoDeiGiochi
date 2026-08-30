@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2462,
+        "name": "José Mourinho",
+        "full_name": "José Mário dos Santos Mourinho Félix"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
+      }
     }
   ],
   "positions_available": true,

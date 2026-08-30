@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10404,
+        "name": "G. Martusciello",
+        "full_name": "Giovanni Martusciello"
+      }
     },
     {
       "team_name": "Palermo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2548,
+        "name": "E. Corini",
+        "full_name": "Eugenio Corini"
+      }
     }
   ],
   "positions_available": true,

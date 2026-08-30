@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "P. Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1217,
+        "name": "K. Runjaić",
+        "full_name": "Kosta Runjaić"
+      }
     }
   ],
   "positions_available": true,

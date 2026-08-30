@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 57,
+        "name": "R. Schmidt",
+        "full_name": "Roger Schmidt"
+      }
     },
     {
       "team_name": "Atletico Madrid",
@@ -125,7 +130,7 @@
           "shirt_number": 24,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 0
         },
         {
           "player_id": 42039,
@@ -139,7 +144,7 @@
           "shirt_number": 8,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 50,
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1595,
+        "name": "D. Simeone",
+        "full_name": "Diego Pablo Simeone González"
+      }
     }
   ],
   "positions_available": true,

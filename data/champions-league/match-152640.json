@@ -86,7 +86,11 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 18,
+        "name": "Unai Emery"
+      }
     },
     {
       "team_name": "Real Madrid",
@@ -170,7 +174,11 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1584,
+        "name": "Z. Zidane"
+      }
     }
   ],
   "positions_source": "sofascore_v2",

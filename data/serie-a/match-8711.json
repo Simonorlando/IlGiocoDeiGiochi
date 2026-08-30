@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1618,
+        "name": "M. Oddo",
+        "full_name": "Massimo Oddo"
+      }
     },
     {
       "team_name": "Crotone",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2901,
+        "name": "W. Zenga",
+        "full_name": "Walter Zenga"
+      }
     }
   ],
   "positions_available": true,

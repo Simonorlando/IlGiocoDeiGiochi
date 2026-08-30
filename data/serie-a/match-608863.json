@@ -85,7 +85,12 @@
           "line_index": 2,
           "slot_in_line": 4
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6114,
+        "name": "L. Gotti",
+        "full_name": "Luca Gotti"
+      }
     }
   ],
   "positions_available": true,

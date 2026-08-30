@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 16723,
+        "name": "Paolo Vanoli",
+        "full_name": "Paolo Vanoli"
+      }
     },
     {
       "team_name": "Sassuolo",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2902,
+        "name": "Fabio Grosso",
+        "full_name": "Fabio Grosso"
+      }
     }
   ],
   "positions_available": true,

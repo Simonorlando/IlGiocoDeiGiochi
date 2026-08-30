@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte",
+        "full_name": "Antonio Conte"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "P. Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     }
   ],
   "positions_available": true,

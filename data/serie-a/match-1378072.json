@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 27750,
+        "name": "Leonardo Colucci",
+        "full_name": "Leonardo Colucci"
+      }
     },
     {
       "team_name": "AS Roma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "Piero Gasperini Gian",
+        "full_name": "Gian Piero Gasperini"
+      }
     }
   ],
   "positions_available": true,

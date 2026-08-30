@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 20,
+        "name": "F. Lampard",
+        "full_name": "Frank James Lampard"
+      }
     },
     {
       "team_name": "Bayern Munich",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "H. Flick",
+        "full_name": "Hans-Dieter Flick"
+      }
     }
   ],
   "positions_available": true,

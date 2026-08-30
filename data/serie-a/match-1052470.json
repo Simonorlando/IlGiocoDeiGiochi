@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4842,
+        "name": "T. Motta",
+        "full_name": "Thiago Motta Santon Olivares"
+      }
     }
   ],
   "positions_available": true,

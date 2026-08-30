@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     },
     {
       "team_name": "Lazio",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2412,
+        "name": "M. Sarri",
+        "full_name": "Maurizio Sarri"
+      }
     }
   ],
   "positions_available": true,

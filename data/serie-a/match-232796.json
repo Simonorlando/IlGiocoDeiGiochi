@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 7486,
+        "name": "G. Iachini",
+        "full_name": "Giuseppe Iachini"
+      }
     }
   ],
   "positions_available": true,

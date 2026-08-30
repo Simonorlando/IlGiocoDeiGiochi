@@ -34,7 +34,7 @@
           "shirt_number": 13,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 2
         },
         {
           "player_id": 1858,
@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     }
   ],
   "positions_available": true,

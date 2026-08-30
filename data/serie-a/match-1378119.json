@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25878,
+        "name": "Luciano Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     },
     {
       "team_name": "Como",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Cesc Fabregas",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     }
   ],
   "positions_available": true,

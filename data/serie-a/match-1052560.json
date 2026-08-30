@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18685,
+        "name": "D. De Rossi",
+        "full_name": "Daniele De Rossi"
+      }
     },
     {
       "team_name": "Lazio",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2432,
+        "name": "I. Tudor",
+        "full_name": "Igor Tudor"
+      }
     }
   ],
   "positions_available": true,

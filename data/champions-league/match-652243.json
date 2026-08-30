@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "Borussia Monchengladbach",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1540,
+        "name": "M. Rose",
+        "full_name": "Marco Rose"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1,
+        "name": "J. Klopp",
+        "full_name": "Jürgen Norbert Klopp"
+      }
     },
     {
       "team_name": "Real Madrid",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1584,
+        "name": "Z. Zidane",
+        "full_name": "Zinédine Zidane"
+      }
     }
   ],
   "positions_available": true,

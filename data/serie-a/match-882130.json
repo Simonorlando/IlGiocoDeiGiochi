@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 399,
+        "name": "M. Zaffaroni",
+        "full_name": "Marco Zaffaroni"
+      }
     }
   ],
   "positions_available": true,

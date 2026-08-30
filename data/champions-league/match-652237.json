@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 13491,
+        "name": "E. Terzić",
+        "full_name": "Edin Terzić"
+      }
     },
     {
       "team_name": "Sevilla",
@@ -145,8 +150,8 @@
           "player_id": 1650,
           "shirt_number": 7,
           "position": "F",
-          "line_index": 2,
-          "slot_in_line": 2
+          "line_index": 3,
+          "slot_in_line": 0
         },
         {
           "player_id": 47389,
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1594,
+        "name": "Lopetegui",
+        "full_name": "Julen Lopetegui Argote"
+      }
     }
   ],
   "positions_available": true,

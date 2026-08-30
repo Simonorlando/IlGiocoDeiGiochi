@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4842,
+        "name": "T. Motta",
+        "full_name": "Thiago Motta Santon Olivares"
+      }
     },
     {
       "team_name": "Napoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2914,
+        "name": "L. Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     }
   ],
   "positions_available": true,

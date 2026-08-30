@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     },
     {
       "team_name": "Sampdoria",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 7766,
+        "name": "D. Stanković",
+        "full_name": "Dejan Stanković"
+      }
     }
   ],
   "positions_available": true,

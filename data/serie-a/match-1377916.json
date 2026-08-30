@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "Stefano Pioli",
+        "full_name": "Stefano Pioli"
+      }
     },
     {
       "team_name": "AS Roma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "Gian Piero Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     }
   ],
   "positions_available": true,

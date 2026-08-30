@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2006,
+        "name": "Arne Slot",
+        "full_name": "Arne Slot"
+      }
     },
     {
       "team_name": "Paris Saint Germain",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 193,
+        "name": "Enrique Luis",
+        "full_name": "Luis Enrique Martínez García"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1530,
+        "name": "L. Favre",
+        "full_name": "Lucien Favre"
+      }
     },
     {
       "team_name": "Paris Saint Germain",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
+      }
     }
   ],
   "positions_available": true,

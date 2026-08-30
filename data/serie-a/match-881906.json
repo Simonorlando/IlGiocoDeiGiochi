@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "R. Palladino",
+        "full_name": "Raffaele Palladino"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18111,
+        "name": "S. Bocchetti",
+        "full_name": "S. Bocchetti"
+      }
     }
   ],
   "positions_available": true,

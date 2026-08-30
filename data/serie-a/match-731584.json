@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2413,
+        "name": "S. Mihajlović",
+        "full_name": "Siniša Mihajlović"
+      }
     },
     {
       "team_name": "Salernitana",
@@ -153,7 +158,7 @@
           "shirt_number": 2,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 4
+          "slot_in_line": 1
         },
         {
           "player_id": 31692,
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2897,
+        "name": "F. Castori",
+        "full_name": "Fabrizio Castori"
+      }
     }
   ],
   "positions_available": true,

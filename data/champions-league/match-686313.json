@@ -62,7 +62,7 @@
           "shirt_number": 7,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 1
+          "slot_in_line": 3
         },
         {
           "player_id": 19220,
@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
+      }
     },
     {
       "team_name": "FC Porto",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2204,
+        "name": "Sérgio Conceição",
+        "full_name": "Sérgio Paulo Marceneiro da Conceição"
+      }
     }
   ],
   "positions_available": true,

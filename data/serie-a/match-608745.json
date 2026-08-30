@@ -41,7 +41,7 @@
           "shirt_number": 40,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 200,
@@ -61,8 +61,8 @@
           "player_id": 30562,
           "shirt_number": 10,
           "position": "F",
-          "line_index": 2,
-          "slot_in_line": 3
+          "line_index": 4,
+          "slot_in_line": 1
         },
         {
           "player_id": 2118,
@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     }
   ],
   "positions_available": true,

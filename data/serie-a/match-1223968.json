@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1608,
+        "name": "P. Zanetti",
+        "full_name": "Paolo Zanetti"
+      }
     }
   ],
   "positions_available": true,

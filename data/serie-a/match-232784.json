@@ -85,7 +85,11 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 7486,
+        "name": "G. Iachini"
+      }
     },
     {
       "team_name": "Brescia",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": "D. López"
+      }
     }
   ],
   "positions_available": true,

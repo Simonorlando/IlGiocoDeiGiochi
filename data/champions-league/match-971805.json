@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1540,
+        "name": "M. Rose",
+        "full_name": "Marco Rose"
+      }
     },
     {
       "team_name": "Manchester City",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Pep Guardiola",
+        "full_name": "Guardiola"
+      }
     }
   ],
   "positions_available": true,

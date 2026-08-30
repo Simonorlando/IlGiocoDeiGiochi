@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     },
     {
       "team_name": "Inter",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 420,
+        "name": "S. Vecchi",
+        "full_name": "Stefano Vecchi"
+      }
     }
   ],
   "positions_available": true,

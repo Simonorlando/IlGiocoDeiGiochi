@@ -1,7 +1,7 @@
 {
   "player_id": 931,
   "full_name": "Ferran Torres García",
-  "nationality": "Spain",
+  "nationality": "Spagna",
   "birth_date": "2000-02-29",
   "birth_place": "Foios",
   "career_transfers": [
@@ -19,5 +19,5 @@
     "FC Barcelona",
     "Paris Saint-Germain FC"
   ],
-  "display_name": "Ferran García"
+  "display_name": "Ferran Torres"
 }

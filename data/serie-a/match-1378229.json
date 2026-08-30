@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25878,
+        "name": "Luciano Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 16723,
+        "name": "Paolo Vanoli",
+        "full_name": "Paolo Vanoli"
+      }
     }
   ],
   "positions_available": true,

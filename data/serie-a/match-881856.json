@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2915,
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
+      }
     },
     {
       "team_name": "Cremonese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 413,
+        "name": "M. Alvini",
+        "full_name": "Massimiliano Alvini"
+      }
     }
   ],
   "positions_available": true,

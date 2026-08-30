@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3721,
+        "name": "L. D'Anna",
+        "full_name": "Lorenzo D'Anna"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     }
   ],
   "positions_available": true,

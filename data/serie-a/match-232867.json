@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +173,11 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 7486,
+        "name": "G. Iachini"
+      }
     }
   ],
   "positions_available": true,

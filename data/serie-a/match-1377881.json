@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25381,
+        "name": "Carlos Cuesta García",
+        "full_name": "Carlos Cuesta García"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "Ivan Jurić",
+        "full_name": "Ivan Jurić"
+      }
     }
   ],
   "positions_available": true,

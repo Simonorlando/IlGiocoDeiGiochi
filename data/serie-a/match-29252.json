@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
+      }
     },
     {
       "team_name": "Lazio",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "H. Flick",
+        "full_name": "Hans-Dieter Flick"
+      }
     },
     {
       "team_name": "Benfica",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2213,
+        "name": "Bruno Lage",
+        "full_name": "Bruno Miguel Silva do Nascimento"
+      }
     }
   ],
   "positions_available": true,

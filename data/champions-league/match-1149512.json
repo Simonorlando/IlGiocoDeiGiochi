@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1540,
+        "name": "M. Rose",
+        "full_name": "Marco Rose"
+      }
     },
     {
       "team_name": "Real Madrid",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2407,
+        "name": "C. Ancelotti",
+        "full_name": "Carlo Ancelotti"
+      }
     }
   ],
   "positions_available": true,

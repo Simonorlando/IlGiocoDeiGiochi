@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Cesc Fabregas",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 27750,
+        "name": "Leonardo Colucci",
+        "full_name": "Leonardo Colucci"
+      }
     }
   ],
   "positions_available": true,

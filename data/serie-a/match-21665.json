@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2914,
+        "name": "L. Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 7486,
+        "name": "G. Iachini",
+        "full_name": "Giuseppe Iachini"
+      }
     }
   ],
   "positions_available": true,

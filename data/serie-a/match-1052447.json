@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2915,
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
+      }
     },
     {
       "team_name": "Empoli",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2439,
+        "name": "A. Andreazzoli",
+        "full_name": "Aurelio Andreazzoli"
+      }
     }
   ],
   "positions_available": true,

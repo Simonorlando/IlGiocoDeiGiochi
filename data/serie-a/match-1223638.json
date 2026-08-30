@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1608,
+        "name": "P. Zanetti",
+        "full_name": "Paolo Zanetti"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 16723,
+        "name": "P. Vanoli",
+        "full_name": "Paolo Vanoli"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2413,
+        "name": "S. Mihajlović",
+        "full_name": "Siniša Mihajlović"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     }
   ],
   "positions_available": true,

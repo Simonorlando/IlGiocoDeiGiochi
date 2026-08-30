@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 25883,
+        "name": "Moreno Longo"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Juric"
+      }
     }
   ],
   "positions_available": true,

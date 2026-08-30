@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 15938,
+        "name": "E. Bigica",
+        "full_name": "Emiliano Francesco Bigica"
+      }
     },
     {
       "team_name": "Napoli",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 18524,
+        "name": "F. Calzona",
+        "full_name": "Francesco Calzona"
+      }
     }
   ],
   "positions_available": true,

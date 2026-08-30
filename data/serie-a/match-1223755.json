@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     },
     {
       "team_name": "Empoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     }
   ],
   "positions_available": true,

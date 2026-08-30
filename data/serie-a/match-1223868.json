@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1608,
+        "name": "P. Zanetti",
+        "full_name": "Paolo Zanetti"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "V. Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     }
   ],
   "positions_available": true,

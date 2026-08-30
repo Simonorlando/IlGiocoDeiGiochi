@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 411,
+        "name": "Alberto Gilardino",
+        "full_name": "Alberto Gilardino"
+      }
     },
     {
       "team_name": "AS Roma",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "Gian Piero Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     }
   ],
   "positions_available": true,

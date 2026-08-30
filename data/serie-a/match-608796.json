@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 9797,
+        "name": "C. Prandelli",
+        "full_name": "Claudio Cesare Prandelli"
+      }
     }
   ],
   "positions_available": true,

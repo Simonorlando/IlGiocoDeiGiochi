@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1618,
+        "name": "M. Oddo",
+        "full_name": "Massimo Oddo"
+      }
     },
     {
       "team_name": "Empoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10404,
+        "name": "G. Martusciello",
+        "full_name": "Giovanni Martusciello"
+      }
     }
   ],
   "positions_available": true,

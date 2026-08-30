@@ -265,6 +265,12 @@ function loadAllPlayerNames() {
 }
 loadAllPlayerNames();
 
+// Codice bandiera (per le immagini in web/icons/flags/) da mostrare nel
+// pallino quando si usa l'indizio nazionalita' -- caricato una volta sola
+// all'avvio, dizionario piccolo (110 voci).
+let NATIONALITY_ISO = {};
+fetchJson(`${DATA_BASE}/nationality_iso.json`).then(map => { NATIONALITY_ISO = map; });
+
 // Set dei nomi completi validi (normalizzati), per sapere se il testo
 // scritto ORA e' un giocatore vero -- usato per abilitare "Indovina" solo
 // su un'identita' reale (vedi setupSuggestions), mai su testo a caso.
@@ -879,30 +885,212 @@ function renderPitch(svgId, team) {
   const nLines = lines.length;
   const dotRadius = Math.max(9, Math.min(14, 130 / Math.max(...lines) / 1.4));
   const color = teamColor(team.team_name);
-  const checkColor = contrastingCheckColor(color);
 
+  // Passata 1: per ogni giocatore calcolo posizione + etichetta (cognome,
+  // gestendo le particelle "El/Di/Van/..." cosi' "El Shaarawy" e "Di Natale"
+  // non perdono la prima parola), raggruppati per linea -- serve per capire
+  // quali etichette si accavallerebbero davvero (larghezza reale via canvas)
+  // prima di disegnare, e stringerle finche' non entrano tutte in riga.
+  const byLine = new Map();
   team.lineup.forEach(entry => {
     const li = entry.line_index, slot = entry.slot_in_line;
     const count = lines[li];
     const y = marginTop + (li / (nLines - 1)) * (H - marginBottom - marginTop);
     const x = marginX + ((slot + 0.5) / count) * (W - marginX * 2);
+    const surname = lastName(displayName(state.players[entry.player_id]));
+    // direzione fissa per ruolo, mai in base a eventuali scontri: il
+    // portiere punta sempre verso gli attaccanti (sotto), tutti gli altri
+    // sempre verso il portiere (sopra) -- coerente su tutto il campo.
+    const band = entry.position === 'G' ? 'below' : 'above';
+    if (!byLine.has(li)) byLine.set(li, []);
+    byLine.get(li).push({ entry, slot, count, x, y, band, surname, wrapped: false, fontSize: surname.length > 8 ? 8 : 9 });
+  });
 
-    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-    g.setAttribute('class', 'player-dot' + (state.solved[entry.player_id] ? ' solved' : ''));
-    g.setAttribute('data-player-id', entry.player_id);
-    g.setAttribute('transform', `translate(${x},${y})`);
-    // etichetta col cognome, nascosta di default -- si rivela solo a fine
-    // partita (sconfitta) sui pallini rimasti senza segno di spunta.
-    // Alternata sopra/sotto il pallino in base allo slot cosi' due
-    // giocatori vicini nella stessa linea non si accavallano.
-    const labelDy = (slot % 2 === 0) ? dotRadius + 12 : -(dotRadius + 6);
-    g.innerHTML = `
-      <circle class="dot-fill" r="${dotRadius}" fill="${color}" />
-      <text class="dot-check" x="0" y="${dotRadius * 0.35}" text-anchor="middle" font-size="${dotRadius}" fill="${checkColor}" font-weight="900">✓</text>
-      <text class="dot-name-label" x="0" y="${labelDy}" text-anchor="middle" font-size="10">${escapeHtml(lastName(displayName(state.players[entry.player_id])))}</text>
-    `;
-    g.addEventListener('click', () => openPlayerCard(entry, team.team_name));
-    svg.appendChild(g);
+  const pad = 3;
+  byLine.forEach(lineEntries => {
+    lineEntries.sort((a, b) => a.slot - b.slot);
+    // provo a far entrare tutte le etichette centrate sul proprio pallino:
+    // se due vicine (stessa banda, quindi sempre per i non-portiere dato
+    // che sono tutti sulla stessa riga) si accavallerebbero, o se
+    // un'etichetta di bordo uscirebbe dal campo, prima vado a capo su due
+    // righe, poi se non basta ancora riduco il font -- mai alternare sopra/
+    // sotto, la direzione resta fissa per ruolo.
+    const MIN_FONT = 6;
+    for (let iter = 0; iter < 8; iter++) {
+      lineEntries.forEach(item => { item.label = buildNameLabel(item.surname, item.fontSize, item.wrapped); });
+
+      const conflicts = new Set();
+      // bordo sinistro/destro del campo (le etichette sono sempre centrate,
+      // quindi mezza larghezza da ciascun lato del pallino).
+      const first = lineEntries[0], last = lineEntries[lineEntries.length - 1];
+      if (first.x - first.label.width / 2 - pad < 4) conflicts.add(first);
+      if (last.x + last.label.width / 2 + pad > W - 4) conflicts.add(last);
+      // vicini nella stessa linea, stessa banda -> stesso confronto per
+      // TUTTI i non-portiere (sono sempre tutti "above"); il portiere e'
+      // sempre solo nella sua linea quindi non ha vicini da controllare.
+      for (let i = 1; i < lineEntries.length; i++) {
+        const prev = lineEntries[i - 1], cur = lineEntries[i];
+        if (prev.band !== cur.band) continue;
+        const gapNeeded = prev.label.width / 2 + cur.label.width / 2 + pad * 2;
+        if ((cur.x - prev.x) < gapNeeded) { conflicts.add(prev); conflicts.add(cur); }
+      }
+      if (conflicts.size === 0) break;
+      let changedAny = false;
+      conflicts.forEach(item => {
+        if (!item.wrapped && item.surname.includes(' ')) {
+          item.wrapped = true;
+          changedAny = true;
+        } else if (item.fontSize > MIN_FONT) {
+          item.fontSize -= 1;
+          changedAny = true;
+        }
+      });
+      if (!changedAny) break;
+    }
+  });
+
+  byLine.forEach(lineEntries => {
+    lineEntries.forEach(item => {
+      const { entry, x, y, label, band } = item;
+      const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.setAttribute('class', 'player-dot' + (state.solved[entry.player_id] ? ' solved' : ''));
+      g.setAttribute('data-player-id', entry.player_id);
+      g.setAttribute('transform', `translate(${x},${y})`);
+      const clipId = `flagclip-${svgId}-${entry.player_id}`;
+      const photoClipId = `photoclip-${svgId}-${entry.player_id}`;
+      const flagCode = flagCodeForPlayer(entry.player_id);
+      const initials = initialsForPlayer(entry.player_id);
+      g.innerHTML = `
+        <circle class="dot-fill" r="${dotRadius}" fill="${color}" />
+        <clipPath id="${clipId}"><circle r="${dotRadius}" /></clipPath>
+        <clipPath id="${photoClipId}"><circle r="${dotRadius}" /></clipPath>
+        <image class="dot-flag" href="${flagCode ? flagImageHref(flagCode) : ''}"
+               x="${-dotRadius}" y="${-dotRadius}" width="${dotRadius * 2}" height="${dotRadius * 2}"
+               preserveAspectRatio="xMidYMid slice" clip-path="url(#${clipId})"
+               style="display:${flagCode ? 'inline' : 'none'}" />
+        <g class="dot-solved-face">
+          <image class="dot-photo" href="${playerPhotoHref(entry.player_id)}"
+                 x="${-dotRadius}" y="${-dotRadius}" width="${dotRadius * 2}" height="${dotRadius * 2}"
+                 preserveAspectRatio="xMidYMid slice" clip-path="url(#${photoClipId})" />
+          <g class="dot-initials">
+            <circle r="${dotRadius}" fill="var(--panel-2, #333)" />
+            <text x="0" y="${dotRadius * 0.35}" text-anchor="middle" font-size="${dotRadius}" fill="#fff" font-weight="700">${initials}</text>
+          </g>
+        </g>
+        ${nameLabelSvg(label, band, dotRadius)}
+      `;
+      const photoImg = g.querySelector('.dot-photo');
+      photoImg.addEventListener('error', () => {
+        g.querySelector('.dot-solved-face').classList.add('photo-failed');
+      });
+      g.addEventListener('click', () => openPlayerCard(entry, team.team_name));
+      svg.appendChild(g);
+    });
+  });
+}
+
+// Cognome sempre con le particelle attaccate ("El Shaarawy", "Di Natale",
+// "Van Dijk", "De Ligt"...) -- prendo dal primo token riconosciuto come
+// particella in poi, invece della sola ultima parola.
+const SURNAME_PARTICLES = new Set([
+  'de', 'di', 'da', 'van', 'von', 'der', 'den', 'ter', 'el', 'al',
+  'le', 'la', 'les', 'del', 'della', 'dello', 'degli', 'dei', 'delle',
+  'dos', 'das', 'do', 'bin',
+]);
+function lastName(fullName) {
+  const tokens = fullName.trim().split(/\s+/);
+  if (tokens.length === 1) return tokens[0];
+  for (let i = 0; i < tokens.length - 1; i++) {
+    if (SURNAME_PARTICLES.has(tokens[i].toLowerCase())) {
+      return tokens.slice(i).join(' ');
+    }
+  }
+  return tokens[tokens.length - 1];
+}
+
+// Prepara l'etichetta da mostrare al dato fontSize: se "wrapped" e il
+// cognome ha piu' parole, va su due righe (l'ultima parola, il "cuore" del
+// cognome, da sola sulla seconda riga, le particelle sulla prima) --
+// entrambe le righe restano centrate allo stesso modo, una sopra l'altra.
+function buildNameLabel(surname, fontSize, wrapped) {
+  const words = surname.split(' ');
+  if (!wrapped || words.length === 1) {
+    return { lines: [surname], fontSize, width: measureTextWidth(surname, fontSize) };
+  }
+  const line1 = words.slice(0, -1).join(' ');
+  const line2 = words[words.length - 1];
+  const w1 = measureTextWidth(line1, fontSize);
+  const w2 = measureTextWidth(line2, fontSize);
+  return { lines: [line1, line2], fontSize, width: Math.max(w1, w2) };
+}
+
+// Etichetta sempre centrata sul pallino (mai spostata a sinistra/destra).
+function nameLabelSvg(label, band, dotRadius) {
+  const lineHeight = label.fontSize + 2;
+  const nLines = label.lines.length;
+  // sotto: la prima riga e' la piu' vicina al pallino; sopra: e' l'ultima
+  // (cosi' il testo "cresce" allontanandosi dal pallino in entrambi i casi).
+  const firstDy = band === 'below'
+    ? dotRadius + 11 + label.fontSize * 0.75
+    : -(dotRadius + 6) - (nLines - 1) * lineHeight;
+  return label.lines.map((line, i) => {
+    const dy = firstDy + i * lineHeight;
+    return `<text class="dot-name-label" x="0" y="${dy}" text-anchor="middle" font-size="${label.fontSize}">${escapeHtml(line)}</text>`;
+  }).join('');
+}
+
+// misura la larghezza reale del testo (stesse unita' SVG usate per
+// posizionare i pallini) con un canvas offscreen condiviso.
+let __labelMeasureCtx = null;
+function measureTextWidth(text, fontSize) {
+  if (!__labelMeasureCtx) {
+    __labelMeasureCtx = document.createElement('canvas').getContext('2d');
+  }
+  __labelMeasureCtx.font = `700 ${fontSize}px sans-serif`;
+  return __labelMeasureCtx.measureText(text).width;
+}
+
+function playerPhotoHref(playerId) {
+  return `icons/players/${playerId}.webp`;
+}
+
+// iniziali (nome+cognome, o le prime due lettere se e' un alias monoparola)
+// da mostrare quando il giocatore non ha una foto vera disponibile.
+function initialsForPlayer(playerId) {
+  const name = displayName(state.players[playerId]).trim();
+  const tokens = name.split(/\s+/);
+  if (tokens.length === 1) return escapeHtml(tokens[0].slice(0, 2).toUpperCase());
+  return escapeHtml((tokens[0][0] + tokens[tokens.length - 1][0]).toUpperCase());
+}
+
+function flagImageHref(code) {
+  return `icons/flags/${code}.png`;
+}
+
+// codice bandiera da mostrare nel pallino: solo se l'indizio nazionalita' e'
+// gia' stato usato per QUESTO giocatore e la sua nazionalita' ha un codice
+// mappato -- altrimenti null (pallino resta come oggi, colore di squadra).
+function flagCodeForPlayer(playerId) {
+  if (!state.usedHints.has(`${playerId}:nationality`)) return null;
+  const player = state.players[playerId];
+  const nat = player && player.nationality;
+  return (nat && NATIONALITY_ISO[nat]) || null;
+}
+
+// aggiorna solo la bandiera del pallino di un giocatore, senza ridisegnare
+// tutto il campo -- chiamata subito dopo aver aperto per la prima volta
+// l'indizio nazionalita' nella card. La bandiera riempie l'intero pallino
+// (ritaglio circolare), sostituendo il colore di squadra, non un'iconcina
+// dentro al pallino.
+function refreshDotFlag(playerId) {
+  const code = flagCodeForPlayer(playerId);
+  document.querySelectorAll(`.player-dot[data-player-id="${playerId}"] .dot-flag`).forEach(el => {
+    if (code) {
+      el.setAttribute('href', flagImageHref(code));
+      el.style.display = 'inline';
+    } else {
+      el.style.display = 'none';
+    }
   });
 }
 
@@ -1285,13 +1473,6 @@ function firstName(fullName) {
   return tokens.length > 1 ? tokens[0] : '';
 }
 
-// Cognome (o ultima parola del nome) -- usato come etichetta compatta sul
-// campo per i giocatori non indovinati a fine partita.
-function lastName(fullName) {
-  const tokens = fullName.trim().split(/\s+/);
-  return tokens[tokens.length - 1];
-}
-
 function displayName(player) {
   return player.display_name || player.full_name;
 }
@@ -1380,6 +1561,7 @@ function renderHints() {
             updateStreakLabel();
           }
           state.usedHints.add(key);
+          if (isFirstOpen && id === 'nationality') refreshDotFlag(state.currentCardPlayerId);
           if (isFirstOpen && HINT_TIME_PENALTY[id] != null) applyTimePenalty(HINT_TIME_PENALTY[id]);
         }
       }
@@ -1418,7 +1600,10 @@ function openPlayerCard(entry, teamName) {
 
   updateGuessIncentiveLine();
 
-  if (state.solved[entry.player_id]) {
+  // a partita finita basta il nome, anche per i giocatori mai indovinati --
+  // niente piu' indizi/tentativo di indovinare a tempo scaduto.
+  const matchOver = document.querySelector('.pitch-stage').classList.contains('match-over');
+  if (state.solved[entry.player_id] || matchOver) {
     solvedBlock.classList.remove('hidden');
     unsolvedBlock.classList.add('hidden');
     document.getElementById('solvedName').textContent = displayName(player);

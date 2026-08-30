@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "Monaco",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 22,
+        "name": "Leonardo Jardim",
+        "full_name": "José Leonardo Nunes Alves Sousa Jardim"
+      }
     }
   ],
   "positions_available": true,

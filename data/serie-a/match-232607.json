@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 4842,
+        "name": "T. Motta",
+        "full_name": "Thiago Motta Santon Olivares"
+      }
     },
     {
       "team_name": "Brescia",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2548,
+        "name": "E. Corini",
+        "full_name": "Eugenio Corini"
+      }
     }
   ],
   "positions_available": true,

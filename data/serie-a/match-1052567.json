@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2432,
+        "name": "I. Tudor",
+        "full_name": "Igor Tudor"
+      }
     },
     {
       "team_name": "Salernitana",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2904,
+        "name": "S. Colantuono",
+        "full_name": "Stefano Colantuono"
+      }
     }
   ],
   "positions_available": true,

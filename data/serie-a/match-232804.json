@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte"
+      }
     },
     {
       "team_name": "Brescia",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": "D. López"
+      }
     }
   ],
   "positions_available": true,

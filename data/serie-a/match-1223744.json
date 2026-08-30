@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     },
     {
       "team_name": "Como",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Cesc Fàbregas",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 19094,
+        "name": "Fabio Pisacane",
+        "full_name": "F. Pisacane"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "Raffaele Palladino",
+        "full_name": "Raffaele Palladino"
+      }
     }
   ],
   "positions_available": true,

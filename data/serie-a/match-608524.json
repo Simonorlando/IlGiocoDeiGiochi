@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
+      }
     },
     {
       "team_name": "Inter",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte",
+        "full_name": "Antonio Conte"
+      }
     }
   ],
   "positions_available": true,

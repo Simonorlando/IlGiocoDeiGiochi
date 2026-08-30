@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 7766,
+        "name": "D. Stanković",
+        "full_name": "Dejan Stanković"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "V. Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     }
   ],
   "positions_available": true,

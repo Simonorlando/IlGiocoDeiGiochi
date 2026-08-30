@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "Patrick Donalé Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2432,
+        "name": "Igor Tudor",
+        "full_name": "Igor Tudor"
+      }
     }
   ],
   "positions_available": true,

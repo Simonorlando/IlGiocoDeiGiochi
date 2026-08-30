@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
+      }
     },
     {
       "team_name": "Chievo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
+      }
     }
   ],
   "positions_available": true,

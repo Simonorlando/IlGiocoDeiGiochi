@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "Eusebio Luca Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25380,
+        "name": "Marco Landucci",
+        "full_name": "Marco Landucci"
+      }
     }
   ],
   "positions_available": true,

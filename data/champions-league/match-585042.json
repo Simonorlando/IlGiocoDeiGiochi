@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2894,
+        "name": "Quique Setién",
+        "full_name": "Enrique Setién Solar"
+      }
     },
     {
       "team_name": "Bayern Munich",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "H. Flick",
+        "full_name": "Hans-Dieter Flick"
+      }
     }
   ],
   "positions_available": true,

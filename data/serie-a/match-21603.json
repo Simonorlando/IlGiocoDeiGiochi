@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
+      }
     },
     {
       "team_name": "Palermo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2424,
+        "name": "R. De Zerbi",
+        "full_name": "Roberto De Zerbi"
+      }
     }
   ],
   "positions_available": true,

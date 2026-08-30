@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2006,
+        "name": "Arne Slot",
+        "full_name": "Arne Slot"
+      }
     },
     {
       "team_name": "Galatasaray",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1442,
+        "name": "Okan Buruk",
+        "full_name": "Okan Buruk"
+      }
     }
   ],
   "positions_available": true,

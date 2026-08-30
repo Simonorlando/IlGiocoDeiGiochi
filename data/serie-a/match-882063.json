@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2915,
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
+      }
     },
     {
       "team_name": "Napoli",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2914,
+        "name": "L. Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     }
   ],
   "positions_available": true,

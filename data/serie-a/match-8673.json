@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2432,
+        "name": "I. Tudor",
+        "full_name": "Igor Tudor"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 1,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 69,
+        "name": "R. Donadoni",
+        "full_name": "Roberto Donadoni"
+      }
     }
   ],
   "positions_available": true,

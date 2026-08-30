@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     },
     {
       "team_name": "Real Madrid",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1584,
+        "name": "Z. Zidane",
+        "full_name": "Zinédine Zidane"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2902,
+        "name": "Fabio Grosso",
+        "full_name": "Fabio Grosso"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 27396,
+        "name": "Paolo Sammarco",
+        "full_name": "Paolo Sammarco"
+      }
     }
   ],
   "positions_available": true,

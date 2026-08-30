@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1545,
+        "name": "J. Nagelsmann"
+      }
     },
     {
       "team_name": "Paris Saint Germain",
@@ -169,7 +173,11 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel"
+      }
     }
   ],
   "positions_available": true,

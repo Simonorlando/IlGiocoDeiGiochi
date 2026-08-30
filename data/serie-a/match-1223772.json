@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte",
+        "full_name": "Antonio Conte"
+      }
     },
     {
       "team_name": "Venezia",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     }
   ],
   "positions_available": true,

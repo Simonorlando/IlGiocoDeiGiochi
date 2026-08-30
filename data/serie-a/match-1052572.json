@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 53,
+        "name": "F. Cannavaro",
+        "full_name": "Fabio Cannavaro"
+      }
     },
     {
       "team_name": "AS Roma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18685,
+        "name": "D. De Rossi",
+        "full_name": "Daniele De Rossi"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "Vincenzo Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "Patrick Donalé Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     }
   ],
   "positions_available": true,

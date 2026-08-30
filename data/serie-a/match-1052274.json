@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4842,
+        "name": "T. Motta",
+        "full_name": "Thiago Motta Santon Olivares"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2853,
+        "name": "C. Ranieri",
+        "full_name": "Claudio Ranieri"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "V. Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 16723,
+        "name": "P. Vanoli",
+        "full_name": "Paolo Vanoli"
+      }
     }
   ],
   "positions_available": true,

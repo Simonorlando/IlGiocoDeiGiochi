@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "V. Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6114,
+        "name": "L. Gotti",
+        "full_name": "Luca Gotti"
+      }
     }
   ],
   "positions_available": true,

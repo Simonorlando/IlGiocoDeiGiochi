@@ -86,7 +86,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 13,
+        "name": "M. Pochettino",
+        "full_name": "Mauricio Roberto Pochettino Trossero"
+      }
     },
     {
       "team_name": "Juventus",
@@ -170,7 +175,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     }
   ],
   "positions_source": "sofascore_v2",

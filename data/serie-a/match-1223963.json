@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 15642,
+        "name": "C. Chivu",
+        "full_name": "Cristian Eugen Chivu"
+      }
     },
     {
       "team_name": "Napoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte",
+        "full_name": "Antonio Conte"
+      }
     }
   ],
   "positions_available": true,

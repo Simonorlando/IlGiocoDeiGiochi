@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
+      }
     },
     {
       "team_name": "Udinese",
@@ -132,7 +137,7 @@
           "shirt_number": 2,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 2
+          "slot_in_line": 0
         },
         {
           "player_id": 1353,
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 623,
+        "name": "G. Cioffi",
+        "full_name": "Gabriele Cioffi"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini",
+        "full_name": "Gian Piero Gasperini"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1613,
+        "name": "M. Rastelli",
+        "full_name": "Massimo Rastelli"
+      }
     }
   ],
   "positions_available": true,

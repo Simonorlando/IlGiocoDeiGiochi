@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3085,
+        "name": "R. Rangnick",
+        "full_name": "Ralf Dietrich Rangnick"
+      }
     },
     {
       "team_name": "Atletico Madrid",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1595,
+        "name": "D. Simeone",
+        "full_name": "Diego Pablo Simeone González"
+      }
     }
   ],
   "positions_available": true,

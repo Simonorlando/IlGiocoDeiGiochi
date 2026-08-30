@@ -85,7 +85,12 @@
           "line_index": 2,
           "slot_in_line": 3
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
+      }
     },
     {
       "team_name": "Lazio",
@@ -124,7 +129,7 @@
           "player_id": 1845,
           "shirt_number": 15,
           "position": "D",
-          "line_index": 2,
+          "line_index": 1,
           "slot_in_line": 0
         },
         {
@@ -132,7 +137,7 @@
           "shirt_number": 13,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 2
         },
         {
           "player_id": 1637,
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     }
   ],
   "positions_available": true,

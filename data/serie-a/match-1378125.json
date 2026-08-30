@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 28386,
+        "name": "Marco Giampaolo",
+        "full_name": "Marco Giampaolo"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "Massimiliano Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     }
   ],
   "positions_available": true,

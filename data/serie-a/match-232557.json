@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2412,
+        "name": "M. Sarri",
+        "full_name": "Maurizio Sarri"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Juric",
+        "full_name": "Ivan Jurić"
+      }
     }
   ],
   "positions_available": true,

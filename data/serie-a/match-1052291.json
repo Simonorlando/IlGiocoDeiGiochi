@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2462,
+        "name": "José Mourinho",
+        "full_name": "José Mário dos Santos Mourinho Félix"
+      }
     },
     {
       "team_name": "Empoli",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1608,
+        "name": "P. Zanetti",
+        "full_name": "Paolo Zanetti"
+      }
     }
   ],
   "positions_available": true,

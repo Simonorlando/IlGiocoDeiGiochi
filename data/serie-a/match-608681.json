@@ -85,7 +85,12 @@
           "line_index": 2,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 12778,
+        "name": "A. Pirlo",
+        "full_name": "Andrea Pirlo"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 6114,
+        "name": "L. Gotti",
+        "full_name": "Luca Gotti"
+      }
     }
   ],
   "positions_available": true,

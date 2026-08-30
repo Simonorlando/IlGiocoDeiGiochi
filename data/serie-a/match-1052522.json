@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 623,
+        "name": "G. Cioffi",
+        "full_name": "Gabriele Cioffi"
+      }
     },
     {
       "team_name": "Salernitana",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2442,
+        "name": "F. Liverani",
+        "full_name": "Fabio Liverani"
+      }
     }
   ],
   "positions_available": true,

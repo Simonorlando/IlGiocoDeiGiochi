@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "H. Flick"
+      }
     },
     {
       "team_name": "Chelsea",
@@ -169,7 +173,11 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 20,
+        "name": "F. Lampard"
+      }
     }
   ],
   "positions_available": true,

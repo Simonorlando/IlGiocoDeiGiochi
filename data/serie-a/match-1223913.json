@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1217,
+        "name": "K. Runjaić",
+        "full_name": "Kosta Runjaić"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2204,
+        "name": "Sérgio Conceição",
+        "full_name": "Sérgio Paulo Marceneiro da Conceição"
+      }
     }
   ],
   "positions_available": true,

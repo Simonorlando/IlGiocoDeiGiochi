@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10404,
+        "name": "G. Martusciello",
+        "full_name": "Giovanni Martusciello"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1613,
+        "name": "M. Rastelli",
+        "full_name": "Massimo Rastelli"
+      }
     }
   ],
   "positions_available": true,

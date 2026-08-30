@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 779,
+        "name": "D. López",
+        "full_name": "Luis Diego López Breijo"
+      }
     },
     {
       "team_name": "Inter",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2914,
+        "name": "L. Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     }
   ],
   "positions_available": true,

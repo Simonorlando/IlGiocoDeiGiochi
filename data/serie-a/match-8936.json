@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 69,
+        "name": "R. Donadoni",
+        "full_name": "Roberto Donadoni"
+      }
     },
     {
       "team_name": "Crotone",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
+      }
     }
   ],
   "positions_available": true,

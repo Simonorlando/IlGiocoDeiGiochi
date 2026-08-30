@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 426,
+        "name": "D. Di Carlo",
+        "full_name": "Domenico Di Carlo"
+      }
     },
     {
       "team_name": "Inter",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2914,
+        "name": "L. Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     }
   ],
   "positions_available": true,

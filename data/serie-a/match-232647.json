@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2442,
+        "name": "F. Liverani",
+        "full_name": "Fabio Liverani"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
+      }
     }
   ],
   "positions_available": true,

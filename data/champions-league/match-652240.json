@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1595,
+        "name": "D. Simeone",
+        "full_name": "Diego Pablo Simeone González"
+      }
     },
     {
       "team_name": "Chelsea",
@@ -169,7 +174,12 @@
           "line_index": 2,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
+      }
     }
   ],
   "positions_available": true,

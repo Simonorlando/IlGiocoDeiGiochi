@@ -62,7 +62,7 @@
           "shirt_number": 20,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 1
         },
         {
           "player_id": 642,
@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "FC Schalke 04",
@@ -169,7 +174,12 @@
           "line_index": 2,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3081,
+        "name": "D. Tedesco",
+        "full_name": "Domenico Tedesco"
+      }
     }
   ],
   "positions_available": true,

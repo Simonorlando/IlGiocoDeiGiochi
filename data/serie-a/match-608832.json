@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2853,
+        "name": "C. Ranieri",
+        "full_name": "Claudio Ranieri"
+      }
     },
     {
       "team_name": "Napoli",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2913,
+        "name": "G. Gattuso",
+        "full_name": "Ivan Gennaro Gattuso"
+      }
     }
   ],
   "positions_available": true,

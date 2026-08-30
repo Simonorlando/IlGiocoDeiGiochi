@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     },
     {
       "team_name": "Benevento",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2433,
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
+      }
     }
   ],
   "positions_available": true,

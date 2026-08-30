@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2433,
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1618,
+        "name": "M. Oddo",
+        "full_name": "Massimo Oddo"
+      }
     }
   ],
   "positions_available": true,

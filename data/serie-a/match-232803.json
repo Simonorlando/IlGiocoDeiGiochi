@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2901,
+        "name": "W. Zenga",
+        "full_name": "Walter Zenga"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3718,
+        "name": "M. Longo",
+        "full_name": "Moreno Longo"
+      }
     }
   ],
   "positions_available": true,

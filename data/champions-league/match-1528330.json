@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 7248,
+        "name": "Mikel Arteta",
+        "full_name": "Mikel Arteta Amatriain"
+      }
     },
     {
       "team_name": "Bayer Leverkusen",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2869,
+        "name": "Kasper Hjulmand",
+        "full_name": "Kasper Hjulmand"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3722,
+        "name": "D. Ballardini",
+        "full_name": "Davide Ballardini"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     }
   ],
   "positions_available": true,

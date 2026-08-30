@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2424,
+        "name": "R. De Zerbi"
+      }
     },
     {
       "team_name": "AC Milan",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "S. Pioli"
+      }
     }
   ],
   "positions_available": true,

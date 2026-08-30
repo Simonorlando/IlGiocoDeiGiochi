@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "Real Madrid",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2407,
+        "name": "C. Ancelotti",
+        "full_name": "Carlo Ancelotti"
+      }
     }
   ],
   "positions_available": true,

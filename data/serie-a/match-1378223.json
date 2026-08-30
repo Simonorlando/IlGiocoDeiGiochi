@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 27396,
+        "name": "Paolo Sammarco",
+        "full_name": "Paolo Sammarco"
+      }
     },
     {
       "team_name": "Como",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Cesc Fabregas",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     }
   ],
   "positions_available": true,

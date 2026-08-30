@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 19094,
+        "name": "Fabio Pisacane",
+        "full_name": "F. Pisacane"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 27750,
+        "name": "Leonardo Colucci",
+        "full_name": "Leonardo Colucci"
+      }
     }
   ],
   "positions_available": true,

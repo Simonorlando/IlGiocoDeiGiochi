@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "V. Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     },
     {
       "team_name": "Lecce",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     }
   ],
   "positions_available": true,

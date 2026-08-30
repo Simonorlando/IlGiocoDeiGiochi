@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1608,
+        "name": "P. Zanetti",
+        "full_name": "Paolo Zanetti"
+      }
     },
     {
       "team_name": "Salernitana",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 33,
+        "name": "Paulo Sousa",
+        "full_name": "Paulo Manuel Carvalho de Sousa"
+      }
     }
   ],
   "positions_available": true,

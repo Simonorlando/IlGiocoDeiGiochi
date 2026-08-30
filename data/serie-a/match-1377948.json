@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "Patrick Donalé Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     },
     {
       "team_name": "Cremonese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "Davide Nicola",
+        "full_name": "Davide Nicola"
+      }
     }
   ],
   "positions_available": true,

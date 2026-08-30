@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "Ivan Jurić",
+        "full_name": "Ivan Jurić"
+      }
     },
     {
       "team_name": "Pisa",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 411,
+        "name": "Alberto Gilardino",
+        "full_name": "Alberto Gilardino"
+      }
     }
   ],
   "positions_available": true,

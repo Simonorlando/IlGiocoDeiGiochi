@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Pep Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "FC Copenhagen",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 5639,
+        "name": "J. Neestrup",
+        "full_name": "Jacob Neestrup Hansen"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2853,
+        "name": "C. Ranieri",
+        "full_name": "Claudio Ranieri"
+      }
     },
     {
       "team_name": "Parma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 293,
+        "name": "F. Pecchia",
+        "full_name": "Fabio Pecchia"
+      }
     }
   ],
   "positions_available": true,

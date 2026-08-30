@@ -86,7 +86,11 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": null
+      }
     },
     {
       "team_name": "Parma",
@@ -170,7 +174,11 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": null
+      }
     }
   ],
   "positions_source": "sofascore",

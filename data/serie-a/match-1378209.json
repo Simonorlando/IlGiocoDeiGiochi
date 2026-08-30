@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25878,
+        "name": "Luciano Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 27396,
+        "name": "Paolo Sammarco",
+        "full_name": "Paolo Sammarco"
+      }
     }
   ],
   "positions_available": true,

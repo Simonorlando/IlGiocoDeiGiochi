@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 12090,
+        "name": "Nelson Veríssimo",
+        "full_name": "Nelson Alexandre da Silva Veríssimo"
+      }
     },
     {
       "team_name": "Ajax",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1993,
+        "name": "E. ten Hag",
+        "full_name": "Erik ten Hag"
+      }
     }
   ],
   "positions_available": true,

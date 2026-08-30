@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 13,
+        "name": "M. Pochettino",
+        "full_name": "Mauricio Roberto Pochettino Trossero"
+      }
     },
     {
       "team_name": "Manchester City",
@@ -145,8 +150,8 @@
           "player_id": 633,
           "shirt_number": 8,
           "position": "M",
-          "line_index": 3,
-          "slot_in_line": 0
+          "line_index": 2,
+          "slot_in_line": 1
         },
         {
           "player_id": 635,
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     }
   ],
   "positions_available": true,

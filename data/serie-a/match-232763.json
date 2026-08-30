@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
+      }
     },
     {
       "team_name": "Torino",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2433,
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
+      }
     }
   ],
   "positions_available": true,

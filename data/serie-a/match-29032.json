@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3721,
+        "name": "L. D'Anna",
+        "full_name": "Lorenzo D'Anna"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3723,
+        "name": "Julio Velázquez",
+        "full_name": "Julio Velázquez Santiago"
+      }
     }
   ],
   "positions_available": true,

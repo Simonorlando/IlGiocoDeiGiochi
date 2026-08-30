@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 293,
+        "name": "F. Pecchia",
+        "full_name": "Fabio Pecchia"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "R. Palladino",
+        "full_name": "Raffaele Palladino"
+      }
     }
   ],
   "positions_available": true,

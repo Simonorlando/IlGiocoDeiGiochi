@@ -85,7 +85,12 @@
           "line_index": 2,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 33,
+        "name": "Paulo Sousa",
+        "full_name": "Paulo Manuel Carvalho de Sousa"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 2,
           "slot_in_line": 4
         }
-      ]
+      ],
+      "coach": {
+        "id": 69,
+        "name": "R. Donadoni",
+        "full_name": "Roberto Donadoni"
+      }
     }
   ],
   "positions_available": true,

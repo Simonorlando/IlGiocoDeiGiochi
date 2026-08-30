@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 9797,
+        "name": "C. Prandelli",
+        "full_name": "Claudio Cesare Prandelli"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -111,7 +116,7 @@
           "shirt_number": 19,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 30553,
@@ -138,8 +143,8 @@
           "player_id": 30562,
           "shirt_number": 10,
           "position": "F",
-          "line_index": 2,
-          "slot_in_line": 1
+          "line_index": 4,
+          "slot_in_line": 0
         },
         {
           "player_id": 2118,
@@ -169,7 +174,12 @@
           "line_index": 2,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     }
   ],
   "positions_available": true,

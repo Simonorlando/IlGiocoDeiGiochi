@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 18,
+        "name": "Unai Emery",
+        "full_name": "Unai Emery Etxegoien"
+      }
     },
     {
       "team_name": "Bayern Munich",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1545,
+        "name": "J. Nagelsmann",
+        "full_name": "Julian Nagelsmann"
+      }
     }
   ],
   "positions_available": true,

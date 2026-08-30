@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1621,
+        "name": "A. Nesta",
+        "full_name": "Alessandro Nesta"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4842,
+        "name": "T. Motta",
+        "full_name": "Thiago Motta Santon Olivares"
+      }
     }
   ],
   "positions_available": true,

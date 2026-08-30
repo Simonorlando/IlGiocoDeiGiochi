@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "R. Palladino",
+        "full_name": "Raffaele Palladino"
+      }
     },
     {
       "team_name": "Sassuolo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1612,
+        "name": "A. Dionisi",
+        "full_name": "Alessio Dionisi"
+      }
     }
   ],
   "positions_available": true,

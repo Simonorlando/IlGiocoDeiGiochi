@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     },
     {
       "team_name": "Monza",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1621,
+        "name": "A. Nesta",
+        "full_name": "Alessandro Nesta"
+      }
     }
   ],
   "positions_available": true,

@@ -62,7 +62,7 @@
           "shirt_number": 14,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 1
         },
         {
           "player_id": 757,
@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 3232,
+        "name": "S. Solari",
+        "full_name": "Santiago Hernán Solari Poggio"
+      }
     },
     {
       "team_name": "Ajax",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1993,
+        "name": "E. ten Hag",
+        "full_name": "Erik ten Hag"
+      }
     }
   ],
   "positions_available": true,

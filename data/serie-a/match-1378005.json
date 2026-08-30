@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1611,
+        "name": "Vincenzo Italiano",
+        "full_name": "Vincenzo Italiano"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 5340,
+        "name": "Massimo Brambilla",
+        "full_name": "Massimo Brambilla"
+      }
     }
   ],
   "positions_available": true,

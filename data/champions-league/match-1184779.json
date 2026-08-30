@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2407,
+        "name": "C. Ancelotti",
+        "full_name": "Carlo Ancelotti"
+      }
     },
     {
       "team_name": "Manchester City",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Pep Guardiola",
+        "full_name": "Guardiola"
+      }
     }
   ],
   "positions_available": true,

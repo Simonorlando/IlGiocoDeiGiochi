@@ -54,8 +54,8 @@
           "player_id": 30562,
           "shirt_number": 10,
           "position": "F",
-          "line_index": 2,
-          "slot_in_line": 2
+          "line_index": 4,
+          "slot_in_line": 0
         },
         {
           "player_id": 30532,
@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2429,
+        "name": "L. Semplici",
+        "full_name": "Leonardo Semplici"
+      }
     },
     {
       "team_name": "Bologna",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2413,
+        "name": "S. Mihajlović",
+        "full_name": "Siniša Mihajlović"
+      }
     }
   ],
   "positions_available": true,

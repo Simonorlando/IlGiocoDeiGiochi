@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2429,
+        "name": "L. Semplici",
+        "full_name": "Leonardo Semplici"
+      }
     },
     {
       "team_name": "Chievo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 426,
+        "name": "D. Di Carlo",
+        "full_name": "Domenico Di Carlo"
+      }
     }
   ],
   "positions_available": true,

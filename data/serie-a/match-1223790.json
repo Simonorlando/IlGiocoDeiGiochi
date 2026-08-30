@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18111,
+        "name": "S. Bocchetti"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "R. Palladino"
+      }
     }
   ],
   "positions_available": true,

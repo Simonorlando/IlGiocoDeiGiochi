@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Jurić",
+        "full_name": "Ivan Jurić"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1217,
+        "name": "K. Runjaić",
+        "full_name": "Kosta Runjaić"
+      }
     }
   ],
   "positions_available": true,

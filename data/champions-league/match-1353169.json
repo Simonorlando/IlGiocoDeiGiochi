@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 68,
+        "name": "B. Génésio",
+        "full_name": "Bruno Génésio"
+      }
     },
     {
       "team_name": "Borussia Dortmund",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1528,
+        "name": "N. Kovač",
+        "full_name": "Niko Kovač"
+      }
     }
   ],
   "positions_available": true,

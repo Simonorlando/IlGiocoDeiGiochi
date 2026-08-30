@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2431,
+        "name": "Paulo Fonseca",
+        "full_name": "Paulo Alexandre Rodrigues Fonseca"
+      }
     },
     {
       "team_name": "Lecce",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2442,
+        "name": "F. Liverani",
+        "full_name": "Fabio Liverani"
+      }
     }
   ],
   "positions_available": true,

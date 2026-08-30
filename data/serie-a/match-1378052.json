@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2902,
+        "name": "Fabio Grosso",
+        "full_name": "Fabio Grosso"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 5340,
+        "name": "Massimo Brambilla",
+        "full_name": "Massimo Brambilla"
+      }
     }
   ],
   "positions_available": true,

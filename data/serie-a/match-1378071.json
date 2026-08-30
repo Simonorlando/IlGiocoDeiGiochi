@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 25804,
+        "name": "Oscar Hiljemark",
+        "full_name": "Oscar Hiljemark"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18433,
+        "name": "Raffaele Palladino",
+        "full_name": "Raffaele Palladino"
+      }
     }
   ],
   "positions_available": true,

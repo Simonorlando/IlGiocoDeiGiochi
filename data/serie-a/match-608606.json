@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 9797,
+        "name": "C. Prandelli",
+        "full_name": "Claudio Cesare Prandelli"
+      }
     },
     {
       "team_name": "Benevento",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1603,
+        "name": "F. Inzaghi",
+        "full_name": "Filippo Inzaghi"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 2,
           "slot_in_line": 4
         }
-      ]
+      ],
+      "coach": {
+        "id": 2433,
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
+      }
     },
     {
       "team_name": "Frosinone",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3718,
+        "name": "M. Longo",
+        "full_name": "Moreno Longo"
+      }
     }
   ],
   "positions_available": true,

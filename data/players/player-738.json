@@ -1,7 +1,7 @@
 {
   "player_id": 738,
   "full_name": "Sergio Ramos García",
-  "nationality": "Spain",
+  "nationality": "Spagna",
   "birth_date": "1986-03-30",
   "birth_place": "Camas",
   "career_transfers": [
@@ -25,5 +25,5 @@
     "Sevilla FC",
     "Club de Fútbol Monterrey"
   ],
-  "display_name": "Sergio García"
+  "display_name": "Sergio Ramos"
 }

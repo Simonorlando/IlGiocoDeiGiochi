@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 15642,
+        "name": "Cristian Chivu",
+        "full_name": "Cristian Eugen Chivu"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 25878,
+        "name": "Luciano Spalletti",
+        "full_name": "Luciano Spalletti"
+      }
     }
   ],
   "positions_available": true,

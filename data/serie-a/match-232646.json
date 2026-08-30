@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Juric",
+        "full_name": "Ivan Jurić"
+      }
     },
     {
       "team_name": "Fiorentina",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2549,
+        "name": "V. Montella",
+        "full_name": "Vincenzo Montella"
+      }
     }
   ],
   "positions_available": true,

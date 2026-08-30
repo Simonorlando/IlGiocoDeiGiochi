@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
+      }
     },
     {
       "team_name": "Palermo",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2424,
+        "name": "R. De Zerbi",
+        "full_name": "Roberto De Zerbi"
+      }
     }
   ],
   "positions_available": true,

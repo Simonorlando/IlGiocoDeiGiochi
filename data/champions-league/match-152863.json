@@ -34,7 +34,7 @@
           "shirt_number": 24,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 1
+          "slot_in_line": 2
         },
         {
           "player_id": 33,
@@ -48,7 +48,7 @@
           "shirt_number": 8,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 2
+          "slot_in_line": 3
         },
         {
           "player_id": 50,
@@ -61,31 +61,36 @@
           "player_id": 2923,
           "shirt_number": 10,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 3
+          "line_index": 3,
+          "slot_in_line": 0
         },
         {
           "player_id": 49,
           "shirt_number": 22,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 1
+          "slot_in_line": 2
         },
         {
           "player_id": 56,
           "shirt_number": 7,
           "position": "F",
           "line_index": 3,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 53,
           "shirt_number": 11,
           "position": "M",
-          "line_index": 3,
-          "slot_in_line": 1
+          "line_index": 2,
+          "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1595,
+        "name": "D. Simeone",
+        "full_name": "Diego Pablo Simeone González"
+      }
     },
     {
       "team_name": "Bayer Leverkusen",
@@ -169,7 +174,12 @@
           "line_index": 2,
           "slot_in_line": 3
         }
-      ]
+      ],
+      "coach": {
+        "id": 3084,
+        "name": "T. Korkut",
+        "full_name": "Tayfun Korkut"
+      }
     }
   ],
   "positions_available": true,

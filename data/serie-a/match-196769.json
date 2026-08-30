@@ -86,7 +86,11 @@
           "line_index": 1,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": null
+      }
     },
     {
       "team_name": "Sassuolo",
@@ -170,7 +174,11 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": null
+      }
     }
   ],
   "positions_source": "sofascore",

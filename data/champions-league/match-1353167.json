@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18,
+        "name": "Unai Emery",
+        "full_name": "Unai Emery Etxegoien"
+      }
     },
     {
       "team_name": "Club Brugge KV",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6608,
+        "name": "N. Hayen",
+        "full_name": "Nicky Hayen"
+      }
     }
   ],
   "positions_available": true,

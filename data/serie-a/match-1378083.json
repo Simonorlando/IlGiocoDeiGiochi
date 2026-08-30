@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 27396,
+        "name": "Paolo Sammarco",
+        "full_name": "Paolo Sammarco"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1217,
+        "name": "Kosta Runjaic",
+        "full_name": "Kosta Runjaić"
+      }
     }
   ],
   "positions_available": true,

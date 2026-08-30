@@ -47,8 +47,8 @@
           "player_id": 634,
           "shirt_number": 21,
           "position": "M",
-          "line_index": 3,
-          "slot_in_line": 0
+          "line_index": 2,
+          "slot_in_line": 2
         },
         {
           "player_id": 633,
@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
+      }
     },
     {
       "team_name": "Tottenham",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 13,
+        "name": "M. Pochettino",
+        "full_name": "Mauricio Roberto Pochettino Trossero"
+      }
     }
   ],
   "positions_available": true,

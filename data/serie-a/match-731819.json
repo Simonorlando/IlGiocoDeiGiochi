@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2462,
+        "name": "José Mourinho",
+        "full_name": "José Mário dos Santos Mourinho Félix"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 5330,
+        "name": "A. Blessin",
+        "full_name": "Alexander Matthias Blessin"
+      }
     }
   ],
   "positions_available": true,

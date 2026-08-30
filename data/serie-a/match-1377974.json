@@ -85,7 +85,11 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 19094,
+        "name": "Fabio Pisacane"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +173,11 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "Patrick Donalé Vieira"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10286,
+        "name": "L. Delneri",
+        "full_name": "Luigi Delneri"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -125,7 +130,7 @@
           "shirt_number": 3,
           "position": "D",
           "line_index": 1,
-          "slot_in_line": 3
+          "slot_in_line": 0
         },
         {
           "player_id": 31741,
@@ -139,7 +144,7 @@
           "shirt_number": 10,
           "position": "M",
           "line_index": 2,
-          "slot_in_line": 1
+          "slot_in_line": 2
         },
         {
           "player_id": 30561,
@@ -152,8 +157,8 @@
           "player_id": 30558,
           "shirt_number": 18,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 2
+          "line_index": 3,
+          "slot_in_line": 0
         },
         {
           "player_id": 91319,
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1613,
+        "name": "M. Rastelli",
+        "full_name": "Massimo Rastelli"
+      }
     }
   ],
   "positions_available": true,

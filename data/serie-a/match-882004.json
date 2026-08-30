@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2462,
+        "name": "José Mourinho",
+        "full_name": "José Mário dos Santos Mourinho Félix"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 399,
+        "name": "M. Zaffaroni",
+        "full_name": "Marco Zaffaroni"
+      }
     }
   ],
   "positions_available": true,

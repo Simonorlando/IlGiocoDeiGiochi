@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 7248,
+        "name": "Mikel Arteta",
+        "full_name": "Mikel Arteta Amatriain"
+      }
     },
     {
       "team_name": "Paris Saint Germain",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 193,
+        "name": "Luis Enrique",
+        "full_name": "Luis Enrique Martínez García"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 1,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2438,
+        "name": "R. D'Aversa",
+        "full_name": "Roberto D'Aversa"
+      }
     },
     {
       "team_name": "Sassuolo",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2424,
+        "name": "R. De Zerbi",
+        "full_name": "Roberto De Zerbi"
+      }
     }
   ],
   "positions_available": true,

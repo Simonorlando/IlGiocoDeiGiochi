@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 18,
+        "name": "Unai Emery",
+        "full_name": "Unai Emery Etxegoien"
+      }
     },
     {
       "team_name": "Barcelona",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 193,
+        "name": "Luis Enrique",
+        "full_name": "Luis Enrique Martínez García"
+      }
     }
   ],
   "positions_available": true,

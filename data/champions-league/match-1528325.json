@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 25716,
+        "name": "Kjetil Knutsen",
+        "full_name": "Kjetil Knutsen"
+      }
     },
     {
       "team_name": "Sporting CP",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2803,
+        "name": "Rui Borges",
+        "full_name": "Rui Manuel Gomes Borges"
+      }
     }
   ],
   "positions_available": true,

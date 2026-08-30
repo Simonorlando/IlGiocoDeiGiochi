@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 1612,
+        "name": "A. Dionisi",
+        "full_name": "Alessio Dionisi"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 623,
+        "name": "G. Cioffi",
+        "full_name": "Gabriele Cioffi"
+      }
     }
   ],
   "positions_available": true,

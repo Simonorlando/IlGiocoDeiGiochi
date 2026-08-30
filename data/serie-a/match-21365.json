@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10404,
+        "name": "G. Martusciello",
+        "full_name": "Giovanni Martusciello"
+      }
     },
     {
       "team_name": "Pescara",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 10289,
+        "name": "Z. Zeman",
+        "full_name": "Zdenek Zeman"
+      }
     }
   ],
   "positions_available": true,

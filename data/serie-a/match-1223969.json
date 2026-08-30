@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2915,
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
+      }
     },
     {
       "team_name": "Lecce",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
+      }
     }
   ],
   "positions_available": true,

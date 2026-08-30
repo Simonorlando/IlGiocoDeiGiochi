@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3718,
+        "name": "M. Longo",
+        "full_name": "Moreno Longo"
+      }
     },
     {
       "team_name": "AS Roma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2431,
+        "name": "Paulo Fonseca",
+        "full_name": "Paulo Alexandre Rodrigues Fonseca"
+      }
     }
   ],
   "positions_available": true,

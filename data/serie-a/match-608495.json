@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2431,
+        "name": "Paulo Fonseca",
+        "full_name": "Paulo Alexandre Rodrigues Fonseca"
+      }
     },
     {
       "team_name": "Juventus",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 12778,
+        "name": "A. Pirlo",
+        "full_name": "Andrea Pirlo"
+      }
     }
   ],
   "positions_available": true,

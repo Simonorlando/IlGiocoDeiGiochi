@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2424,
+        "name": "R. De Zerbi",
+        "full_name": "Roberto De Zerbi"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3722,
+        "name": "D. Ballardini",
+        "full_name": "Davide Ballardini"
+      }
     }
   ],
   "positions_available": true,

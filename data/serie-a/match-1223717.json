@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "P. Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     },
     {
       "team_name": "Cagliari",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
+      }
     }
   ],
   "positions_available": true,

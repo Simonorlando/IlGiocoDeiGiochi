@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1604,
+        "name": "G. Stroppa",
+        "full_name": "Giovanni Stroppa"
+      }
     },
     {
       "team_name": "Parma",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2442,
+        "name": "F. Liverani",
+        "full_name": "Fabio Liverani"
+      }
     }
   ],
   "positions_available": true,

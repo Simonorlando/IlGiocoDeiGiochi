@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1528,
+        "name": "N. Kovač",
+        "full_name": "Niko Kovač"
+      }
     },
     {
       "team_name": "Liverpool",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1,
+        "name": "J. Klopp",
+        "full_name": "Jürgen Norbert Klopp"
+      }
     }
   ],
   "positions_available": true,

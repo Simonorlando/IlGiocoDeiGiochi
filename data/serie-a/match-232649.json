@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2431,
+        "name": "Paulo Fonseca",
+        "full_name": "Paulo Alexandre Rodrigues Fonseca"
+      }
     },
     {
       "team_name": "Brescia",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2902,
+        "name": "F. Grosso",
+        "full_name": "Fabio Grosso"
+      }
     }
   ],
   "positions_available": true,

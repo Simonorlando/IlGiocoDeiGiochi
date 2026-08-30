@@ -12,8 +12,8 @@
           "player_id": 46988,
           "shirt_number": 13,
           "position": "G",
-          "line_index": 4,
-          "slot_in_line": 1
+          "line_index": 0,
+          "slot_in_line": 0
         },
         {
           "player_id": 2725,
@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2392,
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "P. Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     }
   ],
   "positions_available": true,

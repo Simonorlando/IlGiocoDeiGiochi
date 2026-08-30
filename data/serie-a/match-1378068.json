@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3386,
+        "name": "Massimiliano Allegri",
+        "full_name": "Massimiliano Allegri"
+      }
     },
     {
       "team_name": "Lecce",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2430,
+        "name": "Eusebio Di Francesco",
+        "full_name": "Eusebio Luca Di Francesco"
+      }
     }
   ],
   "positions_available": true,

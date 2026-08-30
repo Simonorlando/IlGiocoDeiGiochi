@@ -86,7 +86,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2549,
+        "name": "V. Montella",
+        "full_name": "Vincenzo Montella"
+      }
     },
     {
       "team_name": "Bayern Munich",
@@ -170,7 +175,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 10281,
+        "name": "J. Heynckes",
+        "full_name": "Josef Heynckes"
+      }
     }
   ],
   "positions_source": "sofascore_v2",

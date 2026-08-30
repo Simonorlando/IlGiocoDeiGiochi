@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2393,
+        "name": "G. Gasperini"
+      }
     },
     {
       "team_name": "Inter",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2425,
+        "name": "A. Conte"
+      }
     }
   ],
   "positions_available": true,

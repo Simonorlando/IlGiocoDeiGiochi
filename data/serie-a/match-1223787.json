@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 28,
+        "name": "P. Vieira",
+        "full_name": "Patrick Donalé Vieira"
+      }
     },
     {
       "team_name": "Parma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 293,
+        "name": "F. Pecchia",
+        "full_name": "Fabio Pecchia"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Cesc Fàbregas",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     },
     {
       "team_name": "Monza",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1621,
+        "name": "A. Nesta",
+        "full_name": "Alessandro Nesta"
+      }
     }
   ],
   "positions_available": true,

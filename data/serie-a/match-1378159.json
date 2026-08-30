@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 18685,
+        "name": "Daniele De Rossi",
+        "full_name": "Daniele De Rossi"
+      }
     },
     {
       "team_name": "Udinese",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1217,
+        "name": "Kosta Runjaic",
+        "full_name": "Kosta Runjaić"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": null,
+        "name": "D. López"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2916,
+        "name": "D. Nicola"
+      }
     }
   ],
   "positions_available": true,

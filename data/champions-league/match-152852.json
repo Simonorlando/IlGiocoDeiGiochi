@@ -19,7 +19,7 @@
           "player_id": 104404,
           "shirt_number": 4,
           "position": "D",
-          "line_index": 3,
+          "line_index": 1,
           "slot_in_line": 1
         },
         {
@@ -76,16 +76,21 @@
           "shirt_number": 11,
           "position": "F",
           "line_index": 3,
-          "slot_in_line": 0
+          "slot_in_line": 1
         },
         {
           "player_id": 2426,
           "shirt_number": 15,
           "position": "M",
-          "line_index": 2,
-          "slot_in_line": 3
+          "line_index": 3,
+          "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 1159,
+        "name": "Rui Vitória",
+        "full_name": "Rui Carlos Pinho da Vitória"
+      }
     },
     {
       "team_name": "Borussia Dortmund",
@@ -169,7 +174,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 3733,
+        "name": "Stefano Pioli",
+        "full_name": "Stefano Pioli"
+      }
     },
     {
       "team_name": "Como",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 21528,
+        "name": "Francesc Fàbregas i Soler",
+        "full_name": "Francesc Fàbregas i Soler"
+      }
     }
   ],
   "positions_available": true,

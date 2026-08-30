@@ -85,7 +85,11 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 40,
+        "name": "T. Tuchel"
+      }
     },
     {
       "team_name": "Bayern Munich",
@@ -169,7 +173,11 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "H. Flick"
+      }
     }
   ],
   "positions_available": true,

@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
+      }
     },
     {
       "team_name": "Genoa",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 3722,
+        "name": "D. Ballardini",
+        "full_name": "Davide Ballardini"
+      }
     }
   ],
   "positions_available": true,

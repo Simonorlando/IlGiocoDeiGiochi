@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 27750,
+        "name": "Leonardo Colucci",
+        "full_name": "Leonardo Colucci"
+      }
     },
     {
       "team_name": "Parma",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 25381,
+        "name": "Carlos Cuesta",
+        "full_name": "Carlos Cuesta García"
+      }
     }
   ],
   "positions_available": true,

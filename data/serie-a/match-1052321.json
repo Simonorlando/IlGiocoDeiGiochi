@@ -85,7 +85,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2408,
+        "name": "I. Juric",
+        "full_name": "Ivan Jurić"
+      }
     },
     {
       "team_name": "Verona",
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 2915,
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
+      }
     }
   ],
   "positions_available": true,

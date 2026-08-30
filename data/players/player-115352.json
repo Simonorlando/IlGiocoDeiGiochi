@@ -1,16 +1,15 @@
 {
   "player_id": 115352,
-  "full_name": "Ivan Gennaro Gattuso",
-  "nationality": "\n    ",
-  "birth_date": "2026-08-15",
-  "birth_place": "\n    ",
+  "full_name": "Gennaro Ivan Gattuso",
+  "nationality": "Italia",
+  "birth_date": "1978-01-09",
+  "birth_place": "Schiavonea di Corigliano Calabro, Italia",
   "career_transfers": [],
   "career_clubs": [
     "Perugia",
     "Rangers",
-    "US Salernitana 1919",
     "AC Milan",
     "FC Sion"
   ],
-  "display_name": "Ivan Gattuso"
+  "display_name": "Gennaro Gattuso"
 }

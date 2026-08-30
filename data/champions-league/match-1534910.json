@@ -85,7 +85,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 1595,
+        "name": "Diego Simeone",
+        "full_name": "Diego Pablo Simeone González"
+      }
     },
     {
       "team_name": "Barcelona",
@@ -96,8 +101,8 @@
           "player_id": 182718,
           "shirt_number": 13,
           "position": "G",
-          "line_index": 1,
-          "slot_in_line": 1
+          "line_index": 0,
+          "slot_in_line": 0
         },
         {
           "player_id": 1257,
@@ -139,21 +144,21 @@
           "shirt_number": 8,
           "position": "M",
           "line_index": 3,
-          "slot_in_line": 2
+          "slot_in_line": 1
         },
         {
           "player_id": 386828,
           "shirt_number": 10,
           "position": "M",
-          "line_index": 3,
-          "slot_in_line": 0
+          "line_index": 2,
+          "slot_in_line": 1
         },
         {
           "player_id": 1323,
           "shirt_number": 20,
           "position": "M",
           "line_index": 3,
-          "slot_in_line": 1
+          "slot_in_line": 0
         },
         {
           "player_id": 340626,
@@ -169,7 +174,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 6472,
+        "name": "Hansi Flick",
+        "full_name": "Hans-Dieter Flick"
+      }
     }
   ],
   "positions_available": true,
