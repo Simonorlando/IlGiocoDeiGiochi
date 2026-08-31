@@ -141,15 +141,64 @@ const TEAM_COLORS_MULTI = [
   { words: ['manchester', 'united'], color: '#da291c' },
 ];
 
+// i colori sociali reali sono spesso scuri (bordeaux Roma, blu Inter...),
+// che su un pallino piccolo contro il verde scuro del campo risultano
+// spenti e poco distinguibili. Li "svecchio" alzando un minimo di
+// luminosita' e saturazione in HSL invece di ridefinire a mano ogni
+// singolo colore -- i colori gia' chiari (bianco Juventus, azzurro
+// Napoli...) restano quasi identici, quelli scuri diventano vivaci.
+function hexToHsl(hex) {
+  const r = parseInt(hex.slice(1, 3), 16) / 255;
+  const g = parseInt(hex.slice(3, 5), 16) / 255;
+  const b = parseInt(hex.slice(5, 7), 16) / 255;
+  const max = Math.max(r, g, b), min = Math.min(r, g, b);
+  let h = 0, s = 0;
+  const l = (max + min) / 2;
+  const d = max - min;
+  if (d !== 0) {
+    s = d / (1 - Math.abs(2 * l - 1));
+    switch (max) {
+      case r: h = ((g - b) / d) % 6; break;
+      case g: h = (b - r) / d + 2; break;
+      case b: h = (r - g) / d + 4; break;
+    }
+    h *= 60;
+    if (h < 0) h += 360;
+  }
+  return { h, s, l };
+}
+
+function hslToHex(h, s, l) {
+  const c = (1 - Math.abs(2 * l - 1)) * s;
+  const x = c * (1 - Math.abs((h / 60) % 2 - 1));
+  const m = l - c / 2;
+  let r = 0, g = 0, b = 0;
+  if (h < 60) { r = c; g = x; } else if (h < 120) { r = x; g = c; }
+  else if (h < 180) { g = c; b = x; } else if (h < 240) { g = x; b = c; }
+  else if (h < 300) { r = x; b = c; } else { r = c; b = x; }
+  const toHex = v => Math.round((v + m) * 255).toString(16).padStart(2, '0');
+  return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+}
+
+function vividifyColor(hex) {
+  const { h, s, l } = hexToHsl(hex);
+  const newL = Math.max(l, 0.46);
+  const newS = s < 0.05 ? s : Math.min(1, s + 0.12);
+  return hslToHex(h, newS, newL);
+}
+
 function teamColor(teamName) {
   const words = teamName.split(/\s+/).map(normalizeName).filter(w => w.length >= 4);
+  let raw = DEFAULT_DOT_COLOR;
   for (const entry of TEAM_COLORS_MULTI) {
-    if (entry.words.every(w => words.includes(w))) return entry.color;
+    if (entry.words.every(w => words.includes(w))) { raw = entry.color; break; }
   }
-  for (const w of words) {
-    if (TEAM_COLORS[w]) return TEAM_COLORS[w];
+  if (raw === DEFAULT_DOT_COLOR) {
+    for (const w of words) {
+      if (TEAM_COLORS[w]) { raw = TEAM_COLORS[w]; break; }
+    }
   }
-  return DEFAULT_DOT_COLOR;
+  return raw === DEFAULT_DOT_COLOR ? raw : vividifyColor(raw);
 }
 
 // segno di spunta scuro sui pallini chiari, bianco su quelli scuri
@@ -735,7 +784,7 @@ function setupTeamTabs(match) {
   match.teams.forEach((team, i) => {
     const tab = tabs[i];
     const color = teamColor(team.team_name);
-    tab.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span>${escapeHtml(teamDisplayName(team.team_name))}`;
+    tab.innerHTML = `<span class="team-tab-swatch" style="background:${color}"></span><span class="team-tab-name">${escapeHtml(teamDisplayName(team.team_name))}</span>`;
     tab.onclick = () => {
       if (tab.classList.contains('locked')) return;
       if (state.activeTeamIdx === i) return;
@@ -780,7 +829,7 @@ function updateStreakLabel() {
   // una volta superato -- al secondo jolly+minuto (5), invece di mostrare
   // sempre "/5" anche quando sei ancora a 0 o 1 (fuorviante).
   const target = state.perfectStreak < STREAK_FOR_JOLLY ? STREAK_FOR_JOLLY : STREAK_FOR_MINUTE;
-  el.innerHTML = `🃏 ${state.nameHintUsesLeft}<span class="streak-sep">·</span>⚡ Streak ${state.perfectStreak}/${target}`;
+  el.innerHTML = `🃏 ${state.nameHintUsesLeft}<span class="streak-sep">·</span>⚡ ${state.perfectStreak}/${target}`;
   el.classList.remove('hidden');
 }
 
@@ -1309,7 +1358,6 @@ function stopTimer() {
 function updateTimerDisplay() {
   const el = document.getElementById('timerLabel');
   if (!el) return;
-  el.textContent = `⏱️ ${formatElapsed(state.timeRemaining * 1000)}`;
 
   // Terzi calcolati sul totale FISSO della fascia scelta a inizio partita,
   // non ricalcolati se il tempo sale coi bonus -- se superi i 2/3 grazie ai
@@ -1321,6 +1369,8 @@ function updateTimerDisplay() {
   el.classList.toggle('timer-warning', isYellow);
   el.classList.toggle('timer-danger', isRed);
   el.classList.toggle('timer-blink', state.timeRemaining <= 60);
+
+  el.textContent = formatElapsed(state.timeRemaining * 1000);
 }
 
 // Riparte da zero a ogni nuova partita (schermata campo) -- se non e'

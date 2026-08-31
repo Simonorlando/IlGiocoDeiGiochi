@@ -2,7 +2,7 @@
   --bg: #050505;
   --panel: #131315;
   --panel-2: #1c1c1f;
-  --pitch: #1b3a24;
+  --pitch: #1e6b34;
   --pitch-line: rgba(255,255,255,0.35);
   --accent: #3ddc84;
   --accent-2: #ffb020;
@@ -19,15 +19,16 @@
 html, body {
   margin: 0;
   padding: 0;
-  /* stesse strisce verdi "da campo" della schermata iniziale, ma molto
-     smorzate -- riempiono lo spazio vuoto intorno ai contenuti su tutte
-     le schermate invece del nero pieno, senza competere con testo/UI.
-     Lo stile resta scuro ovunque (niente sfondi chiari: rompono il
-     contrasto dei testi attenuati pensati per stare su sfondo scuro). */
+  /* stesse strisce verdi "da campo" della schermata iniziale, smorzate --
+     riempiono lo spazio vuoto intorno ai contenuti su tutte le schermate
+     invece del nero pieno, senza competere con testo/UI. Lo stile resta
+     scuro ovunque (niente sfondi chiari: rompono il contrasto dei testi
+     attenuati pensati per stare su sfondo scuro), ma un po' piu' vivo di
+     prima (stesso verde acceso del campo di gioco, non piu' smorto). */
   background:
     repeating-linear-gradient(100deg,
-      rgba(29,92,48,0.16) 0px, rgba(29,92,48,0.16) 64px,
-      rgba(35,112,58,0.16) 64px, rgba(35,112,58,0.16) 128px),
+      rgba(30,107,52,0.34) 0px, rgba(30,107,52,0.34) 64px,
+      rgba(40,145,70,0.34) 64px, rgba(40,145,70,0.34) 128px),
     var(--bg);
   background-attachment: fixed;
   color: var(--text);
@@ -105,15 +106,15 @@ main#app {
 /* lavagnetta tattica rigida da allenatore attorno alla schermata di
    gioco: tavoletta scura (materiale diverso dallo sfondo della pagina,
    sempre scuro -- mai carta chiara, rompe il contrasto dei testi
-   attenuati), fermafoglio in alto al centro, angoli "a squadra" verdi.
-   Si allunga da sola con qualunque contenuto ci sia dentro (con o senza
-   streak, Remuntada o Gioco libero) perche' e' solo un involucro
-   decorativo, non tocca il layout interno. */
+   attenuati), angoli "a squadra" verdi. Si allunga da sola con
+   qualunque contenuto ci sia dentro (con o senza streak, Remuntada o
+   Gioco libero) perche' e' solo un involucro decorativo, non tocca il
+   layout interno. */
 .game-frame {
   position: relative;
   max-width: 420px;
-  margin: 22px auto 0;
-  padding: 22px 14px 16px;
+  margin: 10px auto 0;
+  padding: 18px 8px 10px;
   border-radius: 16px;
   background: #000000;
   box-shadow: 0 10px 28px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.04);
@@ -125,24 +126,6 @@ main#app {
   border-radius: 10px;
   border: 1px dashed rgba(61, 220, 132, 0.3);
   pointer-events: none;
-}
-/* fermafoglio: la molletta metallica in cima, come sui taccuini rigidi
-   da campo -- meta' sopra il bordo della tavoletta, meta' dentro. */
-.game-frame::after {
-  content: '';
-  position: absolute;
-  top: -15px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 78px;
-  height: 28px;
-  border-radius: 6px;
-  background:
-    linear-gradient(180deg, transparent 42%, rgba(0,0,0,0.4) 42%, rgba(0,0,0,0.4) 50%, transparent 50%),
-    radial-gradient(circle at 16px 14px, #202020 0 3px, rgba(0,0,0,0.3) 4px, transparent 5px),
-    radial-gradient(circle at calc(100% - 16px) 14px, #202020 0 3px, rgba(0,0,0,0.3) 4px, transparent 5px),
-    linear-gradient(180deg, #9a9a9a, #6b6b6b 55%, #565656);
-  box-shadow: 0 3px 6px rgba(0,0,0,0.45), inset 0 1px 1px rgba(255,255,255,0.35), inset 0 -2px 2px rgba(0,0,0,0.35);
 }
 .frame-corner {
   position: absolute;
@@ -163,7 +146,8 @@ main#app {
 #screen-timing.active,
 #screen-competition.active,
 #screen-mode.active,
-#screen-years.active {
+#screen-years.active,
+#screen-difficulty.active {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -497,33 +481,48 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
+  /* competizione/giornata, squadre, data-risultato e "X/22" restano ai
+     due estremi della riga ma staccati dal bordo della lavagnetta,
+     stesso trattamento gia' fatto per Modulo/Allenatore piu' sotto. */
+  padding: 0 10px;
 }
-.match-header-info { display: flex; flex-direction: column; gap: 2px; flex: 1; }
+.match-header-info { display: flex; flex-direction: column; gap: 4px; flex: 1; }
 .match-meta-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
 .match-teams-row { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
 .match-meta-right { display: flex; align-items: baseline; gap: 12px; flex-shrink: 0; }
+/* piccolo anello di progresso al posto della vecchia emoji ⏱️ -- si
+   svuota in senso orario mano a mano che il tempo scende, cambiando
+   colore insieme al testo (stessi stati verde/ambra/rosso di prima). */
+/* tabellone a LED da stadio: cifre monospazio luminose (con un leggero
+   bagliore, come i display a led veri) su un pannello scuro incassato --
+   niente emoji, le cifre bastano da sole a farlo leggere come cronometro
+   nel contesto (accanto a squadre/punteggio). */
 .timer-label {
   position: relative;
   z-index: 55;
+  font-family: 'Courier New', Courier, monospace;
   font-variant-numeric: tabular-nums;
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
   color: var(--accent);
-  background: var(--panel-2);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 4px 11px;
+  text-shadow: 0 0 6px rgba(61,220,132,0.65);
+  background: #050806;
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 5px;
+  padding: 3px 8px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.6);
 }
 .timer-label.timer-warning {
   color: var(--accent-2);
-  border-color: rgba(255,176,32,0.4);
+  text-shadow: 0 0 6px rgba(255,176,32,0.65);
 }
 .timer-label.timer-danger {
   color: var(--danger);
-  border-color: rgba(255,92,92,0.4);
+  text-shadow: 0 0 6px rgba(255,92,92,0.65);
 }
 .timer-label.timer-blink {
   animation: timer-pulse 1s ease-in-out infinite;
@@ -550,13 +549,13 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 .match-label {
   color: var(--text-dim);
-  font-size: 0.72rem;
+  font-size: 0.66rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
-.match-teams { font-weight: 700; font-size: 1.15rem; }
-.match-details { color: var(--text-dim); font-size: 0.85rem; }
+.match-teams { font-weight: 700; font-size: 0.95rem; }
+.match-details { color: var(--text-dim); font-size: 0.66rem; }
 .match-details .score-highlight { color: var(--accent); font-weight: 700; }
 .score-label { color: var(--text-dim); font-size: 0.72rem; opacity: 0.8; white-space: nowrap; }
 .new-game-btn {
@@ -573,28 +572,41 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .team-switcher {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  margin-bottom: 12px;
+  gap: 8px;
+  margin-bottom: 6px;
+  /* i pannelli non devono mai toccare i bordi della lavagnetta/campo --
+     un piccolo margine laterale li stacca visivamente dal contenitore. */
+  padding: 0 6px;
 }
 .team-tab {
   background: var(--panel);
   border: 2px solid var(--border);
   border-radius: 10px;
-  padding: 10px 14px;
+  padding: 5px 10px;
   color: var(--text);
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
+  gap: 6px;
+  min-width: 0;
   transition: border-color 0.15s ease, background 0.15s ease;
 }
 .team-tab:hover { border-color: var(--border-strong); }
 .team-tab.active {
   border-color: var(--accent);
   background: var(--panel-2);
+}
+/* il nome squadra si accorcia con i puntini invece di sforare il
+   pannello (piu' probabile ora che i pannelli sono piu' piccoli e non
+   piu' larghi quanto tutta la lavagnetta). */
+.team-tab-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
 }
 .team-tab-swatch {
   width: 10px;
@@ -629,18 +641,22 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   align-items: center;
   justify-content: space-between;
   max-width: 420px;
-  margin: 0 auto 8px;
+  margin: 0 auto 5px;
+  /* Modulo e Allenatore restano ai due estremi della riga, ma un po'
+     staccati dal bordo della lavagnetta invece che incollati -- tendono
+     verso il centro senza smettere di essere "ai vertici". */
+  padding: 0 10px;
   min-height: 1.1rem;
   overflow: hidden;
   gap: 8px;
 }
-.formation-label { color: var(--text-dim); font-size: 0.78rem; font-weight: 700; flex-shrink: 0; }
+.formation-label { color: var(--text-dim); font-size: 0.66rem; font-weight: 700; flex-shrink: 0; }
 /* l'allenatore non deve mai sforare la riga del campo -- se il nome e'
    lungo si accorcia con i puntini invece di andare a capo o uscire dal
    contenitore. */
 .coach-label {
   color: var(--text-dim);
-  font-size: 0.78rem;
+  font-size: 0.66rem;
   font-weight: 600;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -654,12 +670,12 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   position: relative;
   background: var(--panel);
   border-radius: var(--radius);
-  padding: 12px;
+  padding: 8px;
   overflow: hidden;
   max-width: 420px;
   margin: 0 auto;
 }
-.team-switcher { max-width: 420px; margin: 0 auto 12px; }
+.team-switcher { max-width: 420px; margin: 0 auto 6px; }
 .pitch-slot {
   transition: transform 0.35s ease, opacity 0.3s ease;
 }
@@ -700,7 +716,7 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
      piu' rispetto al Gioco libero) -- il caso peggiore in altezza -- cosi'
      non serve mai scrollare in nessuna delle due modalita'. */
   width: 100%;
-  height: clamp(220px, calc(100dvh - 375px), 620px);
+  height: clamp(220px, calc(100dvh - 318px), 620px);
   object-fit: contain;
   display: block;
   margin: 0 auto;
@@ -1001,6 +1017,11 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 /* ---------- ottimizzazione mobile (iOS + Android) ---------- */
 @media (max-width: 640px) {
   main#app { padding-left: calc(12px + env(safe-area-inset-left)); padding-right: calc(12px + env(safe-area-inset-right)); }
+  /* la lavagnetta di gioco (unica, non le altre schermate) puo' sconfinare
+     un po' oltre i margini standard della pagina: piu' larghezza per il
+     riquadro vuol dire, mantenendo le proporzioni del mini-campo, un
+     campo davvero piu' grande e non solo un pannello piu' alto. */
+  .game-frame { margin-left: -6px; margin-right: -6px; }
 
   /* aree di tocco piu' generose (linee guida iOS/Android: min. 44x44) */
   .global-back-btn, .home-btn { width: 42px; height: 42px; font-size: 1.1rem; }
@@ -1008,11 +1029,11 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   .new-game-btn { padding: 10px 14px; }
 
   .game-header { gap: 8px; }
-  .match-label { font-size: 0.95rem; }
+  .match-label { font-size: 0.66rem; }
   .match-score { font-size: 0.8rem; }
 
   .team-switcher, .pitch-stage { max-width: 100%; }
-  .team-tab { font-size: 0.82rem; padding: 10px 8px; }
+  .team-tab { font-size: 0.82rem; padding: 6px 8px; }
 
   .player-card { padding: 18px 16px; max-height: 88vh; max-height: 88dvh; overflow-y: auto; }
   .hint-card-head { padding: 12px; }
