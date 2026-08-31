@@ -69,6 +69,26 @@ button, .player-dot, .team-tab, .match-item, .hint-card, .suggest-item, .big-cho
   justify-content: center;
 }
 .global-back-btn:hover, .home-btn:hover { border-color: var(--accent); }
+/* la nota musicale e' un carattere di testo semplice (non un'emoji a
+   colori come 🔊/🏠): di suo verrebbe scura/poco leggibile, quindi la
+   ingrandisco leggermente e la lascio del colore chiaro del testo
+   (invece che dell'accento verde) per farla risaltare bene sullo sfondo
+   scuro del pulsante senza stonare con le altre icone. */
+.music-btn { position: relative; font-size: 1.3rem; font-weight: 700; color: var(--text); line-height: 1; }
+/* da muto la nota resta la stessa (mai l'icona 🔇 degli effetti sonori,
+   sarebbe lo stesso controllo) ma la sbarro con una riga diagonale, come
+   le classiche icone "muto". */
+.music-btn-muted::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 60%;
+  height: 2px;
+  background: var(--danger);
+  border-radius: 1px;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
 
 main#app {
   max-width: 900px;
@@ -667,9 +687,20 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 }
 
 .pitch-svg {
+  /* di norma la larghezza comanda (width:100% del contenitore), ma sugli
+     schermi bassi (telefoni piccoli) il mini-campo da solo non deve mai
+     costringere a scrollare per vedere tutta la pagina, dai pulsanti in
+     alto alla fine della lavagnetta con un po' di sfondo campo sotto --
+     quindi l'altezza e' comunque limitata allo spazio verticale
+     disponibile (calcolato sottraendo topbar + intestazioni + margini
+     fissi della lavagnetta), e la larghezza si adegua di conseguenza
+     mantenendo le proporzioni (max-width la riporta in scala se cosi'
+     diventasse piu' larga del contenitore, sugli schermi alti/larghi). */
   width: 100%;
-  height: auto;
+  height: clamp(220px, calc(100dvh - 345px), 620px);
+  object-fit: contain;
   display: block;
+  margin: 0 auto;
   border-radius: 8px;
   background: var(--pitch);
 }

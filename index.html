@@ -24,6 +24,7 @@
     <button type="button" id="newGameBtn" class="new-game-btn hidden">Nuova partita</button>
   </div>
   <div class="topbar-right">
+    <button type="button" id="musicBtn" class="home-btn music-btn" aria-label="Disattiva musica">♫</button>
     <button type="button" id="muteBtn" class="home-btn" aria-label="Disattiva audio">🔊</button>
     <button type="button" id="brandHome" class="home-btn" aria-label="Menu principale">🏠</button>
   </div>
@@ -204,19 +205,19 @@
 
   <!-- SCHERMATA 2: scelta modalita' -->
   <section id="screen-mode" class="screen">
-    <h1>Come vuoi scegliere la partita?</h1>
+    <h1>Scegli il metodo di ricerca</h1>
     <div class="mode-choices">
       <button class="mode-choice" data-mode="random">
-        <div class="mode-choice-title">🎲 Partita a caso</div>
-        <div class="mode-choice-sub">Qualsiasi anno, completamente casuale</div>
+        <div class="mode-choice-title">🎲 Partita casuale</div>
+        <div class="mode-choice-sub">Una partita a caso, di qualsiasi stagione</div>
       </button>
       <button class="mode-choice" data-mode="year-random">
-        <div class="mode-choice-title">📅 Scegli l'anno, poi a caso</div>
-        <div class="mode-choice-sub">Scegli una stagione o un intervallo, la partita è casuale</div>
+        <div class="mode-choice-title">📅 Scegli il periodo</div>
+        <div class="mode-choice-sub">Restringi a una stagione o un intervallo, il resto è casuale</div>
       </button>
       <button class="mode-choice" data-mode="manual">
         <div class="mode-choice-title">📋 Scelta manuale</div>
-        <div class="mode-choice-sub">Scegli tu la stagione e la partita esatta</div>
+        <div class="mode-choice-sub">Scegli tu stagione, giornata e partita esatta</div>
       </button>
     </div>
     <button class="back-btn" id="backToCompetition">← indietro</button>
@@ -224,7 +225,7 @@
 
   <!-- SCHERMATA 3a: range anni -->
   <section id="screen-years" class="screen">
-    <h1>Che stagioni ti interessano?</h1>
+    <h1>Scegli l'intervallo</h1>
     <div class="years-picker">
       <label>Da
         <select id="yearFrom"></select>

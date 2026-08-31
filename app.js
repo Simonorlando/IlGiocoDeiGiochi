@@ -231,6 +231,10 @@ function showScreen(id, { fromBack = false } = {}) {
   // il countdown non deve continuare a scorrere se si lascia la partita
   // (es. tasto indietro/home) senza finirla.
   if (id !== 'screen-game') stopTimer();
+  // musica di sottofondo: gira su titolo e menu, si ferma appena inizia
+  // davvero una sessione di gioco (e riparte se si torna al menu).
+  if (id === 'screen-game') pauseMenuMusic();
+  else playMenuMusic();
 }
 
 function goBack() {
@@ -1128,6 +1132,55 @@ function toggleMute() {
   localStorage.setItem(MUTE_KEY, isMuted ? '1' : '0');
   updateMuteButton();
 }
+
+// ---------- musica di sottofondo (titolo + menu, mai durante la partita) ----------
+
+const MUSIC_MUTE_KEY = 'chigioca_music_muted';
+let isMusicMuted = localStorage.getItem(MUSIC_MUTE_KEY) === '1';
+
+const menuMusic = new Audio('music/menu-theme.mp3');
+menuMusic.loop = true;
+menuMusic.volume = 0.35;
+menuMusic.preload = 'auto';
+
+function updateMusicButton() {
+  const btn = document.getElementById('musicBtn');
+  if (!btn) return;
+  // stessa nota sempre (mai l'icona 🔇 gia' usata per gli effetti sonori,
+  // altrimenti sembrerebbero lo stesso controllo) -- da muto la sbarro
+  // con una riga invece di cambiare simbolo.
+  btn.textContent = '♫';
+  btn.classList.toggle('music-btn-muted', isMusicMuted);
+  btn.setAttribute('aria-label', isMusicMuted ? 'Attiva musica' : 'Disattiva musica');
+}
+
+function playMenuMusic() {
+  if (isMusicMuted) return;
+  // i browser bloccano l'autoplay senza interazione: se il primo tentativo
+  // fallisce (schermata di titolo appena caricata) riprovo al primo tap
+  // dell'utente in qualunque punto della pagina, una volta sola.
+  menuMusic.play().catch(() => {
+    const retry = () => { menuMusic.play().catch(() => {}); };
+    document.addEventListener('pointerdown', retry, { once: true });
+  });
+}
+
+function pauseMenuMusic() {
+  menuMusic.pause();
+  menuMusic.currentTime = 0;
+}
+
+function toggleMusic() {
+  isMusicMuted = !isMusicMuted;
+  localStorage.setItem(MUSIC_MUTE_KEY, isMusicMuted ? '1' : '0');
+  updateMusicButton();
+  if (isMusicMuted) pauseMenuMusic();
+  else if (document.getElementById('screen-game') && !document.getElementById('screen-game').classList.contains('active')) playMenuMusic();
+}
+
+document.getElementById('musicBtn').addEventListener('click', toggleMusic);
+updateMusicButton();
+playMenuMusic();
 
 document.getElementById('muteBtn').addEventListener('click', toggleMute);
 updateMuteButton();
