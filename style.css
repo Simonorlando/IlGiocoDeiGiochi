@@ -1148,7 +1148,14 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   background: transparent;
   pointer-events: none;
   align-items: flex-start;
-  padding-top: 8px;
+  /* l'overlay e' a tutto schermo (position:fixed, inset:0) e la topbar e'
+     un elemento fisso separato sopra di lui -- senza tener conto della
+     sua altezza il pulsante "torna al risultato" ci finiva sotto,
+     sovrapposto. Lo spostiamo invece nella fascia libera fra la topbar
+     e la lavagnetta. */
+  padding-top: calc(57px + env(safe-area-inset-top) + 4px);
+  padding-left: 16px;
+  padding-right: 16px;
 }
 .overlay.peeking .complete-panel {
   background: none;
@@ -1161,6 +1168,18 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
 .overlay.peeking #completeBackToMenu,
 .overlay.peeking #completeNewGame {
   display: none;
+}
+/* piu' piccolo e compatto qui -- deve stare nella striscia libera fra
+   topbar e lavagnetta senza spingere nulla ne' costringere a scrollare,
+   non e' piu' uno dei tre bottoni grandi impilati del riepilogo. */
+.overlay.peeking #completeMissedToggle {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 6px 14px;
+  font-size: 0.78rem;
+  border-radius: 999px;
 }
 
 .complete-btn {
