@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 18433,
-        "name": "R. Palladino"
+        "name": "R. Palladino",
+        "full_name": "Raffaele Palladino"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 1217,
-        "name": "K. Runjaić"
+        "name": "K. Runjaić",
+        "full_name": "Kosta Runjaić"
       }
     }
   ],

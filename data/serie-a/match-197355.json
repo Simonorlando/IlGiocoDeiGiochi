@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 9536,
+        "name": "F. Guidolin",
+        "full_name": "Francesco Guidolin"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 206,
+        "name": "E. Reja",
+        "full_name": "Edoardo Reja"
       }
     }
   ],

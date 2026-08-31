@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "B. Mutti",
+        "full_name": "Bortolo Mutti"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1595,
+        "name": "D. Simeone",
+        "full_name": "Diego Pablo Simeone González"
       }
     }
   ],

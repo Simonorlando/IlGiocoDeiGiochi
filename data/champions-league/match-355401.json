@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "S. Hyypiä",
+        "full_name": "Sami Hyypiä"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 10206,
+        "name": "L. Blanc",
+        "full_name": "Laurent Blanc"
       }
     }
   ],

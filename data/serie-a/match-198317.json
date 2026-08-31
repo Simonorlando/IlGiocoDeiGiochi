@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2441,
+        "name": "M. Giampaolo",
+        "full_name": "Marco Freddie Giampaolo"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2899,
+        "name": "P. Marino",
+        "full_name": "Pasquale Marino"
       }
     }
   ],

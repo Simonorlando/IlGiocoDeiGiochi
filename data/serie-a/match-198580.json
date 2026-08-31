@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "Leonardo",
+        "full_name": "Leonardo Araújo"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3722,
+        "name": "D. Ballardini",
+        "full_name": "Davide Ballardini"
       }
     }
   ],

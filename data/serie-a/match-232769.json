@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": null,
-        "name": "D. López"
+        "name": "D. López",
+        "full_name": "Diego López"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2407,
-        "name": "C. Ancelotti"
+        "name": "C. Ancelotti",
+        "full_name": "Carlo Ancelotti"
       }
     }
   ],

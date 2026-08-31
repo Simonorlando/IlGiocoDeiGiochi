@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 10286,
+        "name": "L. Delneri",
+        "full_name": "Luigi Delneri"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
       }
     }
   ],

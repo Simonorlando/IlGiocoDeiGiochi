@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "Leonardo",
+        "full_name": "Leonardo Araújo"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. Rossi",
+        "full_name": "Delio Rossi"
       }
     }
   ],

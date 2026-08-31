@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "M. Beretta",
+        "full_name": "Mario Beretta"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "B. Mutti",
+        "full_name": "Bortolo Mutti"
       }
     }
   ],

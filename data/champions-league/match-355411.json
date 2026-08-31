@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1452,
+        "name": "F. Terim",
+        "full_name": "Fatih Terim"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2462,
+        "name": "José Mourinho",
+        "full_name": "José Mário dos Santos Mourinho Félix"
       }
     }
   ],

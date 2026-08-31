@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. López",
+        "full_name": "Diego López"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 364,
+        "name": "C. Seedorf",
+        "full_name": "Clarence Seedorf"
       }
     }
   ],

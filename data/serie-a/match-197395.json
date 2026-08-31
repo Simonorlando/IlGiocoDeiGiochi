@@ -86,7 +86,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2428,
+        "name": "R. Maran",
+        "full_name": "Rolando Maran"
+      }
     },
     {
       "team_name": "Lazio",
@@ -170,7 +175,12 @@
           "line_index": 4,
           "slot_in_line": 0
         }
-      ]
+      ],
+      "coach": {
+        "id": 206,
+        "name": "E. Reja",
+        "full_name": "Edoardo Reja"
+      }
     }
   ],
   "positions_source": "sofascore",

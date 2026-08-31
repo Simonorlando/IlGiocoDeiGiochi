@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 426,
+        "name": "D. Di Carlo",
+        "full_name": "Domenico Di Carlo"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1933,
+        "name": "G. Sannino",
+        "full_name": "Giuseppe Sannino"
       }
     }
   ],

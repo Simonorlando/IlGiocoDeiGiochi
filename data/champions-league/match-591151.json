@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 40,
-        "name": "T. Tuchel"
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 6472,
-        "name": "H. Flick"
+        "name": "H. Flick",
+        "full_name": "Hans-Dieter Flick"
       }
     }
   ],

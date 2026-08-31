@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 206,
+        "name": "E. Reja",
+        "full_name": "Edoardo Reja"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 193,
+        "name": "Luis Enrique",
+        "full_name": "Luis Enrique Martínez García"
       }
     }
   ],

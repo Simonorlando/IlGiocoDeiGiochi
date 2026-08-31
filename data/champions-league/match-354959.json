@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1159,
+        "name": "Rui Vitória",
+        "full_name": "Rui Carlos Pinho da Vitória"
       }
     }
   ],

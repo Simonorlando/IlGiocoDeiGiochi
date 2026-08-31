@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. Rossi",
+        "full_name": "Delio Rossi"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Di Francesco"
       }
     }
   ],

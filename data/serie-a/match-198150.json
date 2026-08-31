@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1933,
+        "name": "G. Sannino",
+        "full_name": "Giuseppe Sannino"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 193,
+        "name": "Luis Enrique",
+        "full_name": "Luis Enrique Martínez García"
       }
     }
   ],

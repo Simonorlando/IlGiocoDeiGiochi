@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 9536,
+        "name": "F. Guidolin",
+        "full_name": "Francesco Guidolin"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
       }
     }
   ],

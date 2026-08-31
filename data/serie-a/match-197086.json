@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2551,
+        "name": "R. Garcia",
+        "full_name": "Rudi Garcia"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 206,
+        "name": "E. Reja",
+        "full_name": "Edoardo Reja"
       }
     }
   ],

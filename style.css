@@ -536,9 +536,30 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
   max-width: 420px;
   margin: 0 auto 8px;
   min-height: 1.1rem;
+  overflow: hidden;
+  gap: 8px;
 }
-.formation-label { color: var(--text-dim); font-size: 0.78rem; font-weight: 700; }
-.streak-label { color: var(--accent-2); font-size: 0.78rem; font-weight: 700; }
+.formation-label { color: var(--text-dim); font-size: 0.78rem; font-weight: 700; flex-shrink: 0; }
+/* il gruppo a destra (allenatore + eventuale streak) non deve mai sforare
+   la riga del campo -- se il nome e' lungo si accorcia con i puntini
+   invece di andare a capo o uscire dal contenitore. */
+.pitch-info-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  justify-content: flex-end;
+}
+.coach-label {
+  color: var(--text-dim);
+  font-size: 0.78rem;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+.streak-label { color: var(--accent-2); font-size: 0.78rem; font-weight: 700; flex-shrink: 0; }
 .streak-sep { margin: 0 6px; opacity: 0.6; }
 
 .pitch-stage {

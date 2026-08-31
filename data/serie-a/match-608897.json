@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 3733,
-        "name": "S. Pioli"
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2429,
-        "name": "L. Semplici"
+        "name": "L. Semplici",
+        "full_name": "Leonardo Semplici"
       }
     }
   ],

@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2894,
-        "name": "Quique Setién"
+        "name": "Quique Setién",
+        "full_name": "Enrique Setién Solar"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2913,
-        "name": "G. Gattuso"
+        "name": "G. Gattuso",
+        "full_name": "Ivan Gennaro Gattuso"
       }
     }
   ],

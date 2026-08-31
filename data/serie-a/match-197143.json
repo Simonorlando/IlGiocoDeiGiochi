@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3386,
+        "name": "M. Allegri",
+        "full_name": "Massimiliano Allegri"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 67,
+        "name": "Rafael Benítez",
+        "full_name": "Rafael Benítez Maudes"
       }
     }
   ],

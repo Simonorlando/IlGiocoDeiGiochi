@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 33,
+        "name": "Paulo Sousa",
+        "full_name": "Paulo Manuel Carvalho de Sousa"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2897,
+        "name": "F. Castori",
+        "full_name": "Fabrizio Castori"
       }
     }
   ],

@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2915,
-        "name": "M. Baroni"
+        "name": "M. Baroni",
+        "full_name": "Marco Baroni"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 21528,
-        "name": "Cesc Fàbregas"
+        "name": "Cesc Fàbregas",
+        "full_name": "Francesc Fàbregas i Soler"
       }
     }
   ],

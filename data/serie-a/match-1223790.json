@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 18111,
-        "name": "S. Bocchetti"
+        "name": "S. Bocchetti",
+        "full_name": "S. Bocchetti"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 18433,
-        "name": "R. Palladino"
+        "name": "R. Palladino",
+        "full_name": "Raffaele Palladino"
       }
     }
   ],

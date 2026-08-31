@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 9537,
+        "name": "R. Di Matteo",
+        "full_name": "Roberto Di Matteo"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2407,
+        "name": "C. Ancelotti",
+        "full_name": "Carlo Ancelotti"
       }
     }
   ],

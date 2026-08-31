@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2995,
+        "name": "I. Jovanović",
+        "full_name": "Ivan Jovanović"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1975,
+        "name": "R. Garde",
+        "full_name": "Rémi Garde"
       }
     }
   ],

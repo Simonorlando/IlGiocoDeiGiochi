@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1584,
+        "name": "Z. Zidane",
+        "full_name": "Zinédine Zidane"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 28075,
+        "name": "Dieter Hecking",
+        "full_name": "Dieter Hecking"
       }
     }
   ],

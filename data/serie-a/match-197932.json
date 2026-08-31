@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "F. Colomba",
+        "full_name": "Franco Colomba"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2549,
+        "name": "V. Montella",
+        "full_name": "Vincenzo Montella"
       }
     }
   ],

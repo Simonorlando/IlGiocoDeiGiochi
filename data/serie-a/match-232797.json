@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": null,
-        "name": "D. López"
+        "name": "D. López",
+        "full_name": "Diego López"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2916,
-        "name": "D. Nicola"
+        "name": "D. Nicola",
+        "full_name": "Davide Nicola"
       }
     }
   ],

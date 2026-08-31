@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "G. Stroppa",
+        "full_name": "Giovanni Stroppa"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "C. Ferrara",
+        "full_name": "Ciro Ferrara"
       }
     }
   ],

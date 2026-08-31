@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1620,
+        "name": "A. Tesser",
+        "full_name": "Attilio Tesser"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2549,
+        "name": "V. Montella",
+        "full_name": "Vincenzo Montella"
       }
     }
   ],

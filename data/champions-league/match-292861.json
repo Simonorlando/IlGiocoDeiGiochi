@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 6472,
-        "name": "H. Flick"
+        "name": "H. Flick",
+        "full_name": "Hans-Dieter Flick"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 20,
-        "name": "F. Lampard"
+        "name": "F. Lampard",
+        "full_name": "Frank James Lampard"
       }
     }
   ],

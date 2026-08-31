@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. Arrigoni",
+        "full_name": "Daniele Arrigoni"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "E. Di Francesco",
+        "full_name": "Eusebio Di Francesco"
       }
     }
   ],

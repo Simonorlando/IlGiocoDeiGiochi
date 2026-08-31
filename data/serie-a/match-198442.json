@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "A. Malesani",
+        "full_name": "Alberto Malesani"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3733,
+        "name": "S. Pioli",
+        "full_name": "Stefano Pioli"
       }
     }
   ],

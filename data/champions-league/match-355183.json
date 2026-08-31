@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 4,
+        "name": "Guardiola",
+        "full_name": "Guardiola"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1594,
+        "name": "Lopetegui",
+        "full_name": "Julen Lopetegui Argote"
       }
     }
   ],

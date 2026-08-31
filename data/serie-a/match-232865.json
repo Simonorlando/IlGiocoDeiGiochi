@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2442,
-        "name": "F. Liverani"
+        "name": "F. Liverani",
+        "full_name": "Fabio Liverani"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": null,
-        "name": "D. López"
+        "name": "D. López",
+        "full_name": "Diego López"
       }
     }
   ],

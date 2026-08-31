@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2412,
-        "name": "M. Sarri"
+        "name": "M. Sarri",
+        "full_name": "Maurizio Sarri"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2431,
-        "name": "Paulo Fonseca"
+        "name": "Paulo Fonseca",
+        "full_name": "Paulo Alexandre Rodrigues Fonseca"
       }
     }
   ],

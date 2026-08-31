@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 364,
+        "name": "C. Seedorf",
+        "full_name": "Clarence Seedorf"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "M. Pellegrino",
+        "full_name": "Maurizio Pellegrino"
       }
     }
   ],

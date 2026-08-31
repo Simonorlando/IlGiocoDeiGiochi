@@ -746,13 +746,22 @@ function setupTeamTabs(match) {
   updateFormationLabel();
 }
 
-// Modulo della squadra attualmente selezionata, sempre visibile sopra il
-// campo -- si aggiorna a ogni cambio tab.
+// Modulo e allenatore della squadra attualmente selezionata, sempre
+// visibili sopra il campo -- si aggiornano a ogni cambio tab. Il nome
+// dell'allenatore e' sempre quello ufficiale completo (mai l'abbreviazione
+// "M. Cognome"), e si accorcia da solo coi puntini se troppo lungo per
+// stare sulla riga (vedi .coach-label in style.css).
 function updateFormationLabel() {
   const el = document.getElementById('formationLabel');
+  const coachEl = document.getElementById('coachLabel');
   if (!el || !state.match) return;
   const team = state.match.teams[state.activeTeamIdx];
   el.textContent = team.formation ? `Modulo: ${team.formation}` : '';
+  if (coachEl) {
+    const coachName = team.coach && (team.coach.full_name || team.coach.name);
+    coachEl.textContent = coachName ? `Allenatore: ${coachName}` : '';
+    coachEl.classList.toggle('hidden', !coachName);
+  }
 }
 
 // Quanto manca al prossimo jolly di "Nome" -- solo in modalita' a tempo.
@@ -819,6 +828,7 @@ function showTeamChoiceOverlay(match) {
   // quello sbagliato se la scelta finale cade sull'altra squadra).
   document.querySelector('.pitch-stage').classList.add('hidden');
   document.getElementById('formationLabel').classList.add('hidden');
+  document.getElementById('coachLabel').classList.add('hidden');
 
   clearInterval(teamChoiceInterval);
   teamChoiceInterval = setInterval(() => {
@@ -836,6 +846,7 @@ function commitTeamChoice(idx) {
   document.getElementById('teamChoiceOverlay').classList.add('hidden');
   document.querySelector('.pitch-stage').classList.remove('hidden');
   document.getElementById('formationLabel').classList.remove('hidden');
+  updateFormationLabel();
   playKickoffWhistle();
   if (idx !== state.activeTeamIdx) {
     applyPitchSlots(idx, state.activeTeamIdx);

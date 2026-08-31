@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "B. Mutti",
+        "full_name": "Bortolo Mutti"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2433,
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
       }
     }
   ],

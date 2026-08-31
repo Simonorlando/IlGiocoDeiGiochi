@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "F. Colomba",
+        "full_name": "Franco Colomba"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "Leonardo",
+        "full_name": "Leonardo Araújo"
       }
     }
   ],

@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 10281,
+        "name": "J. Heynckes",
+        "full_name": "Josef Heynckes"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 5594,
+        "name": "A. Wenger",
+        "full_name": "Arsène Wenger"
       }
     }
   ],

@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2913,
-        "name": "G. Gattuso"
+        "name": "G. Gattuso",
+        "full_name": "Ivan Gennaro Gattuso"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2392,
-        "name": "S. Inzaghi"
+        "name": "S. Inzaghi",
+        "full_name": "Simone Inzaghi"
       }
     }
   ],

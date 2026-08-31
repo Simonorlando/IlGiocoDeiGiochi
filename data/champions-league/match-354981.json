@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1937,
+        "name": "S. Rebrov",
+        "full_name": "Serhii Rebrov"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3,
+        "name": "M. Pellegrini",
+        "full_name": "Manuel Luis Pellegrini Ripamonti"
       }
     }
   ],

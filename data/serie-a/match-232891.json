@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2425,
-        "name": "A. Conte"
+        "name": "A. Conte",
+        "full_name": "Antonio Conte"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2913,
-        "name": "G. Gattuso"
+        "name": "G. Gattuso",
+        "full_name": "Ivan Gennaro Gattuso"
       }
     }
   ],

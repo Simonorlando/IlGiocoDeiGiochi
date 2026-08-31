@@ -86,7 +86,12 @@
           "line_index": 3,
           "slot_in_line": 2
         }
-      ]
+      ],
+      "coach": {
+        "id": 2413,
+        "name": "S. Mihajlović",
+        "full_name": "Siniša Mihajlović"
+      }
     },
     {
       "team_name": "Atalanta",
@@ -170,7 +175,12 @@
           "line_index": 3,
           "slot_in_line": 1
         }
-      ]
+      ],
+      "coach": {
+        "id": 2904,
+        "name": "S. Colantuono",
+        "full_name": "Stefano Colantuono"
+      }
     }
   ],
   "positions_source": "sofascore",

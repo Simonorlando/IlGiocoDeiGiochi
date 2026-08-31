@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2880,
+        "name": "H. Vanhaezebrouck",
+        "full_name": "Hein Vanhaezebrouck"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 28075,
+        "name": "Dieter Hecking",
+        "full_name": "Dieter Hecking"
       }
     }
   ],

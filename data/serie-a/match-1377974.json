@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 19094,
-        "name": "Fabio Pisacane"
+        "name": "Fabio Pisacane",
+        "full_name": "F. Pisacane"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 28,
-        "name": "Patrick Donalé Vieira"
+        "name": "Patrick Donalé Vieira",
+        "full_name": "Patrick Donalé Vieira"
       }
     }
   ],

@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 186,
+        "name": "V. Petković",
+        "full_name": "Vladimir Petković"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 67,
+        "name": "Rafael Benítez",
+        "full_name": "Rafael Benítez Maudes"
       }
     }
   ],

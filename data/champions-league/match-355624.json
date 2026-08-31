@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1452,
+        "name": "F. Terim",
+        "full_name": "Fatih Terim"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3097,
+        "name": "J. Keller",
+        "full_name": "Jens Keller"
       }
     }
   ],

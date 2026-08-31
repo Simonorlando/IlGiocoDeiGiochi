@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 2412,
+        "name": "M. Sarri",
+        "full_name": "Maurizio Sarri"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 7486,
+        "name": "G. Iachini",
+        "full_name": "Giuseppe Iachini"
       }
     }
   ],

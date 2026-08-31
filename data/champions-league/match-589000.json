@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 1545,
-        "name": "J. Nagelsmann"
+        "name": "J. Nagelsmann",
+        "full_name": "Julian Nagelsmann"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 40,
-        "name": "T. Tuchel"
+        "name": "T. Tuchel",
+        "full_name": "Thomas Tuchel"
       }
     }
   ],

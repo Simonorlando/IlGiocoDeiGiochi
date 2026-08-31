@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": 18,
-        "name": "Unai Emery"
+        "name": "Unai Emery",
+        "full_name": "Unai Emery Etxegoien"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": 1584,
-        "name": "Z. Zidane"
+        "name": "Z. Zidane",
+        "full_name": "Zinédine Zidane"
       }
     }
   ],

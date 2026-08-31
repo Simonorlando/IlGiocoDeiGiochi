@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 3248,
+        "name": "A. Mandorlini",
+        "full_name": "Andrea Mandorlini"
       }
     },
     {
@@ -177,7 +178,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. Rossi",
+        "full_name": "Delio Rossi"
       }
     }
   ],

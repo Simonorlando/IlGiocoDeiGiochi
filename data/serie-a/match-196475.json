@@ -89,7 +89,8 @@
       ],
       "coach": {
         "id": null,
-        "name": null
+        "name": "D. Rossi",
+        "full_name": "Delio Rossi"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 7486,
+        "name": "G. Iachini",
+        "full_name": "Giuseppe Iachini"
       }
     }
   ],

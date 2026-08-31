@@ -88,8 +88,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1648,
+        "name": "M. Ficcadenti",
+        "full_name": "Massimo Ficcadenti"
       }
     },
     {
@@ -176,8 +177,9 @@
         }
       ],
       "coach": {
-        "id": null,
-        "name": null
+        "id": 1620,
+        "name": "A. Tesser",
+        "full_name": "Attilio Tesser"
       }
     }
   ],

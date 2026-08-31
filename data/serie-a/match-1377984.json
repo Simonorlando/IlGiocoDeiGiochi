@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2408,
-        "name": "Ivan Jurić"
+        "name": "Ivan Jurić",
+        "full_name": "Ivan Jurić"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 3733,
-        "name": "Stefano Pioli"
+        "name": "Stefano Pioli",
+        "full_name": "Stefano Pioli"
       }
     }
   ],

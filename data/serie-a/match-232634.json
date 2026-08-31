@@ -88,7 +88,8 @@
       ],
       "coach": {
         "id": 2902,
-        "name": "F. Grosso"
+        "name": "F. Grosso",
+        "full_name": "Fabio Grosso"
       }
     },
     {
@@ -176,7 +177,8 @@
       ],
       "coach": {
         "id": 2433,
-        "name": "W. Mazzarri"
+        "name": "W. Mazzarri",
+        "full_name": "Walter Mazzarri"
       }
     }
   ],
