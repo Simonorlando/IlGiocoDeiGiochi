@@ -95,7 +95,7 @@
   </section>
 
   <!-- SCHERMATA 1a: gioco libero / sfida a tempo -->
-  <section id="screen-play-type" class="screen">
+  <section id="screen-play-type" class="screen menu-screen">
     <h1>Scegli la modalità di gioco</h1>
     <div class="big-choices">
       <button class="big-choice" data-play-type="libero">
@@ -169,7 +169,7 @@
   </div>
 
   <!-- SCHERMATA 1b: scelta fascia di tempo (solo se "Remuntada") -->
-  <section id="screen-timing" class="screen">
+  <section id="screen-timing" class="screen menu-screen">
     <h1>Scegli la difficoltà</h1>
     <div class="mode-choices">
       <button class="mode-choice" data-timing="rapida">
@@ -186,7 +186,7 @@
   </section>
 
   <!-- SCHERMATA 1c: scelta competizione -->
-  <section id="screen-competition" class="screen">
+  <section id="screen-competition" class="screen menu-screen">
     <h1>Scegli competizione</h1>
     <div class="big-choices">
       <button class="big-choice" data-comp="serie_a">
@@ -203,7 +203,7 @@
   </section>
 
   <!-- SCHERMATA 2: scelta modalita' -->
-  <section id="screen-mode" class="screen">
+  <section id="screen-mode" class="screen menu-screen">
     <h1>Come vuoi scegliere la partita?</h1>
     <div class="mode-choices">
       <button class="mode-choice" data-mode="random">
@@ -223,7 +223,7 @@
   </section>
 
   <!-- SCHERMATA 3a: range anni -->
-  <section id="screen-years" class="screen">
+  <section id="screen-years" class="screen menu-screen">
     <h1>Che stagioni ti interessano?</h1>
     <div class="years-picker">
       <label>Da
@@ -238,7 +238,7 @@
   </section>
 
   <!-- SCHERMATA 3a-bis: difficolta' (solo Serie A, solo modalita' casuale/anno+casuale) -->
-  <section id="screen-difficulty" class="screen">
+  <section id="screen-difficulty" class="screen menu-screen">
     <h1>Scegli la difficoltà</h1>
     <div class="mode-choices">
       <button class="mode-choice" data-difficulty="facile">
@@ -258,7 +258,7 @@
   </section>
 
   <!-- SCHERMATA 3b: scelta manuale -->
-  <section id="screen-manual" class="screen">
+  <section id="screen-manual" class="screen menu-screen">
     <h1>Scegli la partita</h1>
     <div class="manual-picker">
       <label>Stagione
@@ -278,6 +278,11 @@
 
   <!-- SCHERMATA 4: gioco -->
   <section id="screen-game" class="screen">
+   <div class="game-frame">
+    <span class="frame-corner frame-corner-tl"></span>
+    <span class="frame-corner frame-corner-tr"></span>
+    <span class="frame-corner frame-corner-bl"></span>
+    <span class="frame-corner frame-corner-br"></span>
     <div class="game-header">
       <div class="match-header-info">
         <div class="match-meta-row">
@@ -317,6 +322,7 @@
         <svg id="pitchAway" class="pitch-svg" viewBox="0 0 300 440" preserveAspectRatio="xMidYMid meet"></svg>
       </div>
     </div>
+   </div>
   </section>
 
 </main>
