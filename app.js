@@ -912,7 +912,7 @@ function renderPitch(svgId, team) {
     // direzione fissa per ruolo, mai in base a eventuali scontri: il
     // portiere punta sempre verso gli attaccanti (sotto), tutti gli altri
     // sempre verso il portiere (sopra) -- coerente su tutto il campo.
-    const band = entry.position === 'G' ? 'below' : 'above';
+    const band = entry.line_index === 0 ? 'below' : 'above';
     if (!byLine.has(li)) byLine.set(li, []);
     byLine.get(li).push({ entry, slot, count, x, y, band, surname, wrapped: false, fontSize: surname.length > 8 ? 8 : 9 });
   });
