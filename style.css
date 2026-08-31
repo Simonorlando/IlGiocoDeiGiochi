@@ -695,9 +695,12 @@ select[size] option { padding: 8px 6px; border-radius: 6px; }
      disponibile (calcolato sottraendo topbar + intestazioni + margini
      fissi della lavagnetta), e la larghezza si adegua di conseguenza
      mantenendo le proporzioni (max-width la riporta in scala se cosi'
-     diventasse piu' larga del contenitore, sugli schermi alti/larghi). */
+     diventasse piu' larga del contenitore, sugli schermi alti/larghi).
+     La costante e' calibrata sul caso Remuntada (timer + riga streak in
+     piu' rispetto al Gioco libero) -- il caso peggiore in altezza -- cosi'
+     non serve mai scrollare in nessuna delle due modalita'. */
   width: 100%;
-  height: clamp(220px, calc(100dvh - 345px), 620px);
+  height: clamp(220px, calc(100dvh - 375px), 620px);
   object-fit: contain;
   display: block;
   margin: 0 auto;

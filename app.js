@@ -233,7 +233,7 @@ function showScreen(id, { fromBack = false } = {}) {
   if (id !== 'screen-game') stopTimer();
   // musica di sottofondo: gira su titolo e menu, si ferma appena inizia
   // davvero una sessione di gioco (e riparte se si torna al menu).
-  if (id === 'screen-game') pauseMenuMusic();
+  if (id === 'screen-game') stopMenuMusicForGame();
   else playMenuMusic();
 }
 
@@ -1165,7 +1165,15 @@ function playMenuMusic() {
   });
 }
 
+// pausa "semplice": muto dall'icona o app in background -- riprende da
+// dove si era fermata, non da capo.
 function pauseMenuMusic() {
+  menuMusic.pause();
+}
+
+// pausa quando inizia davvero una partita: li' la si vuole sempre da
+// capo alla prossima volta che si torna al menu (vedi showScreen()).
+function stopMenuMusicForGame() {
   menuMusic.pause();
   menuMusic.currentTime = 0;
 }
@@ -1177,6 +1185,20 @@ function toggleMusic() {
   if (isMusicMuted) pauseMenuMusic();
   else if (document.getElementById('screen-game') && !document.getElementById('screen-game').classList.contains('active')) playMenuMusic();
 }
+
+// se l'app va in background (schermata bloccata, cambio app, tab
+// nascosta) la musica si mette in pausa da sola, e riprende da dove
+// era rimasta quando si torna -- solo se non e' gia' muta o a partita
+// in corso, altrimenti resterebbe zitta per un motivo diverso.
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    pauseMenuMusic();
+  } else {
+    const gameScreen = document.getElementById('screen-game');
+    const inGame = gameScreen && gameScreen.classList.contains('active');
+    if (!isMusicMuted && !inGame) playMenuMusic();
+  }
+});
 
 document.getElementById('musicBtn').addEventListener('click', toggleMusic);
 updateMusicButton();
