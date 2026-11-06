@@ -514,25 +514,40 @@ function decodeSplashSfx(){
 }
 decodeSplashSfx();
 
-let splashAudioUnlockStarted=false;
+// Non considerare sbloccato l'audio prima che AudioContext sia davvero running.
+// Un primo evento touch/pointer può arrivare quando il contesto è ancora suspended:
+// lasciare la possibilità di ritentare sul click reale del pulsante splash.
+let splashAudioResumePending=null;
 function unlockSplashAudioCtx(){
-  if(splashAudioUnlockStarted)return;
-  splashAudioUnlockStarted=true;
   const ctx=getSplashAudioCtx();
-  if(!ctx)return;
-  if(ctx.state==='suspended'){
-    ctx.resume().then(function(){logAudioSync('ctx-resumed',ctx.state);}).catch(function(err){logAudioSync('ctx-resume-failed',err&&err.message);});
+  if(!ctx)return Promise.resolve(false);
+  if(ctx.state==='running')return Promise.resolve(true);
+  if(splashAudioResumePending)return splashAudioResumePending;
+  try{
+    splashAudioResumePending=ctx.resume().then(function(){
+      logAudioSync('ctx-resume-result',ctx.state);
+      return ctx.state==='running';
+    }).catch(function(err){
+      logAudioSync('ctx-resume-failed',err&&err.message);
+      return false;
+    }).finally(function(){splashAudioResumePending=null;});
+    return splashAudioResumePending;
+  }catch(err){
+    logAudioSync('ctx-resume-error',err&&err.message);
+    return Promise.resolve(false);
   }
 }
-document.addEventListener('pointerdown',unlockSplashAudioCtx,{once:true});
-document.addEventListener('touchstart',unlockSplashAudioCtx,{once:true});
-document.addEventListener('click',unlockSplashAudioCtx,{once:true});
+document.addEventListener('pointerdown',unlockSplashAudioCtx);
+document.addEventListener('touchstart',unlockSplashAudioCtx);
+document.addEventListener('click',unlockSplashAudioCtx);
 
+// Ritorna true solo se l'effetto e' stato affidato a Web Audio.
+// Non programmare mai su un AudioContext suspended: currentTime sarebbe fermo.
 function playBufferedSfx(name,whenOffsetSeconds,baseTime){
-  if(!soundOn)return;
+  if(!soundOn)return true;
   const ctx=splashAudioCtx;
   const buffer=splashAudioBuffers[name];
-  if(!ctx||!buffer||splashAudioState!=='ready'){logAudioSync('fallback-playSfx',name);playSfx(name);return;}
+  if(!ctx||ctx.state!=='running'||!buffer||splashAudioState!=='ready')return false;
   try{
     const src=ctx.createBufferSource();
     src.buffer=buffer;
@@ -541,44 +556,135 @@ function playBufferedSfx(name,whenOffsetSeconds,baseTime){
     const when=Math.max(ctx.currentTime,baseTime+whenOffsetSeconds);
     src.start(when,onset);
     logAudioSync('scheduled',name,'at',when.toFixed(3),'bufferOffset',onset.toFixed(3),'ctxNow',ctx.currentTime.toFixed(3));
-  }catch(err){logAudioSync('schedule-failed',name,err&&err.message);playSfx(name);}
+    return true;
+  }catch(err){
+    logAudioSync('schedule-failed',name,err&&err.message);
+    return false;
+  }
 }
 
-let audioUnlocked=false;
-function unlockAudio(){
-  if(audioUnlocked)return;
-  audioUnlocked=true;
-  try{
-    const prevMuted=menuMusic.muted;
-    menuMusic.muted=true;
-    const p=menuMusic.play();
-    if(p&&p.then){p.then(()=>{menuMusic.pause();menuMusic.currentTime=0;menuMusic.muted=prevMuted;}).catch(()=>{menuMusic.muted=prevMuted;});}
-    else{menuMusic.pause();menuMusic.currentTime=0;menuMusic.muted=prevMuted;}
-  }catch(_){}
+// Un solo responsabile per ogni SFX della splash: nessun doppio avvio quando
+// resume() e i timer di recupero completano in un ordine variabile.
+function scheduleSplashAudio(splash){
+  const ctx=splashAudioCtx;
+  const anchorMs=performance.now();
+  const events=[{name:'scream',delayMs:140,done:false,timer:null},
+                {name:'swoosh',delayMs:970,done:false,timer:null}];
+  let cancelled=false;
+  const isActive=()=>!cancelled&&splash.classList.contains('active')&&splash.classList.contains('animating');
+  function scheduleEvent(event){
+    if(event.done||!isActive())return;
+    const remainingMs=event.delayMs-(performance.now()-anchorMs);
+    if(ctx&&ctx.state==='running'&&splashAudioState==='ready'){
+      const scheduled=playBufferedSfx(event.name,Math.max(0,remainingMs)/1000,ctx.currentTime);
+      if(scheduled){
+        event.done=true;
+        if(event.timer!==null){clearTimeout(event.timer);event.timer=null;}
+        return;
+      }
+    }
+    if(remainingMs>1){
+      if(event.timer!==null)clearTimeout(event.timer);
+      event.timer=window.setTimeout(()=>{
+        event.timer=null;
+        scheduleEvent(event);
+      },remainingMs);
+      return;
+    }
+    // Assegna l'evento UNA sola volta; se HTML Audio fallisce, non ritentare
+    // a transizione avanzata: un secondo tentativo sarebbe udibile fuori sincrono.
+    event.done=true;
+    if(event.timer!==null){clearTimeout(event.timer);event.timer=null;}
+    logAudioSync('splash-html-fallback',event.name,'ctx',ctx&&ctx.state);
+    playSfx(event.name);
+  }
+  events.forEach(scheduleEvent);
+  if(ctx&&ctx.state!=='running'){
+    unlockSplashAudioCtx().then(function(running){
+      if(!running||!isActive())return;
+      events.forEach(scheduleEvent);
+    }).catch(function(err){logAudioSync('splash-resume-error',err&&err.message);});
+  }
+  return function cancelPendingSplashAudio(){
+    cancelled=true;
+    events.forEach(event=>{
+      if(event.timer!==null){clearTimeout(event.timer);event.timer=null;}
+    });
+    logAudioSync('splash-pending-timers-cleared');
+  };
 }
-document.addEventListener('pointerdown',unlockAudio,{once:true});
-document.addEventListener('touchstart',unlockAudio,{once:true});
-document.addEventListener('click',unlockAudio,{once:true});
+// Non avviare la musica per sbloccarla al primo tocco: una Promise di play()
+// ancora in corso può farla partire durante l'animazione della splash.
+// Lo sblocco Web Audio degli SFX è gestito separatamente da unlockSplashAudioCtx().
 function playSfx(name){
-  if(!soundOn)return;
+  if(!soundOn)return Promise.resolve(false);
   try{
     let audio=sfxCache[name];
     if(!audio){audio=new Audio(SFX_FILES[name]);sfxCache[name]=audio;}
     else{audio.pause();audio.currentTime=0;}
-    audio.play().catch(()=>{});
-  }catch(_){}
+    const result=audio.play();
+    if(result&&typeof result.then==='function'){
+      return result.then(()=>{logAudioSync('sfx-html-started',name);return true;})
+        .catch(err=>{logAudioSync('sfx-html-failed',name,err&&err.name,err&&err.message);return false;});
+    }
+    return Promise.resolve(true);
+  }catch(err){
+    logAudioSync('sfx-html-error',name,err&&err.message);
+    return Promise.resolve(false);
+  }
 }
 let menuMusicStarted=false;
 let musicUserMuted=false;
-function startMenuMusic(){if(menuMusicStarted)return;menuMusicStarted=true;try{menuMusic.play().catch(()=>{});}catch(_){}}
-document.addEventListener('visibilitychange',()=>{
-  if(document.hidden){
-    menuMusic.pause();
-  }else{
-    const playScreen=document.getElementById('screen-play');
-    const inGame=playScreen&&playScreen.classList.contains('active');
-    if(menuMusicStarted&&!musicUserMuted&&!inGame)menuMusic.play().catch(()=>{});
+let splashTransitionComplete=false;
+// Solo questo punto richiede l'avvio musicale. Un tentativo asincrono
+// in corso non puo' essere duplicato da show() o visibilitychange.
+let menuPlayPending=null;
+let menuNeedsGestureRetry=false;
+function canPlayMenuMusic(){
+  if(!splashTransitionComplete||!menuMusicStarted||musicUserMuted||document.hidden)return false;
+  if(document.getElementById('screen-splash')?.classList.contains('active'))return false;
+  if(document.getElementById('screen-play')?.classList.contains('active'))return false;
+  return true;
+}
+function playMenuMusicIfAllowed(reason){
+  if(!canPlayMenuMusic()||!menuMusic.paused||menuPlayPending)return;
+  try{
+    const result=menuMusic.play();
+    logAudioSync('menu-play-request',reason);
+    if(result&&typeof result.then==='function'){
+      const attempt=Promise.resolve(result);
+      menuPlayPending=attempt;
+      attempt.then(()=>{
+        menuNeedsGestureRetry=false;
+        logAudioSync('menu-play-started',reason);
+        if(!canPlayMenuMusic())menuMusic.pause();
+      }).catch(err=>{
+        menuNeedsGestureRetry=true;
+        logAudioSync('menu-play-rejected',reason,err&&err.name,err&&err.message);
+      }).finally(()=>{
+        if(menuPlayPending===attempt)menuPlayPending=null;
+      });
+    }else{
+      menuNeedsGestureRetry=false;
+    }
+  }catch(err){
+    menuNeedsGestureRetry=true;
+    logAudioSync('menu-play-error',reason,err&&err.message);
   }
+}
+function startMenuMusic(){
+  if(!splashTransitionComplete)return;
+  menuMusicStarted=true;
+  playMenuMusicIfAllowed('splash-finished');
+}
+// Se un browser nega l'autoplay all'apertura del menu, un successivo gesto
+// reale dell'utente puo' recuperarlo. Il blocco splash resta obbligatorio.
+document.addEventListener('pointerdown',()=>{
+  if(menuNeedsGestureRetry&&canPlayMenuMusic())playMenuMusicIfAllowed('user-gesture-retry');
+},{passive:true});
+document.addEventListener('visibilitychange',()=>{
+  if(document.hidden)menuMusic.pause();
+  else playMenuMusicIfAllowed('visibilitychange');
 });
 function alignSplashPlay(){
   const btn=document.getElementById('splash-play');
@@ -691,8 +797,24 @@ function rnd(list){return list[Math.floor(Math.random()*list.length)]}
 function path(){return screens[screens.length-1]}
 function currentEvent(){return {...state,screen:path()}}
 function emit(name){window.dispatchEvent(new CustomEvent(name,{detail:currentEvent()}))}
-function sound(){if(!soundOn)return;try{const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;let ac=new AC(),o=ac.createOscillator(),g=ac.createGain();o.type='sine';o.frequency.setValueAtTime(620,ac.currentTime);o.frequency.exponentialRampToValueAtTime(390,ac.currentTime+.08);g.gain.setValueAtTime(.028,ac.currentTime);g.gain.exponentialRampToValueAtTime(.001,ac.currentTime+.11);o.connect(g).connect(ac.destination);o.start();o.stop(ac.currentTime+.11);o.onended=()=>ac.close()}catch(_){}}
-function show(name,push=true){if(push)screens.push(name);document.querySelectorAll('.screen').forEach(e=>e.classList.toggle('active',e.id==='screen-'+name));renderStepper(name);if(name==='range')renderRange();if(name==='manual')renderManual();if(name==='confirm')renderConfirm();if(name==='play')renderPlay();if(name==='play'){menuMusic.pause();}else if(menuMusicStarted && !musicUserMuted){menuMusic.play().catch(()=>{});}window.scrollTo({top:0,behavior:'instant'});emit('game:navigate')}
+function sound(){
+  if(!soundOn)return;
+  try{
+    // Riusa il contesto della splash, senza crearne e chiuderne uno a ogni click.
+    const ac=getSplashAudioCtx();
+    if(!ac||ac.state!=='running')return;
+    const o=ac.createOscillator(),g=ac.createGain();
+    o.type='sine';
+    o.frequency.setValueAtTime(620,ac.currentTime);
+    o.frequency.exponentialRampToValueAtTime(390,ac.currentTime+.08);
+    g.gain.setValueAtTime(.028,ac.currentTime);
+    g.gain.exponentialRampToValueAtTime(.001,ac.currentTime+.11);
+    o.connect(g).connect(ac.destination);
+    o.start();o.stop(ac.currentTime+.11);
+    o.onended=()=>{o.disconnect();g.disconnect();};
+  }catch(err){logAudioSync('ui-sound-error',err&&err.message);}
+}
+function show(name,push=true){if(push)screens.push(name);document.querySelectorAll('.screen').forEach(e=>e.classList.toggle('active',e.id==='screen-'+name));renderStepper(name);if(name==='range')renderRange();if(name==='manual')renderManual();if(name==='confirm')renderConfirm();if(name==='play')renderPlay();if(name==='play'){menuMusic.pause();}else{playMenuMusicIfAllowed('show:'+name);}window.scrollTo({top:0,behavior:'instant'});emit('game:navigate')}
 function back(){if(screens.length>1){if(screens[screens.length-2]==='splash')return;screens.pop();show(path(),false)}else show('modes',false)}
 function home(){if(window.playTick)clearInterval(window.playTick);screens.length=0;screens.push('splash','modes');show('modes',false)}
 function computeFlowSteps(){
@@ -833,6 +955,7 @@ function renderConfirm(){const mode=state.mode==='libero'?'Gioco libero':'Remunt
 
 let splashAnimationBusy=false;
 let splashAnimationTimeout=null;
+let cancelPendingSplashAudio=null;
 let appReady=false;
 let splashStartPending=false;
 function markAppReady(){
@@ -852,6 +975,8 @@ function markAppReady(){
   else{window.addEventListener('load',armBuffer,{once:true});}
 })();
 function requestSplashStart(){
+  // Richiesta nel gesto utente: evita che lo sblocco dipenda da un vecchio touch/pointer.
+  unlockSplashAudioCtx();
   if(!appReady){splashStartPending=true;return;}
   startSplashAnimation();
 }
@@ -863,6 +988,7 @@ function startSplashAnimation(){
   const reduceMotion=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if(reduceMotion){
     show('modes');
+    splashTransitionComplete=true;
     startMenuMusic();
     splashAnimationBusy=false;
     return;
@@ -873,16 +999,9 @@ function startSplashAnimation(){
 
   logAudioSync('animation-class-added');
   requestAnimationFrame(function(){
-    const ctx=splashAudioCtx;
-    const baseTime=ctx?ctx.currentTime:null;
-    logAudioSync('rAF-baseTime',baseTime);
-    if(baseTime!==null&&splashAudioState==='ready'){
-      playBufferedSfx('scream',0.140,baseTime);
-      playBufferedSfx('swoosh',0.970,baseTime);
-    }else{
-      window.setTimeout(()=>{playSfx('scream');},140);
-      window.setTimeout(()=>{playSfx('swoosh');},970);
-    }
+    // L'ancora temporale viene creata una sola volta; se AudioContext e' ancora
+    // suspended, nessun buffer viene programmato su un clock fermo.
+    if(splash.classList.contains('animating'))cancelPendingSplashAudio=scheduleSplashAudio(splash);
   });
 
   let splashFinished=false;
@@ -890,7 +1009,9 @@ function startSplashAnimation(){
     if(splashFinished)return;
     splashFinished=true;
     if(splashAnimationTimeout){clearTimeout(splashAnimationTimeout);splashAnimationTimeout=null;}
+    if(cancelPendingSplashAudio){cancelPendingSplashAudio();cancelPendingSplashAudio=null;}
     show('modes');
+    splashTransitionComplete=true;
     startMenuMusic();
     splash.classList.remove('animating');
     splashAnimationBusy=false;
@@ -1087,7 +1208,7 @@ $('#range-start').onchange=validateRange;$('#range-end').onchange=validateRange;
   emit('game:start');
   playState.started=false;
   show('play');
-};document.getElementById('rp-shade').onclick=()=>closeSheet(true);document.getElementById('rp-close').onclick=()=>closeSheet(true);document.getElementById('rp-guess-form').addEventListener('submit',e=>{e.preventDefault();submitGuess();});document.querySelectorAll('[data-game-team]').forEach(btn=>btn.onclick=()=>{if(btn.classList.contains('locked'))return;playState.team=btn.dataset.gameTeam;updatePlayHud();renderPitch();});$('#replay').onclick=()=>{sound();home()};$('#back').onclick=()=>{sound();back()};$('#home').onclick=()=>{sound();home()};$('#sound').onclick=()=>{soundOn=!soundOn;$('#sound').style.opacity=soundOn?'1':'.5';$('#sound').setAttribute('aria-pressed',String(soundOn));$('#sound').setAttribute('aria-label',soundOn?'Disattiva effetti sonori':'Attiva effetti sonori');if(soundOn)sound()};$('#music-toggle').onclick=()=>{const playing=!menuMusic.paused;if(playing){menuMusic.pause();musicUserMuted=true;}else{menuMusic.play().catch(()=>{});musicUserMuted=false;}const nowPlaying=!playing;$('#music-toggle').style.opacity=nowPlaying?'1':'.5';$('#music-toggle').setAttribute('aria-pressed',String(nowPlaying));$('#music-toggle').setAttribute('aria-label',nowPlaying?'Disattiva musica':'Attiva musica')};document.getElementById('topbar-newmatch')?.addEventListener('click',()=>{sound();show('method')});document.addEventListener('keydown',e=>{if(e.key==='Escape'){back()}});
+};document.getElementById('rp-shade').onclick=()=>closeSheet(true);document.getElementById('rp-close').onclick=()=>closeSheet(true);document.getElementById('rp-guess-form').addEventListener('submit',e=>{e.preventDefault();submitGuess();});document.querySelectorAll('[data-game-team]').forEach(btn=>btn.onclick=()=>{if(btn.classList.contains('locked'))return;playState.team=btn.dataset.gameTeam;updatePlayHud();renderPitch();});$('#replay').onclick=()=>{sound();home()};$('#back').onclick=()=>{sound();back()};$('#home').onclick=()=>{sound();home()};$('#sound').onclick=()=>{soundOn=!soundOn;$('#sound').style.opacity=soundOn?'1':'.5';$('#sound').setAttribute('aria-pressed',String(soundOn));$('#sound').setAttribute('aria-label',soundOn?'Disattiva effetti sonori':'Attiva effetti sonori');if(soundOn)sound()};$('#music-toggle').onclick=()=>{const playing=!menuMusic.paused;if(playing){menuMusic.pause();musicUserMuted=true;}else{musicUserMuted=false;playMenuMusicIfAllowed('user-toggle');}const nowPlaying=!playing;$('#music-toggle').style.opacity=nowPlaying?'1':'.5';$('#music-toggle').setAttribute('aria-pressed',String(nowPlaying));$('#music-toggle').setAttribute('aria-label',nowPlaying?'Disattiva musica':'Attiva musica')};document.getElementById('topbar-newmatch')?.addEventListener('click',()=>{sound();show('method')});document.addEventListener('keydown',e=>{if(e.key==='Escape'){back()}});
 /* Ascolta game:start e collega qui il motore della tua app. Esempio:
 window.addEventListener('game:start',event=>console.log('Gioca:',event.detail));
 In Capacitor, Cordova o WebView il medesimo evento può attivare il passaggio al gioco nativo. */
