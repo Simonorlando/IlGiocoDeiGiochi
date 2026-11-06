@@ -1,23 +1,23 @@
 <!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png"><link rel="icon" href="icons/favicon-16.png" sizes="16x16" type="image/png"><link rel="apple-touch-icon" href="icons/apple-touch-icon.png"><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#118e3a"><title>Il Gioco dei Giochi — Broadcast moderno scuro</title><style>
 :root{--forest:#103e17;--cream:#fff6dc;--gold:#ffc928;--outline:#18321b;--field:#0b9638;--shadow:0 9px 0 rgba(0,46,18,.23),0 15px 22px rgba(0,34,17,.22)}
-*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Arial Rounded MT Bold",Arial,sans-serif}body{background:#112a19;display:flex;justify-content:center;color:var(--forest)}button{font:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible{outline:4px solid #fff;outline-offset:4px}.game{position:relative;isolation:isolate;overflow:hidden;width:min(100%,480px);min-height:100svh;background:repeating-linear-gradient(105deg,#14a841 0 78px,#0d9434 78px 156px);box-shadow:0 0 50px #0005}.game::after{content:"";position:absolute;inset:28% 0 0;pointer-events:none;z-index:-1;background:linear-gradient(180deg,transparent 70%,#004e2040)}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:system-ui,-apple-system,"Arial Rounded MT Bold",Arial,sans-serif}body{background:#112a19;display:flex;justify-content:center;color:var(--forest)}button{font:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}button:focus-visible{outline:4px solid #fff;outline-offset:4px}.game{position:relative;isolation:isolate;overflow:hidden;width:min(100%,480px);height:100svh;display:flex;flex-direction:column;background:repeating-linear-gradient(105deg,#14a841 0 78px,#0d9434 78px 156px);box-shadow:0 0 50px #0005;opacity:0;visibility:hidden;transition:opacity .35s ease}.game.app-ready{opacity:1;visibility:visible}.game::after{content:"";position:absolute;inset:28% 0 0;pointer-events:none;z-index:-1;background:linear-gradient(180deg,transparent 70%,#004e2040)}
 .stadium{position:absolute;inset:0 0 auto;height:31%;min-height:195px;max-height:278px;background:linear-gradient(180deg,#279fd5 0%,#68c5e1 58%,#92d7c0 84%,#48ad5e 100%);z-index:-1;overflow:hidden}.cloud{position:absolute;width:122px;height:25px;background:#ffe7cb;border-radius:50%;top:28%;left:5%;filter:drop-shadow(0 1px #fff7)}.cloud:before{content:"";position:absolute;width:50px;height:42px;border-radius:50%;background:inherit;left:16px;bottom:0}.cloud:after{content:"";position:absolute;width:64px;height:35px;border-radius:50%;background:inherit;left:52px;bottom:0}.cloud.right{left:auto;right:0;top:38%;transform:scale(.74)}.skyline{position:absolute;bottom:24%;height:30%;width:100%;background:linear-gradient(90deg,transparent 0 4%,#328baa 4% 13%,transparent 13% 23%,#2e86a9 23% 33%,transparent 33% 54%,#2784a6 54% 62%,transparent 62% 74%,#3e90ad 74% 83%,transparent 83% 90%,#308cab 90%);opacity:.7}.stands{position:absolute;bottom:0;height:28%;width:100%;background:repeating-linear-gradient(180deg,#2f7890 0 5px,#205c77 5px 8px,#357d92 8px 12px);border-top:6px solid #4b9b79;transform:skewY(-1deg)}.flood{position:absolute;top:43%;width:5px;height:45%;background:#4b6d69}.flood.left{left:18%}.flood.right{right:18%}.flood:before{content:"";position:absolute;bottom:88%;left:-27px;width:60px;height:40px;transform:skewY(4deg);border:3px solid #5b6660;background:repeating-linear-gradient(90deg,#fff3bc 0 7px,#d7bd79 7px 9px);box-shadow:0 0 20px #fff8ae8c}.topbar{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:calc(env(safe-area-inset-top,0px) + 17px) 18px 0}.controls{display:flex;gap:10px}.icon-btn{display:grid;place-items:center;width:45px;height:45px;padding:9px;border:2.5px solid #1b271c;border-radius:14px;background:var(--cream);box-shadow:0 4px 0 #1c3323,0 7px 8px #0003;transition:transform .12s,box-shadow .12s}.icon-btn:active{transform:translateY(3px);box-shadow:0 1px 0 #1c3323}.icon-btn svg{width:100%;height:100%;fill:none;stroke:#19281c;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round}.hero{padding:clamp(56px,10vh,108px) 18px 8px;text-align:center}.mini-ball{margin:0 auto -10px;position:relative;z-index:1;display:block;width:71px;height:71px;object-fit:contain;filter:drop-shadow(0 6px 4px #002b1b55)}.eyebrow{display:inline-block;position:relative;padding:13px 21px 11px;max-width:100%;border:3px solid #182c17;border-radius:999px;background:var(--cream);box-shadow:0 6px 0 #1c652c65,0 12px 17px #002e1945;font-weight:1000;font-size:clamp(22px,6.2vw,30px);letter-spacing:-1.1px;line-height:1.12;text-shadow:0 1px #fff}.subhead{margin:18px auto 0;max-width:340px;color:#fffdf1;font-weight:750;font-size:13px;text-shadow:0 2px 4px #00451d,1px 1px #005629}
 .modes{display:grid;gap:22px;padding:clamp(29px,6vh,60px) 22px 45px}.mode{position:relative;display:flex;align-items:center;text-align:left;gap:15px;width:100%;min-height:155px;padding:22px 17px;border:3px solid #1b301c;border-radius:28px;background:linear-gradient(155deg,#fffbe9,#f7e8c4);box-shadow:var(--shadow);transition:transform .15s,filter .15s,box-shadow .15s}.mode:hover{filter:brightness(1.04);transform:translateY(-2px)}.mode:active{transform:translateY(5px);box-shadow:0 3px 0 #144d2b77}.mode.featured{border-color:#d89913;outline:3px solid #ffdd37;outline-offset:-9px;background:linear-gradient(160deg,#fff7d2,#ffeba6)}.mode-icon{flex:0 0 87px;width:87px;height:92px;display:grid;place-items:center;border-right:2px solid #9c9c6966;padding-right:11px}.mode-icon svg{height:83px;width:83px;overflow:visible;filter:drop-shadow(2px 4px 1px #0003)}.mode-content{flex:1;min-width:0}.mode-title{color:#101010;display:block;font-size:clamp(22px,6vw,30px);font-weight:1000;line-height:1.05;letter-spacing:-.9px}.mode-desc{color:#101010;display:block;margin-top:12px;font-weight:580;line-height:1.4;font-size:clamp(12px,3.55vw,15px)}.chevron{flex:0 0 13px;width:13px;height:24px;stroke:#1e3c24;stroke-width:5;fill:none;stroke-linecap:round;stroke-linejoin:round}
 .field-line{position:absolute;left:50%;bottom:-84px;transform:translateX(-50%);width:260px;height:150px;border:5px solid #dff6c280;border-radius:50%;z-index:-1;pointer-events:none}.footer-tip{text-align:center;font-size:12px;font-weight:650;color:#e1f8d5;margin:0;padding:0 20px calc(18px + env(safe-area-inset-bottom,0px));text-shadow:0 2px 4px #005020}
 .dialog-backdrop{position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:#001c12a8;padding:20px;z-index:20}.dialog-backdrop[aria-hidden="false"]{display:flex}.dialog{background:var(--cream);max-width:390px;width:100%;border:4px solid #173a1b;border-radius:24px;padding:26px;box-shadow:0 14px 0 #0a341f,0 20px 50px #0008;text-align:center}.dialog h2{font-size:27px;margin:0 0 10px}.dialog p{line-height:1.5}.dialog button{background:#f9c52a;border:3px solid #173a1b;border-radius:15px;padding:11px 22px;font-weight:900;box-shadow:0 4px 0 #997d17}.status{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
 @media(max-height:720px){.stadium{height:28%;min-height:160px}.hero{padding-top:35px}.mini-ball{width:56px;height:56px}.modes{padding-top:25px;gap:18px}.mode{min-height:130px;padding:15px}.mode-icon{flex-basis:75px;width:75px;height:75px}.mode-icon svg{width:70px;height:70px}}
-@media(min-width:481px){body{padding:24px}.game{border:7px solid #122c17;border-radius:32px;min-height:calc(100svh - 48px)}.dialog-backdrop{z-index:10}}
+@media(min-width:481px){body{padding:24px}.game{border:7px solid #122c17;border-radius:32px;height:calc(100svh - 48px)}.dialog-backdrop{z-index:10}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important}}
 
 /* Flusso multipagina: primo menu originale, schermate successive compatte */
-.game{min-height:100svh}.topbar{position:relative;z-index:3}.screen{display:none}.screen.active{display:block;animation:slideIn .18s ease-out}@keyframes slideIn{from{opacity:.5;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+.game{min-height:100svh}.topbar{position:relative;z-index:3}.screen{display:none}.screen.active{display:flex;flex-direction:column;flex:1 1 auto;min-height:0;animation:slideIn .18s ease-out}@keyframes slideIn{from{opacity:.5;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
 .game:has(.screen:not(.first).active) .stadium{height:180px;min-height:0;opacity:.85;mask-image:linear-gradient(#000 0%,transparent 100%)}
-.stage{padding:42px 20px 34px;min-height:calc(100svh - 90px);display:flex;flex-direction:column;gap:18px}
+.stage{padding:42px 20px 34px;height:100%;overflow-y:auto;display:flex;flex-direction:column;gap:18px}
 .stage-title{margin:12px auto 0;text-align:center;color:var(--cream);font-size:clamp(25px,6.5vw,35px);font-weight:1000;line-height:1.13;text-shadow:0 3px 0 #134727,0 5px 9px #00371a70;max-width:420px}.stage-sub{margin:0 auto 8px;text-align:center;color:#f5ffec;font-size:13px;font-weight:680;line-height:1.45;max-width:330px;text-shadow:0 2px 3px #063820}.stepper{display:flex;justify-content:center;gap:6px;padding-top:8px}.stepper i{height:6px;width:27px;background:#d7ebca8c;border-radius:9px}.stepper i.on{background:#ffdb48;box-shadow:0 2px 0 #85661c}.step-label{display:block;text-align:center;font-size:11px;letter-spacing:.12em;font-weight:900;color:#ddf9cc;text-transform:uppercase;margin-top:-9px}
 .choice-grid{display:grid;gap:14px;margin-top:8px}.choice{display:flex;align-items:center;gap:13px;width:100%;min-height:108px;padding:16px;border:3px solid #1b301c;border-radius:24px;background:linear-gradient(160deg,#fff9e5,#f5e8c9);color:#101910;text-align:left;box-shadow:var(--shadow);transition:transform .12s}.choice:active{transform:translateY(4px)}.choice.selected{outline:3px solid #ffcf32;outline-offset:-7px;background:linear-gradient(135deg,#fff5c9,#ffe3a0)}.choice.art{min-height:142px}.choice-icon{display:grid;place-items:center;flex:0 0 65px;height:68px;border-right:2px solid #b9a57477;padding-right:9px;font-size:42px;line-height:1}.choice-icon svg{height:64px;width:64px;overflow:visible}.choice-body{flex:1;min-width:0}.choice-title{display:block;font-size:clamp(20px,5.4vw,26px);font-weight:1000;letter-spacing:-.6px;line-height:1.08;color:#162819}.choice-desc{display:block;margin-top:8px;font-size:clamp(12px,3.5vw,14px);font-weight:600;line-height:1.35;color:#344631}.choice-arrow{font-size:29px;color:#21432b;font-weight:900}.choice-time{margin-top:7px;display:inline-block;background:#194f29;color:#fffbe8;padding:5px 9px;border-radius:9px;font-weight:900;font-size:12px}
 .panel{background:linear-gradient(165deg,#fffbed,#f9eccf);border:3px solid #19361d;border-radius:23px;box-shadow:var(--shadow);padding:18px;color:#17291a}.panel h3{font-size:19px;margin:0 0 13px;font-weight:950}.panel p{margin:7px 0;line-height:1.45;color:#475246;font-weight:600}.panel label{display:block;font-size:13px;font-weight:900;margin:0 0 8px}.panel select{appearance:none;width:100%;min-height:49px;padding:10px 37px 10px 13px;border-radius:13px;border:2px solid #537154;background:#fffdf4;color:#142f1d;font-size:16px;font-weight:750;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%23162c1d' stroke-width='3' viewBox='0 0 24 24'%3E%3Cpath d='m5 9 7 7 7-7'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 11px center}.panel select:focus-visible{outline:3px solid #daa41f}.form-row{display:grid;grid-template-columns:1fr 1fr;gap:13px}.form-full{grid-column:1/-1}.primary{min-height:59px;width:100%;border:3px solid #183522;background:linear-gradient(#ffe28b,#ffc829);box-shadow:0 5px 0 #b6841e,0 8px 8px #0003;color:#18371d;border-radius:19px;font-size:20px;font-weight:1000}.primary:active{transform:translateY(4px);box-shadow:0 1px 0 #b6841e}.primary:disabled{opacity:.46;filter:grayscale(.8);cursor:not-allowed}.small-back{margin:4px auto 0;display:block;color:#fff9e9;background:#12492bc2;border:1px solid #c4e9a7aa;border-radius:999px;padding:10px 20px;font-weight:750;font-size:14px}.secondary-action{margin:10px auto 0;display:block;width:100%;min-height:46px;border:2px solid #19281c;background:#fff4dc;color:#19281c;border-radius:15px;font-weight:800;font-size:15px;box-shadow:0 3px 0 #0e1f16}.summary{background:#134427c9;border:2px solid #a8d77e9e;border-radius:18px;padding:12px 15px;color:#f4ffe8;font-size:13px;line-height:1.6;font-weight:700}.summary strong{display:block;font-size:15px;color:#ffe37e}.fixture-list{display:grid;gap:8px;max-height:42vh;overflow:auto;padding:2px 4px 8px 2px;scrollbar-width:thin}.fixture{background:#fffdf4;border:2px solid #bcc79e;border-radius:13px;color:#18321b;font-weight:800;padding:13px 10px;text-align:center;min-height:50px}.fixture[aria-pressed="true"]{border-color:#daa91d;background:#ffeeb5;box-shadow:inset 0 0 0 2px #ffca24}.fixture-divider{display:flex;align-items:center;gap:8px;margin:10px 2px 4px;font-size:11px;font-weight:800;letter-spacing:.6px;color:#5a7262;text-transform:uppercase}.fixture-divider::after{content:'';flex:1;height:1px;background:rgba(20,40,25,.2)}.fixture-note{font-size:12px;line-height:1.45;color:#50614d}.demo-tag{font-size:11px;font-weight:850;color:#496048;letter-spacing:.035em}.confirm-box{text-align:center;background:linear-gradient(145deg,#fffae6,#ffe8b1);border:4px solid #183719;border-radius:28px;padding:24px 20px;box-shadow:var(--shadow);color:#19351d}.confirm-icon{font-size:57px}.confirm-box h2{font-size:27px;margin:14px 0 8px}.confirm-box p{font-weight:700;line-height:1.5}.confirm-meta{margin:15px 0;padding:12px;background:#f9edc8;border-radius:13px;font-size:14px;line-height:1.7}.spacer{flex:1;min-height:7px}
-@media(min-width:481px){.stage{min-height:calc(100svh - 150px)}}@media(max-height:720px){.stage{padding-top:19px;gap:12px}.stage-title{margin-top:2px}.choice{min-height:89px;padding:12px}.choice.art{min-height:110px}.choice-grid{gap:10px}}
-#screen-match-difficulty .choice.art{min-height:92px;padding:11px 14px}#screen-match-difficulty .choice-icon{flex:0 0 52px;height:54px;font-size:30px}#screen-match-difficulty .choice-grid{gap:9px}
+@media(min-width:481px){.stage{min-height:calc(100svh - 150px)}}@media(max-height:720px){.stage{padding-top:19px;gap:12px}.stage-title{margin-top:2px}.choice{min-height:89px;padding:12px}.choice.art{min-height:110px}.choice-grid{gap:10px}}#screen-difficulty .choice.art{min-height:98px;padding:9px 14px}#screen-difficulty .choice-grid{gap:7px}
+#screen-match-difficulty .choice.art{min-height:78px;padding:9px 14px}#screen-match-difficulty .choice-icon{flex:0 0 46px;height:48px;font-size:26px}#screen-match-difficulty .choice-grid{gap:7px}
 
 /* Scelta manuale: barra di conferma sempre visibile e lista scorrevole */
 .manual-stage{padding-top:16px;gap:11px;padding-bottom:calc(156px + env(safe-area-inset-bottom,0px))}
@@ -297,8 +297,8 @@
 }
 
 
-#screen-play .rp-wrap{display:block}
-#screen-play .rp-head{padding:9px 12px 0}
+#screen-play .rp-wrap{display:flex;flex-direction:column;flex:1 1 auto;min-height:0}
+#screen-play .rp-head{padding:9px 12px 0;flex:0 0 auto}
 #screen-play .rp-meta{display:flex;align-items:center;justify-content:space-between;gap:6px;color:#b9cbc2;font-size:10px;font-weight:750;letter-spacing:.45px;margin:0 3px 6px;min-height:23px}
 #screen-play .rp-meta b{font-weight:800;color:#fff}#screen-play #rp-competition{color:#fff;font-weight:800}#screen-play #rp-date{color:#fff;font-weight:600;flex-shrink:0}
 #screen-play .rp-meta>span:first-child{min-width:0;white-space:nowrap;font-size:clamp(9px,2.45vw,10px)}
@@ -309,7 +309,7 @@
 #screen-play .rp-bar{height:34px;display:grid;grid-template-columns:67px minmax(0,1fr) 44px minmax(0,1fr) 67px;align-items:stretch;overflow:hidden;border:1px solid #70867a;border-radius:6px;background:#182b24;box-shadow:0 2px 8px #0004}#screen-play .rp-subline{position:relative}#screen-play .rp-subline>.rp-resource{position:absolute;top:50%;color:#c0d4c9}#screen-play .rp-subline>.rp-resource.rp-resource-left{left:calc(50% - 22px);transform:translate(-100%,-50%)}#screen-play .rp-subline>.rp-resource.rp-resource-right{left:calc(50% + 22px);transform:translate(0,-50%)}
 #screen-play .rp-balance{display:flex;align-items:center;justify-content:center;padding:1px 3px;overflow:hidden;background:#233c32;border-right:1px solid #566a5f}
 #screen-play .rp-badge{display:flex;justify-content:center;align-items:center;background:transparent;padding:0;color:#e7f8ec;font-size:11px;font-weight:850;white-space:nowrap;letter-spacing:0;font-variant-numeric:tabular-nums}
-#screen-play .rp-team{border:0;border-radius:0;box-shadow:none;min-width:0;min-height:0;height:100%;padding:0 3px;display:flex;justify-content:center;align-items:center;gap:4px;background:#2a4037;color:#e4efea;font-size:11px;font-weight:800;letter-spacing:.15px;margin:0;transition:background .15s,filter .15s;cursor:pointer}
+#screen-play .rp-team{border:0;border-radius:0;box-shadow:none;min-width:0;min-height:0;height:100%;padding:0 3px;display:flex;justify-content:center;align-items:center;gap:4px;background:#2a4037;color:#e4efea;font-size:8.5px;font-weight:800;letter-spacing:.15px;margin:0;transition:background .15s,filter .15s;cursor:pointer}#screen-play .rp-team{overflow:hidden}#screen-play #rp-team-home-label,#screen-play #rp-team-away-label{min-width:0;flex:1 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 #screen-play .rp-team:active{transform:none;filter:brightness(1.1)}
 #screen-play .rp-team.active{background:#dce6e0;color:#142c22;box-shadow:inset 0 -2px #7ec4a0}
 #screen-play .rp-team[data-game-team="home"].active{box-shadow:inset 0 -2px var(--team-home-color,#b5324c)}
@@ -323,7 +323,7 @@
 #screen-play .rp-subline{display:flex;align-items:center;justify-content:space-between;gap:6px;min-width:0;margin:7px 2px 0;font-size:10px;color:#c0d4c9;font-weight:600}
 #screen-play .rp-subline span{overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 #screen-play .rp-subline span:last-child{max-width:38%}#screen-play #rp-coach{max-width:clamp(64px,28vw,140px)}
-#screen-play .rp-pitch-wrap{position:relative;min-height:460px;margin:5px 14px calc(12px + env(safe-area-inset-bottom,0px)) 14px;padding:4px;border-radius:9px;background:#0c251b;border:1px solid #8abca05e;box-shadow:0 8px 19px #0007}
+#screen-play .rp-pitch-wrap{position:relative;flex:1 1 auto;min-height:460px;margin:5px 14px calc(12px + env(safe-area-inset-bottom,0px)) 14px;padding:4px;border-radius:9px;background:#0c251b;border:1px solid #8abca05e;box-shadow:0 8px 19px #0007}
 #screen-play .rp-pitch{height:100%;width:100%;min-height:456px;position:relative;overflow:hidden;border:2px solid #e4f4e0;border-radius:6px;background:repeating-linear-gradient(0deg,#238549 0 52px,#1c7a41 52px 104px)}
 #screen-play .rp-pitch-line{position:absolute;pointer-events:none;border-style:solid;border-width:1.6px;border-color:#eff7ed9f;left:5%;right:5%;top:2%;bottom:2%}
 #screen-play .rp-midline{position:absolute;left:5%;right:5%;top:50%;height:1.5px;background:#eff7ed9f}
@@ -386,7 +386,7 @@
 @media(max-height:700px){#screen-play .rp-sheet{max-height:92dvh}#screen-play .rp-clue{min-height:58px;padding:8px}}
 @media(max-height:710px){#screen-play .rp-head{padding-top:5px}#screen-play .rp-meta{margin-bottom:4px}#screen-play .rp-subline{margin-top:4px}#screen-play .rp-pitch-wrap{margin-top:4px}}
 @media(max-width:390px){#screen-play .rp-pitch-wrap{min-height:420px}#screen-play .rp-pitch{min-height:416px}}
-@media(max-width:360px){#screen-play .rp-bar{grid-template-columns:60px minmax(0,1fr) 40px minmax(0,1fr) 60px}#screen-play .rp-clock{font-size:12px}#screen-play .rp-clock.timer-warning{color:#f0c04a}#screen-play .rp-clock.timer-danger{color:#ff6b6b}#screen-play .rp-clock.timer-blink{animation:rp-timer-pulse 1s ease-in-out infinite}@keyframes rp-timer-pulse{0%,100%{opacity:1}50%{opacity:.45}}#screen-play .rp-team{font-size:10px;gap:3px}#screen-play .rp-resources{gap:6px}#screen-play .rp-icon{width:13px;height:13px;flex:0 0 13px}#screen-play .rp-resource strong{font-size:11px}}
+@media(max-width:360px){#screen-play .rp-bar{grid-template-columns:60px minmax(0,1fr) 40px minmax(0,1fr) 60px}#screen-play .rp-clock{font-size:12px}#screen-play .rp-clock.timer-warning{color:#f0c04a}#screen-play .rp-clock.timer-danger{color:#ff6b6b}#screen-play .rp-clock.timer-blink{animation:rp-timer-pulse 1s ease-in-out infinite}@keyframes rp-timer-pulse{0%,100%{opacity:1}50%{opacity:.45}}#screen-play .rp-team{font-size:9px;gap:3px}#screen-play #rp-team-home-label,#screen-play #rp-team-away-label{letter-spacing:0}#screen-play .rp-resources{gap:6px}#screen-play .rp-icon{width:13px;height:13px;flex:0 0 13px}#screen-play .rp-resource strong{font-size:11px}}
 @media(min-width:430px){#screen-play .rp-pitch-wrap{min-height:560px}#screen-play .rp-pitch{min-height:556px}}
 @media(min-width:481px){#screen-play .rp-sheet{border-radius:18px 18px 15px 15px}}
 .mode-wrap{position:relative}
@@ -454,6 +454,96 @@ function preloadSfx(name,url){
   sfxCache[name]=audio;
 }
 Object.keys(SFX_FILES).forEach(name=>preloadSfx(name,SFX_FILES[name]));
+
+const DEBUG_AUDIO_SYNC=false;
+function logAudioSync(){if(DEBUG_AUDIO_SYNC)console.log.apply(console,['[audio-sync]',Math.round(performance.now())].concat([].slice.call(arguments)));}
+
+let splashAudioCtx=null;
+let splashAudioState='loading';
+const splashAudioBuffers={};
+const splashAudioOnsets={};
+let splashAudioReadyPromise=null;
+
+function detectOnsetSeconds(buffer,thresholdDb){
+  const threshold=Math.pow(10,thresholdDb/20);
+  const ch0=buffer.getChannelData(0);
+  for(let i=0;i<ch0.length;i++){
+    if(Math.abs(ch0[i])>=threshold)return i/buffer.sampleRate;
+  }
+  return 0;
+}
+
+function base64ToArrayBuffer(base64){
+  const binary=atob(base64);
+  const bytes=new Uint8Array(binary.length);
+  for(let i=0;i<binary.length;i++)bytes[i]=binary.charCodeAt(i);
+  return bytes.buffer;
+}
+function dataUriToArrayBuffer(dataUri){
+  const comma=dataUri.indexOf(',');
+  return base64ToArrayBuffer(dataUri.slice(comma+1));
+}
+function getSplashAudioCtx(){
+  if(splashAudioCtx)return splashAudioCtx;
+  try{
+    const Ctor=window.AudioContext||window.webkitAudioContext;
+    if(Ctor)splashAudioCtx=new Ctor();
+  }catch(_){splashAudioCtx=null;}
+  return splashAudioCtx;
+}
+function decodeSplashSfx(){
+  if(splashAudioReadyPromise)return splashAudioReadyPromise;
+  const ctx=getSplashAudioCtx();
+  if(!ctx){splashAudioState='error';splashAudioReadyPromise=Promise.resolve(false);return splashAudioReadyPromise;}
+  const names=['scream','swoosh'];
+  splashAudioReadyPromise=Promise.all(names.map(function(name){
+    return ctx.decodeAudioData(dataUriToArrayBuffer(SFX_FILES[name])).then(function(buf){
+      splashAudioBuffers[name]=buf;
+      splashAudioOnsets[name]=detectOnsetSeconds(buf,-35);
+      logAudioSync('decoded',name,'duration',buf.duration.toFixed(3),'onset',splashAudioOnsets[name].toFixed(3));
+    }).catch(function(err){
+      logAudioSync('decode-failed',name,err&&err.message);
+    });
+  })).then(function(){
+    const ok=names.every(function(n){return !!splashAudioBuffers[n];});
+    splashAudioState=ok?'ready':'error';
+    logAudioSync('splashAudioState',splashAudioState);
+    return ok;
+  });
+  return splashAudioReadyPromise;
+}
+decodeSplashSfx();
+
+let splashAudioUnlockStarted=false;
+function unlockSplashAudioCtx(){
+  if(splashAudioUnlockStarted)return;
+  splashAudioUnlockStarted=true;
+  const ctx=getSplashAudioCtx();
+  if(!ctx)return;
+  if(ctx.state==='suspended'){
+    ctx.resume().then(function(){logAudioSync('ctx-resumed',ctx.state);}).catch(function(err){logAudioSync('ctx-resume-failed',err&&err.message);});
+  }
+}
+document.addEventListener('pointerdown',unlockSplashAudioCtx,{once:true});
+document.addEventListener('touchstart',unlockSplashAudioCtx,{once:true});
+document.addEventListener('click',unlockSplashAudioCtx,{once:true});
+
+function playBufferedSfx(name,whenOffsetSeconds,baseTime){
+  if(!soundOn)return;
+  const ctx=splashAudioCtx;
+  const buffer=splashAudioBuffers[name];
+  if(!ctx||!buffer||splashAudioState!=='ready'){logAudioSync('fallback-playSfx',name);playSfx(name);return;}
+  try{
+    const src=ctx.createBufferSource();
+    src.buffer=buffer;
+    src.connect(ctx.destination);
+    const onset=splashAudioOnsets[name]||0;
+    const when=Math.max(ctx.currentTime,baseTime+whenOffsetSeconds);
+    src.start(when,onset);
+    logAudioSync('scheduled',name,'at',when.toFixed(3),'bufferOffset',onset.toFixed(3),'ctxNow',ctx.currentTime.toFixed(3));
+  }catch(err){logAudioSync('schedule-failed',name,err&&err.message);playSfx(name);}
+}
+
 let audioUnlocked=false;
 function unlockAudio(){
   if(audioUnlocked)return;
@@ -743,6 +833,28 @@ function renderConfirm(){const mode=state.mode==='libero'?'Gioco libero':'Remunt
 
 let splashAnimationBusy=false;
 let splashAnimationTimeout=null;
+let appReady=false;
+let splashStartPending=false;
+function markAppReady(){
+  if(appReady)return;
+  appReady=true;
+  document.getElementById('game')?.classList.add('app-ready');
+  if(splashStartPending){splashStartPending=false;startSplashAnimation();}
+}
+(function waitForAppReady(){
+  const READY_BUFFER_MS=350;
+  function armBuffer(){
+    window.setTimeout(function(){
+      decodeSplashSfx().finally(markAppReady);
+    },READY_BUFFER_MS);
+  }
+  if(document.readyState==='complete'){armBuffer();}
+  else{window.addEventListener('load',armBuffer,{once:true});}
+})();
+function requestSplashStart(){
+  if(!appReady){splashStartPending=true;return;}
+  startSplashAnimation();
+}
 function startSplashAnimation(){
   if(splashAnimationBusy)return;
   const splash=document.getElementById('screen-splash');
@@ -759,16 +871,33 @@ function startSplashAnimation(){
   void splash.offsetWidth;
   splash.classList.add('animating');
 
-  window.setTimeout(()=>{playSfx('scream');},140);
-  window.setTimeout(()=>{playSfx('swoosh');},970);
+  logAudioSync('animation-class-added');
+  requestAnimationFrame(function(){
+    const ctx=splashAudioCtx;
+    const baseTime=ctx?ctx.currentTime:null;
+    logAudioSync('rAF-baseTime',baseTime);
+    if(baseTime!==null&&splashAudioState==='ready'){
+      playBufferedSfx('scream',0.140,baseTime);
+      playBufferedSfx('swoosh',0.970,baseTime);
+    }else{
+      window.setTimeout(()=>{playSfx('scream');},140);
+      window.setTimeout(()=>{playSfx('swoosh');},970);
+    }
+  });
 
-  splashAnimationTimeout=window.setTimeout(()=>{
+  let splashFinished=false;
+  function finishSplash(){
+    if(splashFinished)return;
+    splashFinished=true;
+    if(splashAnimationTimeout){clearTimeout(splashAnimationTimeout);splashAnimationTimeout=null;}
     show('modes');
     startMenuMusic();
     splash.classList.remove('animating');
     splashAnimationBusy=false;
-    splashAnimationTimeout=null;
-  },1120);
+  }
+  const wipe=splash.querySelector('.splash-transition-wipe');
+  if(wipe)wipe.addEventListener('animationend',finishSplash,{once:true});
+  splashAnimationTimeout=window.setTimeout(finishSplash,1400);
 }
 
 let PLAYER_DATA={"home": [["Alisson Becker","G","Brasile","1","1992","S.C. Internacional · AS Roma · Liverpool F.C.",50.0,6.36,280],["Aleksandar Kolarov","D","Serbia","11","1985","FK Čukarički · OFK Beograd · SS Lazio · Manchester City F.C. · AS Roma · Inter Milan",81.0,27.5,771],["Kostas Manolas","D","Grecia","44","1991","PAO Thrasyvoulos Fylis · AEK Athens · Olympiacos FC · Olympiakos Piraeus · AS Roma · SSC Napoli · Olympiacos FC · Al-Sharjah · US Salernitana 1919 · AO Pannaxiakos",39.67,27.5,772],["Bruno Peres","D","Brasile","25","1990","Audax São Paulo Esporte Clube · Red Bull Bragantino · Guarani Futebol Clube · Santos F.C. · AS Roma · São Paulo FC · Torino",19.0,27.5,9948],["Juan Jesus","D","Brasile","5","1991","S.C. Internacional · Inter Milan · AS Roma · Napoli",60.33,27.5,774],["Daniele De Rossi","M","Italia","16","1983","AS Roma · Boca Juniors",29.33,48.64,779],["Radja Nainggolan","M","Belgio","4","1988","Piacenza Calcio · Cagliari Calcio · Cagliari Calcio · AS Roma · AS Roma · Inter Milan · Cagliari Calcio · Cagliari Calcio · Royal Antwerp F.C. · SPAL · Bhayangkara F.C. · Stallions",50.0,69.77,205],["Alessandro Florenzi","D","Italia","24","1991","AS Roma · F.C. Crotone · Valencia CF · Paris Saint-Germain FC · AC Milan · AC Milan",22.44,69.77,769],["Lorenzo Pellegrini","M","Italia","7","1996","AS Roma · US Sassuolo Calcio · AS Roma",70.67,48.64,782],["Edin Džeko","F","Bosnia ed Erzegovina","9","1986","FK Željezničar Sarajevo · FK Teplice · FK Ústí nad Labem · VfL Wolfsburg · Manchester City F.C. · AS Roma · AS Roma · Inter Milan · Fenerbahçe Istanbul · ACF Fiorentina · Schalke 04",50.0,90.91,790],["Diego Perotti","F","Argentina","8","1988","Club Deportivo Morón · Sevilla Atlético · Sevilla FC · Boca Juniors · Genoa CFC · AS Roma · Salernitana",77.56,69.77,793]], "away": [["Pepe Reina","G","Spagna","25","1982","FC Barcelona C · FC Barcelona Atlètic · FC Barcelona · Villarreal CF · Liverpool F.C. · SSC Napoli · FC Bayern Munich · SSC Napoli · AC Milan · Aston Villa F.C. · SS Lazio · Villarreal CF · Como 1907",50.0,6.36,1624],["Raúl Albiol","D","Spagna","33","1985","Valencia CF Mestalla · Getafe CF · Valencia CF · Real Madrid Club de Fútbol · SSC Napoli · Villarreal CF · Pisa SC",39.67,34.55,314],["Kalidou Koulibaly","D","Senegal","26","1991","FC Metz · K.R.C. Genk · SSC Napoli · Chelsea F.C. · Al Hilal SFC",60.33,34.55,318],["Elseid Hisaj","D","Albania","23","1994","Empoli FC · SSC Napoli · SS Lazio",19.0,34.55,317],["Faouzi Ghoulam","D","Algeria","31","1991","AS Saint-Étienne · SSC Napoli",81.0,34.55,316],["Marek Hamšík","M","Slovacchia","17","1987","ŠK Slovan Bratislava · Brescia Calcio · SSC Napoli · Dalian Professional F.C. · IFK Göteborg · Trabzonspor",77.56,62.73,12994],["Allan","M","Brasile","5","1991","CR Vasco da Gama · Deportivo Maldonado · Udinese Calcio · SSC Napoli · Everton F.C.",22.44,62.73,326],["Jorginho","M","Italia","8","1991","Hellas Verona FC · A.C. Sambonifacese · SSC Napoli · Chelsea F.C. · Arsenal F.C. · Clube de Regatas do Flamengo",50.0,62.73,2289],["Dries Mertens","F","Belgio","14","1987","KAA Gent · SC Eendracht Aalst · AGOVV Apeldoorn · FC Utrecht · PSV Eindhoven · SSC Napoli · Galatasaray S.K.",50.0,90.91,332],["José Callejón","F","Spagna","7","1987","Real Madrid C · Real Madrid Castilla · RCD Espanyol de Barcelona · Real Madrid Club de Fútbol · SSC Napoli · ACF Fiorentina · Granada CF · UD Marbella",22.44,90.91,330],["Lorenzo Insigne","F","Italia","24","1991","SSC Napoli · Calcio Foggia 1920 · Cavese 1919 · Delfino Pescara 1936 · Toronto FC · Delfino Pescara 1936 · U.C. Sampdoria",77.56,90.91,331]]};
@@ -865,8 +994,10 @@ function updatePlayHud(){
     document.getElementById('rp-result').innerHTML=state.liveMatch.homeScore+'<span>–</span>'+state.liveMatch.awayScore;
   }
   if(state.teamInfo){
-    document.getElementById('rp-team-home-label').textContent=(state.teamInfo.home.name||'').toUpperCase();
-    document.getElementById('rp-team-away-label').textContent=(state.teamInfo.away.name||'').toUpperCase();
+    const RP_TEAM_SHORT_NAMES={'Hellas Verona':'H. Verona'};
+    function rpTeamShortLabel(name){return (RP_TEAM_SHORT_NAMES[name]||name||'').toUpperCase();}
+    document.getElementById('rp-team-home-label').textContent=rpTeamShortLabel(state.teamInfo.home.name);
+    document.getElementById('rp-team-away-label').textContent=rpTeamShortLabel(state.teamInfo.away.name);
     document.documentElement.style.setProperty('--team-home-color',state.teamInfo.home.color||'#ac2e4e');
     document.documentElement.style.setProperty('--team-away-color',state.teamInfo.away.color||'#257ca5');
     document.documentElement.style.setProperty('--team-home-text',state.teamInfo.home.textColor||'#fff');
@@ -943,7 +1074,7 @@ function setupGuessSuggestions(){
 }
 setupGuessSuggestions();function formatElapsed(ms){const s=Math.floor(ms/1000);const m=Math.floor(s/60);const r=s%60;return String(m).padStart(2,'0')+':'+String(r).padStart(2,'0');}function showMatchComplete(won){if(playState.matchComplete)return;playState.matchComplete=true;if(window.playTick)clearInterval(window.playTick);const isRem=state.mode==='remuntada';const hintsUsed=Object.values(playState.usedHints).filter(Boolean).length;const failed=Object.values(playState.wrongAttempts).reduce((a,b)=>a+b,0);document.getElementById('mc-flag').textContent=won?'🏁':'⏱️';document.getElementById('mc-title').textContent=won?'Formazione completata':'Tempo scaduto';document.getElementById('mc-panel').classList.toggle('lost',!won);document.getElementById('mc-time').textContent=formatElapsed(Date.now()-(playState.startTime||Date.now()));document.getElementById('mc-hints').textContent=String(hintsUsed);document.getElementById('mc-failed').textContent=String(failed);const total=Object.keys(playState.solved).length;document.getElementById('mc-guessed-row').classList.toggle('hidden',won);document.getElementById('mc-missed-toggle').classList.toggle('hidden',won||total>=22);document.getElementById('mc-guessed').textContent=total+' / 22';document.getElementById('mc-streak-row').classList.toggle('hidden',!isRem);document.getElementById('mc-streak').textContent=String(playState.bestStreak);if(won){playSfx('fischio');playSfx('gol');}else{playSfx('fischio');}document.getElementById('mc-backdrop').classList.add('open');document.getElementById('mc-panel').classList.add('open');}function closeMatchComplete(){document.getElementById('mc-backdrop').classList.remove('open','peeking');document.getElementById('mc-panel').classList.remove('open','peeking');document.getElementById('mc-back-to-result').classList.add('hidden');}function renderPlay(){if(!playState.started || playState.lastMode!==state.mode){playState.lastMode=state.mode;setupPlayState();}updatePlayHud();renderPitch();}
 
-document.addEventListener('click',e=>{const b=e.target.closest('[data-action]');if(!b)return;const action=b.dataset.action,v=b.dataset.value;if(action==='splash-play'){playSfx('swoosh');startSplashAnimation();return}sound();if(action==='back'){back();return}if(action==='mode'){state.mode=v;state.difficulty=null;state.competition=null;state.method=null;state.season=null;state.rangeStart=null;state.rangeEnd=null;state.round=1;state.match=null;state.pendingPool=null;state.matchDifficulty=null;emit('game:mode-selected');show(v==='libero'?'competition':'difficulty')}if(action==='difficulty'){state.difficulty=Number(v);show('competition')}if(action==='competition'){state.competition=v;state.rangeStart=null;state.rangeEnd=null;state.season=null;state.round=1;state.pendingPool=null;state.matchDifficulty=null;show('method')}if(action==='method'){state.method=v;if(v==='random'){if(state.competition==='seriea'){preparePool(ranges.seriea[0],ranges.seriea[1]).then(()=>show('match-difficulty'))}else{randomMatch().then(()=>show('confirm'))}}else show(v)}if(action==='match-difficulty'){if(!pickFromPool(v)){rpToast('Nessuna partita trovata, riprova');return}show('confirm')}});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-action]');if(!b)return;const action=b.dataset.action,v=b.dataset.value;if(action==='splash-play'){requestSplashStart();return}sound();if(action==='back'){back();return}if(action==='mode'){state.mode=v;state.difficulty=null;state.competition=null;state.method=null;state.season=null;state.rangeStart=null;state.rangeEnd=null;state.round=1;state.match=null;state.pendingPool=null;state.matchDifficulty=null;emit('game:mode-selected');show(v==='libero'?'competition':'difficulty')}if(action==='difficulty'){state.difficulty=Number(v);show('competition')}if(action==='competition'){state.competition=v;state.rangeStart=null;state.rangeEnd=null;state.season=null;state.round=1;state.pendingPool=null;state.matchDifficulty=null;show('method')}if(action==='method'){state.method=v;if(v==='random'){if(state.competition==='seriea'){preparePool(ranges.seriea[0],ranges.seriea[1]).then(()=>show('match-difficulty'))}else{randomMatch().then(()=>show('confirm'))}}else show(v)}if(action==='match-difficulty'){if(!pickFromPool(v)){rpToast('Nessuna partita trovata, riprova');return}show('confirm')}});
 $('#range-start').onchange=validateRange;$('#range-end').onchange=validateRange;$('#range-confirm').onclick=()=>{if(+$('#range-start').value>+$('#range-end').value)return;sound();if(state.competition==='seriea'){preparePool(state.rangeStart,state.rangeEnd).then(()=>show('match-difficulty'))}else{randomMatch().then(()=>show('confirm'))}};$('#season').onchange=e=>{state.season=+e.target.value;populateMatches()};$('#round').onchange=e=>{state.round=state.competition==='champions'?e.target.value:+e.target.value;populateMatches()};$('#manual-confirm').onclick=()=>{if(!state.match)return;sound();show('confirm')};document.getElementById('redraw-match')?.addEventListener('click',()=>{sound();redrawMatch();});$('#start-game').onclick=async()=>{
   sound();
   if((state.competition==='seriea'||state.competition==='champions')&&state.match&&typeof state.match==='object'){
